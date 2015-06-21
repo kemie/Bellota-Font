@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="OE" format="1">
+  <advance width="1223"/>
+  <unicode hex="0152"/>
+  <outline>
+    <component base="O"/>
+    <component base="E.ss02" xOffset="631"/>
+    <contour>
+      <point x="671" y="0" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>E</string>
+      <key>position</key>
+      <integer>502</integer>
+      <key>width</key>
+      <integer>61</integer>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>E.ss02</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

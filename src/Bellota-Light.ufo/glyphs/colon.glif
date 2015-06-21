@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="colon" format="1">
+  <advance width="199"/>
+  <unicode hex="003A"/>
+  <outline>
+    <component base="period" xOffset="-10" yOffset="-6"/>
+    <component base="period" xOffset="-10" yOffset="396"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>position</key>
+      <integer>51</integer>
+      <key>width</key>
+      <integer>83</integer>
+    </dict>
+  </lib>
+</glyph>

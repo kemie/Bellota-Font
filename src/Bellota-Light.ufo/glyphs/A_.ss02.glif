@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="A.ss02" format="1">
+  <advance width="730"/>
+  <outline>
+    <contour>
+      <point x="112" y="1" type="line"/>
+      <point x="209" y="233" type="line"/>
+      <point x="519" y="233" type="line"/>
+      <point x="618" y="1" type="line"/>
+      <point x="668" y="1" type="line"/>
+      <point x="369" y="704" type="line"/>
+      <point x="359" y="704" type="line"/>
+      <point x="62" y="1" type="line"/>
+    </contour>
+    <contour>
+      <point x="332" y="524" type="line" smooth="yes"/>
+      <point x="346" y="558"/>
+      <point x="358" y="607"/>
+      <point x="363" y="623" type="curve"/>
+      <point x="368" y="608"/>
+      <point x="380" y="559"/>
+      <point x="395" y="524" type="curve" smooth="yes"/>
+      <point x="501" y="277" type="line"/>
+      <point x="227" y="277" type="line"/>
+    </contour>
+    <contour>
+      <point x="623" y="4" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="354" y="711" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>position</key>
+      <integer>10</integer>
+      <key>width</key>
+      <integer>615</integer>
+    </dict>
+  </lib>
+</glyph>

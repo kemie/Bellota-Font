@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ohorn" format="1">
+  <advance width="609"/>
+  <unicode hex="01A1"/>
+  <outline>
+    <component base="o"/>
+    <component base="horncomb" xOffset="540" yOffset="-199"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>c</string>
+      <key>position</key>
+      <integer>564</integer>
+      <key>width</key>
+      <integer>64</integer>
+    </dict>
+  </lib>
+</glyph>

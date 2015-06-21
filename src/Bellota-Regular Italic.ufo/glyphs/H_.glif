@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="H" format="1">
+  <advance width="700"/>
+  <unicode hex="0048"/>
+  <outline>
+    <contour>
+      <point x="150" y="0" type="line"/>
+      <point x="196" y="327" type="line"/>
+      <point x="565" y="327" type="line"/>
+      <point x="519" y="0" type="line"/>
+      <point x="580" y="0" type="line"/>
+      <point x="676" y="684" type="line"/>
+      <point x="615" y="684" type="line"/>
+      <point x="573" y="384" type="line"/>
+      <point x="204" y="384" type="line"/>
+      <point x="233" y="594" type="line" smooth="yes"/>
+      <point x="234" y="599"/>
+      <point x="234" y="603"/>
+      <point x="234" y="608" type="curve" smooth="yes"/>
+      <point x="234" y="657"/>
+      <point x="195" y="689"/>
+      <point x="149" y="689" type="curve" smooth="yes"/>
+      <point x="119" y="689"/>
+      <point x="91" y="675"/>
+      <point x="69" y="649" type="curve"/>
+      <point x="118" y="612" type="line"/>
+      <point x="126" y="623"/>
+      <point x="138" y="627"/>
+      <point x="149" y="627" type="curve" smooth="yes"/>
+      <point x="165" y="627"/>
+      <point x="174" y="616"/>
+      <point x="172" y="598" type="curve" smooth="yes"/>
+      <point x="88" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="395" y="355" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="439" y="684" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>position</key>
+      <integer>554</integer>
+      <key>width</key>
+      <integer>61</integer>
+    </dict>
+  </lib>
+</glyph>

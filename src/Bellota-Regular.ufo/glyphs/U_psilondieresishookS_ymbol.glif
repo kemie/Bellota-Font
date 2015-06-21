@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="UpsilondieresishookSymbol" format="1">
+  <advance width="632"/>
+  <unicode hex="03D4"/>
+  <outline>
+    <component base="Upsilon"/>
+    <component base="dieresis" xOffset="129" yOffset="184"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>position</key>
+      <integer>308</integer>
+      <key>width</key>
+      <integer>66</integer>
+    </dict>
+  </lib>
+</glyph>

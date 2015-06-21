@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kgreenlandic" format="1">
+  <advance width="521"/>
+  <unicode hex="0138"/>
+  <outline>
+    <contour>
+      <point x="94" y="2" type="line"/>
+      <point x="94" y="206" type="line"/>
+      <point x="279" y="206" type="line"/>
+      <point x="379" y="42" type="line" smooth="yes"/>
+      <point x="394" y="16"/>
+      <point x="419" y="2"/>
+      <point x="449" y="2" type="curve" smooth="yes"/>
+      <point x="492" y="2"/>
+      <point x="527" y="32"/>
+      <point x="533" y="76" type="curve"/>
+      <point x="490" y="78" type="line"/>
+      <point x="486" y="62"/>
+      <point x="472" y="46"/>
+      <point x="449" y="46" type="curve" smooth="yes"/>
+      <point x="437" y="46"/>
+      <point x="426" y="52"/>
+      <point x="418" y="60" type="curve"/>
+      <point x="320" y="217" type="line"/>
+      <point x="333" y="224"/>
+      <point x="351" y="235"/>
+      <point x="363" y="244" type="curve"/>
+      <point x="405" y="278"/>
+      <point x="418" y="324"/>
+      <point x="418" y="365" type="curve" smooth="yes"/>
+      <point x="418" y="450"/>
+      <point x="360" y="506"/>
+      <point x="264" y="506" type="curve" smooth="yes"/>
+      <point x="180" y="506"/>
+      <point x="126" y="463"/>
+      <point x="94" y="378" type="curve"/>
+      <point x="94" y="508" type="line"/>
+      <point x="52" y="508" type="line"/>
+      <point x="52" y="2" type="line"/>
+    </contour>
+    <contour>
+      <point x="96" y="275"/>
+      <point x="99" y="302"/>
+      <point x="108" y="333" type="curve" smooth="yes"/>
+      <point x="132" y="413"/>
+      <point x="187" y="470"/>
+      <point x="262" y="470" type="curve" smooth="yes"/>
+      <point x="322" y="470"/>
+      <point x="380" y="433"/>
+      <point x="380" y="363" type="curve" smooth="yes"/>
+      <point x="380" y="292"/>
+      <point x="323" y="245"/>
+      <point x="222" y="245" type="curve" smooth="yes"/>
+      <point x="96" y="245" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>position</key>
+      <integer>54</integer>
+      <key>width</key>
+      <integer>55</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Rcaron" format="1">
+  <advance width="720"/>
+  <unicode hex="0158"/>
+  <outline>
+    <component base="R"/>
+    <component base="caroncomb" xOffset="346" yOffset="184"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>R</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>R</string>
+      <key>position</key>
+      <integer>619</integer>
+      <key>width</key>
+      <integer>57</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Udieresismacron" format="1">
+  <advance width="747"/>
+  <unicode hex="01D5"/>
+  <outline>
+    <component base="U"/>
+    <component base="dieresiscomb" xOffset="399" yOffset="184"/>
+    <component base="macroncomb" xOffset="397" yOffset="338"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>E</string>
+    </dict>
+  </lib>
+</glyph>

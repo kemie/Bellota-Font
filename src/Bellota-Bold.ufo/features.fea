@@ -1,0 +1,242 @@
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem latn ROM;
+languagesystem latn MOL;
+languagesystem latn CAT;
+
+# automatic
+@Uppercase = [ A A.ss02 Aacute Aacute.ss02 Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adieresis.ss02 Adieresismacron Adotaccent Adotbelow Adotmacron Agrave Ahookabove Amacron Aogonek Aring Aring.ss02 Aringacute Atilde AE AEacute AEmacron B B.ss01 B.ss02 C C.ss02 Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D D.ss01 D.ss02 DZ DZcaron Eth Dcaron Dcroat Dz Dzcaron E E.ss01 E.ss02 Eacute Eacute.ss02 Ebreve Ecaron Ecedilla Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Etilde F F.ss01 F.ss02 G G.ss02 Gacute Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent H H.ss02 Hbar Hcaron Hcircumflex I IJ Iacute Ibreve Icaron Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Itilde J Jcircumflex K K.ss02 Kcaron Kcommaaccent L LJ Lacute Lcaron Lcommaaccent Ldot Lj Lslash M M.ss02 N N.ss02 NJ Nacute Ncaron Ncommaaccent Ngrave Eng Nj Ntilde O Oacute Obreve Ocaron Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odieresismacron Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Oogonek Oogonekmacron Oslash Oslashacute Otilde OE P P.ss01 P.ss02 Thorn Q R R.ss01 R.ss02 Racute Rcaron Rcommaaccent S S.ss02 Sacute Scaron Scedilla Scircumflex Scommaaccent T T.ss01 T.ss02 Tbar Tcaron Tcedilla Tcommaaccent U U.ss02 Uacute Uacute.ss02 Ubreve Ucaron Ucircumflex Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Uring Utilde V V.ss02 W W.ss02 Wacute Wcircumflex Wdieresis Wgrave X X.ss02 Y Y.ss02 Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhookabove Ymacron Ytilde Z Z.ss02 Zacute Zcaron Zdotaccent Alpha Beta Delta Epsilon Zeta Eta Iota Kappa Mu Nu Omicron Rho Tau Upsilon Chi Omega Iotadieresis Upsilondieresis UpsilonhookSymbol UpsilondieresishookSymbol ];
+
+feature aalt {
+# automatic
+feature locl;
+feature sups;
+feature numr;
+feature dnom;
+feature frac;
+feature ordn;
+feature salt;
+feature ss01;
+feature ss02;
+} aalt;
+
+feature locl {
+# automatic
+script latn;
+language CAT;
+sub  l' periodcentered' l by ldot;
+sub  L' periodcentered' L by Ldot;
+language ROM;
+sub Scedilla by Scommaaccent;
+sub scedilla by scommaaccent;
+sub Tcedilla by Tcommaaccent;
+sub tcedilla by tcommaaccent;
+language MOL;
+sub Scedilla by Scommaaccent;
+sub scedilla by scommaaccent;
+sub Tcedilla by Tcommaaccent;
+sub tcedilla by tcommaaccent;
+language KAZ;
+sub i by idotaccent;
+language TAT;
+sub i by idotaccent;
+language TRK;
+sub i by idotaccent;
+language CRT;
+sub i by idotaccent;
+language AZE;
+sub i by idotaccent;
+} locl;
+
+feature sups {
+# automatic
+sub one by onesuperior;
+sub two by twosuperior;
+sub three by threesuperior;
+} sups;
+
+feature numr {
+# automatic
+sub zero by zero.numr;
+sub one by one.numr;
+sub two by two.numr;
+sub three by three.numr;
+sub four by four.numr;
+sub five by five.numr;
+sub six by six.numr;
+sub seven by seven.numr;
+sub eight by eight.numr;
+sub nine by nine.numr;
+} numr;
+
+feature dnom {
+# automatic
+sub zero by zero.dnom;
+sub one by one.dnom;
+sub two by two.dnom;
+sub three by three.dnom;
+sub four by four.dnom;
+sub five by five.dnom;
+sub six by six.dnom;
+sub seven by seven.dnom;
+sub eight by eight.dnom;
+sub nine by nine.dnom;
+} dnom;
+
+feature frac {
+# automatic
+lookup FRAC {
+	sub slash by fraction;
+} FRAC;
+lookup UP {
+	sub [zero one two three four five six seven eight nine] by [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
+} UP;
+lookup DOWN {
+	sub fraction [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
+	sub [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom] [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
+} DOWN;
+} frac;
+
+feature ordn {
+# automatic
+sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+} ordn;
+
+feature dlig {
+# automatic
+sub longs t by longs_t;
+} dlig;
+
+feature liga {
+# automatic
+sub f f l by f_f_l;
+sub f f i by f_f_i;
+sub f i by fi;
+sub f f by f_f;
+sub f l by fl;
+} liga;
+
+feature salt {
+sub A by A.ss02;
+sub Aacute by Aacute.ss02;
+sub Adieresis by Adieresis.ss02;
+sub Aring by Aring.ss02;
+sub B by B.ss02;
+sub C by C.ss02;
+sub D by D.ss02;
+sub E by E.ss02;
+sub Eacute by Eacute.ss02;
+sub F by F.ss02;
+sub G by G.ss02;
+sub H by H.ss02;
+sub K by K.ss02;
+sub M by M.ss02;
+sub N by N.ss02;
+sub P by P.ss02;
+sub R by R.ss02;
+sub S by S.ss02;
+sub T by T.ss02;
+sub U by U.ss02;
+sub Uacute by Uacute.ss02;
+sub V by V.ss02;
+sub W by W.ss02;
+sub X by X.ss02;
+sub Y by Y.ss02;
+sub Z by Z.ss02;
+sub a by a.ss02;
+sub aacute by aacute.ss02;
+sub adieresis by adieresis.ss02;
+sub aring by aring.ss02;
+sub c by c.ss02;
+sub d by d.ss02;
+sub e by e.ss02;
+sub eacute by eacute.ss02;
+sub f by f.ss02;
+sub g by g.ss02;
+sub h by h.ss02;
+sub i by i.ss02;
+sub dotlessi by dotlessi.ss02;
+sub iacute by iacute.ss02;
+sub k by k.ss02;
+sub l by l.ss02;
+sub m by m.ss02;
+sub n by n.ss02;
+sub t by t.ss02;
+sub u by u.ss02;
+sub uacute by uacute.ss02;
+sub x by x.ss02;
+sub y by y.ss02;
+} salt;
+
+feature ss01 {
+# automatic
+sub B by B.ss01;
+sub D by D.ss01;
+sub E by E.ss01;
+sub F by F.ss01;
+sub P by P.ss01;
+sub R by R.ss01;
+sub T by T.ss01;
+} ss01;
+
+feature ss02 {
+# automatic
+sub A by A.ss02;
+sub Aacute by Aacute.ss02;
+sub Adieresis by Adieresis.ss02;
+sub Aring by Aring.ss02;
+sub B by B.ss02;
+sub C by C.ss02;
+sub D by D.ss02;
+sub E by E.ss02;
+sub Eacute by Eacute.ss02;
+sub F by F.ss02;
+sub G by G.ss02;
+sub H by H.ss02;
+sub K by K.ss02;
+sub M by M.ss02;
+sub N by N.ss02;
+sub P by P.ss02;
+sub R by R.ss02;
+sub S by S.ss02;
+sub T by T.ss02;
+sub U by U.ss02;
+sub Uacute by Uacute.ss02;
+sub V by V.ss02;
+sub W by W.ss02;
+sub X by X.ss02;
+sub Y by Y.ss02;
+sub Z by Z.ss02;
+sub a by a.ss02;
+sub aacute by aacute.ss02;
+sub adieresis by adieresis.ss02;
+sub aring by aring.ss02;
+sub c by c.ss02;
+sub d by d.ss02;
+sub e by e.ss02;
+sub eacute by eacute.ss02;
+sub f by f.ss02;
+sub g by g.ss02;
+sub h by h.ss02;
+sub i by i.ss02;
+sub idotless by idotless.ss02;
+sub iacute by iacute.ss02;
+sub k by k.ss02;
+sub l by l.ss02;
+sub m by m.ss02;
+sub n by n.ss02;
+sub t by t.ss02;
+sub u by u.ss02;
+sub uacute by uacute.ss02;
+sub x by x.ss02;
+sub y by y.ss02;
+} ss02;
+
+feature cpsp {
+# automatic
+pos @Uppercase <5 0 10 0>;
+} cpsp;
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclam" format="1">
+  <advance width="213"/>
+  <unicode hex="0021"/>
+  <outline>
+    <contour>
+      <point x="112" y="134" type="line"/>
+      <point x="201" y="706" type="line"/>
+      <point x="110" y="706" type="line"/>
+      <point x="39" y="134" type="line"/>
+    </contour>
+    <component base="period" xOffset="-52" yOffset="-8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>position</key>
+      <integer>51</integer>
+      <key>width</key>
+      <integer>56</integer>
+    </dict>
+  </lib>
+</glyph>

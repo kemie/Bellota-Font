@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="1">
+  <advance width="931"/>
+  <unicode hex="00C6"/>
+  <outline>
+    <contour>
+      <point x="72" y="1" type="line"/>
+      <point x="192" y="233" type="line"/>
+      <point x="399" y="233" type="line"/>
+      <point x="399" y="1" type="line"/>
+      <point x="862" y="1" type="line"/>
+      <point x="862" y="45" type="line"/>
+      <point x="447" y="45" type="line"/>
+      <point x="447" y="341" type="line"/>
+      <point x="770" y="341" type="line"/>
+      <point x="770" y="385" type="line"/>
+      <point x="447" y="385" type="line"/>
+      <point x="447" y="641" type="line"/>
+      <point x="842" y="641" type="line"/>
+      <point x="842" y="685" type="line"/>
+      <point x="373" y="685" type="line"/>
+      <point x="14" y="1" type="line"/>
+    </contour>
+    <contour>
+      <point x="374" y="595" type="line"/>
+      <point x="399" y="677" type="line"/>
+      <point x="399" y="277" type="line"/>
+      <point x="212" y="277" type="line"/>
+    </contour>
+    <contour>
+      <point x="454" y="690" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>E</string>
+      <key>position</key>
+      <integer>422</integer>
+      <key>width</key>
+      <integer>61</integer>
+    </dict>
+  </lib>
+</glyph>

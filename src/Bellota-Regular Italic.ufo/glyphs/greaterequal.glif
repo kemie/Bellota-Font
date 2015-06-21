@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greaterequal" format="1">
+  <advance width="454"/>
+  <unicode hex="2265"/>
+  <outline>
+    <contour>
+      <point x="398" y="323" type="line"/>
+      <point x="408" y="395" type="line"/>
+      <point x="83" y="547" type="line"/>
+      <point x="74" y="483" type="line"/>
+      <point x="347" y="361" type="line"/>
+      <point x="38" y="230" type="line"/>
+      <point x="29" y="164" type="line"/>
+    </contour>
+    <contour>
+      <point x="360" y="49" type="line"/>
+      <point x="368" y="109" type="line"/>
+      <point x="21" y="109" type="line"/>
+      <point x="13" y="49" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>position</key>
+      <integer>49</integer>
+      <key>width</key>
+      <integer>60</integer>
+    </dict>
+  </lib>
+</glyph>

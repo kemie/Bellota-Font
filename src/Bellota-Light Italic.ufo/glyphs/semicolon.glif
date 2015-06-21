@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="semicolon" format="1">
+  <advance width="183"/>
+  <unicode hex="003B"/>
+  <outline>
+    <component base="period" xOffset="11" yOffset="396"/>
+    <component base="comma" xOffset="-46" yOffset="-6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>position</key>
+      <integer>62</integer>
+      <key>width</key>
+      <integer>64</integer>
+    </dict>
+  </lib>
+</glyph>

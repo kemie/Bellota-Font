@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oinvertedbreve" format="1">
+  <advance width="611"/>
+  <unicode hex="020F"/>
+  <outline>
+    <component base="breve" xOffset="100" yOffset="1317" yScale="-1"/>
+    <component base="o" yOffset="-6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>c</string>
+      <key>position</key>
+      <integer>481</integer>
+      <key>width</key>
+      <integer>57</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Odieresismacron" format="1">
+  <advance width="809"/>
+  <unicode hex="022A"/>
+  <outline>
+    <component base="O"/>
+    <component base="dieresiscomb" xOffset="378" yOffset="184"/>
+    <component base="macroncomb" xOffset="404" yOffset="368"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>position</key>
+      <integer>683</integer>
+      <key>width</key>
+      <integer>56</integer>
+    </dict>
+  </lib>
+</glyph>

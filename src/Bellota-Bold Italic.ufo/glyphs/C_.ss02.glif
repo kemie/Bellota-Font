@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="C.ss02" format="1">
+  <advance width="742"/>
+  <outline>
+    <contour>
+      <point x="465" y="-22"/>
+      <point x="585" y="28"/>
+      <point x="666" y="133" type="curve"/>
+      <point x="606" y="180" type="line"/>
+      <point x="549" y="103"/>
+      <point x="458" y="55"/>
+      <point x="361" y="55" type="curve" smooth="yes"/>
+      <point x="221" y="55"/>
+      <point x="126" y="160"/>
+      <point x="126" y="291" type="curve" smooth="yes"/>
+      <point x="126" y="304"/>
+      <point x="127" y="317"/>
+      <point x="129" y="330" type="curve" smooth="yes"/>
+      <point x="151" y="488"/>
+      <point x="300" y="635"/>
+      <point x="448" y="635" type="curve" smooth="yes"/>
+      <point x="500" y="635"/>
+      <point x="598" y="624"/>
+      <point x="598" y="542" type="curve" smooth="yes"/>
+      <point x="598" y="537"/>
+      <point x="598" y="531"/>
+      <point x="597" y="525" type="curve"/>
+      <point x="671" y="521" type="line"/>
+      <point x="673" y="532"/>
+      <point x="673" y="542"/>
+      <point x="673" y="552" type="curve" smooth="yes"/>
+      <point x="673" y="682"/>
+      <point x="538" y="711"/>
+      <point x="456" y="711" type="curve" smooth="yes"/>
+      <point x="269" y="711"/>
+      <point x="83" y="540"/>
+      <point x="55" y="341" type="curve" smooth="yes"/>
+      <point x="52" y="323"/>
+      <point x="51" y="306"/>
+      <point x="51" y="289" type="curve" smooth="yes"/>
+      <point x="51" y="116"/>
+      <point x="177" y="-22"/>
+      <point x="357" y="-22" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="439" y="703" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="339" y="-9" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>O</string>
+      <key>position</key>
+      <integer>570</integer>
+      <key>width</key>
+      <integer>54</integer>
+    </dict>
+  </lib>
+</glyph>

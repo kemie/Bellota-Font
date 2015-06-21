@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E.ss01" format="1">
+  <advance width="659"/>
+  <outline>
+    <contour>
+      <point x="587" y="-1" type="line"/>
+      <point x="587" y="78" type="line"/>
+      <point x="212" y="78" type="line"/>
+      <point x="212" y="322" type="line"/>
+      <point x="471" y="322" type="line"/>
+      <point x="471" y="401" type="line"/>
+      <point x="212" y="401" type="line"/>
+      <point x="212" y="573" type="line"/>
+      <point x="129" y="573" type="line"/>
+      <point x="129" y="-1" type="line"/>
+    </contour>
+    <contour>
+      <point x="122" y="537" type="line"/>
+      <point x="104" y="543"/>
+      <point x="95" y="553"/>
+      <point x="95" y="572" type="curve" smooth="yes"/>
+      <point x="95" y="593"/>
+      <point x="111" y="609"/>
+      <point x="129" y="609" type="curve" smooth="yes"/>
+      <point x="587" y="609" type="line"/>
+      <point x="587" y="686" type="line"/>
+      <point x="128" y="686" type="line" smooth="yes"/>
+      <point x="82" y="686"/>
+      <point x="17" y="645"/>
+      <point x="17" y="572" type="curve" smooth="yes"/>
+      <point x="17" y="529"/>
+      <point x="40" y="489"/>
+      <point x="81" y="470" type="curve"/>
+    </contour>
+    <contour>
+      <point x="581" y="21" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="329" y="11" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="329" y="11" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>position</key>
+      <integer>130</integer>
+      <key>width</key>
+      <integer>61</integer>
+    </dict>
+  </lib>
+</glyph>

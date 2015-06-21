@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dialytikatonoscomb" format="1">
+  <advance width="59"/>
+  <unicode hex="0344"/>
+  <outline>
+    <component base="acutecomb" xOffset="123" yOffset="170"/>
+    <component base="dieresiscomb" xOffset="15" yOffset="11"/>
+    <contour>
+      <point x="173" y="498" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>position</key>
+      <integer>237</integer>
+      <key>width</key>
+      <integer>81</integer>
+    </dict>
+  </lib>
+</glyph>

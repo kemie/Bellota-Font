@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zcaron" format="1">
+  <advance width="531"/>
+  <unicode hex="017E"/>
+  <outline>
+    <component base="z"/>
+    <component base="caroncomb" xOffset="266" yOffset="-3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>position</key>
+      <integer>102</integer>
+      <key>width</key>
+      <integer>296</integer>
+    </dict>
+  </lib>
+</glyph>

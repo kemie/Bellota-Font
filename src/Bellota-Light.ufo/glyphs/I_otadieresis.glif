@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iotadieresis" format="1">
+  <advance width="180"/>
+  <unicode hex="03AA"/>
+  <outline>
+    <component base="Iota"/>
+    <component base="dieresis" xOffset="-128" yOffset="188"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>position</key>
+      <integer>154</integer>
+      <key>width</key>
+      <integer>81</integer>
+    </dict>
+  </lib>
+</glyph>

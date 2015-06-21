@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="J" format="1">
+  <advance width="468"/>
+  <unicode hex="004A"/>
+  <outline>
+    <contour>
+      <point x="335" y="-4"/>
+      <point x="388" y="92"/>
+      <point x="388" y="191" type="curve" smooth="yes"/>
+      <point x="388" y="687" type="line"/>
+      <point x="332" y="687" type="line"/>
+      <point x="332" y="685"/>
+      <point x="325" y="679"/>
+      <point x="314" y="672" type="curve" smooth="yes"/>
+      <point x="300" y="664"/>
+      <point x="290" y="660"/>
+      <point x="278" y="660" type="curve" smooth="yes"/>
+      <point x="264" y="660"/>
+      <point x="248" y="665"/>
+      <point x="225" y="673" type="curve" smooth="yes"/>
+      <point x="160" y="694"/>
+      <point x="151" y="696"/>
+      <point x="135" y="696" type="curve" smooth="yes"/>
+      <point x="109" y="696"/>
+      <point x="90" y="691"/>
+      <point x="31" y="667" type="curve"/>
+      <point x="56" y="616" type="line"/>
+      <point x="81" y="624"/>
+      <point x="109" y="640"/>
+      <point x="135" y="640" type="curve" smooth="yes"/>
+      <point x="167" y="640"/>
+      <point x="193" y="619"/>
+      <point x="230" y="610" type="curve" smooth="yes"/>
+      <point x="241" y="607"/>
+      <point x="258" y="604"/>
+      <point x="276" y="604" type="curve" smooth="yes"/>
+      <point x="295" y="604"/>
+      <point x="315" y="607"/>
+      <point x="331" y="617" type="curve"/>
+      <point x="331" y="194" type="line" smooth="yes"/>
+      <point x="331" y="130"/>
+      <point x="305" y="53"/>
+      <point x="208" y="53" type="curve" smooth="yes"/>
+      <point x="131" y="53"/>
+      <point x="86" y="102"/>
+      <point x="86" y="174" type="curve"/>
+      <point x="29" y="179" type="line"/>
+      <point x="31" y="90"/>
+      <point x="77" y="-4"/>
+      <point x="205" y="-4" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="225" y="682" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>position</key>
+      <integer>333</integer>
+      <key>width</key>
+      <integer>53</integer>
+    </dict>
+  </lib>
+</glyph>

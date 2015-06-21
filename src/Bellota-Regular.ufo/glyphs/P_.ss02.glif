@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="P.ss02" format="1">
+  <advance width="524"/>
+  <outline>
+    <contour>
+      <point x="372" y="254"/>
+      <point x="454" y="337"/>
+      <point x="454" y="470" type="curve" smooth="yes"/>
+      <point x="454" y="597"/>
+      <point x="380" y="684"/>
+      <point x="262" y="684" type="curve" smooth="yes"/>
+      <point x="54" y="684" type="line"/>
+      <point x="54" y="628" type="line"/>
+      <point x="248" y="628" type="line" smooth="yes"/>
+      <point x="336" y="628"/>
+      <point x="395" y="572"/>
+      <point x="395" y="473" type="curve" smooth="yes"/>
+      <point x="395" y="369"/>
+      <point x="329" y="312"/>
+      <point x="205" y="312" type="curve" smooth="yes"/>
+      <point x="176" y="312"/>
+      <point x="143" y="314"/>
+      <point x="107" y="315" type="curve"/>
+      <point x="107" y="256" type="line"/>
+      <point x="112" y="256"/>
+      <point x="165" y="254"/>
+      <point x="193" y="254" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="115" y="-1" type="line"/>
+      <point x="115" y="681" type="line"/>
+      <point x="54" y="681" type="line"/>
+      <point x="54" y="-1" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>L</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>P</string>
+      <key>position</key>
+      <integer>480</integer>
+      <key>width</key>
+      <integer>59</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="G.ss02" format="1">
+  <advance width="733"/>
+  <outline>
+    <contour>
+      <point x="494" y="-31"/>
+      <point x="641" y="81"/>
+      <point x="666" y="254" type="curve" smooth="yes"/>
+      <point x="679" y="347" type="line"/>
+      <point x="635" y="347" type="line"/>
+      <point x="620" y="244" type="line" smooth="yes"/>
+      <point x="602" y="113"/>
+      <point x="467" y="10"/>
+      <point x="345" y="10" type="curve" smooth="yes"/>
+      <point x="198" y="10"/>
+      <point x="87" y="129"/>
+      <point x="87" y="283" type="curve" smooth="yes"/>
+      <point x="87" y="298"/>
+      <point x="88" y="313"/>
+      <point x="90" y="329" type="curve" smooth="yes"/>
+      <point x="115" y="507"/>
+      <point x="280" y="661"/>
+      <point x="451" y="661" type="curve" smooth="yes"/>
+      <point x="519" y="661"/>
+      <point x="621" y="636"/>
+      <point x="619" y="568" type="curve"/>
+      <point x="660" y="567" type="line"/>
+      <point x="666" y="656"/>
+      <point x="560" y="703"/>
+      <point x="455" y="703" type="curve" smooth="yes"/>
+      <point x="260" y="703"/>
+      <point x="78" y="534"/>
+      <point x="50" y="334" type="curve" smooth="yes"/>
+      <point x="47" y="316"/>
+      <point x="46" y="298"/>
+      <point x="46" y="280" type="curve" smooth="yes"/>
+      <point x="46" y="107"/>
+      <point x="168" y="-31"/>
+      <point x="340" y="-31" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="672" y="303" type="line"/>
+      <point x="679" y="347" type="line"/>
+      <point x="388" y="347" type="line"/>
+      <point x="381" y="303" type="line"/>
+    </contour>
+    <contour>
+      <point x="446" y="707" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="338" y="-35" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>O</string>
+      <key>position</key>
+      <integer>593</integer>
+      <key>width</key>
+      <integer>57</integer>
+    </dict>
+  </lib>
+</glyph>

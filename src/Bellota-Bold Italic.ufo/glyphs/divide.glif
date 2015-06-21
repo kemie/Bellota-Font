@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="divide" format="1">
+  <advance width="505"/>
+  <unicode hex="00F7"/>
+  <outline>
+    <contour>
+      <point x="431" y="259" type="line"/>
+      <point x="442" y="332" type="line"/>
+      <point x="58" y="332" type="line"/>
+      <point x="47" y="259" type="line"/>
+    </contour>
+    <component base="period" xOffset="132" yOffset="113"/>
+    <component base="period" xOffset="173" yOffset="403"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>position</key>
+      <integer>183</integer>
+      <key>width</key>
+      <integer>93</integer>
+    </dict>
+  </lib>
+</glyph>

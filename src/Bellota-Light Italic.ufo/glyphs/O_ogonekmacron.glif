@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oogonekmacron" format="1">
+  <advance width="805"/>
+  <unicode hex="01EC"/>
+  <outline>
+    <component base="O"/>
+    <component base="ogonekcomb" xOffset="549" yOffset="85"/>
+    <component base="macroncomb" xOffset="412" yOffset="188"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>position</key>
+      <integer>683</integer>
+      <key>width</key>
+      <integer>56</integer>
+    </dict>
+  </lib>
+</glyph>

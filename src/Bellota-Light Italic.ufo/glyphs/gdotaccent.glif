@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gdotaccent" format="1">
+  <advance width="534"/>
+  <unicode hex="0121"/>
+  <outline>
+    <component base="g"/>
+    <component base="dotaccentcomb" xOffset="285" yOffset="9"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>c</string>
+      <key>position</key>
+      <integer>405</integer>
+      <key>width</key>
+      <integer>53</integer>
+    </dict>
+  </lib>
+</glyph>

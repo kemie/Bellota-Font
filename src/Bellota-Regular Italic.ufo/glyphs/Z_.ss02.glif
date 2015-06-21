@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Z.ss02" format="1">
+  <advance width="564"/>
+  <outline>
+    <contour>
+      <point x="463" y="0" type="line"/>
+      <point x="471" y="57" type="line"/>
+      <point x="93" y="57" type="line"/>
+      <point x="538" y="671" type="line"/>
+      <point x="539" y="684" type="line"/>
+      <point x="108" y="684" type="line"/>
+      <point x="100" y="627" type="line"/>
+      <point x="438" y="627" type="line"/>
+      <point x="-7" y="13" type="line"/>
+      <point x="-8" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="228" y="0" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Z</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Z</string>
+      <key>position</key>
+      <integer>627</integer>
+      <key>width</key>
+      <integer>57</integer>
+    </dict>
+  </lib>
+</glyph>

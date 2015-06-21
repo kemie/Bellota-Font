@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iinvertedbreve" format="1">
+  <advance width="222"/>
+  <unicode hex="020B"/>
+  <outline>
+    <component base="breve" xOffset="322" yOffset="1303" xScale="-1" yScale="-1"/>
+    <component base="idotless" xOffset="-46" yOffset="-6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>position</key>
+      <integer>152</integer>
+      <key>width</key>
+      <integer>61</integer>
+    </dict>
+  </lib>
+</glyph>

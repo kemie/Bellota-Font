@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rinvertedbreve" format="1">
+  <advance width="373"/>
+  <unicode hex="0213"/>
+  <outline>
+    <component base="r"/>
+    <component base="breve" xOffset="20" yOffset="1295" yScale="-1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>position</key>
+      <integer>268</integer>
+      <key>width</key>
+      <integer>61</integer>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>breve</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

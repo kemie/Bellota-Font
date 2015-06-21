@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dzcaron" format="1">
+  <advance width="1336"/>
+  <unicode hex="01C5"/>
+  <outline>
+    <component base="Dz"/>
+    <component base="caroncomb" xOffset="1072" yOffset="-3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>E</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>z</string>
+      <key>position</key>
+      <integer>897</integer>
+      <key>width</key>
+      <integer>296</integer>
+    </dict>
+  </lib>
+</glyph>

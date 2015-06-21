@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iogonek" format="1">
+  <advance width="222"/>
+  <unicode hex="012F"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="dotaccentcomb" xOffset="60"/>
+    <component base="ogonekcomb" xOffset="11" yOffset="12"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>position</key>
+      <integer>82</integer>
+      <key>width</key>
+      <integer>57</integer>
+    </dict>
+  </lib>
+</glyph>

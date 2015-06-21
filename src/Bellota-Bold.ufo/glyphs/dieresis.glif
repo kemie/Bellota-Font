@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis" format="1">
+  <advance width="461"/>
+  <unicode hex="00A8"/>
+  <outline>
+    <component base="period" xOffset="22" yOffset="588"/>
+    <component base="period" xOffset="237" yOffset="588"/>
+    <contour>
+      <point x="232" y="500" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>position</key>
+      <integer>277</integer>
+      <key>width</key>
+      <integer>81</integer>
+    </dict>
+  </lib>
+</glyph>

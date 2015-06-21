@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemetright" format="1">
+  <advance width="606"/>
+  <unicode hex="00BB"/>
+  <outline>
+    <contour>
+      <point x="500" y="206" type="line" smooth="yes"/>
+      <point x="521" y="225"/>
+      <point x="531" y="239"/>
+      <point x="531" y="250" type="curve" smooth="yes"/>
+      <point x="531" y="261"/>
+      <point x="521" y="275"/>
+      <point x="500" y="294" type="curve" smooth="yes"/>
+      <point x="296" y="477" type="line"/>
+      <point x="267" y="445" type="line"/>
+      <point x="488" y="250" type="line"/>
+      <point x="267" y="55" type="line"/>
+      <point x="296" y="23" type="line"/>
+    </contour>
+    <contour>
+      <point x="286" y="206" type="line" smooth="yes"/>
+      <point x="307" y="225"/>
+      <point x="316" y="239"/>
+      <point x="316" y="250" type="curve" smooth="yes"/>
+      <point x="316" y="262"/>
+      <point x="307" y="276"/>
+      <point x="286" y="294" type="curve" smooth="yes"/>
+      <point x="81" y="477" type="line"/>
+      <point x="53" y="445" type="line"/>
+      <point x="274" y="250" type="line"/>
+      <point x="53" y="55" type="line"/>
+      <point x="81" y="23" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="imacron" format="1">
+  <advance width="222"/>
+  <unicode hex="012B"/>
+  <outline>
+    <contour>
+      <point x="226" y="641" type="line"/>
+      <point x="232" y="685" type="line"/>
+      <point x="14" y="685" type="line"/>
+      <point x="8" y="641" type="line"/>
+    </contour>
+    <component base="idotless" xOffset="-35"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>position</key>
+      <integer>43</integer>
+      <key>width</key>
+      <integer>55</integer>
+    </dict>
+  </lib>
+</glyph>

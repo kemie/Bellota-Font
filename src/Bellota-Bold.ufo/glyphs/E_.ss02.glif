@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E.ss02" format="1">
+  <advance width="604"/>
+  <outline>
+    <contour>
+      <point x="533" y="-1" type="line"/>
+      <point x="533" y="78" type="line"/>
+      <point x="136" y="78" type="line"/>
+      <point x="136" y="322" type="line"/>
+      <point x="417" y="322" type="line"/>
+      <point x="417" y="401" type="line"/>
+      <point x="136" y="401" type="line"/>
+      <point x="136" y="608" type="line"/>
+      <point x="514" y="608" type="line"/>
+      <point x="514" y="686" type="line"/>
+      <point x="56" y="686" type="line"/>
+      <point x="56" y="-1" type="line"/>
+    </contour>
+    <contour>
+      <point x="519" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="292" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="294" y="685" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>L</string>
+      <key>position</key>
+      <integer>95</integer>
+      <key>width</key>
+      <integer>61</integer>
+    </dict>
+  </lib>
+</glyph>

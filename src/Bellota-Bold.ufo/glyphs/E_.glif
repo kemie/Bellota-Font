@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E" format="1">
+  <advance width="659"/>
+  <unicode hex="0045"/>
+  <outline>
+    <contour>
+      <point x="587" y="-1" type="line"/>
+      <point x="587" y="78" type="line"/>
+      <point x="212" y="78" type="line"/>
+      <point x="212" y="322" type="line"/>
+      <point x="471" y="322" type="line"/>
+      <point x="471" y="401" type="line"/>
+      <point x="212" y="401" type="line"/>
+      <point x="212" y="609" type="line"/>
+      <point x="587" y="609" type="line"/>
+      <point x="587" y="686" type="line"/>
+      <point x="128" y="686" type="line" smooth="yes"/>
+      <point x="96" y="686"/>
+      <point x="69" y="671"/>
+      <point x="49" y="652" type="curve"/>
+      <point x="30" y="632"/>
+      <point x="17" y="604"/>
+      <point x="17" y="574" type="curve" smooth="yes"/>
+      <point x="17" y="569"/>
+      <point x="18" y="565"/>
+      <point x="18" y="561" type="curve"/>
+      <point x="96" y="561" type="line"/>
+      <point x="95" y="565"/>
+      <point x="94" y="569"/>
+      <point x="94" y="573" type="curve" smooth="yes"/>
+      <point x="94" y="583"/>
+      <point x="98" y="592"/>
+      <point x="105" y="598" type="curve"/>
+      <point x="111" y="605"/>
+      <point x="116" y="608"/>
+      <point x="129" y="608" type="curve"/>
+      <point x="129" y="-1" type="line"/>
+    </contour>
+    <contour>
+      <point x="575" y="9" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="364" y="11" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="354" y="675" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>E</string>
+      <key>position</key>
+      <integer>130</integer>
+      <key>width</key>
+      <integer>61</integer>
+    </dict>
+  </lib>
+</glyph>

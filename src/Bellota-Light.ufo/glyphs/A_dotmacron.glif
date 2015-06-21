@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Adotmacron" format="1">
+  <advance width="771"/>
+  <unicode hex="01E0"/>
+  <outline>
+    <component base="A"/>
+    <component base="dotaccentcomb" xOffset="405" yOffset="190"/>
+    <component base="macroncomb" xOffset="405" yOffset="370"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>position</key>
+      <integer>367</integer>
+      <key>width</key>
+      <integer>83</integer>
+    </dict>
+  </lib>
+</glyph>

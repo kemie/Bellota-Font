@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="F" format="1">
+  <advance width="608"/>
+  <unicode hex="0046"/>
+  <outline>
+    <contour>
+      <point x="156" y="-1" type="line"/>
+      <point x="203" y="332" type="line"/>
+      <point x="470" y="332" type="line"/>
+      <point x="478" y="389" type="line"/>
+      <point x="211" y="389" type="line"/>
+      <point x="244" y="627" type="line"/>
+      <point x="631" y="627" type="line"/>
+      <point x="639" y="683" type="line"/>
+      <point x="176" y="683" type="line" smooth="yes"/>
+      <point x="147" y="683"/>
+      <point x="122" y="672"/>
+      <point x="99" y="653" type="curve" smooth="yes"/>
+      <point x="78" y="633"/>
+      <point x="64" y="609"/>
+      <point x="60" y="580" type="curve"/>
+      <point x="116" y="576" type="line"/>
+      <point x="118" y="589"/>
+      <point x="127" y="604"/>
+      <point x="137" y="611" type="curve" smooth="yes"/>
+      <point x="147" y="622"/>
+      <point x="159" y="627"/>
+      <point x="185" y="627" type="curve"/>
+      <point x="95" y="-1" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>E</string>
+      <key>position</key>
+      <integer>129</integer>
+      <key>width</key>
+      <integer>61</integer>
+    </dict>
+  </lib>
+</glyph>

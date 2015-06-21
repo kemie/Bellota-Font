@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="H.ss02" format="1">
+  <advance width="641"/>
+  <outline>
+    <contour>
+      <point x="138" y="-1" type="line"/>
+      <point x="138" y="317" type="line"/>
+      <point x="473" y="317" type="line"/>
+      <point x="473" y="-1" type="line"/>
+      <point x="555" y="-1" type="line"/>
+      <point x="555" y="686" type="line"/>
+      <point x="473" y="686" type="line"/>
+      <point x="473" y="395" type="line"/>
+      <point x="138" y="395" type="line"/>
+      <point x="138" y="686" type="line"/>
+      <point x="56" y="686" type="line"/>
+      <point x="56" y="-1" type="line"/>
+    </contour>
+    <contour>
+      <point x="311" y="11" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="311" y="11" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>L</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>H</string>
+      <key>position</key>
+      <integer>525</integer>
+      <key>width</key>
+      <integer>61</integer>
+    </dict>
+  </lib>
+</glyph>

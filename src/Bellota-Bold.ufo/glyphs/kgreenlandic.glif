@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kgreenlandic" format="1">
+  <advance width="544"/>
+  <unicode hex="0138"/>
+  <outline>
+    <contour>
+      <point x="132" y="0" type="line"/>
+      <point x="132" y="194" type="line"/>
+      <point x="279" y="194" type="line"/>
+      <point x="369" y="47" type="line" smooth="yes"/>
+      <point x="386" y="18"/>
+      <point x="419" y="0"/>
+      <point x="452" y="0" type="curve" smooth="yes"/>
+      <point x="505" y="0"/>
+      <point x="554" y="48"/>
+      <point x="550" y="107" type="curve"/>
+      <point x="485" y="110" type="line"/>
+      <point x="473" y="98" type="line"/>
+      <point x="473" y="89"/>
+      <point x="465" y="79"/>
+      <point x="452" y="79" type="curve" smooth="yes"/>
+      <point x="445" y="79"/>
+      <point x="441" y="81"/>
+      <point x="436" y="85" type="curve"/>
+      <point x="354" y="217" type="line"/>
+      <point x="364" y="222"/>
+      <point x="374" y="229"/>
+      <point x="381" y="235" type="curve"/>
+      <point x="426" y="270"/>
+      <point x="441" y="323"/>
+      <point x="441" y="364" type="curve" smooth="yes"/>
+      <point x="441" y="453"/>
+      <point x="375" y="516"/>
+      <point x="276" y="516" type="curve" smooth="yes"/>
+      <point x="215" y="516"/>
+      <point x="167" y="493"/>
+      <point x="132" y="449" type="curve"/>
+      <point x="132" y="518" type="line"/>
+      <point x="56" y="518" type="line"/>
+      <point x="56" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="135" y="288"/>
+      <point x="138" y="307"/>
+      <point x="145" y="328" type="curve"/>
+      <point x="165" y="398"/>
+      <point x="212" y="446"/>
+      <point x="274" y="446" type="curve" smooth="yes"/>
+      <point x="323" y="446"/>
+      <point x="367" y="417"/>
+      <point x="367" y="362" type="curve" smooth="yes"/>
+      <point x="367" y="307"/>
+      <point x="321" y="268"/>
+      <point x="235" y="268" type="curve" smooth="yes"/>
+      <point x="135" y="268" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>position</key>
+      <integer>54</integer>
+      <key>width</key>
+      <integer>55</integer>
+    </dict>
+  </lib>
+</glyph>

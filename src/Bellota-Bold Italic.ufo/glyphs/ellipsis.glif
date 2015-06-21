@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ellipsis" format="1">
+  <advance width="544"/>
+  <unicode hex="2026"/>
+  <outline>
+    <component base="period" xOffset="136" yOffset="11"/>
+    <component base="period" xOffset="-19" yOffset="11"/>
+    <component base="period" xOffset="291" yOffset="11"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>position</key>
+      <integer>368</integer>
+      <key>width</key>
+      <integer>89</integer>
+    </dict>
+  </lib>
+</glyph>

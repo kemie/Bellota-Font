@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idotless" format="1">
+  <advance width="260"/>
+  <unicode hex="0131"/>
+  <outline>
+    <contour>
+      <point x="146" y="-10"/>
+      <point x="182" y="10"/>
+      <point x="204" y="42" type="curve"/>
+      <point x="142" y="89" type="line"/>
+      <point x="136" y="72"/>
+      <point x="126" y="66"/>
+      <point x="114" y="66" type="curve" smooth="yes"/>
+      <point x="107" y="66"/>
+      <point x="99" y="73"/>
+      <point x="99" y="83" type="curve" smooth="yes"/>
+      <point x="99" y="87" type="line"/>
+      <point x="158" y="508" type="line"/>
+      <point x="81" y="508" type="line"/>
+      <point x="23" y="91" type="line" smooth="yes"/>
+      <point x="22" y="86"/>
+      <point x="22" y="82"/>
+      <point x="22" y="77" type="curve" smooth="yes"/>
+      <point x="22" y="29"/>
+      <point x="60" y="-10"/>
+      <point x="111" y="-10" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="160" y="18" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="119" y="496" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>position</key>
+      <integer>43</integer>
+      <key>width</key>
+      <integer>55</integer>
+    </dict>
+  </lib>
+</glyph>

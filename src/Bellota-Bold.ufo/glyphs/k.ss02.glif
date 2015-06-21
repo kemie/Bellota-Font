@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="k.ss02" format="1">
+  <advance width="510"/>
+  <outline>
+    <contour>
+      <point x="469" y="-1" type="line"/>
+      <point x="276" y="268" type="line"/>
+      <point x="337" y="301"/>
+      <point x="423" y="436"/>
+      <point x="423" y="498" type="curve" smooth="yes"/>
+      <point x="423" y="503"/>
+      <point x="423" y="507"/>
+      <point x="422" y="510" type="curve"/>
+      <point x="360" y="510" type="line"/>
+      <point x="349" y="498" type="line"/>
+      <point x="349" y="477"/>
+      <point x="301" y="361"/>
+      <point x="230" y="325" type="curve" smooth="yes"/>
+      <point x="212" y="316"/>
+      <point x="192" y="315"/>
+      <point x="157" y="315" type="curve" smooth="yes"/>
+      <point x="98" y="315" type="line"/>
+      <point x="95" y="241" type="line"/>
+      <point x="165" y="241" type="line"/>
+      <point x="190" y="240"/>
+      <point x="207" y="234"/>
+      <point x="220" y="223" type="curve"/>
+      <point x="381" y="-1" type="line"/>
+    </contour>
+    <contour>
+      <point x="131" y="-1" type="line"/>
+      <point x="131" y="727" type="line"/>
+      <point x="55" y="727" type="line"/>
+      <point x="55" y="-1" type="line"/>
+    </contour>
+    <contour>
+      <point x="240" y="11" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>l</string>
+      <key>position</key>
+      <integer>412</integer>
+      <key>width</key>
+      <integer>57</integer>
+    </dict>
+  </lib>
+</glyph>

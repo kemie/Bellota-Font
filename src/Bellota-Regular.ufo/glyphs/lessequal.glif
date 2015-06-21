@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lessequal" format="1">
+  <advance width="451"/>
+  <unicode hex="2264"/>
+  <outline>
+    <contour>
+      <point x="380" y="230" type="line"/>
+      <point x="93" y="361" type="line"/>
+      <point x="380" y="483" type="line"/>
+      <point x="380" y="547" type="line"/>
+      <point x="36" y="395" type="line"/>
+      <point x="36" y="323" type="line"/>
+      <point x="380" y="164" type="line"/>
+    </contour>
+    <contour>
+      <point x="380" y="49" type="line"/>
+      <point x="380" y="109" type="line"/>
+      <point x="36" y="109" type="line"/>
+      <point x="36" y="49" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>position</key>
+      <integer>49</integer>
+      <key>width</key>
+      <integer>60</integer>
+    </dict>
+  </lib>
+</glyph>

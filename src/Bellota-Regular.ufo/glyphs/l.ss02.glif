@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l.ss02" format="1">
+  <advance width="220"/>
+  <outline>
+    <contour>
+      <point x="140" y="0" type="line"/>
+      <point x="140" y="726" type="line"/>
+      <point x="85" y="726" type="line"/>
+      <point x="85" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="123" y="0" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="123" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="225" y="0" type="move" name="topright"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>position</key>
+      <integer>85</integer>
+      <key>width</key>
+      <integer>55</integer>
+    </dict>
+  </lib>
+</glyph>

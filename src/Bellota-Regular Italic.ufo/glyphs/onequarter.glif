@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onequarter" format="1">
+  <advance width="747"/>
+  <unicode hex="00BC"/>
+  <outline>
+    <component base="one.numr"/>
+    <component base="fraction" xOffset="220"/>
+    <component base="four.dnom" xOffset="437"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>position</key>
+      <integer>587</integer>
+      <key>width</key>
+      <integer>46</integer>
+    </dict>
+  </lib>
+</glyph>

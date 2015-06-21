@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idieresis" format="1">
+  <advance width="237"/>
+  <unicode hex="00EF"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="dieresiscomb" xOffset="71"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>position</key>
+      <integer>138</integer>
+      <key>width</key>
+      <integer>81</integer>
+    </dict>
+  </lib>
+</glyph>

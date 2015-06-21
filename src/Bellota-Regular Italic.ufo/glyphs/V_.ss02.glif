@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="V.ss02" format="1">
+  <advance width="546"/>
+  <outline>
+    <contour>
+      <point x="289" y="0" type="line"/>
+      <point x="608" y="685" type="line"/>
+      <point x="548" y="685" type="line"/>
+      <point x="272" y="86" type="line"/>
+      <point x="168" y="624" type="line" smooth="yes"/>
+      <point x="162" y="651"/>
+      <point x="138" y="690"/>
+      <point x="87" y="690" type="curve"/>
+      <point x="83" y="631" type="line"/>
+      <point x="97" y="629"/>
+      <point x="108" y="626"/>
+      <point x="111" y="611" type="curve" smooth="yes"/>
+      <point x="231" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>V</string>
+      <key>position</key>
+      <integer>631</integer>
+      <key>width</key>
+      <integer>59</integer>
+    </dict>
+  </lib>
+</glyph>

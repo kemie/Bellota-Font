@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravetonecomb" format="1">
+  <advance width="12"/>
+  <unicode hex="0340"/>
+  <outline>
+    <component base="gravecomb" xOffset="-46" yOffset="-6"/>
+    <contour>
+      <point x="119" y="502" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>position</key>
+      <integer>5</integer>
+      <key>width</key>
+      <integer>231</integer>
+    </dict>
+  </lib>
+</glyph>

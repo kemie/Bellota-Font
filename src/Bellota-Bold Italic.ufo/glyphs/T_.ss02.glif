@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="T.ss02" format="1">
+  <advance width="630"/>
+  <outline>
+    <contour>
+      <point x="321" y="-1" type="line"/>
+      <point x="406" y="608" type="line"/>
+      <point x="638" y="608" type="line"/>
+      <point x="649" y="686" type="line"/>
+      <point x="103" y="686" type="line"/>
+      <point x="92" y="608" type="line"/>
+      <point x="324" y="608" type="line"/>
+      <point x="239" y="-1" type="line"/>
+    </contour>
+    <contour>
+      <point x="287" y="11" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="287" y="11" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="287" y="11" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>position</key>
+      <integer>254</integer>
+      <key>width</key>
+      <integer>61</integer>
+    </dict>
+  </lib>
+</glyph>

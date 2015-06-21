@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i.ss02" format="1">
+  <advance width="217"/>
+  <outline>
+    <contour>
+      <point x="109" y="-1" type="line"/>
+      <point x="181" y="514" type="line"/>
+      <point x="104" y="514" type="line"/>
+      <point x="32" y="-1" type="line"/>
+    </contour>
+    <component base="dotaccent" xOffset="38"/>
+    <contour>
+      <point x="148" y="516" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>j</string>
+      <key>position</key>
+      <integer>69</integer>
+      <key>width</key>
+      <integer>55</integer>
+    </dict>
+  </lib>
+</glyph>
