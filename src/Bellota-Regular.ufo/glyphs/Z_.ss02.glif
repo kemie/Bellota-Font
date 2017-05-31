@@ -1,25 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Z.ss02" format="1">
-  <advance width="565"/>
+  <advance width="518"/>
   <outline>
     <contour>
-      <point x="498" y="0" type="line"/>
-      <point x="498" y="57" type="line"/>
-      <point x="119" y="57" type="line"/>
-      <point x="478" y="671" type="line"/>
-      <point x="478" y="684" type="line"/>
-      <point x="47" y="684" type="line"/>
-      <point x="47" y="627" type="line"/>
-      <point x="386" y="627" type="line"/>
-      <point x="27" y="13" type="line"/>
-      <point x="27" y="0" type="line"/>
+      <point x="495" y="0" type="line"/>
+      <point x="495" y="57" type="line"/>
+      <point x="116" y="57" type="line"/>
+      <point x="475" y="671" type="line"/>
+      <point x="475" y="684" type="line"/>
+      <point x="44" y="684" type="line"/>
+      <point x="44" y="627" type="line"/>
+      <point x="383" y="627" type="line"/>
+      <point x="24" y="13" type="line"/>
+      <point x="24" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="263" y="0" type="move" name="top"/>
+      <point x="260" y="684" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="260" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:49:55 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>Z</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

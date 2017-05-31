@@ -1,25 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="radical" format="1">
-  <advance width="617"/>
+  <advance width="607"/>
   <unicode hex="221A"/>
   <outline>
     <contour>
-      <point x="372" y="-93" type="line"/>
-      <point x="550" y="833" type="line"/>
-      <point x="465" y="833" type="line"/>
-      <point x="306" y="-15" type="line"/>
-      <point x="300" y="-15" type="line"/>
-      <point x="187" y="390" type="line"/>
-      <point x="29" y="340" type="line"/>
-      <point x="53" y="266" type="line"/>
-      <point x="130" y="292" type="line"/>
-      <point x="239" y="-93" type="line"/>
+      <point x="381" y="-93" type="line"/>
+      <point x="559" y="833" type="line"/>
+      <point x="474" y="833" type="line"/>
+      <point x="315" y="-15" type="line"/>
+      <point x="309" y="-15" type="line"/>
+      <point x="196" y="390" type="line"/>
+      <point x="38" y="340" type="line"/>
+      <point x="62" y="266" type="line"/>
+      <point x="139" y="292" type="line"/>
+      <point x="248" y="-93" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:50:00 +0000</string>
       <key>position</key>
-      <integer>-95</integer>
+      <string>-95</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
       <key>width</key>
       <integer>56</integer>
     </dict>

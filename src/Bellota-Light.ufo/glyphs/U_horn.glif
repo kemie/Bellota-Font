@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Uhorn" format="1">
-  <advance width="740"/>
+  <advance width="718"/>
   <unicode hex="01AF"/>
   <outline>
     <component base="U"/>
-    <component base="horncomb" xOffset="714" yOffset="-6"/>
+    <component base="horncomb" xOffset="704" yOffset="-6"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:49:29 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>E</string>
       <key>position</key>

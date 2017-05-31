@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="numeral-greek" format="1">
-  <advance width="177"/>
+  <advance width="243"/>
   <unicode hex="0374"/>
   <outline>
-    <component base="primemod" xOffset="-46" yOffset="-6"/>
+    <component base="primemod" xOffset="51" yOffset="-6"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:24:56 +0000</string>
       <key>position</key>
       <integer>55</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
       <key>width</key>
       <integer>52</integer>
     </dict>

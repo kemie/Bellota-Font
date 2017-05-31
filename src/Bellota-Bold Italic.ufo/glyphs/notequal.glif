@@ -1,35 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="notequal" format="1">
-  <advance width="527"/>
+  <advance width="556"/>
   <unicode hex="2260"/>
   <outline>
     <contour>
-      <point x="232" y="157" type="line"/>
-      <point x="447" y="157" type="line"/>
-      <point x="458" y="237" type="line"/>
-      <point x="278" y="237" type="line"/>
-      <point x="332" y="329" type="line"/>
-      <point x="471" y="329" type="line"/>
-      <point x="483" y="411" type="line"/>
-      <point x="379" y="411" type="line"/>
-      <point x="453" y="538" type="line"/>
-      <point x="387" y="568" type="line"/>
-      <point x="295" y="411" type="line"/>
-      <point x="59" y="411" type="line"/>
-      <point x="47" y="329" type="line"/>
-      <point x="248" y="329" type="line"/>
-      <point x="194" y="237" type="line"/>
-      <point x="34" y="237" type="line"/>
-      <point x="23" y="157" type="line"/>
-      <point x="148" y="157" type="line"/>
-      <point x="70" y="25" type="line"/>
-      <point x="137" y="-6" type="line"/>
+      <point x="261" y="157" type="line"/>
+      <point x="476" y="157" type="line"/>
+      <point x="487" y="237" type="line"/>
+      <point x="307" y="237" type="line"/>
+      <point x="361" y="329" type="line"/>
+      <point x="500" y="329" type="line"/>
+      <point x="512" y="411" type="line"/>
+      <point x="408" y="411" type="line"/>
+      <point x="482" y="538" type="line"/>
+      <point x="416" y="568" type="line"/>
+      <point x="324" y="411" type="line"/>
+      <point x="88" y="411" type="line"/>
+      <point x="76" y="329" type="line"/>
+      <point x="277" y="329" type="line"/>
+      <point x="223" y="237" type="line"/>
+      <point x="63" y="237" type="line"/>
+      <point x="52" y="157" type="line"/>
+      <point x="177" y="157" type="line"/>
+      <point x="99" y="25" type="line"/>
+      <point x="166" y="-6" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:24:54 +0000</string>
       <key>position</key>
       <integer>340</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
       <key>width</key>
       <integer>60</integer>
     </dict>

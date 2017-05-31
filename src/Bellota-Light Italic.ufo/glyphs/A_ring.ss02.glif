@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aring.ss02" format="1">
-  <advance width="730"/>
+  <advance width="654"/>
   <outline>
     <component base="A.ss02"/>
-    <component base="ringcomb" xOffset="383" yOffset="207"/>
+    <component base="ringcomb" xOffset="366" yOffset="204"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:27:47 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>A</string>
       <key>position</key>

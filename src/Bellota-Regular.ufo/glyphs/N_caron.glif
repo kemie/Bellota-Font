@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ncaron" format="1">
-  <advance width="780"/>
+  <advance width="791"/>
   <unicode hex="0147"/>
   <outline>
     <component base="N"/>
-    <component base="caron" xOffset="235" yOffset="184"/>
+    <component base="caron" xOffset="257" yOffset="184"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:49:24 +0000</string>
       <key>position</key>
       <integer>642</integer>
       <key>width</key>

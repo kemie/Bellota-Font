@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rinvertedbreve" format="1">
-  <advance width="384"/>
+  <advance width="356"/>
   <unicode hex="0213"/>
   <outline>
-    <component base="breve" xOffset="526" yOffset="1283" xScale="-1" yScale="-1"/>
-    <component base="r" xOffset="1" yOffset="11"/>
+    <component base="breve" xOffset="502" yOffset="1283" xScale="-1" yScale="-1"/>
+    <component base="r" xOffset="-1" yOffset="-7"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:25:22 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>r</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

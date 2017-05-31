@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="circumflexcomb_gravecomb" format="1">
-  <advance width="600"/>
+  <advance width="0"/>
   <outline>
     <component base="circumflexcomb"/>
-    <component base="gravecomb" xOffset="-31" yOffset="198"/>
+    <component base="gravecomb" xOffset="28" yOffset="202"/>
+    <contour>
+      <point x="77" y="922" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="18" y="500" type="move" name="_top"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:52:59 +0000</string>
+    </dict>
+  </lib>
 </glyph>

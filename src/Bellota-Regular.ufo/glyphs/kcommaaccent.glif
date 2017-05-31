@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kcommaaccent" format="1">
-  <advance width="584"/>
+  <advance width="561"/>
   <unicode hex="0137"/>
   <outline>
     <component base="k"/>
-    <component base="commaaccentcomb" xOffset="194"/>
+    <component base="commaaccentcomb" xOffset="283"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:51:36 +0000</string>
       <key>position</key>
       <integer>222</integer>
       <key>width</key>

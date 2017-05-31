@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tcaron" format="1">
-  <advance width="352"/>
+  <advance width="380"/>
   <unicode hex="0165"/>
   <outline>
     <component base="t"/>
-    <component base="apostrophemod" xOffset="244" yOffset="1"/>
+    <component base="apostrophemod" xOffset="257" yOffset="1"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:27:47 +0000</string>
       <key>position</key>
       <integer>411</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
       <key>width</key>
       <integer>64</integer>
     </dict>

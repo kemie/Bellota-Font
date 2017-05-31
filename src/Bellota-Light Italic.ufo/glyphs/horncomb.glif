@@ -3,6 +3,18 @@
   <advance width="0"/>
   <unicode hex="031B"/>
   <outline>
-    <component base="horn" xOffset="-84"/>
+    <component base="horn" xOffset="-86"/>
+    <contour>
+      <point x="-13" y="536" type="move" name="_topright"/>
+    </contour>
+    <contour>
+      <point x="42" y="500" type="move" name="topright"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:23:48 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aemacron" format="1">
-  <advance width="831"/>
+  <advance width="768"/>
   <unicode hex="01E3"/>
   <outline>
     <component base="ae"/>
-    <component base="macroncomb" xOffset="401" yOffset="2"/>
+    <component base="macroncomb" xOffset="387" yOffset="2"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:27:47 +0000</string>
       <key>position</key>
       <integer>687</integer>
       <key>width</key>

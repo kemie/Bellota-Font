@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Eogonek" format="1">
-  <advance width="648"/>
+  <advance width="617"/>
   <unicode hex="0118"/>
   <outline>
     <component base="E"/>
-    <component base="ogonekcomb" xOffset="444" yOffset="9"/>
+    <component base="ogonekcomb" xOffset="528" yOffset="-1"/>
+    <contour>
+      <point x="385" y="684" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:24:54 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>E</string>
       <key>position</key>

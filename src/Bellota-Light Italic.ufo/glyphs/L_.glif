@@ -1,27 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="L" format="1">
-  <advance width="502"/>
+  <advance width="487"/>
   <unicode hex="004C"/>
   <outline>
     <contour>
-      <point x="399" y="1" type="line"/>
-      <point x="405" y="45" type="line"/>
-      <point x="71" y="45" type="line"/>
-      <point x="161" y="685" type="line"/>
-      <point x="113" y="685" type="line"/>
-      <point x="17" y="1" type="line"/>
+      <point x="432" y="1" type="line"/>
+      <point x="438" y="45" type="line"/>
+      <point x="104" y="45" type="line"/>
+      <point x="194" y="685" type="line"/>
+      <point x="146" y="685" type="line"/>
+      <point x="50" y="1" type="line"/>
     </contour>
     <contour>
-      <point x="313" y="692" type="move" name="top"/>
+      <point x="248" y="-6" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="215" y="-6" type="move" name="bottom"/>
+      <point x="346" y="692" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="576" y="684" type="move" name="topright"/>
+    </contour>
+    <contour>
+      <point x="297" y="342" type="move" name="center"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:24:54 +0000</string>
       <key>position</key>
       <integer>54</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
       <key>width</key>
       <integer>61</integer>
     </dict>

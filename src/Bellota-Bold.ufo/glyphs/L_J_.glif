@@ -1,22 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LJ" format="1">
-  <advance width="981"/>
+  <advance width="959"/>
   <unicode hex="01C7"/>
   <outline>
     <component base="L"/>
-    <component base="J" xOffset="449" yOffset="11"/>
+    <component base="J" xOffset="473" yOffset="11"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:50:00 +0000</string>
       <key>position</key>
       <integer>835</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
       <key>width</key>
       <integer>53</integer>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
-          <key>disableAlignment</key>
-          <true/>
+          <key>alignment</key>
+          <integer>-1</integer>
           <key>index</key>
           <integer>1</integer>
           <key>name</key>

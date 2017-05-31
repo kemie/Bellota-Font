@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brevecomb_acutecomb" format="1">
-  <advance width="600"/>
+  <advance width="0"/>
   <outline>
-    <component base="brevecomb"/>
-    <component base="acutecomb" xOffset="103" yOffset="246"/>
+    <component base="brevecomb" xOffset="-12"/>
+    <component base="acutecomb" xOffset="21" yOffset="246"/>
+    <contour>
+      <point x="82" y="972" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="15" y="500" type="move" name="_top"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:52:59 +0000</string>
+    </dict>
+  </lib>
 </glyph>

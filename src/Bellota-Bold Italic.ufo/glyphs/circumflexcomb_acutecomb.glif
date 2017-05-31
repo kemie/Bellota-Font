@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="circumflexcomb_acutecomb" format="1">
-  <advance width="600"/>
+  <advance width="0"/>
   <outline>
-    <component base="circumflexcomb"/>
-    <component base="acutecomb" xOffset="101" yOffset="222"/>
+    <component base="circumflexcomb" xOffset="-5"/>
+    <component base="acutecomb" xOffset="26" yOffset="218"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:52:59 +0000</string>
+    </dict>
+  </lib>
 </glyph>

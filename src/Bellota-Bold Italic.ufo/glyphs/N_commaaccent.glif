@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ncommaaccent" format="1">
-  <advance width="787"/>
+  <advance width="798"/>
   <unicode hex="0145"/>
   <outline>
     <component base="N"/>
-    <component base="commaaccentcomb" xOffset="313"/>
+    <component base="commaaccentcomb" xOffset="406"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:24:50 +0000</string>
       <key>position</key>
       <integer>642</integer>
       <key>width</key>

@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dz" format="1">
-  <advance width="1117"/>
+  <advance width="1004"/>
   <unicode hex="01F3"/>
   <outline>
     <component base="d"/>
-    <component base="z" xOffset="595"/>
+    <component base="z" xOffset="565"/>
+    <contour>
+      <point x="594" y="500" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:27:47 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>c</string>
       <key>position</key>

@@ -1,22 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seven" format="1">
-  <advance width="487"/>
+  <advance width="461"/>
   <unicode hex="0037"/>
   <outline>
     <contour>
-      <point x="148" y="0" type="line"/>
-      <point x="493" y="645" type="line"/>
-      <point x="494" y="653" type="line"/>
-      <point x="76" y="648" type="line"/>
-      <point x="68" y="592" type="line"/>
-      <point x="407" y="596" type="line"/>
-      <point x="84" y="0" type="line"/>
+      <point x="147" y="0" type="line"/>
+      <point x="492" y="645" type="line"/>
+      <point x="493" y="653" type="line"/>
+      <point x="75" y="648" type="line"/>
+      <point x="67" y="592" type="line"/>
+      <point x="406" y="596" type="line"/>
+      <point x="83" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:24:47 +0000</string>
       <key>position</key>
       <integer>592</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
       <key>width</key>
       <integer>56</integer>
     </dict>

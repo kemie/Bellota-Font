@@ -1,31 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="longs" format="1">
-  <advance width="387"/>
+  <advance width="185"/>
   <unicode hex="017F"/>
   <outline>
     <contour>
-      <point x="22" y="-264" type="line"/>
-      <point x="129" y="502" type="line" smooth="yes"/>
-      <point x="142" y="592"/>
-      <point x="173" y="664"/>
-      <point x="264" y="664" type="curve" smooth="yes"/>
-      <point x="292" y="664"/>
-      <point x="320" y="657"/>
-      <point x="337" y="632" type="curve"/>
-      <point x="370" y="661" type="line"/>
-      <point x="348" y="690"/>
-      <point x="314" y="703"/>
-      <point x="264" y="703" type="curve" smooth="yes"/>
-      <point x="140" y="703"/>
-      <point x="104" y="621"/>
-      <point x="82" y="466" type="curve" smooth="yes"/>
-      <point x="-20" y="-264" type="line"/>
+      <point x="41" y="-264" type="line"/>
+      <point x="148" y="502" type="line" smooth="yes"/>
+      <point x="161" y="592"/>
+      <point x="192" y="664"/>
+      <point x="283" y="664" type="curve" smooth="yes"/>
+      <point x="311" y="664"/>
+      <point x="339" y="657"/>
+      <point x="356" y="632" type="curve"/>
+      <point x="389" y="661" type="line"/>
+      <point x="367" y="690"/>
+      <point x="333" y="703"/>
+      <point x="283" y="703" type="curve" smooth="yes"/>
+      <point x="159" y="703"/>
+      <point x="123" y="621"/>
+      <point x="101" y="466" type="curve" smooth="yes"/>
+      <point x="-1" y="-264" type="line"/>
+    </contour>
+    <contour>
+      <point x="248" y="500" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="178" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:24:55 +0000</string>
       <key>position</key>
       <integer>54</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
       <key>width</key>
       <integer>55</integer>
     </dict>

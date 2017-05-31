@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="interrobang" format="1">
-  <advance width="452"/>
+  <advance width="435"/>
   <unicode hex="203D"/>
   <outline>
     <contour>
@@ -62,12 +62,18 @@
       <point x="122" y="157"/>
       <point x="124" y="144" type="curve"/>
     </contour>
-    <component base="period" xOffset="67" yOffset="-2"/>
+    <component base="period" xOffset="45" yOffset="-2"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:50:04 +0000</string>
       <key>position</key>
       <integer>359</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
       <key>width</key>
       <integer>53</integer>
     </dict>

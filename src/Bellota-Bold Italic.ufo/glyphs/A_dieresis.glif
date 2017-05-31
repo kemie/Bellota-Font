@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Adieresis" format="1">
-  <advance width="817"/>
+  <advance width="753"/>
   <unicode hex="00C4"/>
   <outline>
     <component base="A"/>
-    <component base="dieresiscomb" xOffset="401" yOffset="177"/>
+    <component base="dieresiscomb" xOffset="446" yOffset="181"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:27:47 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>A</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

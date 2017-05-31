@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Udieresisacute" format="1">
-  <advance width="748"/>
+  <advance width="740"/>
   <unicode hex="01D7"/>
   <outline>
     <component base="U"/>
-    <component base="dieresiscomb" xOffset="390" yOffset="184"/>
-    <component base="acutecomb" xOffset="485" yOffset="368"/>
+    <component base="dieresiscomb" xOffset="431" yOffset="182"/>
+    <component base="acutecomb" xOffset="457" yOffset="366"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:25:27 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>E</string>
     </dict>

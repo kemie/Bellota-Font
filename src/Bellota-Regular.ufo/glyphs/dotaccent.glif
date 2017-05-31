@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotaccent" format="1">
-  <advance width="177"/>
+  <advance width="195"/>
   <unicode hex="02D9"/>
   <outline>
-    <component base="period" xOffset="-20" yOffset="587"/>
+    <component base="period" xOffset="8" yOffset="587"/>
     <contour>
-      <point x="72" y="500" type="move" name="_top"/>
+      <point x="100" y="500" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:50:08 +0000</string>
       <key>position</key>
       <integer>30</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
       <key>width</key>
       <integer>83</integer>
     </dict>

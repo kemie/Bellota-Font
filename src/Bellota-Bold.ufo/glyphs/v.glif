@@ -1,29 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="v" format="1">
-  <advance width="508"/>
+  <advance width="445"/>
   <unicode hex="0076"/>
   <outline>
     <contour>
-      <point x="287" y="-1" type="line"/>
-      <point x="453" y="507" type="line"/>
-      <point x="375" y="507" type="line"/>
-      <point x="252" y="130" type="line"/>
-      <point x="160" y="410" type="line" smooth="yes"/>
-      <point x="145" y="457"/>
-      <point x="115" y="501"/>
-      <point x="69" y="527" type="curve"/>
-      <point x="27" y="463" type="line"/>
-      <point x="48" y="457"/>
-      <point x="71" y="433"/>
-      <point x="81" y="409" type="curve"/>
-      <point x="81" y="410" type="line"/>
-      <point x="216" y="-1" type="line"/>
+      <point x="266" y="-1" type="line"/>
+      <point x="432" y="507" type="line"/>
+      <point x="354" y="507" type="line"/>
+      <point x="231" y="130" type="line"/>
+      <point x="139" y="410" type="line" smooth="yes"/>
+      <point x="124" y="457"/>
+      <point x="94" y="501"/>
+      <point x="48" y="527" type="curve"/>
+      <point x="6" y="463" type="line"/>
+      <point x="27" y="457"/>
+      <point x="50" y="433"/>
+      <point x="60" y="409" type="curve"/>
+      <point x="60" y="410" type="line"/>
+      <point x="195" y="-1" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:50:00 +0000</string>
       <key>position</key>
       <integer>479</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
       <key>width</key>
       <integer>20</integer>
     </dict>

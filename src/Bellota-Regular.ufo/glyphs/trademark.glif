@@ -1,38 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="trademark" format="1">
-  <advance width="619"/>
+  <advance width="664"/>
   <unicode hex="2122"/>
   <outline>
     <contour>
-      <point x="311" y="329" type="line"/>
-      <point x="311" y="565" type="line"/>
-      <point x="388" y="340" type="line"/>
-      <point x="429" y="340" type="line"/>
-      <point x="510" y="567" type="line"/>
-      <point x="510" y="329" type="line"/>
-      <point x="550" y="329" type="line"/>
-      <point x="550" y="623" type="line"/>
-      <point x="493" y="623" type="line"/>
-      <point x="409" y="390" type="line"/>
-      <point x="328" y="623" type="line"/>
-      <point x="271" y="623" type="line"/>
-      <point x="271" y="329" type="line"/>
+      <point x="325" y="329" type="line"/>
+      <point x="325" y="565" type="line"/>
+      <point x="402" y="340" type="line"/>
+      <point x="443" y="340" type="line"/>
+      <point x="524" y="567" type="line"/>
+      <point x="524" y="329" type="line"/>
+      <point x="564" y="329" type="line"/>
+      <point x="564" y="623" type="line"/>
+      <point x="507" y="623" type="line"/>
+      <point x="423" y="390" type="line"/>
+      <point x="342" y="623" type="line"/>
+      <point x="285" y="623" type="line"/>
+      <point x="285" y="329" type="line"/>
     </contour>
     <contour>
-      <point x="161" y="330" type="line"/>
-      <point x="161" y="588" type="line"/>
-      <point x="244" y="588" type="line"/>
-      <point x="244" y="623" type="line"/>
-      <point x="36" y="623" type="line"/>
-      <point x="36" y="588" type="line"/>
-      <point x="120" y="588" type="line"/>
-      <point x="120" y="330" type="line"/>
+      <point x="175" y="330" type="line"/>
+      <point x="175" y="588" type="line"/>
+      <point x="258" y="588" type="line"/>
+      <point x="258" y="623" type="line"/>
+      <point x="50" y="623" type="line"/>
+      <point x="50" y="588" type="line"/>
+      <point x="134" y="588" type="line"/>
+      <point x="134" y="330" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:50:06 +0000</string>
       <key>position</key>
       <integer>514</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
       <key>width</key>
       <integer>32</integer>
     </dict>

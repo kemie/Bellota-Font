@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="edieresis" format="1">
-  <advance width="536"/>
+  <advance width="477"/>
   <unicode hex="00EB"/>
   <outline>
     <component base="e"/>
-    <component base="dieresiscomb" xOffset="265" yOffset="4"/>
+    <component base="dieresiscomb" xOffset="295" yOffset="4"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:52:02 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>c</string>
       <key>position</key>

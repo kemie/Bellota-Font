@@ -1,22 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="grave" format="1">
-  <advance width="282"/>
+  <advance width="259"/>
   <unicode hex="0060"/>
   <outline>
     <contour>
-      <point x="235" y="597" type="line"/>
-      <point x="64" y="732" type="line"/>
-      <point x="15" y="665" type="line"/>
-      <point x="202" y="545" type="line"/>
+      <point x="240" y="597" type="line"/>
+      <point x="69" y="732" type="line"/>
+      <point x="20" y="665" type="line"/>
+      <point x="207" y="545" type="line"/>
     </contour>
     <contour>
-      <point x="188" y="496" type="move" name="_top"/>
+      <point x="193" y="496" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-30 12:53:43 +0000</string>
       <key>position</key>
       <integer>17</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
       <key>width</key>
       <integer>194</integer>
     </dict>

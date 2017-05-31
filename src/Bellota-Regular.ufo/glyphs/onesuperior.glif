@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onesuperior" format="1">
-  <advance width="220"/>
+  <advance width="173"/>
   <unicode hex="00B9"/>
   <outline>
-    <component base="one.dnom" xOffset="1" yOffset="393"/>
+    <component base="one.dnom" yOffset="393"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>one</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>one</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:49:25 +0000</string>
     </dict>
   </lib>
 </glyph>

@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="braceleft" format="1">
-  <advance width="323"/>
+  <advance width="294"/>
   <unicode hex="007B"/>
   <outline>
-    <component base="braceright" xOffset="293" xScale="-1"/>
+    <component base="braceright" xOffset="294" xScale="-1"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:50:02 +0000</string>
       <key>position</key>
       <integer>104</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
       <key>width</key>
       <integer>61</integer>
     </dict>

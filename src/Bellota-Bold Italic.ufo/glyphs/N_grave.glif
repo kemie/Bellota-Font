@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ngrave" format="1">
-  <advance width="787"/>
+  <advance width="798"/>
   <unicode hex="01F8"/>
   <outline>
     <component base="N"/>
-    <component base="gravecomb" xOffset="384" yOffset="179"/>
+    <component base="gravecomb" xOffset="460" yOffset="175"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:24:47 +0000</string>
       <key>position</key>
       <integer>642</integer>
       <key>width</key>

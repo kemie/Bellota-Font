@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="H" format="1">
-  <advance width="694"/>
+  <advance width="696"/>
   <unicode hex="0048"/>
   <outline>
     <contour>
@@ -33,18 +33,30 @@
       <point x="88" y="1" type="line"/>
     </contour>
     <contour>
-      <point x="393" y="356" type="move" name="center"/>
+      <point x="312" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
       <point x="438" y="692" type="move" name="top"/>
     </contour>
+    <contour>
+      <point x="81" y="684" type="move" name="topleft"/>
+    </contour>
+    <contour>
+      <point x="393" y="356" type="move" name="center"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:24:50 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>H</string>
       <key>position</key>
       <integer>554</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
       <key>width</key>
       <integer>61</integer>
     </dict>

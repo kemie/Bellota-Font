@@ -3,9 +3,19 @@
   <advance width="0"/>
   <unicode hex="0308"/>
   <outline>
-    <component base="dieresis" xOffset="-208"/>
+    <component base="dieresis" xOffset="-185"/>
     <contour>
-      <point x="-2" y="654" type="move" name="top"/>
+      <point x="21" y="654" type="move" name="top"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 09:27:59 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
 </glyph>

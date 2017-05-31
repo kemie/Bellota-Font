@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tcedilla" format="1">
-  <advance width="637"/>
+  <advance width="608"/>
   <unicode hex="0162"/>
   <outline>
     <component base="T"/>
-    <component base="cedillacomb" xOffset="338"/>
+    <component base="cedillacomb" xOffset="334"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:43:37 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>T</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

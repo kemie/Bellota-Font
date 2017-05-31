@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ohorndotbelow" format="1">
-  <advance width="601"/>
+  <advance width="539"/>
   <unicode hex="1EE3"/>
   <outline>
     <component base="ohorn"/>
-    <component base="dotbelowcomb" xOffset="284" yOffset="-4"/>
+    <component base="dotbelowcomb" xOffset="270" yOffset="-4"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:51:36 +0000</string>
+    </dict>
+  </lib>
 </glyph>

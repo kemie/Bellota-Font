@@ -1,30 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="asterisk" format="1">
-  <advance width="366"/>
+  <advance width="368"/>
   <unicode hex="002A"/>
   <outline>
     <contour>
-      <point x="168" y="529" type="line"/>
-      <point x="233" y="430" type="line"/>
-      <point x="270" y="456" type="line"/>
-      <point x="200" y="542" type="line"/>
-      <point x="310" y="572" type="line"/>
-      <point x="296" y="616" type="line"/>
-      <point x="184" y="572" type="line"/>
-      <point x="192" y="695" type="line"/>
-      <point x="145" y="695" type="line"/>
-      <point x="152" y="573" type="line"/>
-      <point x="41" y="616" type="line"/>
-      <point x="27" y="572" type="line"/>
-      <point x="138" y="543" type="line"/>
-      <point x="67" y="456" type="line"/>
-      <point x="103" y="429" type="line"/>
+      <point x="183" y="529" type="line"/>
+      <point x="248" y="430" type="line"/>
+      <point x="285" y="456" type="line"/>
+      <point x="215" y="542" type="line"/>
+      <point x="325" y="572" type="line"/>
+      <point x="311" y="616" type="line"/>
+      <point x="199" y="572" type="line"/>
+      <point x="207" y="695" type="line"/>
+      <point x="160" y="695" type="line"/>
+      <point x="167" y="573" type="line"/>
+      <point x="56" y="616" type="line"/>
+      <point x="42" y="572" type="line"/>
+      <point x="153" y="543" type="line"/>
+      <point x="82" y="456" type="line"/>
+      <point x="118" y="429" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:50:04 +0000</string>
       <key>position</key>
       <integer>27</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
       <key>width</key>
       <integer>295</integer>
     </dict>

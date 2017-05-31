@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ocircumflexacute" format="1">
-  <advance width="805"/>
+  <advance width="783"/>
   <unicode hex="1ED0"/>
   <outline>
     <component base="O"/>
-    <component base="circumflexcomb" xOffset="386" yOffset="188"/>
-    <component base="acutecomb" xOffset="458" yOffset="376"/>
+    <component base="circumflexcomb" xOffset="390" yOffset="188"/>
+    <component base="acutecomb" xOffset="465" yOffset="368"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:43:37 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>O</string>
     </dict>

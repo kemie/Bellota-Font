@@ -1,27 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="l.ss02" format="1">
-  <advance width="204"/>
+  <advance width="178"/>
   <outline>
     <contour>
-      <point x="91" y="1" type="line"/>
-      <point x="193" y="727" type="line"/>
-      <point x="151" y="727" type="line"/>
-      <point x="49" y="1" type="line"/>
+      <point x="75" y="1" type="line"/>
+      <point x="180" y="727" type="line"/>
+      <point x="137" y="727" type="line"/>
+      <point x="32" y="1" type="line"/>
     </contour>
     <contour>
-      <point x="79" y="-6" type="move" name="top"/>
+      <point x="54" y="4" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="79" y="-6" type="move" name="bottom"/>
+      <point x="156" y="727" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="184" y="-6" type="move" name="topright"/>
+      <point x="188" y="500" type="move" name="topright"/>
+    </contour>
+    <contour>
+      <point x="87" y="250" type="move" name="center"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:24:50 +0000</string>
       <key>position</key>
       <integer>85</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
       <key>width</key>
       <integer>55</integer>
     </dict>

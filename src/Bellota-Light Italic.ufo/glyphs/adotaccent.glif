@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="adotaccent" format="1">
-  <advance width="605"/>
+  <advance width="555"/>
   <unicode hex="0227"/>
   <outline>
     <component base="a"/>
-    <component base="dotaccentcomb" xOffset="279" yOffset="8"/>
+    <component base="dotaccentcomb" xOffset="274" yOffset="5"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:27:47 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>c</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

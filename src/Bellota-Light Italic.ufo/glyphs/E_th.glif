@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Eth" format="1">
-  <advance width="801"/>
+  <advance width="777"/>
   <unicode hex="00D0"/>
   <outline>
     <component base="D"/>
-    <component base="hyphen" xOffset="-32" yOffset="25"/>
+    <component base="strokeshortcomb" xOffset="188" yOffset="35"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:24:20 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>E</string>
       <key>position</key>

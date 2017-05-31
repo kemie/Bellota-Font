@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="clicklateral" format="1">
-  <advance width="386"/>
+  <advance width="470"/>
   <unicode hex="01C1"/>
   <outline>
-    <component base="bar" xOffset="188" yOffset="-6"/>
-    <component base="bar" xOffset="-10" yOffset="-6"/>
+    <component base="bar" xOffset="205" yOffset="-6"/>
+    <component base="bar" xOffset="7" yOffset="-6"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:50:01 +0000</string>
       <key>position</key>
       <integer>248</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
       <key>width</key>
       <integer>61</integer>
     </dict>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 	<key>GSDimensionPlugin.Dimensions</key>
@@ -8,6 +8,8 @@
 		<dict>
 		</dict>
 	</dict>
+	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
+	<false/>
 	<key>com.schriftgestaltung.fontMaster.userData</key>
 	<dict>
 		<key>GSCornerRadius</key>
@@ -19,8 +21,10 @@
 	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0</string>
+	<key>com.schriftgestaltung.glyphOrder</key>
+	<false/>
 	<key>com.schriftgestaltung.useNiceNames</key>
-	<integer>1</integer>
+	<true/>
 	<key>com.schriftgestaltung.weight</key>
 	<string>Bold</string>
 	<key>com.schriftgestaltung.weightValue</key>
@@ -29,55 +33,87 @@
 	<array>
 		<string>A</string>
 		<string>A.ss02</string>
-		<string>AE</string>
-		<string>AEacute</string>
-		<string>AEmacron</string>
 		<string>Aacute</string>
 		<string>Aacute.ss02</string>
 		<string>Abreve</string>
+		<string>Abreve.ss02</string>
 		<string>Abreveacute</string>
+		<string>Abreveacute.ss02</string>
 		<string>Abrevedotbelow</string>
+		<string>Abrevedotbelow.ss02</string>
 		<string>Abrevegrave</string>
+		<string>Abrevegrave.ss02</string>
 		<string>Abrevehookabove</string>
+		<string>Abrevehookabove.ss02</string>
 		<string>Abrevetilde</string>
+		<string>Abrevetilde.ss02</string>
 		<string>Acaron</string>
+		<string>Acaron.ss02</string>
 		<string>Acircumflex</string>
+		<string>Acircumflex.ss02</string>
 		<string>Acircumflexacute</string>
+		<string>Acircumflexacute.ss02</string>
 		<string>Acircumflexdotbelow</string>
+		<string>Acircumflexdotbelow.ss02</string>
 		<string>Acircumflexgrave</string>
+		<string>Acircumflexgrave.ss02</string>
 		<string>Acircumflexhookabove</string>
+		<string>Acircumflexhookabove.ss02</string>
 		<string>Acircumflextilde</string>
+		<string>Acircumflextilde.ss02</string>
 		<string>Adieresis</string>
 		<string>Adieresis.ss02</string>
 		<string>Adieresismacron</string>
+		<string>Adieresismacron.ss02</string>
 		<string>Adotaccent</string>
+		<string>Adotaccent.ss02</string>
 		<string>Adotbelow</string>
+		<string>Adotbelow.ss02</string>
 		<string>Adotmacron</string>
+		<string>Adotmacron.ss02</string>
 		<string>Agrave</string>
+		<string>Agrave.ss02</string>
 		<string>Ahookabove</string>
+		<string>Ahookabove.ss02</string>
 		<string>Amacron</string>
+		<string>Amacron.ss02</string>
 		<string>Aogonek</string>
+		<string>Aogonek.ss02</string>
 		<string>Aring</string>
 		<string>Aring.ss02</string>
 		<string>Aringacute</string>
+		<string>Aringacute.ss02</string>
 		<string>Atilde</string>
+		<string>Atilde.ss02</string>
+		<string>AE</string>
+		<string>AEacute</string>
+		<string>AEmacron</string>
 		<string>B</string>
 		<string>B.ss01</string>
 		<string>B.ss02</string>
 		<string>C</string>
 		<string>C.ss02</string>
 		<string>Cacute</string>
+		<string>Cacute.ss02</string>
 		<string>Ccaron</string>
+		<string>Ccaron.ss02</string>
 		<string>Ccedilla</string>
+		<string>Ccedilla.ss02</string>
 		<string>Ccircumflex</string>
+		<string>Ccircumflex.ss02</string>
 		<string>Cdotaccent</string>
+		<string>Cdotaccent.ss02</string>
 		<string>D</string>
 		<string>D.ss01</string>
 		<string>D.ss02</string>
 		<string>DZ</string>
 		<string>DZcaron</string>
+		<string>Eth</string>
+		<string>Eth.ss02</string>
 		<string>Dcaron</string>
+		<string>Dcaron.ss02</string>
 		<string>Dcroat</string>
+		<string>Dcroat.ss02</string>
 		<string>Dz</string>
 		<string>Dzcaron</string>
 		<string>E</string>
@@ -86,40 +122,64 @@
 		<string>Eacute</string>
 		<string>Eacute.ss02</string>
 		<string>Ebreve</string>
+		<string>Ebreve.ss02</string>
 		<string>Ecaron</string>
+		<string>Ecaron.ss02</string>
 		<string>Ecedilla</string>
+		<string>Ecedilla.ss02</string>
 		<string>Ecircumflex</string>
+		<string>Ecircumflex.ss02</string>
 		<string>Ecircumflexacute</string>
+		<string>Ecircumflexacute.ss02</string>
 		<string>Ecircumflexdotbelow</string>
+		<string>Ecircumflexdotbelow.ss02</string>
 		<string>Ecircumflexgrave</string>
+		<string>Ecircumflexgrave.ss02</string>
 		<string>Ecircumflexhookabove</string>
+		<string>Ecircumflexhookabove.ss02</string>
 		<string>Ecircumflextilde</string>
+		<string>Ecircumflextilde.ss02</string>
 		<string>Edieresis</string>
+		<string>Edieresis.ss02</string>
 		<string>Edotaccent</string>
+		<string>Edotaccent.ss02</string>
 		<string>Edotbelow</string>
+		<string>Edotbelow.ss02</string>
 		<string>Egrave</string>
+		<string>Egrave.ss02</string>
 		<string>Ehookabove</string>
+		<string>Ehookabove.ss02</string>
 		<string>Emacron</string>
-		<string>Eng</string>
+		<string>Emacron.ss02</string>
 		<string>Eogonek</string>
-		<string>Eth</string>
+		<string>Eogonek.ss02</string>
 		<string>Etilde</string>
+		<string>Etilde.ss02</string>
 		<string>F</string>
 		<string>F.ss01</string>
 		<string>F.ss02</string>
 		<string>G</string>
 		<string>G.ss02</string>
 		<string>Gacute</string>
+		<string>Gacute.ss02</string>
 		<string>Gbreve</string>
+		<string>Gbreve.ss02</string>
 		<string>Gcaron</string>
+		<string>Gcaron.ss02</string>
 		<string>Gcircumflex</string>
+		<string>Gcircumflex.ss02</string>
 		<string>Gcommaaccent</string>
+		<string>Gcommaaccent.ss02</string>
 		<string>Gdotaccent</string>
+		<string>Gdotaccent.ss02</string>
 		<string>H</string>
 		<string>H.ss02</string>
 		<string>Hbar</string>
+		<string>Hbar.ss02</string>
 		<string>Hcaron</string>
+		<string>Hcaron.ss02</string>
 		<string>Hcircumflex</string>
+		<string>Hcircumflex.ss02</string>
 		<string>I</string>
 		<string>IJ</string>
 		<string>Iacute</string>
@@ -139,7 +199,9 @@
 		<string>K</string>
 		<string>K.ss02</string>
 		<string>Kcaron</string>
+		<string>Kcaron.ss02</string>
 		<string>Kcommaaccent</string>
+		<string>Kcommaaccent.ss02</string>
 		<string>L</string>
 		<string>LJ</string>
 		<string>Lacute</string>
@@ -154,13 +216,18 @@
 		<string>N.ss02</string>
 		<string>NJ</string>
 		<string>Nacute</string>
+		<string>Nacute.ss02</string>
 		<string>Ncaron</string>
+		<string>Ncaron.ss02</string>
 		<string>Ncommaaccent</string>
+		<string>Ncommaaccent.ss02</string>
 		<string>Ngrave</string>
+		<string>Ngrave.ss02</string>
+		<string>Eng</string>
 		<string>Nj</string>
 		<string>Ntilde</string>
+		<string>Ntilde.ss02</string>
 		<string>O</string>
-		<string>OE</string>
 		<string>Oacute</string>
 		<string>Obreve</string>
 		<string>Ocaron</string>
@@ -188,128 +255,209 @@
 		<string>Oslash</string>
 		<string>Oslashacute</string>
 		<string>Otilde</string>
+		<string>OE</string>
 		<string>P</string>
 		<string>P.ss01</string>
 		<string>P.ss02</string>
+		<string>Thorn</string>
 		<string>Q</string>
 		<string>R</string>
 		<string>R.ss01</string>
 		<string>R.ss02</string>
 		<string>Racute</string>
+		<string>Racute.ss02</string>
 		<string>Rcaron</string>
+		<string>Rcaron.ss02</string>
 		<string>Rcommaaccent</string>
+		<string>Rcommaaccent.ss02</string>
 		<string>S</string>
 		<string>S.ss02</string>
 		<string>Sacute</string>
+		<string>Sacute.ss02</string>
 		<string>Scaron</string>
+		<string>Scaron.ss02</string>
 		<string>Scedilla</string>
+		<string>Scedilla.ss02</string>
 		<string>Scircumflex</string>
+		<string>Scircumflex.ss02</string>
 		<string>Scommaaccent</string>
+		<string>Scommaaccent.ss02</string>
 		<string>T</string>
 		<string>T.ss01</string>
 		<string>T.ss02</string>
 		<string>Tbar</string>
+		<string>Tbar.ss02</string>
 		<string>Tcaron</string>
+		<string>Tcaron.ss02</string>
 		<string>Tcedilla</string>
+		<string>Tcedilla.ss02</string>
 		<string>Tcommaaccent</string>
-		<string>Thorn</string>
+		<string>Tcommaaccent.ss02</string>
 		<string>U</string>
 		<string>U.ss02</string>
 		<string>Uacute</string>
 		<string>Uacute.ss02</string>
 		<string>Ubreve</string>
+		<string>Ubreve.ss02</string>
 		<string>Ucaron</string>
+		<string>Ucaron.ss02</string>
 		<string>Ucircumflex</string>
+		<string>Ucircumflex.ss02</string>
 		<string>Udieresis</string>
+		<string>Udieresis.ss02</string>
 		<string>Udieresisacute</string>
+		<string>Udieresisacute.ss02</string>
 		<string>Udieresiscaron</string>
+		<string>Udieresiscaron.ss02</string>
 		<string>Udieresisgrave</string>
+		<string>Udieresisgrave.ss02</string>
 		<string>Udieresismacron</string>
+		<string>Udieresismacron.ss02</string>
 		<string>Udotbelow</string>
+		<string>Udotbelow.ss02</string>
 		<string>Ugrave</string>
+		<string>Ugrave.ss02</string>
 		<string>Uhookabove</string>
+		<string>Uhookabove.ss02</string>
 		<string>Uhorn</string>
+		<string>Uhorn.ss02</string>
 		<string>Uhornacute</string>
+		<string>Uhornacute.ss02</string>
 		<string>Uhorndotbelow</string>
+		<string>Uhorndotbelow.ss02</string>
 		<string>Uhorngrave</string>
+		<string>Uhorngrave.ss02</string>
 		<string>Uhornhookabove</string>
+		<string>Uhornhookabove.ss02</string>
 		<string>Uhorntilde</string>
+		<string>Uhorntilde.ss02</string>
 		<string>Uhungarumlaut</string>
+		<string>Uhungarumlaut.ss02</string>
 		<string>Umacron</string>
+		<string>Umacron.ss02</string>
 		<string>Uogonek</string>
+		<string>Uogonek.ss02</string>
 		<string>Uring</string>
+		<string>Uring.ss02</string>
 		<string>Utilde</string>
+		<string>Utilde.ss02</string>
 		<string>V</string>
 		<string>V.ss02</string>
 		<string>W</string>
 		<string>W.ss02</string>
 		<string>Wacute</string>
+		<string>Wacute.ss02</string>
 		<string>Wcircumflex</string>
+		<string>Wcircumflex.ss02</string>
 		<string>Wdieresis</string>
+		<string>Wdieresis.ss02</string>
 		<string>Wgrave</string>
+		<string>Wgrave.ss02</string>
 		<string>X</string>
 		<string>X.ss02</string>
 		<string>Y</string>
 		<string>Y.ss02</string>
 		<string>Yacute</string>
+		<string>Yacute.ss02</string>
 		<string>Ycircumflex</string>
+		<string>Ycircumflex.ss02</string>
 		<string>Ydieresis</string>
+		<string>Ydieresis.ss02</string>
 		<string>Ydotbelow</string>
+		<string>Ydotbelow.ss02</string>
 		<string>Ygrave</string>
+		<string>Ygrave.ss02</string>
 		<string>Yhookabove</string>
+		<string>Yhookabove.ss02</string>
 		<string>Ymacron</string>
+		<string>Ymacron.ss02</string>
 		<string>Ytilde</string>
+		<string>Ytilde.ss02</string>
 		<string>Z</string>
 		<string>Z.ss02</string>
 		<string>Zacute</string>
+		<string>Zacute.ss02</string>
 		<string>Zcaron</string>
+		<string>Zcaron.ss02</string>
 		<string>Zdotaccent</string>
+		<string>Zdotaccent.ss02</string>
 		<string>a</string>
 		<string>a.ss02</string>
 		<string>aacute</string>
 		<string>aacute.ss02</string>
 		<string>abreve</string>
+		<string>abreve.ss02</string>
 		<string>abreveacute</string>
+		<string>abreveacute.ss02</string>
 		<string>abrevedotbelow</string>
+		<string>abrevedotbelow.ss02</string>
 		<string>abrevegrave</string>
+		<string>abrevegrave.ss02</string>
 		<string>abrevehookabove</string>
+		<string>abrevehookabove.ss02</string>
 		<string>abrevetilde</string>
+		<string>abrevetilde.ss02</string>
 		<string>acaron</string>
+		<string>acaron.ss02</string>
 		<string>acircumflex</string>
+		<string>acircumflex.ss02</string>
 		<string>acircumflexacute</string>
+		<string>acircumflexacute.ss02</string>
 		<string>acircumflexdotbelow</string>
+		<string>acircumflexdotbelow.ss02</string>
 		<string>acircumflexgrave</string>
+		<string>acircumflexgrave.ss02</string>
 		<string>acircumflexhookabove</string>
+		<string>acircumflexhookabove.ss02</string>
 		<string>acircumflextilde</string>
+		<string>acircumflextilde.ss02</string>
 		<string>adieresis</string>
 		<string>adieresis.ss02</string>
 		<string>adieresismacron</string>
+		<string>adieresismacron.ss02</string>
 		<string>adotaccent</string>
+		<string>adotaccent.ss02</string>
 		<string>adotbelow</string>
+		<string>adotbelow.ss02</string>
 		<string>adotmacron</string>
-		<string>ae</string>
-		<string>aeacute</string>
-		<string>aemacron</string>
+		<string>adotmacron.ss02</string>
 		<string>agrave</string>
+		<string>agrave.ss02</string>
 		<string>ahookabove</string>
+		<string>ahookabove.ss02</string>
 		<string>amacron</string>
+		<string>amacron.ss02</string>
 		<string>aogonek</string>
+		<string>aogonek.ss02</string>
 		<string>aring</string>
 		<string>aring.ss02</string>
 		<string>aringacute</string>
+		<string>aringacute.ss02</string>
 		<string>atilde</string>
+		<string>atilde.ss02</string>
+		<string>ae</string>
+		<string>aeacute</string>
+		<string>aemacron</string>
 		<string>b</string>
 		<string>c</string>
 		<string>c.ss02</string>
 		<string>cacute</string>
+		<string>cacute.ss02</string>
 		<string>ccaron</string>
+		<string>ccaron.ss02</string>
 		<string>ccedilla</string>
+		<string>ccedilla.ss02</string>
 		<string>ccircumflex</string>
+		<string>ccircumflex.ss02</string>
 		<string>cdotaccent</string>
+		<string>cdotaccent.ss02</string>
 		<string>d</string>
 		<string>d.ss02</string>
+		<string>eth</string>
 		<string>dcaron</string>
+		<string>dcaron.ss02</string>
 		<string>dcroat</string>
+		<string>dcroat.ss02</string>
 		<string>dz</string>
 		<string>dzcaron</string>
 		<string>e</string>
@@ -317,88 +465,140 @@
 		<string>eacute</string>
 		<string>eacute.ss02</string>
 		<string>ebreve</string>
+		<string>ebreve.ss02</string>
 		<string>ecaron</string>
+		<string>ecaron.ss02</string>
 		<string>ecedilla</string>
+		<string>ecedilla.ss02</string>
 		<string>ecircumflex</string>
+		<string>ecircumflex.ss02</string>
 		<string>ecircumflexacute</string>
+		<string>ecircumflexacute.ss02</string>
 		<string>ecircumflexdotbelow</string>
+		<string>ecircumflexdotbelow.ss02</string>
 		<string>ecircumflexgrave</string>
+		<string>ecircumflexgrave.ss02</string>
 		<string>ecircumflexhookabove</string>
+		<string>ecircumflexhookabove.ss02</string>
 		<string>ecircumflextilde</string>
+		<string>ecircumflextilde.ss02</string>
 		<string>edieresis</string>
+		<string>edieresis.ss02</string>
 		<string>edotaccent</string>
+		<string>edotaccent.ss02</string>
 		<string>edotbelow</string>
+		<string>edotbelow.ss02</string>
 		<string>egrave</string>
+		<string>egrave.ss02</string>
 		<string>ehookabove</string>
+		<string>ehookabove.ss02</string>
 		<string>einvertedbreve</string>
+		<string>einvertedbreve.ss02</string>
 		<string>emacron</string>
-		<string>eng</string>
+		<string>emacron.ss02</string>
 		<string>eogonek</string>
-		<string>eth</string>
+		<string>eogonek.ss02</string>
 		<string>etilde</string>
+		<string>etilde.ss02</string>
 		<string>f</string>
 		<string>f.ss02</string>
 		<string>g</string>
 		<string>g.ss02</string>
 		<string>gacute</string>
+		<string>gacute.ss02</string>
 		<string>gbreve</string>
+		<string>gbreve.ss02</string>
 		<string>gcaron</string>
+		<string>gcaron.ss02</string>
 		<string>gcircumflex</string>
+		<string>gcircumflex.ss02</string>
 		<string>gcommaaccent</string>
+		<string>gcommaaccent.ss02</string>
 		<string>gdotaccent</string>
-		<string>germandbls</string>
+		<string>gdotaccent.ss02</string>
 		<string>h</string>
 		<string>h.ss02</string>
 		<string>hbar</string>
+		<string>hbar.ss02</string>
 		<string>hcaron</string>
+		<string>hcaron.ss02</string>
 		<string>hcircumflex</string>
+		<string>hcircumflex.ss02</string>
 		<string>i</string>
 		<string>i.ss02</string>
+		<string>idotless</string>
 		<string>idotless.ss02</string>
 		<string>iacute</string>
 		<string>iacute.ss02</string>
 		<string>ibreve</string>
+		<string>ibreve.ss02</string>
 		<string>icaron</string>
+		<string>icaron.ss02</string>
 		<string>icircumflex</string>
+		<string>icircumflex.ss02</string>
 		<string>idieresis</string>
+		<string>idieresis.ss02</string>
+		<string>idotaccent.ss02</string>
 		<string>idotbelow</string>
-		<string>idotless</string>
+		<string>idotbelow.ss02</string>
 		<string>igrave</string>
+		<string>igrave.ss02</string>
 		<string>ihookabove</string>
+		<string>ihookabove.ss02</string>
 		<string>iinvertedbreve</string>
+		<string>iinvertedbreve.ss02</string>
 		<string>ij</string>
+		<string>ij.ss02</string>
 		<string>imacron</string>
+		<string>imacron.ss02</string>
 		<string>iogonek</string>
+		<string>iogonek.ss02</string>
 		<string>itilde</string>
+		<string>itilde.ss02</string>
 		<string>j</string>
+		<string>jdotless</string>
 		<string>jcaron</string>
 		<string>jcircumflex</string>
-		<string>jdotless</string>
 		<string>k</string>
 		<string>k.ss02</string>
 		<string>kcaron</string>
+		<string>kcaron.ss02</string>
 		<string>kcommaaccent</string>
+		<string>kcommaaccent.ss02</string>
 		<string>kgreenlandic</string>
 		<string>l</string>
 		<string>l.ss02</string>
 		<string>lacute</string>
+		<string>lacute.ss02</string>
 		<string>lcaron</string>
+		<string>lcaron.ss02</string>
 		<string>lcommaaccent</string>
+		<string>lcommaaccent.ss02</string>
 		<string>ldot</string>
+		<string>ldot.ss02</string>
 		<string>lj</string>
-		<string>longs</string>
+		<string>lj.ss02</string>
 		<string>lslash</string>
+		<string>lslash.ss02</string>
 		<string>m</string>
 		<string>m.ss02</string>
 		<string>n</string>
 		<string>n.ss02</string>
 		<string>nacute</string>
+		<string>nacute.ss02</string>
 		<string>napostrophe</string>
+		<string>napostrophe.ss02</string>
 		<string>ncaron</string>
+		<string>ncaron.ss02</string>
 		<string>ncommaaccent</string>
+		<string>ncommaaccent.ss02</string>
 		<string>ngrave</string>
+		<string>ngrave.ss02</string>
+		<string>eng</string>
 		<string>nj</string>
+		<string>nj.ss02</string>
 		<string>ntilde</string>
+		<string>ntilde.ss02</string>
 		<string>o</string>
 		<string>oacute</string>
 		<string>obreve</string>
@@ -412,7 +612,6 @@
 		<string>odieresis</string>
 		<string>odieresismacron</string>
 		<string>odotbelow</string>
-		<string>oe</string>
 		<string>ograve</string>
 		<string>ohookabove</string>
 		<string>ohorn</string>
@@ -429,7 +628,9 @@
 		<string>oslash</string>
 		<string>oslashacute</string>
 		<string>otilde</string>
+		<string>oe</string>
 		<string>p</string>
+		<string>thorn</string>
 		<string>q</string>
 		<string>r</string>
 		<string>racute</string>
@@ -442,40 +643,68 @@
 		<string>scedilla</string>
 		<string>scircumflex</string>
 		<string>scommaaccent</string>
+		<string>germandbls</string>
+		<string>longs</string>
 		<string>t</string>
 		<string>t.ss02</string>
 		<string>tbar</string>
+		<string>tbar.ss02</string>
 		<string>tcaron</string>
+		<string>tcaron.ss02</string>
 		<string>tcedilla</string>
+		<string>tcedilla.ss02</string>
 		<string>tcommaaccent</string>
-		<string>thorn</string>
+		<string>tcommaaccent.ss02</string>
 		<string>u</string>
 		<string>u.ss02</string>
 		<string>uacute</string>
 		<string>uacute.ss02</string>
 		<string>ubreve</string>
+		<string>ubreve.ss02</string>
 		<string>ucaron</string>
+		<string>ucaron.ss02</string>
 		<string>ucircumflex</string>
+		<string>ucircumflex.ss02</string>
 		<string>udieresis</string>
+		<string>udieresis.ss02</string>
 		<string>udieresisacute</string>
+		<string>udieresisacute.ss02</string>
 		<string>udieresiscaron</string>
+		<string>udieresiscaron.ss02</string>
 		<string>udieresisgrave</string>
+		<string>udieresisgrave.ss02</string>
 		<string>udieresismacron</string>
+		<string>udieresismacron.ss02</string>
 		<string>udotbelow</string>
+		<string>udotbelow.ss02</string>
 		<string>ugrave</string>
+		<string>ugrave.ss02</string>
 		<string>uhookabove</string>
+		<string>uhookabove.ss02</string>
 		<string>uhorn</string>
+		<string>uhorn.ss02</string>
 		<string>uhornacute</string>
+		<string>uhornacute.ss02</string>
 		<string>uhorndotbelow</string>
+		<string>uhorndotbelow.ss02</string>
 		<string>uhorngrave</string>
+		<string>uhorngrave.ss02</string>
 		<string>uhornhookabove</string>
+		<string>uhornhookabove.ss02</string>
 		<string>uhorntilde</string>
+		<string>uhorntilde.ss02</string>
 		<string>uhungarumlaut</string>
+		<string>uhungarumlaut.ss02</string>
 		<string>uinvertedbreve</string>
+		<string>uinvertedbreve.ss02</string>
 		<string>umacron</string>
+		<string>umacron.ss02</string>
 		<string>uogonek</string>
+		<string>uogonek.ss02</string>
 		<string>uring</string>
+		<string>uring.ss02</string>
 		<string>utilde</string>
+		<string>utilde.ss02</string>
 		<string>v</string>
 		<string>w</string>
 		<string>wacute</string>
@@ -487,13 +716,21 @@
 		<string>y</string>
 		<string>y.ss02</string>
 		<string>yacute</string>
+		<string>yacute.ss02</string>
 		<string>ycircumflex</string>
+		<string>ycircumflex.ss02</string>
 		<string>ydieresis</string>
+		<string>ydieresis.ss02</string>
 		<string>ydotbelow</string>
+		<string>ydotbelow.ss02</string>
 		<string>ygrave</string>
+		<string>ygrave.ss02</string>
 		<string>yhookabove</string>
+		<string>yhookabove.ss02</string>
 		<string>ymacron</string>
+		<string>ymacron.ss02</string>
 		<string>ytilde</string>
+		<string>ytilde.ss02</string>
 		<string>z</string>
 		<string>zacute</string>
 		<string>zcaron</string>
@@ -508,78 +745,54 @@
 		<string>ordmasculine</string>
 		<string>clickdental</string>
 		<string>clicklateral</string>
-		<string>Alpha</string>
-		<string>Beta</string>
-		<string>Chi</string>
 		<string>Delta</string>
-		<string>Epsilon</string>
-		<string>Eta</string>
-		<string>Iota</string>
-		<string>Iotadieresis</string>
-		<string>Kappa</string>
-		<string>Mu</string>
-		<string>Nu</string>
 		<string>Omega</string>
-		<string>Omicron</string>
-		<string>Rho</string>
-		<string>Tau</string>
-		<string>Upsilon</string>
-		<string>Upsilondieresis</string>
-		<string>UpsilondieresishookSymbol</string>
-		<string>UpsilonhookSymbol</string>
-		<string>Zeta</string>
-		<string>beta</string>
-		<string>chi</string>
-		<string>kappa</string>
-		<string>kappaSymbol</string>
 		<string>mu</string>
-		<string>omicron</string>
 		<string>pi</string>
 		<string>piSymbol</string>
-		<string>rho</string>
-		<string>rhoSymbol</string>
-		<string>eight</string>
-		<string>five</string>
-		<string>four</string>
-		<string>nine</string>
-		<string>one</string>
-		<string>seven</string>
-		<string>six</string>
-		<string>three</string>
-		<string>two</string>
 		<string>zero</string>
-		<string>eight.dnom</string>
-		<string>eight.numr</string>
-		<string>five.dnom</string>
-		<string>five.numr</string>
-		<string>fiveeighths</string>
-		<string>four.dnom</string>
-		<string>four.numr</string>
-		<string>fraction</string>
-		<string>nine.dnom</string>
-		<string>nine.numr</string>
+		<string>one</string>
+		<string>two</string>
+		<string>three</string>
+		<string>four</string>
+		<string>five</string>
+		<string>six</string>
+		<string>seven</string>
+		<string>eight</string>
+		<string>nine</string>
+		<string>zero.dnom</string>
 		<string>one.dnom</string>
+		<string>two.dnom</string>
+		<string>three.dnom</string>
+		<string>four.dnom</string>
+		<string>five.dnom</string>
+		<string>six.dnom</string>
+		<string>seven.dnom</string>
+		<string>eight.dnom</string>
+		<string>nine.dnom</string>
+		<string>zero.numr</string>
 		<string>one.numr</string>
-		<string>oneeighth</string>
+		<string>two.numr</string>
+		<string>three.numr</string>
+		<string>four.numr</string>
+		<string>five.numr</string>
+		<string>six.numr</string>
+		<string>seven.numr</string>
+		<string>eight.numr</string>
+		<string>nine.numr</string>
+		<string>fraction</string>
 		<string>onehalf</string>
 		<string>onequarter</string>
-		<string>seven.dnom</string>
-		<string>seven.numr</string>
-		<string>six.dnom</string>
-		<string>six.numr</string>
-		<string>three.dnom</string>
-		<string>three.numr</string>
-		<string>threeeighths</string>
 		<string>threequarters</string>
-		<string>two.dnom</string>
-		<string>two.numr</string>
-		<string>zero.dnom</string>
-		<string>zero.numr</string>
+		<string>oneeighth</string>
+		<string>threeeighths</string>
+		<string>fiveeighths</string>
 		<string>onesuperior</string>
-		<string>threesuperior</string>
 		<string>twosuperior</string>
+		<string>threesuperior</string>
 		<string>asterisk</string>
 		<string>backslash</string>
+		<string>periodcentered</string>
 		<string>bullet</string>
 		<string>colon</string>
 		<string>comma</string>
@@ -589,7 +802,6 @@
 		<string>interrobang</string>
 		<string>numbersign</string>
 		<string>period</string>
-		<string>periodcentered</string>
 		<string>question</string>
 		<string>questiondown</string>
 		<string>quotedbl</string>
@@ -620,8 +832,8 @@
 		<string>period-arm</string>
 		<string>anoteleia</string>
 		<string>questiongreek</string>
-		<string>nbspace</string>
 		<string>space</string>
+		<string>nbspace</string>
 		<string>cent</string>
 		<string>currency</string>
 		<string>dollar</string>
@@ -630,71 +842,71 @@
 		<string>rupee</string>
 		<string>sterling</string>
 		<string>yen</string>
-		<string>Ohm</string>
-		<string>approxequal</string>
-		<string>asciitilde</string>
-		<string>divide</string>
 		<string>divisionslash</string>
-		<string>equal</string>
-		<string>greater</string>
-		<string>greaterequal</string>
-		<string>increment</string>
-		<string>infinity</string>
-		<string>integral</string>
-		<string>less</string>
-		<string>lessequal</string>
-		<string>logicalnot</string>
-		<string>micro</string>
+		<string>plus</string>
 		<string>minus</string>
 		<string>multiply</string>
+		<string>divide</string>
+		<string>equal</string>
 		<string>notequal</string>
+		<string>greater</string>
+		<string>less</string>
+		<string>greaterequal</string>
+		<string>lessequal</string>
+		<string>plusminus</string>
+		<string>approxequal</string>
+		<string>asciitilde</string>
+		<string>logicalnot</string>
+		<string>infinity</string>
+		<string>integral</string>
+		<string>Ohm</string>
+		<string>increment</string>
+		<string>product</string>
+		<string>summation</string>
+		<string>radical</string>
+		<string>micro</string>
 		<string>partialdiff</string>
 		<string>percent</string>
 		<string>perthousand</string>
-		<string>plus</string>
-		<string>plusminus</string>
-		<string>product</string>
-		<string>radical</string>
-		<string>summation</string>
 		<string>lozenge</string>
-		<string>ampersand</string>
-		<string>asciicircum</string>
+		<string>floralHeart</string>
 		<string>at</string>
+		<string>ampersand</string>
+		<string>paragraph</string>
+		<string>section</string>
+		<string>copyright</string>
+		<string>registered</string>
+		<string>trademark</string>
+		<string>degree</string>
 		<string>bar</string>
 		<string>brokenbar</string>
-		<string>chestnut</string>
-		<string>copyright</string>
 		<string>dagger</string>
 		<string>daggerdbl</string>
-		<string>degree</string>
-		<string>floralHeart</string>
-		<string>paragraph</string>
-		<string>registered</string>
-		<string>section</string>
-		<string>trademark</string>
+		<string>asciicircum</string>
+		<string>chestnut</string>
 		<string>numeral-greek</string>
-		<string>acutecomb</string>
-		<string>acutetonecomb</string>
-		<string>brevecomb</string>
-		<string>caroncomb</string>
-		<string>cedillacomb</string>
-		<string>circumflexbelowcomb</string>
-		<string>circumflexcomb</string>
-		<string>commaaccentcomb</string>
 		<string>dieresiscomb</string>
 		<string>dotaccentcomb</string>
-		<string>dotbelowcomb</string>
 		<string>gravecomb</string>
-		<string>gravetonecomb</string>
+		<string>acutecomb</string>
+		<string>hungarumlautcomb</string>
+		<string>circumflexcomb</string>
+		<string>caroncomb</string>
+		<string>brevecomb</string>
+		<string>ringcomb</string>
+		<string>tildecomb</string>
+		<string>macroncomb</string>
 		<string>hookabovecomb</string>
 		<string>horncomb</string>
-		<string>hungarumlautcomb</string>
-		<string>macronbelowcomb</string>
-		<string>macroncomb</string>
+		<string>dotbelowcomb</string>
+		<string>commaaccentcomb</string>
+		<string>cedillacomb</string>
 		<string>ogonekcomb</string>
-		<string>ringcomb</string>
-		<string>strokeshortoverlaycomb</string>
-		<string>tildecomb</string>
+		<string>circumflexbelowcomb</string>
+		<string>macronbelowcomb</string>
+		<string>strokeshortcomb</string>
+		<string>gravetonecomb</string>
+		<string>acutetonecomb</string>
 		<string>apostrophemod</string>
 		<string>doubleprimemod</string>
 		<string>primemod</string>

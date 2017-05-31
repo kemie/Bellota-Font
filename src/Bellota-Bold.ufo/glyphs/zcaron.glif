@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zcaron" format="1">
-  <advance width="545"/>
+  <advance width="469"/>
   <unicode hex="017E"/>
   <outline>
     <component base="z"/>
-    <component base="caroncomb" xOffset="274" yOffset="-3"/>
+    <component base="caroncomb" xOffset="253" yOffset="-3"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:48:35 +0000</string>
       <key>position</key>
       <integer>102</integer>
       <key>width</key>

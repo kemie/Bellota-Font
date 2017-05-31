@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uinvertedbreve" format="1">
-  <advance width="635"/>
+  <advance width="582"/>
   <unicode hex="0217"/>
   <outline>
-    <component base="breve" xOffset="237" yOffset="1292" yScale="-1"/>
-    <component base="u" xOffset="-19" yOffset="11"/>
+    <component base="breve" xOffset="588" yOffset="1317" xScale="-1" yScale="-1"/>
+    <component base="u" xOffset="1" yOffset="11"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:24:49 +0000</string>
       <key>position</key>
       <integer>415</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
       <key>width</key>
       <integer>55</integer>
     </dict>

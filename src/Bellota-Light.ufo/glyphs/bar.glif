@@ -1,19 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bar" format="1">
-  <advance width="188"/>
+  <advance width="258"/>
   <unicode hex="007C"/>
   <outline>
     <contour>
-      <point x="100" y="-70" type="line"/>
-      <point x="100" y="752" type="line"/>
-      <point x="52" y="752" type="line"/>
-      <point x="52" y="-70" type="line"/>
+      <point x="153" y="-70" type="line"/>
+      <point x="153" y="752" type="line"/>
+      <point x="105" y="752" type="line"/>
+      <point x="105" y="-70" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:50:08 +0000</string>
       <key>position</key>
       <integer>54</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
       <key>width</key>
       <integer>61</integer>
     </dict>

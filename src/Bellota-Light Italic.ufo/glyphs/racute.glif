@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="racute" format="1">
-  <advance width="341"/>
+  <advance width="325"/>
   <unicode hex="0155"/>
   <outline>
     <component base="r"/>
-    <component base="acutecomb" xOffset="278" yOffset="1"/>
+    <component base="acutecomb" xOffset="204" yOffset="5"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:27:47 +0000</string>
       <key>position</key>
       <integer>80</integer>
       <key>width</key>

@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Odieresis" format="1">
-  <advance width="805"/>
+  <advance width="783"/>
   <unicode hex="00D6"/>
   <outline>
     <component base="O"/>
-    <component base="dieresiscomb" xOffset="381" yOffset="188"/>
+    <component base="dieresiscomb" xOffset="403" yOffset="188"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:49:28 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>O</string>
       <key>position</key>

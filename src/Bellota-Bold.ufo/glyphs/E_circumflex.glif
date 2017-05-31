@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ecircumflex" format="1">
-  <advance width="659"/>
+  <advance width="635"/>
   <unicode hex="00CA"/>
   <outline>
     <component base="E"/>
-    <component base="circumflexcomb" xOffset="354" yOffset="179"/>
+    <component base="circumflexcomb" xOffset="361" yOffset="188"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:43:37 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>E</string>
       <key>position</key>

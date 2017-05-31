@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Zacute" format="1">
-  <advance width="581"/>
+  <advance width="532"/>
   <unicode hex="0179"/>
   <outline>
     <component base="Z"/>
-    <component base="acutecomb" xOffset="388" yOffset="187"/>
+    <component base="acutecomb" xOffset="321" yOffset="191"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:27:47 +0000</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>Z</string>
       <key>position</key>

@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Abreveacute" format="1">
-  <advance width="771"/>
+  <advance width="709"/>
   <unicode hex="1EAE"/>
   <outline>
     <component base="A"/>
-    <component base="brevecomb" xOffset="406" yOffset="190"/>
-    <component base="acutecomb" xOffset="477" yOffset="404"/>
+    <component base="brevecomb" xOffset="397" yOffset="190"/>
+    <component base="acutecomb" xOffset="474" yOffset="404"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:43:37 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>A</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

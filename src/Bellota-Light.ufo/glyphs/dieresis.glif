@@ -1,18 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dieresis" format="1">
-  <advance width="433"/>
+  <advance width="407"/>
   <unicode hex="00A8"/>
   <outline>
-    <component base="period" xOffset="7" yOffset="567"/>
-    <component base="period" xOffset="229" yOffset="567"/>
+    <component base="period" xOffset="-18" yOffset="567"/>
+    <component base="period" xOffset="204" yOffset="567"/>
     <contour>
-      <point x="202" y="504" type="move" name="_top"/>
+      <point x="177" y="504" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-30 12:53:48 +0000</string>
       <key>position</key>
       <integer>277</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
       <key>width</key>
       <integer>81</integer>
     </dict>

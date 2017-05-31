@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Scaron" format="1">
-  <advance width="550"/>
+  <advance width="496"/>
   <unicode hex="0160"/>
   <outline>
     <component base="S"/>
-    <component base="caroncomb" xOffset="268" yOffset="210"/>
+    <component base="caroncomb" xOffset="258" yOffset="214"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:43:37 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>S</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

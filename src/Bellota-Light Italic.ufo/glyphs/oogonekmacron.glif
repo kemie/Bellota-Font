@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oogonekmacron" format="1">
-  <advance width="601"/>
+  <advance width="552"/>
   <unicode hex="01ED"/>
   <outline>
     <component base="o"/>
-    <component base="ogonekcomb" xOffset="337" yOffset="53"/>
-    <component base="macroncomb" xOffset="286" yOffset="1"/>
+    <component base="ogonekcomb" xOffset="400" yOffset="57"/>
+    <component base="macroncomb" xOffset="281" yOffset="5"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:27:47 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>c</string>
       <key>position</key>

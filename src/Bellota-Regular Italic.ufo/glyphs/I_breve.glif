@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ibreve" format="1">
-  <advance width="204"/>
+  <advance width="232"/>
   <unicode hex="012C"/>
   <outline>
     <component base="I"/>
-    <component base="brevecomb" xOffset="107" yOffset="184"/>
+    <component base="brevecomb" xOffset="142" yOffset="184"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:24:56 +0000</string>
       <key>position</key>
       <integer>166</integer>
       <key>width</key>

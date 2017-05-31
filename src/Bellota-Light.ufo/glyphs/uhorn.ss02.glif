@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uhorn.ss02" format="1">
+  <advance width="504"/>
+  <outline>
+    <component base="u.ss02"/>
+    <component base="horncomb" xOffset="480" yOffset="-146"/>
+    <contour>
+      <point x="250" y="500" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="250" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:49:55 +0000</string>
+    </dict>
+  </lib>
+</glyph>

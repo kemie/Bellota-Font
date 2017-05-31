@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="udotbelow" format="1">
-  <advance width="635"/>
+  <advance width="586"/>
   <unicode hex="1EE5"/>
   <outline>
     <component base="u"/>
-    <component base="dotbelowcomb" xOffset="262" yOffset="3"/>
+    <component base="dotbelowcomb" xOffset="283" yOffset="3"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:49:12 +0000</string>
+    </dict>
+  </lib>
 </glyph>

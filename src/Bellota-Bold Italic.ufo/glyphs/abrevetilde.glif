@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="abrevetilde" format="1">
-  <advance width="625"/>
+  <advance width="572"/>
   <unicode hex="1EB5"/>
   <outline>
     <component base="a"/>
-    <component base="brevecomb" xOffset="282" yOffset="8"/>
-    <component base="tildecomb" xOffset="316" yOffset="253"/>
+    <component base="brevecomb" xOffset="278" yOffset="20"/>
+    <component base="tildecomb" xOffset="311" yOffset="261"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:27:47 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>c</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

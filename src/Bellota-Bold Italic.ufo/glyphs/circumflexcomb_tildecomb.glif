@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="circumflexcomb_tildecomb" format="1">
-  <advance width="600"/>
+  <advance width="0"/>
   <outline>
-    <component base="circumflexcomb"/>
-    <component base="tildecomb" xOffset="33" yOffset="222"/>
+    <component base="circumflexcomb" xOffset="-4"/>
+    <component base="tildecomb" xOffset="26" yOffset="218"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 08:14:39 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="abreve" format="1">
-  <advance width="605"/>
+  <advance width="536"/>
   <unicode hex="0103"/>
   <outline>
     <component base="a"/>
-    <component base="brevecomb" xOffset="268" yOffset="8"/>
+    <component base="brevecomb" xOffset="254" yOffset="8"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:43:37 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>c</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aacute" format="1">
-  <advance width="613"/>
+  <advance width="561"/>
   <unicode hex="00E1"/>
   <outline>
     <component base="a"/>
-    <component base="acutecomb" xOffset="383" yOffset="8"/>
+    <component base="acutecomb" xOffset="274" yOffset="8"/>
     <contour>
       <point x="63" y="501" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:27:47 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>c</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

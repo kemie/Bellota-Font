@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lacute" format="1">
-  <advance width="512"/>
+  <advance width="498"/>
   <unicode hex="0139"/>
   <outline>
     <component base="L"/>
-    <component base="acute" xOffset="183" yOffset="184"/>
+    <component base="acute" xOffset="233" yOffset="184"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:51:37 +0000</string>
       <key>position</key>
       <integer>110</integer>
       <key>width</key>

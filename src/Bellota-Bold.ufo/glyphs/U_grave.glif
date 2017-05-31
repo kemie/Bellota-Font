@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ugrave" format="1">
-  <advance width="759"/>
+  <advance width="749"/>
   <unicode hex="00D9"/>
   <outline>
     <component base="U"/>
-    <component base="gravecomb" xOffset="343" yOffset="179"/>
+    <component base="gravecomb" xOffset="344" yOffset="179"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:49:55 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>E</string>
       <key>position</key>

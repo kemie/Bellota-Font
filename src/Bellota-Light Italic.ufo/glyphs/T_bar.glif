@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tbar" format="1">
-  <advance width="619"/>
+  <advance width="593"/>
   <unicode hex="0166"/>
   <outline>
     <component base="T"/>
-    <component base="macron" xOffset="135" yOffset="188"/>
+    <component base="strokeshortcomb" xOffset="306" yOffset="54"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:27:47 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>T</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

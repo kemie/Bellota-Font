@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="D" format="1">
-  <advance width="801"/>
+  <advance width="777"/>
   <unicode hex="0044"/>
   <outline>
     <contour>
@@ -53,7 +53,10 @@
       <point x="336" y="33" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="365" y="-6" type="move" name="center"/>
+      <point x="196" y="341" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="366" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
       <point x="463" y="692" type="move" name="top"/>
@@ -61,10 +64,16 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:24:57 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>E</string>
       <key>position</key>
       <integer>674</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
       <key>width</key>
       <integer>60</integer>
     </dict>

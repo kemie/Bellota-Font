@@ -3,10 +3,18 @@
   <advance width="0"/>
   <unicode hex="0303"/>
   <outline>
-    <component base="tilde" xOffset="-248"/>
+    <component base="tilde" xOffset="-258"/>
+    <contour>
+      <point x="58" y="685" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="33" y="500" type="move" name="_top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 08:14:38 +0000</string>
       <key>position</key>
       <integer>674</integer>
       <key>width</key>

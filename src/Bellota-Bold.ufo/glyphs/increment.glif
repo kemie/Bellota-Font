@@ -1,27 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="increment" format="1">
-  <advance width="569"/>
+  <advance width="566"/>
   <unicode hex="2206"/>
   <outline>
     <contour>
-      <point x="501" y="-1" type="line"/>
-      <point x="498" y="59" type="line"/>
-      <point x="332" y="670" type="line"/>
-      <point x="205" y="670" type="line"/>
-      <point x="40" y="59" type="line"/>
-      <point x="43" y="-1" type="line"/>
+      <point x="514" y="-1" type="line"/>
+      <point x="511" y="59" type="line"/>
+      <point x="345" y="670" type="line"/>
+      <point x="218" y="670" type="line"/>
+      <point x="53" y="59" type="line"/>
+      <point x="56" y="-1" type="line"/>
     </contour>
     <contour>
-      <point x="266" y="592" type="line"/>
-      <point x="271" y="592" type="line"/>
-      <point x="408" y="77" type="line"/>
-      <point x="129" y="77" type="line"/>
+      <point x="279" y="592" type="line"/>
+      <point x="284" y="592" type="line"/>
+      <point x="421" y="77" type="line"/>
+      <point x="142" y="77" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:50:03 +0000</string>
       <key>position</key>
       <integer>611</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
       <key>width</key>
       <integer>56</integer>
     </dict>

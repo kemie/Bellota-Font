@@ -1,42 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="AE" format="1">
-  <advance width="931"/>
+  <advance width="879"/>
   <unicode hex="00C6"/>
   <outline>
     <contour>
-      <point x="72" y="1" type="line"/>
-      <point x="192" y="233" type="line"/>
-      <point x="399" y="233" type="line"/>
-      <point x="399" y="1" type="line"/>
-      <point x="862" y="1" type="line"/>
-      <point x="862" y="45" type="line"/>
-      <point x="447" y="45" type="line"/>
-      <point x="447" y="341" type="line"/>
-      <point x="770" y="341" type="line"/>
-      <point x="770" y="385" type="line"/>
-      <point x="447" y="385" type="line"/>
-      <point x="447" y="641" type="line"/>
-      <point x="842" y="641" type="line"/>
-      <point x="842" y="685" type="line"/>
-      <point x="373" y="685" type="line"/>
-      <point x="14" y="1" type="line"/>
+      <point x="66" y="1" type="line"/>
+      <point x="186" y="233" type="line"/>
+      <point x="393" y="233" type="line"/>
+      <point x="393" y="1" type="line"/>
+      <point x="856" y="1" type="line"/>
+      <point x="856" y="45" type="line"/>
+      <point x="441" y="45" type="line"/>
+      <point x="441" y="341" type="line"/>
+      <point x="764" y="341" type="line"/>
+      <point x="764" y="385" type="line"/>
+      <point x="441" y="385" type="line"/>
+      <point x="441" y="641" type="line"/>
+      <point x="836" y="641" type="line"/>
+      <point x="836" y="685" type="line"/>
+      <point x="367" y="685" type="line"/>
+      <point x="8" y="1" type="line"/>
     </contour>
     <contour>
-      <point x="374" y="595" type="line"/>
-      <point x="399" y="677" type="line"/>
-      <point x="399" y="277" type="line"/>
-      <point x="212" y="277" type="line"/>
+      <point x="368" y="595" type="line"/>
+      <point x="393" y="677" type="line"/>
+      <point x="393" y="277" type="line"/>
+      <point x="206" y="277" type="line"/>
     </contour>
     <contour>
-      <point x="454" y="690" type="move" name="top"/>
+      <point x="448" y="690" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:50:07 +0000</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>E</string>
       <key>position</key>
       <integer>422</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
       <key>width</key>
       <integer>61</integer>
     </dict>

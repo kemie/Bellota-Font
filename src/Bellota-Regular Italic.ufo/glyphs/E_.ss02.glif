@@ -1,37 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="E.ss02" format="1">
-  <advance width="592"/>
+  <advance width="585"/>
   <outline>
     <contour>
-      <point x="487" y="0" type="line"/>
-      <point x="495" y="57" type="line"/>
-      <point x="86" y="57" type="line"/>
-      <point x="125" y="333" type="line"/>
-      <point x="414" y="333" type="line"/>
-      <point x="422" y="390" type="line"/>
-      <point x="133" y="390" type="line"/>
-      <point x="166" y="627" type="line"/>
-      <point x="555" y="627" type="line"/>
-      <point x="563" y="684" type="line"/>
-      <point x="115" y="684" type="line"/>
-      <point x="19" y="0" type="line"/>
+      <point x="518" y="0" type="line"/>
+      <point x="526" y="57" type="line"/>
+      <point x="117" y="57" type="line"/>
+      <point x="156" y="333" type="line"/>
+      <point x="445" y="333" type="line"/>
+      <point x="453" y="390" type="line"/>
+      <point x="164" y="390" type="line"/>
+      <point x="197" y="627" type="line"/>
+      <point x="586" y="627" type="line"/>
+      <point x="594" y="684" type="line"/>
+      <point x="146" y="684" type="line"/>
+      <point x="50" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="468" y="10" type="move" name="ogonek"/>
+      <point x="518" y="0" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="226" y="0" type="move" name="bottom"/>
+      <point x="257" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="334" y="691" type="move" name="top"/>
+      <point x="365" y="691" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:25:22 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>L</string>
       <key>position</key>
       <integer>95</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
       <key>width</key>
       <integer>61</integer>
     </dict>

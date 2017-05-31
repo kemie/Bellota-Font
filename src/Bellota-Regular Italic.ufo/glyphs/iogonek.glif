@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iogonek" format="1">
-  <advance width="237"/>
+  <advance width="227"/>
   <unicode hex="012F"/>
   <outline>
     <component base="idotless"/>
-    <component base="dotaccent" xOffset="32"/>
-    <component base="ogonek" xOffset="1" yOffset="-1"/>
+    <component base="dotaccent" xOffset="30"/>
+    <component base="ogonek" xOffset="18" yOffset="-1"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:27:47 +0000</string>
       <key>position</key>
       <integer>82</integer>
       <key>width</key>

@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="threesuperior" format="1">
-  <advance width="333"/>
+  <advance width="262"/>
   <unicode hex="00B3"/>
   <outline>
-    <component base="three.numr" xOffset="-19" yOffset="172"/>
+    <component base="three.numr" yOffset="172"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>three</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>three</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:49:23 +0000</string>
     </dict>
   </lib>
 </glyph>

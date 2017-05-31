@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Hcaron" format="1">
-  <advance width="709"/>
+  <advance width="714"/>
   <unicode hex="021E"/>
   <outline>
     <component base="H"/>
-    <component base="caron" xOffset="188" yOffset="179"/>
+    <component base="caron" xOffset="206" yOffset="179"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:49:29 +0000</string>
       <key>position</key>
       <integer>554</integer>
       <key>width</key>

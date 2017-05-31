@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gbreve" format="1">
-  <advance width="751"/>
+  <advance width="725"/>
   <unicode hex="011E"/>
   <outline>
     <component base="G"/>
-    <component base="brevecomb" xOffset="384" yOffset="199"/>
+    <component base="brevecomb" xOffset="386" yOffset="199"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:43:37 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>O</string>
       <key>position</key>

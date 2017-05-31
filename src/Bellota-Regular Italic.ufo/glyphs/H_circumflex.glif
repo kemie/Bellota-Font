@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Hcircumflex" format="1">
-  <advance width="700"/>
+  <advance width="701"/>
   <unicode hex="0124"/>
   <outline>
     <component base="H"/>
-    <component base="circumflexcomb" xOffset="403" yOffset="184"/>
+    <component base="circumflexcomb" xOffset="411" yOffset="184"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:25:22 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>H</string>
       <key>position</key>

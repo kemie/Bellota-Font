@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uinvertedbreve.ss02" format="1">
+  <advance width="523"/>
+  <outline>
+    <component base="u.ss02"/>
+    <component base="breve" xOffset="76" yOffset="1251" yScale="-1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:49:55 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>u.ss02</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>u.ss02</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>u.ss02</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>breve</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

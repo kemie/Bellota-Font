@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ohorntilde" format="1">
-  <advance width="621"/>
+  <advance width="563"/>
   <unicode hex="1EE1"/>
   <outline>
     <component base="ohorn"/>
-    <component base="tildecomb" xOffset="296" yOffset="8"/>
+    <component base="tildecomb" xOffset="283" yOffset="8"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:51:36 +0000</string>
+    </dict>
+  </lib>
 </glyph>

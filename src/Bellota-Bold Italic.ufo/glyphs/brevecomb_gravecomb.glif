@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brevecomb_gravecomb" format="1">
-  <advance width="600"/>
+  <advance width="0"/>
   <outline>
-    <component base="brevecomb"/>
-    <component base="gravecomb" xOffset="-29" yOffset="245"/>
+    <component base="brevecomb" xOffset="22"/>
+    <component base="gravecomb" xOffset="58" yOffset="241"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:52:59 +0000</string>
+    </dict>
+  </lib>
 </glyph>

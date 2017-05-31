@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ecircumflexgrave" format="1">
-  <advance width="512"/>
+  <advance width="456"/>
   <unicode hex="1EC1"/>
   <outline>
     <component base="e"/>
-    <component base="circumflexcomb" xOffset="254" yOffset="8"/>
-    <component base="gravecomb" xOffset="223" yOffset="206"/>
+    <component base="circumflexcomb" xOffset="259" yOffset="12"/>
+    <component base="gravecomb" xOffset="287" yOffset="214"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:27:47 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>c</string>
     </dict>

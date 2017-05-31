@@ -1,22 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acute" format="1">
-  <advance width="299"/>
+  <advance width="234"/>
   <unicode hex="00B4"/>
   <outline>
     <contour>
-      <point x="224" y="666" type="line"/>
-      <point x="196" y="704" type="line"/>
-      <point x="45" y="585" type="line"/>
-      <point x="60" y="562" type="line"/>
+      <point x="206" y="666" type="line"/>
+      <point x="178" y="704" type="line"/>
+      <point x="27" y="585" type="line"/>
+      <point x="42" y="562" type="line"/>
     </contour>
     <contour>
-      <point x="64" y="504" type="move" name="_top"/>
+      <point x="46" y="504" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-30 12:53:45 +0000</string>
       <key>position</key>
       <integer>45</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
       <key>width</key>
       <integer>194</integer>
     </dict>

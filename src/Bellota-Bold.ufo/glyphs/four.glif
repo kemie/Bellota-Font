@@ -1,30 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="four" format="1">
-  <advance width="551"/>
+  <advance width="523"/>
   <unicode hex="0034"/>
   <outline>
     <contour>
-      <point x="415" y="-3" type="line"/>
-      <point x="415" y="122" type="line"/>
-      <point x="496" y="122" type="line"/>
-      <point x="496" y="200" type="line"/>
-      <point x="415" y="200" type="line"/>
-      <point x="415" y="416" type="line"/>
-      <point x="331" y="416" type="line"/>
-      <point x="331" y="200" type="line"/>
-      <point x="121" y="200" type="line"/>
-      <point x="315" y="663" type="line"/>
-      <point x="225" y="663" type="line"/>
-      <point x="23" y="184" type="line"/>
-      <point x="23" y="122" type="line"/>
-      <point x="331" y="122" type="line"/>
-      <point x="331" y="-3" type="line"/>
+      <point x="419" y="-3" type="line"/>
+      <point x="419" y="122" type="line"/>
+      <point x="500" y="122" type="line"/>
+      <point x="500" y="200" type="line"/>
+      <point x="419" y="200" type="line"/>
+      <point x="419" y="416" type="line"/>
+      <point x="335" y="416" type="line"/>
+      <point x="335" y="200" type="line"/>
+      <point x="125" y="200" type="line"/>
+      <point x="319" y="663" type="line"/>
+      <point x="229" y="663" type="line"/>
+      <point x="27" y="184" type="line"/>
+      <point x="27" y="122" type="line"/>
+      <point x="335" y="122" type="line"/>
+      <point x="335" y="-3" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:50:01 +0000</string>
       <key>position</key>
       <integer>338</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
       <key>width</key>
       <integer>62</integer>
     </dict>

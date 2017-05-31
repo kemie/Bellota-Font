@@ -4,9 +4,17 @@
   <unicode hex="0341"/>
   <outline>
     <component base="acutecomb" xOffset="-35"/>
+    <contour>
+      <point x="31" y="726" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="-1" y="500" type="move" name="_top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 07:31:16 +0000</string>
       <key>position</key>
       <integer>35</integer>
       <key>width</key>

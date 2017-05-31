@@ -1,28 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hungarumlaut" format="1">
-  <advance width="504"/>
+  <advance width="436"/>
   <unicode hex="02DD"/>
   <outline>
     <contour>
-      <point x="441" y="701" type="line"/>
-      <point x="384" y="753" type="line"/>
-      <point x="219" y="616" type="line"/>
-      <point x="274" y="565" type="line"/>
+      <point x="420" y="701" type="line"/>
+      <point x="363" y="753" type="line"/>
+      <point x="198" y="616" type="line"/>
+      <point x="253" y="565" type="line"/>
     </contour>
     <contour>
-      <point x="255" y="701" type="line"/>
-      <point x="201" y="753" type="line"/>
-      <point x="35" y="616" type="line"/>
-      <point x="90" y="565" type="line"/>
+      <point x="234" y="701" type="line"/>
+      <point x="180" y="753" type="line"/>
+      <point x="14" y="616" type="line"/>
+      <point x="69" y="565" type="line"/>
     </contour>
     <contour>
-      <point x="185" y="496" type="move" name="_top"/>
+      <point x="164" y="496" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-30 12:53:41 +0000</string>
       <key>position</key>
       <integer>587</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
       <key>width</key>
       <integer>162</integer>
     </dict>

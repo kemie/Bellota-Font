@@ -1,32 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="V.ss02" format="1">
-  <advance width="559"/>
+  <advance width="589"/>
   <outline>
     <contour>
-      <point x="304" y="-1" type="line"/>
-      <point x="624" y="687" type="line"/>
-      <point x="539" y="687" type="line"/>
-      <point x="282" y="132" type="line"/>
-      <point x="188" y="619" type="line" smooth="yes"/>
-      <point x="184" y="647"/>
-      <point x="157" y="692"/>
-      <point x="100" y="692" type="curve" smooth="yes"/>
-      <point x="98" y="692"/>
-      <point x="94" y="691"/>
-      <point x="90" y="691" type="curve"/>
-      <point x="83" y="613" type="line"/>
-      <point x="103" y="610"/>
-      <point x="111" y="612"/>
-      <point x="112" y="601" type="curve"/>
-      <point x="231" y="-1" type="line"/>
+      <point x="300" y="-1" type="line"/>
+      <point x="620" y="687" type="line"/>
+      <point x="535" y="687" type="line"/>
+      <point x="278" y="132" type="line"/>
+      <point x="184" y="619" type="line" smooth="yes"/>
+      <point x="180" y="647"/>
+      <point x="153" y="692"/>
+      <point x="96" y="692" type="curve" smooth="yes"/>
+      <point x="94" y="692"/>
+      <point x="90" y="691"/>
+      <point x="86" y="691" type="curve"/>
+      <point x="79" y="613" type="line"/>
+      <point x="99" y="610"/>
+      <point x="107" y="612"/>
+      <point x="108" y="601" type="curve"/>
+      <point x="227" y="-1" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:25:22 +0000</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>V</string>
       <key>position</key>
       <integer>631</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
       <key>width</key>
       <integer>59</integer>
     </dict>

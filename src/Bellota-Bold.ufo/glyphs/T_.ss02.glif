@@ -1,31 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="T.ss02" format="1">
-  <advance width="630"/>
+  <advance width="598"/>
   <outline>
     <contour>
-      <point x="356" y="-1" type="line"/>
-      <point x="356" y="608" type="line"/>
-      <point x="588" y="608" type="line"/>
-      <point x="588" y="686" type="line"/>
-      <point x="42" y="686" type="line"/>
-      <point x="42" y="608" type="line"/>
-      <point x="274" y="608" type="line"/>
-      <point x="274" y="-1" type="line"/>
+      <point x="340" y="-1" type="line"/>
+      <point x="340" y="608" type="line"/>
+      <point x="572" y="608" type="line"/>
+      <point x="572" y="686" type="line"/>
+      <point x="26" y="686" type="line"/>
+      <point x="26" y="608" type="line"/>
+      <point x="258" y="608" type="line"/>
+      <point x="258" y="-1" type="line"/>
     </contour>
     <contour>
-      <point x="321" y="11" type="move" name="center"/>
+      <point x="305" y="355" type="move" name="center"/>
     </contour>
     <contour>
-      <point x="321" y="11" type="move" name="bottom"/>
+      <point x="298" y="3" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="321" y="11" type="move" name="top"/>
+      <point x="296" y="684" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:12:15 +0000</string>
       <key>position</key>
       <integer>254</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
       <key>width</key>
       <integer>61</integer>
     </dict>

@@ -1,27 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dagger" format="1">
-  <advance width="518"/>
+  <advance width="504"/>
   <unicode hex="2020"/>
   <outline>
     <contour>
-      <point x="285" y="-75" type="line"/>
-      <point x="285" y="425" type="line"/>
-      <point x="453" y="425" type="line"/>
-      <point x="453" y="506" type="line"/>
-      <point x="285" y="506" type="line"/>
-      <point x="285" y="694" type="line"/>
-      <point x="204" y="694" type="line"/>
-      <point x="204" y="506" type="line"/>
-      <point x="35" y="506" type="line"/>
-      <point x="35" y="425" type="line"/>
-      <point x="204" y="425" type="line"/>
-      <point x="204" y="-75" type="line"/>
+      <point x="293" y="-75" type="line"/>
+      <point x="293" y="425" type="line"/>
+      <point x="461" y="425" type="line"/>
+      <point x="461" y="506" type="line"/>
+      <point x="293" y="506" type="line"/>
+      <point x="293" y="694" type="line"/>
+      <point x="212" y="694" type="line"/>
+      <point x="212" y="506" type="line"/>
+      <point x="43" y="506" type="line"/>
+      <point x="43" y="425" type="line"/>
+      <point x="212" y="425" type="line"/>
+      <point x="212" y="-75" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:50:02 +0000</string>
       <key>position</key>
       <integer>207</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
       <key>width</key>
       <integer>59</integer>
     </dict>

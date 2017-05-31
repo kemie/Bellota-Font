@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="udieresiscaron" format="1">
-  <advance width="624"/>
+  <advance width="570"/>
   <unicode hex="01DA"/>
   <outline>
     <component base="u"/>
     <component base="dieresiscomb" xOffset="265"/>
-    <component base="caroncomb" xOffset="263" yOffset="154"/>
+    <component base="caroncomb" xOffset="286" yOffset="154"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:49:12 +0000</string>
+    </dict>
+  </lib>
 </glyph>

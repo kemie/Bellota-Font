@@ -1,19 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotesingle" format="1">
-  <advance width="217"/>
+  <advance width="265"/>
   <unicode hex="0027"/>
   <outline>
     <contour>
-      <point x="130" y="477" type="line"/>
-      <point x="141" y="686" type="line"/>
-      <point x="46" y="686" type="line"/>
-      <point x="57" y="477" type="line"/>
+      <point x="169" y="477" type="line"/>
+      <point x="180" y="686" type="line"/>
+      <point x="85" y="686" type="line"/>
+      <point x="96" y="477" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:50:03 +0000</string>
       <key>position</key>
       <integer>55</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
       <key>width</key>
       <integer>52</integer>
     </dict>

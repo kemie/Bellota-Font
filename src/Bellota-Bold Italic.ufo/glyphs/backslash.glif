@@ -1,19 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="backslash" format="1">
-  <advance width="362"/>
+  <advance width="316"/>
   <unicode hex="005C"/>
   <outline>
     <contour>
-      <point x="273" y="-68" type="line"/>
-      <point x="170" y="750" type="line"/>
-      <point x="84" y="750" type="line"/>
-      <point x="187" y="-68" type="line"/>
+      <point x="265" y="-68" type="line"/>
+      <point x="162" y="750" type="line"/>
+      <point x="76" y="750" type="line"/>
+      <point x="179" y="-68" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:24:47 +0000</string>
       <key>position</key>
       <integer>15</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
       <key>width</key>
       <integer>282</integer>
     </dict>

@@ -1,19 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="divisionslash" format="1">
-  <advance width="412"/>
+  <advance width="405"/>
   <unicode hex="2215"/>
   <outline>
     <contour>
-      <point x="46" y="-46" type="line"/>
-      <point x="403" y="644" type="line"/>
-      <point x="349" y="644" type="line"/>
-      <point x="-8" y="-46" type="line"/>
+      <point x="58" y="-46" type="line"/>
+      <point x="415" y="644" type="line"/>
+      <point x="361" y="644" type="line"/>
+      <point x="4" y="-46" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:24:54 +0000</string>
       <key>position</key>
       <integer>33</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
       <key>width</key>
       <integer>328</integer>
     </dict>

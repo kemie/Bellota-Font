@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ccedilla" format="1">
-  <advance width="520"/>
+  <advance width="457"/>
   <unicode hex="00E7"/>
   <outline>
     <component base="c"/>
-    <component base="cedillacomb" xOffset="285"/>
+    <component base="cedillacomb" xOffset="274"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:52:01 +0000</string>
       <key>position</key>
       <integer>382</integer>
       <key>width</key>

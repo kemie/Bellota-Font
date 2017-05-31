@@ -3,6 +3,18 @@
   <advance width="0"/>
   <unicode hex="0331"/>
   <outline>
-    <component base="macron" xOffset="-309" yOffset="-778"/>
+    <component base="macron" xOffset="-315" yOffset="-778"/>
+    <contour>
+      <point x="-32" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="-60" y="-197" type="move" name="bottom"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 08:14:19 +0000</string>
+    </dict>
+  </lib>
 </glyph>

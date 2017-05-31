@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="adieresismacron" format="1">
-  <advance width="625"/>
+  <advance width="572"/>
   <unicode hex="01DF"/>
   <outline>
     <component base="a"/>
-    <component base="dieresiscomb" xOffset="246" yOffset="4"/>
-    <component base="macroncomb" xOffset="275" yOffset="225"/>
+    <component base="dieresiscomb" xOffset="278" yOffset="13"/>
+    <component base="macroncomb" xOffset="309" yOffset="234"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:27:47 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>c</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

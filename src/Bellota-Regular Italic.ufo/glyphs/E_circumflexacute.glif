@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ecircumflexacute" format="1">
-  <advance width="648"/>
+  <advance width="617"/>
   <unicode hex="1EBE"/>
   <outline>
     <component base="E"/>
-    <component base="circumflexcomb" xOffset="374" yOffset="184"/>
-    <component base="acutecomb" xOffset="480" yOffset="393"/>
+    <component base="circumflexcomb" xOffset="382" yOffset="184"/>
+    <component base="acutecomb" xOffset="414" yOffset="393"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:25:27 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>E</string>
     </dict>

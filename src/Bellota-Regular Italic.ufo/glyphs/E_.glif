@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="E" format="1">
-  <advance width="648"/>
+  <advance width="617"/>
   <unicode hex="0045"/>
   <outline>
     <contour>
@@ -31,7 +31,7 @@
       <point x="95" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="549" y="10" type="move" name="ogonek"/>
+      <point x="543" y="0" type="move" name="ogonek"/>
     </contour>
     <contour>
       <point x="325" y="0" type="move" name="bottom"/>
@@ -42,10 +42,16 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:24:54 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>E</string>
       <key>position</key>
       <integer>130</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
       <key>width</key>
       <integer>61</integer>
     </dict>

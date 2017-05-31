@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="colon" format="1">
-  <advance width="199"/>
+  <advance width="233"/>
   <unicode hex="003A"/>
   <outline>
-    <component base="period" xOffset="-10" yOffset="-6"/>
-    <component base="period" xOffset="-10" yOffset="396"/>
+    <component base="period" xOffset="14" yOffset="-6"/>
+    <component base="period" xOffset="14" yOffset="396"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:50:07 +0000</string>
       <key>position</key>
       <integer>51</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
       <key>width</key>
       <integer>83</integer>
     </dict>

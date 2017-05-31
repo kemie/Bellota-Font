@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Kcaron" format="1">
-  <advance width="636"/>
+  <advance width="647"/>
   <unicode hex="01E8"/>
   <outline>
     <component base="K"/>
-    <component base="caroncomb" xOffset="344" yOffset="188"/>
+    <component base="caroncomb" xOffset="373" yOffset="192"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:25:27 +0000</string>
       <key>position</key>
       <integer>542</integer>
       <key>width</key>

@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brevecomb_hookabovecomb" format="1">
-  <advance width="600"/>
+  <advance width="0"/>
   <outline>
     <component base="brevecomb"/>
-    <component base="hookabovecomb" xOffset="4" yOffset="213"/>
+    <component base="hookabovecomb" xOffset="8" yOffset="218"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 09:36:56 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
 </glyph>

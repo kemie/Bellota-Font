@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="circumflexcomb_tildecomb" format="1">
-  <advance width="600"/>
+  <advance width="0"/>
   <outline>
-    <component base="circumflexcomb"/>
-    <component base="tildecomb" xOffset="2" yOffset="232"/>
+    <component base="circumflexcomb" xOffset="-22"/>
+    <component base="tildecomb" xOffset="3" yOffset="232"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 09:29:19 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
 </glyph>

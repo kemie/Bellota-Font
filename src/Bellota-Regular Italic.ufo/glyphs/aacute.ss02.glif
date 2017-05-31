@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aacute.ss02" format="1">
-  <advance width="480"/>
+  <advance width="427"/>
   <outline>
     <component base="a.ss02"/>
-    <component base="acutecomb" xOffset="311" yOffset="17"/>
+    <component base="acutecomb" xOffset="222" yOffset="9"/>
     <contour>
       <point x="82" y="501" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:27:47 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>c</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

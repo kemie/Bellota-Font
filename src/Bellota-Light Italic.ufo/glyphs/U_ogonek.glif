@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Uogonek" format="1">
-  <advance width="741"/>
+  <advance width="732"/>
   <unicode hex="0172"/>
   <outline>
     <component base="U"/>
-    <component base="ogonekcomb" xOffset="468" yOffset="56"/>
+    <component base="ogonekcomb" xOffset="538" yOffset="56"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:24:40 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>E</string>
       <key>position</key>

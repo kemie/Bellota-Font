@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="jcircumflex" format="1">
-  <advance width="244"/>
+  <advance width="195"/>
   <unicode hex="0135"/>
   <outline>
     <component base="jdotless"/>
-    <component base="circumflexcomb" xOffset="136"/>
+    <component base="circumflexcomb" xOffset="97"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:26:32 +0000</string>
       <key>position</key>
       <integer>119</integer>
       <key>width</key>

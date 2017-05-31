@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Atilde" format="1">
-  <advance width="806"/>
+  <advance width="737"/>
   <unicode hex="00C3"/>
   <outline>
     <component base="A"/>
-    <component base="tildecomb" xOffset="433" yOffset="190"/>
+    <component base="tildecomb" xOffset="444" yOffset="194"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:27:47 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>A</string>
       <key>position</key>

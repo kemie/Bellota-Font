@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Otilde" format="1">
-  <advance width="809"/>
+  <advance width="783"/>
   <unicode hex="00D5"/>
   <outline>
     <component base="O"/>
-    <component base="tildecomb" xOffset="414" yOffset="184"/>
+    <component base="tildecomb" xOffset="416" yOffset="206"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:24:57 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>O</string>
       <key>position</key>

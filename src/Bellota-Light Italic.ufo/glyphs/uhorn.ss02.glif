@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uhorn.ss02" format="1">
+  <advance width="505"/>
+  <outline>
+    <component base="u.ss02"/>
+    <component base="horncomb" xOffset="463" yOffset="-159"/>
+    <contour>
+      <point x="281" y="506" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="171" y="-7" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:25:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

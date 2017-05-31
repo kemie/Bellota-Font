@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Eacute.ss02" format="1">
-  <advance width="592"/>
+  <advance width="585"/>
   <outline>
     <component base="E.ss02"/>
-    <component base="acutecomb" xOffset="368" yOffset="191"/>
+    <component base="acutecomb" xOffset="333" yOffset="191"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:25:22 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>E.ss02</string>
       <key>position</key>

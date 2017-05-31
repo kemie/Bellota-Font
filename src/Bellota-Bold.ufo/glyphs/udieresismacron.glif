@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="udieresismacron" format="1">
-  <advance width="635"/>
+  <advance width="586"/>
   <unicode hex="01D6"/>
   <outline>
     <component base="u"/>
-    <component base="dieresiscomb" xOffset="272" yOffset="-4"/>
-    <component base="macroncomb" xOffset="270" yOffset="180"/>
+    <component base="dieresiscomb" xOffset="303" yOffset="-4"/>
+    <component base="macroncomb" xOffset="308" yOffset="209"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:49:12 +0000</string>
+    </dict>
+  </lib>
 </glyph>

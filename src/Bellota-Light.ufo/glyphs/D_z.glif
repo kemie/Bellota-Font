@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Dz" format="1">
-  <advance width="1255"/>
+  <advance width="1170"/>
   <unicode hex="01F2"/>
   <outline>
     <component base="D"/>
@@ -8,6 +8,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:51:56 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>E</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -19,8 +21,8 @@
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
-          <key>disableAlignment</key>
-          <true/>
+          <key>alignment</key>
+          <integer>-1</integer>
           <key>index</key>
           <integer>1</integer>
           <key>name</key>

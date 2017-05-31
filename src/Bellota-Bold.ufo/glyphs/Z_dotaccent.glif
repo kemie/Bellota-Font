@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Zdotaccent" format="1">
-  <advance width="601"/>
+  <advance width="561"/>
   <unicode hex="017B"/>
   <outline>
     <component base="Z"/>
-    <component base="dotaccentcomb" xOffset="297" yOffset="174"/>
+    <component base="dotaccentcomb" xOffset="304" yOffset="174"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:43:37 +0000</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>Z</string>
       <key>position</key>

@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="DZcaron" format="1">
-  <advance width="1402"/>
+  <advance width="1347"/>
   <unicode hex="01C4"/>
   <outline>
     <component base="DZ"/>
-    <component base="caroncomb" xOffset="1129" yOffset="178"/>
+    <component base="caroncomb" xOffset="1118" yOffset="178"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:27:47 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>E</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

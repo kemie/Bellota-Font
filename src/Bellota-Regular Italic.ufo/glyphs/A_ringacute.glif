@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aringacute" format="1">
-  <advance width="810"/>
+  <advance width="742"/>
   <unicode hex="01FA"/>
   <outline>
     <component base="A"/>
-    <component base="ringcomb" xOffset="436" yOffset="186"/>
-    <component base="acutecomb" xOffset="536" yOffset="439"/>
+    <component base="ringcomb" xOffset="444" yOffset="186"/>
+    <component base="acutecomb" xOffset="476" yOffset="439"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:27:47 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>A</string>
       <key>position</key>

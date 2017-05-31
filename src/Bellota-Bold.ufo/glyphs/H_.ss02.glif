@@ -1,30 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="H.ss02" format="1">
-  <advance width="641"/>
+  <advance width="671"/>
   <outline>
     <contour>
-      <point x="138" y="-1" type="line"/>
-      <point x="138" y="317" type="line"/>
-      <point x="473" y="317" type="line"/>
-      <point x="473" y="-1" type="line"/>
-      <point x="555" y="-1" type="line"/>
-      <point x="555" y="686" type="line"/>
-      <point x="473" y="686" type="line"/>
-      <point x="473" y="395" type="line"/>
-      <point x="138" y="395" type="line"/>
-      <point x="138" y="686" type="line"/>
-      <point x="56" y="686" type="line"/>
-      <point x="56" y="-1" type="line"/>
+      <point x="168" y="-1" type="line"/>
+      <point x="168" y="317" type="line"/>
+      <point x="503" y="317" type="line"/>
+      <point x="503" y="-1" type="line"/>
+      <point x="585" y="-1" type="line"/>
+      <point x="585" y="686" type="line"/>
+      <point x="503" y="686" type="line"/>
+      <point x="503" y="395" type="line"/>
+      <point x="168" y="395" type="line"/>
+      <point x="168" y="686" type="line"/>
+      <point x="86" y="686" type="line"/>
+      <point x="86" y="-1" type="line"/>
     </contour>
     <contour>
-      <point x="311" y="11" type="move" name="center"/>
+      <point x="336" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="311" y="11" type="move" name="top"/>
+      <point x="323" y="684" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="16" y="684" type="move" name="topleft"/>
+    </contour>
+    <contour>
+      <point x="325" y="512" type="move" name="center"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:25:21 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>L</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

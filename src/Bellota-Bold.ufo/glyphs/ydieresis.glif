@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ydieresis" format="1">
-  <advance width="567"/>
+  <advance width="541"/>
   <unicode hex="00FF"/>
   <outline>
     <component base="y"/>
-    <component base="dieresiscomb" xOffset="284" yOffset="-4"/>
+    <component base="dieresiscomb" xOffset="315" yOffset="-4"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:49:12 +0000</string>
       <key>position</key>
       <integer>417</integer>
       <key>width</key>

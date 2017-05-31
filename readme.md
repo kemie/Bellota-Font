@@ -16,7 +16,12 @@ The **Bellota Family** is licensed under the [SIL Open Font Licence Version 1.1]
 
 In other words, you are free to use it for any purpose, commercial included.
 
-# Changelog	  
+# Changelog	 
+## v3.0, May 2017
++ Better spacing and kerning
++ Fixed some character outlines
++ Added more characters to Stylistic Set 2
++ Fixed vertical metrics 
 ## v2.5, June 2015
 + First uploaded to GitHub
 + Added support for Vietnamese

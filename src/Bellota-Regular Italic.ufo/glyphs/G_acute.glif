@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gacute" format="1">
-  <advance width="751"/>
+  <advance width="723"/>
   <unicode hex="01F4"/>
   <outline>
     <component base="G"/>
-    <component base="acutecomb" xOffset="482" yOffset="199"/>
+    <component base="acutecomb" xOffset="416" yOffset="199"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:25:27 +0000</string>
       <key>position</key>
       <integer>593</integer>
       <key>width</key>

@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="i" format="1">
-  <advance width="222"/>
+  <advance width="211"/>
   <unicode hex="0069"/>
   <outline>
     <component base="idotless"/>
-    <component base="dotaccent" xOffset="54"/>
+    <component base="dotaccent" xOffset="38" yOffset="4"/>
     <contour>
-      <point x="56" y="-6" type="move" name="bottom"/>
+      <point x="109" y="-9" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:27:47 +0000</string>
       <key>position</key>
       <integer>57</integer>
       <key>width</key>

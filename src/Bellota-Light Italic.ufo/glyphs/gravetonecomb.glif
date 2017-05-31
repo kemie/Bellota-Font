@@ -5,11 +5,16 @@
   <outline>
     <component base="gravecomb" xOffset="-46" yOffset="-6"/>
     <contour>
+      <point x="19" y="718" type="move" name="top"/>
+    </contour>
+    <contour>
       <point x="119" y="502" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 07:31:16 +0000</string>
       <key>position</key>
       <integer>5</integer>
       <key>width</key>

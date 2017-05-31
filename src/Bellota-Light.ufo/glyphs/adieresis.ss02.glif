@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="adieresis.ss02" format="1">
-  <advance width="477"/>
+  <advance width="456"/>
   <outline>
     <component base="a.ss02"/>
-    <component base="dieresiscomb" xOffset="235" yOffset="18"/>
+    <component base="dieresiscomb" xOffset="242" yOffset="18"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:43:38 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>c</string>
       <key>position</key>

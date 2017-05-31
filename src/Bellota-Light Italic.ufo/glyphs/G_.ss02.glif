@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="G.ss02" format="1">
-  <advance width="733"/>
+  <advance width="705"/>
   <outline>
     <contour>
       <point x="494" y="-31"/>
@@ -53,12 +53,16 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:24:49 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>O</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>O</string>
       <key>position</key>
       <integer>593</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
       <key>width</key>
       <integer>57</integer>
     </dict>

@@ -1,28 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="v" format="1">
-  <advance width="483"/>
+  <advance width="413"/>
   <unicode hex="0076"/>
   <outline>
     <contour>
-      <point x="227" y="1" type="line"/>
-      <point x="459" y="496" type="line"/>
-      <point x="418" y="496" type="line"/>
-      <point x="212" y="57" type="line"/>
-      <point x="146" y="407" type="line" smooth="yes"/>
-      <point x="139" y="448"/>
-      <point x="120" y="484"/>
-      <point x="87" y="509" type="curve"/>
-      <point x="64" y="478" type="line"/>
-      <point x="81" y="465"/>
-      <point x="96" y="442"/>
-      <point x="101" y="421" type="curve"/>
-      <point x="180" y="1" type="line"/>
+      <point x="201" y="1" type="line"/>
+      <point x="433" y="496" type="line"/>
+      <point x="392" y="496" type="line"/>
+      <point x="186" y="57" type="line"/>
+      <point x="120" y="407" type="line" smooth="yes"/>
+      <point x="113" y="448"/>
+      <point x="94" y="484"/>
+      <point x="61" y="509" type="curve"/>
+      <point x="38" y="478" type="line"/>
+      <point x="55" y="465"/>
+      <point x="70" y="442"/>
+      <point x="75" y="421" type="curve"/>
+      <point x="154" y="1" type="line"/>
+    </contour>
+    <contour>
+      <point x="251" y="500" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="181" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:24:46 +0000</string>
       <key>position</key>
       <integer>479</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
       <key>width</key>
       <integer>20</integer>
     </dict>

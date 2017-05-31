@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LJ" format="1">
-  <advance width="980"/>
+  <advance width="968"/>
   <unicode hex="01C7"/>
   <outline>
     <component base="L"/>
-    <component base="J" xOffset="512"/>
+    <component base="J" xOffset="496"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:25:27 +0000</string>
       <key>position</key>
       <integer>835</integer>
       <key>width</key>

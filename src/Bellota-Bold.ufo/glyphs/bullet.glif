@@ -1,27 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bullet" format="1">
-  <advance width="303"/>
+  <advance width="312"/>
   <unicode hex="2022"/>
   <outline>
     <contour>
-      <point x="189" y="221"/>
-      <point x="232" y="264"/>
-      <point x="232" y="316" type="curve" smooth="yes"/>
-      <point x="232" y="366"/>
-      <point x="189" y="410"/>
-      <point x="138" y="410" type="curve" smooth="yes"/>
-      <point x="87" y="410"/>
-      <point x="43" y="366"/>
-      <point x="43" y="316" type="curve" smooth="yes"/>
-      <point x="43" y="264"/>
-      <point x="87" y="221"/>
-      <point x="138" y="221" type="curve" smooth="yes"/>
+      <point x="207" y="221"/>
+      <point x="250" y="264"/>
+      <point x="250" y="316" type="curve" smooth="yes"/>
+      <point x="250" y="366"/>
+      <point x="207" y="410"/>
+      <point x="156" y="410" type="curve" smooth="yes"/>
+      <point x="105" y="410"/>
+      <point x="61" y="366"/>
+      <point x="61" y="316" type="curve" smooth="yes"/>
+      <point x="61" y="264"/>
+      <point x="105" y="221"/>
+      <point x="156" y="221" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:50:00 +0000</string>
       <key>position</key>
       <integer>41</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
       <key>width</key>
       <integer>169</integer>
     </dict>

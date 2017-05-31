@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Scommaaccent" format="1">
-  <advance width="572"/>
+  <advance width="537"/>
   <unicode hex="0218"/>
   <outline>
     <component base="S"/>
-    <component base="commaaccentcomb" xOffset="177"/>
+    <component base="commaaccentcomb" xOffset="256" yOffset="-36"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:25:27 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>S</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

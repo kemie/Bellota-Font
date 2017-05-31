@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Omega" format="1">
-  <advance width="596"/>
+  <advance width="581"/>
   <unicode hex="03A9"/>
   <outline>
-    <component base="Ohm" xOffset="15" yOffset="11"/>
+    <component base="Ohm" xOffset="-19" yOffset="11"/>
     <contour>
-      <point x="34" y="11" type="move" name="topleft"/>
+      <point x="0" y="11" type="move" name="topleft"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:50:07 +0000</string>
       <key>position</key>
       <integer>430</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
       <key>width</key>
       <integer>62</integer>
     </dict>

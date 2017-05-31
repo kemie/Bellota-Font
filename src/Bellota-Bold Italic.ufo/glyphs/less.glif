@@ -1,21 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="less" format="1">
-  <advance width="407"/>
+  <advance width="425"/>
   <unicode hex="003C"/>
   <outline>
     <contour>
-      <point x="318" y="139" type="line"/>
-      <point x="149" y="270" type="line"/>
-      <point x="353" y="399" type="line"/>
-      <point x="316" y="464" type="line"/>
-      <point x="9" y="268" type="line"/>
-      <point x="265" y="73" type="line"/>
+      <point x="351" y="139" type="line"/>
+      <point x="182" y="270" type="line"/>
+      <point x="386" y="399" type="line"/>
+      <point x="349" y="464" type="line"/>
+      <point x="42" y="268" type="line"/>
+      <point x="298" y="73" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:24:45 +0000</string>
       <key>position</key>
       <integer>12</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
       <key>width</key>
       <integer>298</integer>
     </dict>

@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brevecomb_tildecomb" format="1">
-  <advance width="600"/>
+  <advance width="0"/>
   <outline>
-    <component base="brevecomb"/>
-    <component base="tildecomb" xOffset="34" yOffset="245"/>
+    <component base="brevecomb" xOffset="-4"/>
+    <component base="tildecomb" xOffset="29" yOffset="241"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 08:25:12 +0000</string>
+    </dict>
+  </lib>
 </glyph>

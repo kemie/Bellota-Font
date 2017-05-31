@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gcircumflex" format="1">
-  <advance width="758"/>
+  <advance width="731"/>
   <unicode hex="011C"/>
   <outline>
     <component base="G"/>
-    <component base="circumflexcomb" xOffset="414" yOffset="193"/>
+    <component base="circumflexcomb" xOffset="418" yOffset="193"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:25:27 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>O</string>
       <key>position</key>

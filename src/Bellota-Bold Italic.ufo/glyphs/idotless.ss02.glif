@@ -1,21 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="idotless.ss02" format="1">
-  <advance width="218"/>
+  <advance width="209"/>
   <outline>
     <contour>
-      <point x="112" y="-1" type="line"/>
-      <point x="184" y="514" type="line"/>
-      <point x="107" y="514" type="line"/>
-      <point x="35" y="-1" type="line"/>
+      <point x="108" y="-1" type="line"/>
+      <point x="180" y="514" type="line"/>
+      <point x="103" y="514" type="line"/>
+      <point x="31" y="-1" type="line"/>
     </contour>
     <contour>
-      <point x="144" y="501" type="move" name="top"/>
+      <point x="140" y="501" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="72" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="108" y="-1" type="move" name="ogonek"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:24:52 +0000</string>
       <key>position</key>
       <integer>69</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
       <key>width</key>
       <integer>55</integer>
     </dict>

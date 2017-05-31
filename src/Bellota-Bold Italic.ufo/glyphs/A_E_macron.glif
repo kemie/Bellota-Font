@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="AEmacron" format="1">
-  <advance width="945"/>
+  <advance width="917"/>
   <unicode hex="01E2"/>
   <outline>
     <component base="AE"/>
-    <component base="macron" xOffset="276" yOffset="177"/>
+    <component base="macron" xOffset="283" yOffset="177"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:27:47 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>A</string>
       <key>position</key>

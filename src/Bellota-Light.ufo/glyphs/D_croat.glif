@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Dcroat" format="1">
-  <advance width="801"/>
+  <advance width="761"/>
   <unicode hex="0110"/>
   <outline>
-    <component base="D"/>
-    <component base="macron" xOffset="201" yOffset="188"/>
+    <component base="Eth"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:43:37 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>E</string>
       <key>position</key>

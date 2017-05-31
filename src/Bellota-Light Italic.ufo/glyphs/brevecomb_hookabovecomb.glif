@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brevecomb_hookabovecomb" format="1">
-  <advance width="600"/>
+  <advance width="0"/>
   <outline>
     <component base="brevecomb"/>
-    <component base="hookabovecomb" xOffset="-65" yOffset="184"/>
+    <component base="hookabovecomb" xOffset="20" yOffset="184"/>
+    <contour>
+      <point x="94" y="991" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="25" y="500" type="move" name="_top"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 08:15:05 +0000</string>
+    </dict>
+  </lib>
 </glyph>

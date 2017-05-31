@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zero.dnom" format="1">
-  <advance width="361"/>
+  <advance width="292"/>
   <outline>
-    <component base="zero.numr" xOffset="-62" yOffset="-193"/>
+    <component base="zero.numr" xOffset="-26" yOffset="-193"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:23:58 +0000</string>
+    </dict>
+  </lib>
 </glyph>

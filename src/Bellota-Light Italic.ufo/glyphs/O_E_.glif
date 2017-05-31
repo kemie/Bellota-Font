@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="OE" format="1">
-  <advance width="1231"/>
+  <advance width="1226"/>
   <unicode hex="0152"/>
   <outline>
     <component base="O"/>
@@ -8,9 +8,14 @@
     <contour>
       <point x="646" y="-6" type="move" name="top"/>
     </contour>
+    <contour>
+      <point x="581" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:25:22 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>O</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -22,8 +27,8 @@
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
-          <key>disableAlignment</key>
-          <true/>
+          <key>alignment</key>
+          <integer>-1</integer>
           <key>index</key>
           <integer>1</integer>
           <key>name</key>

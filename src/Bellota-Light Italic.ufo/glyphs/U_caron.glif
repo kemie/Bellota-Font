@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ucaron" format="1">
-  <advance width="741"/>
+  <advance width="732"/>
   <unicode hex="01D3"/>
   <outline>
     <component base="U"/>
-    <component base="caroncomb" xOffset="422" yOffset="188"/>
+    <component base="caroncomb" xOffset="417" yOffset="192"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:24:56 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>E</string>
     </dict>

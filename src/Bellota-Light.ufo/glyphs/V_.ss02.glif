@@ -1,29 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="V.ss02" format="1">
-  <advance width="599"/>
+  <advance width="541"/>
   <outline>
     <contour>
-      <point x="315" y="1" type="line"/>
-      <point x="538" y="686" type="line"/>
-      <point x="492" y="686" type="line"/>
-      <point x="291" y="59" type="line"/>
-      <point x="101" y="629" type="line" smooth="yes"/>
-      <point x="92" y="654"/>
-      <point x="69" y="687"/>
-      <point x="25" y="690" type="curve"/>
-      <point x="25" y="644" type="line"/>
-      <point x="39" y="641"/>
-      <point x="53" y="635"/>
-      <point x="58" y="618" type="curve"/>
-      <point x="266" y="1" type="line"/>
+      <point x="303" y="1" type="line"/>
+      <point x="526" y="686" type="line"/>
+      <point x="480" y="686" type="line"/>
+      <point x="279" y="59" type="line"/>
+      <point x="89" y="629" type="line" smooth="yes"/>
+      <point x="80" y="654"/>
+      <point x="57" y="687"/>
+      <point x="13" y="690" type="curve"/>
+      <point x="13" y="644" type="line"/>
+      <point x="27" y="641"/>
+      <point x="41" y="635"/>
+      <point x="46" y="618" type="curve"/>
+      <point x="254" y="1" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:14:53 +0000</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>V</string>
       <key>position</key>
       <integer>631</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
       <key>width</key>
       <integer>59</integer>
     </dict>

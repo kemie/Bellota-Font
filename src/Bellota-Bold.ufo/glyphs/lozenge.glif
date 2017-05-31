@@ -1,27 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lozenge" format="1">
-  <advance width="549"/>
+  <advance width="532"/>
   <unicode hex="25CA"/>
   <outline>
     <contour>
-      <point x="301" y="-1" type="line"/>
-      <point x="482" y="332" type="line"/>
-      <point x="298" y="663" type="line"/>
-      <point x="225" y="663" type="line"/>
-      <point x="38" y="332" type="line"/>
-      <point x="227" y="-1" type="line"/>
+      <point x="307" y="-1" type="line"/>
+      <point x="488" y="332" type="line"/>
+      <point x="304" y="663" type="line"/>
+      <point x="231" y="663" type="line"/>
+      <point x="44" y="332" type="line"/>
+      <point x="233" y="-1" type="line"/>
     </contour>
     <contour>
-      <point x="126" y="332" type="line"/>
-      <point x="262" y="572" type="line"/>
-      <point x="394" y="332" type="line"/>
-      <point x="262" y="90" type="line"/>
+      <point x="132" y="332" type="line"/>
+      <point x="268" y="572" type="line"/>
+      <point x="400" y="332" type="line"/>
+      <point x="268" y="90" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:50:01 +0000</string>
       <key>position</key>
       <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
       <key>width</key>
       <integer>21</integer>
     </dict>

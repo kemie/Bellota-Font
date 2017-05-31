@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="perthousand" format="1">
-  <advance width="1063"/>
+  <advance width="1104"/>
   <unicode hex="2030"/>
   <outline>
-    <component base="degree" xOffset="402" yOffset="-370"/>
-    <component base="fraction" xOffset="240" yOffset="11"/>
-    <component base="degree" xOffset="-23" yOffset="-150"/>
-    <component base="degree" xOffset="693" yOffset="-370"/>
+    <component base="degree" xOffset="411" yOffset="-370"/>
+    <component base="fraction" xOffset="249" yOffset="11"/>
+    <component base="degree" xOffset="-14" yOffset="-150"/>
+    <component base="degree" xOffset="702" yOffset="-370"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:50:05 +0000</string>
       <key>position</key>
       <integer>744</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
       <key>width</key>
       <integer>51</integer>
     </dict>

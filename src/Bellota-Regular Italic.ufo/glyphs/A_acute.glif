@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aacute" format="1">
-  <advance width="810"/>
+  <advance width="742"/>
   <unicode hex="00C1"/>
   <outline>
     <component base="A"/>
-    <component base="acutecomb" xOffset="504" yOffset="186"/>
+    <component base="acutecomb" xOffset="444" yOffset="186"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:27:47 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>A</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

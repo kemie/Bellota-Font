@@ -1,25 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="circumflex" format="1">
-  <advance width="408"/>
+  <advance width="316"/>
   <unicode hex="02C6"/>
   <outline>
     <contour>
-      <point x="102" y="558" type="line"/>
-      <point x="188" y="653" type="line"/>
-      <point x="273" y="558" type="line"/>
-      <point x="323" y="558" type="line"/>
-      <point x="209" y="689" type="line"/>
-      <point x="166" y="689" type="line"/>
-      <point x="53" y="558" type="line"/>
+      <point x="72" y="558" type="line"/>
+      <point x="158" y="653" type="line"/>
+      <point x="243" y="558" type="line"/>
+      <point x="293" y="558" type="line"/>
+      <point x="179" y="689" type="line"/>
+      <point x="136" y="689" type="line"/>
+      <point x="23" y="558" type="line"/>
     </contour>
     <contour>
-      <point x="188" y="504" type="move" name="_top"/>
+      <point x="158" y="504" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-30 12:53:39 +0000</string>
       <key>position</key>
       <integer>46</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
       <key>width</key>
       <integer>296</integer>
     </dict>

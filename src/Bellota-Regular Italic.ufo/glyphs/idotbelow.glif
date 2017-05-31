@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="idotbelow" format="1">
-  <advance width="237"/>
+  <advance width="227"/>
   <unicode hex="1ECB"/>
   <outline>
     <component base="i"/>
-    <component base="dotbelowcomb" xOffset="135"/>
+    <component base="dotbelowcomb" xOffset="131"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:24:54 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="S.ss02" format="1">
-  <advance width="572"/>
+  <advance width="535"/>
   <outline>
     <contour>
       <point x="359" y="-25"/>
@@ -44,25 +44,27 @@
       <point x="418" y="151"/>
       <point x="413" y="138" type="curve"/>
       <point x="388" y="80"/>
-      <point x="330" y="52"/>
-      <point x="272" y="52" type="curve" smooth="yes"/>
-      <point x="198" y="52"/>
+      <point x="330" y="50"/>
+      <point x="272" y="50" type="curve" smooth="yes"/>
+      <point x="198" y="50"/>
       <point x="126" y="100"/>
       <point x="94" y="186" type="curve"/>
       <point x="23" y="157" type="line"/>
       <point x="56" y="52"/>
-      <point x="169" y="-25"/>
+      <point x="153" y="-25"/>
       <point x="272" y="-25" type="curve" smooth="yes"/>
     </contour>
     <contour>
       <point x="280" y="696" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="287" y="11" type="move" name="bottom"/>
+      <point x="272" y="-25" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:49:55 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>S</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

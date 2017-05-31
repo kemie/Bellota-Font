@@ -1,25 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brokenbar" format="1">
-  <advance width="220"/>
+  <advance width="292"/>
   <unicode hex="00A6"/>
   <outline>
     <contour>
-      <point x="92" y="-68" type="line"/>
-      <point x="146" y="314" type="line"/>
-      <point x="64" y="314" type="line"/>
-      <point x="10" y="-68" type="line"/>
+      <point x="142" y="-68" type="line"/>
+      <point x="196" y="314" type="line"/>
+      <point x="114" y="314" type="line"/>
+      <point x="60" y="-68" type="line"/>
     </contour>
     <contour>
-      <point x="154" y="368" type="line"/>
-      <point x="207" y="750" type="line"/>
-      <point x="125" y="750" type="line"/>
-      <point x="72" y="368" type="line"/>
+      <point x="204" y="368" type="line"/>
+      <point x="257" y="750" type="line"/>
+      <point x="175" y="750" type="line"/>
+      <point x="122" y="368" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:24:48 +0000</string>
       <key>position</key>
       <integer>53</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
       <key>width</key>
       <integer>61</integer>
     </dict>

@@ -3,6 +3,22 @@
   <advance width="0"/>
   <unicode hex="030C"/>
   <outline>
-    <component base="caron" xOffset="-179"/>
+    <component base="caron" xOffset="-160"/>
+    <contour>
+      <point x="-1" y="689" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="-1" y="500" type="move" name="_top"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 10:50:00 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
 </glyph>

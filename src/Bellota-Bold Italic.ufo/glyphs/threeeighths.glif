@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="threeeighths" format="1">
-  <advance width="897"/>
+  <advance width="764"/>
   <unicode hex="215C"/>
   <outline>
     <component base="three.numr"/>
-    <component base="fraction" xOffset="333"/>
-    <component base="eight.dnom" xOffset="573"/>
+    <component base="fraction" xOffset="261"/>
+    <component base="eight.dnom" xOffset="501"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-31 11:25:22 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>three.numr</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
