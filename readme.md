@@ -1,14 +1,14 @@
 
-Bellota Font
+Bellota Font Family
 ==============================
-![Bellota cover](http://www.pixilate.com/roots/wp-content/uploads/2012/12/bellota1-597x298.png)
+![Bellota cover](http://www.pixilate.com/roots/wp-content/uploads/2012/12/bellota1.png)
 
 Bellota is an ornamented, low contrast sans-serif. It’s just cute enough!
 
-Based on the font “Snippet” by Gesine Todt, it comes in six variations: regular, italic, light, light italic, bold & bold italic. It has stylistic alternates (for swash and non-ornamented characters) and ligatures available through opentype features.
+Based on the font “Snippet” by Gesine Todt, it comes in six variations: regular, italic, light, light italic, bold & bold italic. It has stylistic alternates (for swash and non-ornamented characters) and ligatures available through opentype features. It supports most latin languages.
 
-![Bellota charset](http://www.pixilate.com/roots/wp-content/uploads/2012/12/bellota-04-597x298.png)
-![Bellota sample](http://www.pixilate.com/roots/wp-content/uploads/2012/12/bellota2-597x298.png)
+![Bellota charset](http://www.pixilate.com/roots/wp-content/uploads/2012/12/bellota-04.png)
+![Bellota sample](http://www.pixilate.com/roots/wp-content/uploads/2012/12/bellota2.png)
 
 
 # Licence	  
@@ -27,7 +27,7 @@ In other words, you are free to use it for any purpose, commercial included.
 + Added support for Vietnamese
 + Minor fixes.
 
-#Questions? Comments?
+# Questions? Comments?
 The font was made and is maintained by [Kemie Guaida](http://www.pixilate.com). 
 
 If you have questions or suggestions, you can open an issue here at github, or ping me via twitter [@kemie](http://twitter.com/kemie)
