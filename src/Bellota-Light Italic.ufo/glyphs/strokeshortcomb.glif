@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="strokeshortcomb" format="1">
-  <advance width="0"/>
-  <unicode hex="0335"/>
-  <outline>
-    <component base="hyphen" xOffset="-197"/>
-    <contour>
-      <point x="8" y="306" type="move" name="_center"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 08:15:37 +0000</string>
-    </dict>
-  </lib>
+<glyph name="strokeshortcomb" format="2">
+	<advance width="0"/>
+	<unicode hex="0335"/>
+	<anchor x="8" y="306" name="_center"/>
+	<outline>
+		<component base="hyphen" xOffset="-197"/>
+	</outline>
 </glyph>

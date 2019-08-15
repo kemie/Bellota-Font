@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="tbar" format="1">
-  <advance width="367"/>
-  <unicode hex="0167"/>
-  <outline>
-    <component base="t"/>
-    <component base="macron" xOffset="-22" yOffset="-319"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:43:37 +0000</string>
-      <key>position</key>
-      <integer>52</integer>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-      <key>width</key>
-      <integer>55</integer>
-    </dict>
-  </lib>
+<glyph name="tbar" format="2">
+	<advance width="367"/>
+	<unicode hex="0167"/>
+	<outline>
+		<component base="t"/>
+		<component base="macron" xOffset="-22" yOffset="-319"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>52</integer>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+			<key>width</key>
+			<integer>55</integer>
+		</dict>
+	</lib>
 </glyph>

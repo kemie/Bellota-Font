@@ -1,34 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="one" format="1">
-  <advance width="328"/>
-  <unicode hex="0031"/>
-  <outline>
-    <contour>
-      <point x="210" y="0" type="line"/>
-      <point x="304" y="669" type="line"/>
-      <point x="295" y="670" type="line"/>
-      <point x="191" y="606"/>
-      <point x="123" y="561"/>
-      <point x="60" y="561" type="curve"/>
-      <point x="69" y="509" type="line"/>
-      <point x="129" y="509"/>
-      <point x="178" y="532"/>
-      <point x="230" y="572" type="curve"/>
-      <point x="149" y="0" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:24:51 +0000</string>
-      <key>position</key>
-      <integer>217</integer>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-      <key>width</key>
-      <integer>61</integer>
-    </dict>
-  </lib>
+<glyph name="one" format="2">
+	<advance width="328"/>
+	<unicode hex="0031"/>
+	<outline>
+		<contour>
+			<point x="149" y="0" type="line"/>
+			<point x="210" y="0" type="line"/>
+			<point x="304" y="669" type="line"/>
+			<point x="295" y="670" type="line"/>
+			<point x="191" y="606"/>
+			<point x="123" y="561"/>
+			<point x="60" y="561" type="curve"/>
+			<point x="69" y="509" type="line"/>
+			<point x="129" y="509"/>
+			<point x="178" y="532"/>
+			<point x="230" y="572" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>217</integer>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+			<key>width</key>
+			<integer>61</integer>
+		</dict>
+	</lib>
 </glyph>

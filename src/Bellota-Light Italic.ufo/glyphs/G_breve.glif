@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Gbreve" format="1">
-  <advance width="718"/>
-  <unicode hex="011E"/>
-  <outline>
-    <component base="G"/>
-    <component base="brevecomb" xOffset="408" yOffset="207"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:25:27 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>O</string>
-      <key>position</key>
-      <integer>593</integer>
-      <key>width</key>
-      <integer>57</integer>
-    </dict>
-  </lib>
+<glyph name="Gbreve" format="2">
+	<advance width="718"/>
+	<unicode hex="011E"/>
+	<outline>
+		<component base="G"/>
+		<component base="brevecomb" xOffset="408" yOffset="207"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>O</string>
+			<key>position</key>
+			<integer>593</integer>
+			<key>width</key>
+			<integer>57</integer>
+		</dict>
+	</lib>
 </glyph>

@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="eogonek.ss02" format="1">
-  <advance width="479"/>
-  <outline>
-    <component base="e.ss02"/>
-    <component base="ogonekcomb" xOffset="413" yOffset="61"/>
-    <contour>
-      <point x="292" y="500" type="move" name="top"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:27:47 +0000</string>
-    </dict>
-  </lib>
+<glyph name="eogonek.ss02" format="2">
+	<advance width="479"/>
+	<anchor x="292" y="500" name="top"/>
+	<outline>
+		<component base="e.ss02"/>
+		<component base="ogonekcomb" xOffset="413" yOffset="61"/>
+	</outline>
 </glyph>

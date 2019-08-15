@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ohungarumlaut" format="1">
-  <advance width="539"/>
-  <unicode hex="0151"/>
-  <outline>
-    <component base="o"/>
-    <component base="hungarumlautcomb" xOffset="328" yOffset="1"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 10:51:36 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>c</string>
-      <key>position</key>
-      <integer>481</integer>
-      <key>width</key>
-      <integer>57</integer>
-    </dict>
-  </lib>
+<glyph name="ohungarumlaut" format="2">
+	<advance width="539"/>
+	<unicode hex="0151"/>
+	<outline>
+		<component base="o"/>
+		<component base="hungarumlautcomb" xOffset="328" yOffset="1"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>c</string>
+			<key>position</key>
+			<integer>481</integer>
+			<key>width</key>
+			<integer>57</integer>
+		</dict>
+	</lib>
 </glyph>

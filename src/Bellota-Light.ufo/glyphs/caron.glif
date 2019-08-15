@@ -1,33 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="caron" format="1">
-  <advance width="319"/>
-  <unicode hex="02C7"/>
-  <outline>
-    <contour>
-      <point x="181" y="558" type="line"/>
-      <point x="295" y="689" type="line"/>
-      <point x="244" y="689" type="line"/>
-      <point x="160" y="594" type="line"/>
-      <point x="74" y="689" type="line"/>
-      <point x="24" y="689" type="line"/>
-      <point x="137" y="558" type="line"/>
-    </contour>
-    <contour>
-      <point x="160" y="504" type="move" name="_top"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-30 12:53:48 +0000</string>
-      <key>position</key>
-      <integer>37</integer>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-      <key>width</key>
-      <integer>296</integer>
-    </dict>
-  </lib>
+<glyph name="caron" format="2">
+	<advance width="319"/>
+	<unicode hex="02C7"/>
+	<anchor x="160" y="504" name="_top"/>
+	<outline>
+		<contour>
+			<point x="137" y="558" type="line"/>
+			<point x="181" y="558" type="line"/>
+			<point x="295" y="689" type="line"/>
+			<point x="244" y="689" type="line"/>
+			<point x="160" y="594" type="line"/>
+			<point x="74" y="689" type="line"/>
+			<point x="24" y="689" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>37</integer>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+			<key>width</key>
+			<integer>296</integer>
+		</dict>
+	</lib>
 </glyph>

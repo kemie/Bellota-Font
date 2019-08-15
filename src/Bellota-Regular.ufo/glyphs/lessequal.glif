@@ -1,36 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="lessequal" format="1">
-  <advance width="490"/>
-  <unicode hex="2264"/>
-  <outline>
-    <contour>
-      <point x="410" y="230" type="line"/>
-      <point x="123" y="361" type="line"/>
-      <point x="410" y="483" type="line"/>
-      <point x="410" y="547" type="line"/>
-      <point x="66" y="395" type="line"/>
-      <point x="66" y="323" type="line"/>
-      <point x="410" y="164" type="line"/>
-    </contour>
-    <contour>
-      <point x="410" y="49" type="line"/>
-      <point x="410" y="109" type="line"/>
-      <point x="66" y="109" type="line"/>
-      <point x="66" y="49" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 10:50:02 +0000</string>
-      <key>position</key>
-      <integer>49</integer>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-      <key>width</key>
-      <integer>60</integer>
-    </dict>
-  </lib>
+<glyph name="lessequal" format="2">
+	<advance width="490"/>
+	<unicode hex="2264"/>
+	<outline>
+		<contour>
+			<point x="410" y="164" type="line"/>
+			<point x="410" y="230" type="line"/>
+			<point x="123" y="361" type="line"/>
+			<point x="410" y="483" type="line"/>
+			<point x="410" y="547" type="line"/>
+			<point x="66" y="395" type="line"/>
+			<point x="66" y="323" type="line"/>
+		</contour>
+		<contour>
+			<point x="66" y="49" type="line"/>
+			<point x="410" y="49" type="line"/>
+			<point x="410" y="109" type="line"/>
+			<point x="66" y="109" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>49</integer>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+			<key>width</key>
+			<integer>60</integer>
+		</dict>
+	</lib>
 </glyph>

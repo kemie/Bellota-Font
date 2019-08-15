@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Adotmacron" format="1">
-  <advance width="754"/>
-  <unicode hex="01E0"/>
-  <outline>
-    <component base="A"/>
-    <component base="dotaccentcomb" xOffset="420" yOffset="184"/>
-    <component base="macroncomb" xOffset="419" yOffset="384"/>
-    <contour>
-      <point x="-2" y="700" type="move" name="top"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 10:51:37 +0000</string>
-      <key>position</key>
-      <integer>367</integer>
-      <key>width</key>
-      <integer>83</integer>
-    </dict>
-  </lib>
+<glyph name="Adotmacron" format="2">
+	<advance width="754"/>
+	<unicode hex="01E0"/>
+	<anchor x="-2" y="700" name="top"/>
+	<outline>
+		<component base="A"/>
+		<component base="dotaccentcomb" xOffset="420" yOffset="184"/>
+		<component base="macroncomb" xOffset="419" yOffset="384"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>367</integer>
+			<key>width</key>
+			<integer>83</integer>
+		</dict>
+	</lib>
 </glyph>

@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Adotaccent" format="1">
-  <advance width="742"/>
-  <unicode hex="0226"/>
-  <outline>
-    <component base="A"/>
-    <component base="dotaccentcomb" xOffset="442" yOffset="186"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:27:47 +0000</string>
-      <key>position</key>
-      <integer>367</integer>
-      <key>width</key>
-      <integer>83</integer>
-    </dict>
-  </lib>
+<glyph name="Adotaccent" format="2">
+	<advance width="742"/>
+	<unicode hex="0226"/>
+	<outline>
+		<component base="A"/>
+		<component base="dotaccentcomb" xOffset="442" yOffset="186"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>367</integer>
+			<key>width</key>
+			<integer>83</integer>
+		</dict>
+	</lib>
 </glyph>

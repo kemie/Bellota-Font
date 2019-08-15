@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="igrave" format="1">
-  <advance width="249"/>
-  <unicode hex="00EC"/>
-  <outline>
-    <component base="idotless"/>
-    <component base="grave" xOffset="-113" yOffset="-4"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:24:54 +0000</string>
-      <key>position</key>
-      <integer>43</integer>
-      <key>width</key>
-      <integer>55</integer>
-    </dict>
-  </lib>
+<glyph name="igrave" format="2">
+	<advance width="249"/>
+	<unicode hex="00EC"/>
+	<outline>
+		<component base="idotless"/>
+		<component base="grave" xOffset="-113" yOffset="-4"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>43</integer>
+			<key>width</key>
+			<integer>55</integer>
+		</dict>
+	</lib>
 </glyph>

@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Tcedilla.ss02" format="1">
-  <advance width="598"/>
-  <outline>
-    <component base="T.ss02"/>
-    <component base="cedillacomb" xOffset="322" yOffset="-8"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 10:49:25 +0000</string>
-    </dict>
-  </lib>
+<glyph name="Tcedilla.ss02" format="2">
+	<advance width="598"/>
+	<outline>
+		<component base="T.ss02"/>
+		<component base="cedillacomb" xOffset="322" yOffset="-8"/>
+	</outline>
 </glyph>

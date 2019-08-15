@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="circumflexcomb_acutecomb" format="1">
-  <advance width="0"/>
-  <outline>
-    <component base="circumflexcomb"/>
-    <component base="acutecomb" xOffset="30" yOffset="202"/>
-    <contour>
-      <point x="111" y="922" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="52" y="500" type="move" name="_top"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 10:52:59 +0000</string>
-    </dict>
-  </lib>
+<glyph name="circumflexcomb_acutecomb" format="2">
+	<advance width="0"/>
+	<anchor x="111" y="922" name="top"/>
+	<anchor x="52" y="500" name="_top"/>
+	<outline>
+		<component base="circumflexcomb"/>
+		<component base="acutecomb" xOffset="30" yOffset="202"/>
+	</outline>
 </glyph>

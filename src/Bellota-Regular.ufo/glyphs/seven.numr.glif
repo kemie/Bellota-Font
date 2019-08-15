@@ -1,25 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="seven.numr" format="1">
-  <advance width="211"/>
-  <outline>
-    <contour>
-      <point x="96" y="217" type="line"/>
-      <point x="202" y="485" type="line"/>
-      <point x="202" y="503" type="line"/>
-      <point x="11" y="501" type="line"/>
-      <point x="11" y="454" type="line"/>
-      <point x="140" y="456" type="line"/>
-      <point x="45" y="217" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 10:50:01 +0000</string>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-    </dict>
-  </lib>
+<glyph name="seven.numr" format="2">
+	<advance width="211"/>
+	<outline>
+		<contour>
+			<point x="45" y="217" type="line"/>
+			<point x="96" y="217" type="line"/>
+			<point x="202" y="485" type="line"/>
+			<point x="202" y="503" type="line"/>
+			<point x="11" y="501" type="line"/>
+			<point x="11" y="454" type="line"/>
+			<point x="140" y="456" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+		</dict>
+	</lib>
 </glyph>

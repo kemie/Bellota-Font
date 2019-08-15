@@ -1,44 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="apostrophemod" format="1">
-  <advance width="184"/>
-  <unicode hex="02BC"/>
-  <outline>
-    <contour>
-      <point x="87" y="479"/>
-      <point x="103" y="500"/>
-      <point x="113" y="525" type="curve" smooth="yes"/>
-      <point x="123" y="553"/>
-      <point x="129" y="580"/>
-      <point x="129" y="608" type="curve" smooth="yes"/>
-      <point x="129" y="669" type="line" smooth="yes"/>
-      <point x="129" y="684"/>
-      <point x="118" y="696"/>
-      <point x="103" y="696" type="curve" smooth="yes"/>
-      <point x="87" y="696"/>
-      <point x="78" y="684"/>
-      <point x="78" y="669" type="curve" smooth="yes"/>
-      <point x="78" y="608" type="line" smooth="yes"/>
-      <point x="78" y="556"/>
-      <point x="65" y="515"/>
-      <point x="40" y="487" type="curve"/>
-      <point x="65" y="462" type="line"/>
-    </contour>
-    <contour>
-      <point x="100" y="603" type="move" name="_apostrophe"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-30 12:53:42 +0000</string>
-      <key>position</key>
-      <integer>76</integer>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-      <key>width</key>
-      <integer>64</integer>
-    </dict>
-  </lib>
+<glyph name="apostrophemod" format="2">
+	<advance width="184"/>
+	<unicode hex="02BC"/>
+	<anchor x="100" y="603" name="_apostrophe"/>
+	<outline>
+		<contour>
+			<point x="65" y="462" type="line"/>
+			<point x="87" y="479"/>
+			<point x="103" y="500"/>
+			<point x="113" y="525" type="curve" smooth="yes"/>
+			<point x="123" y="553"/>
+			<point x="129" y="580"/>
+			<point x="129" y="608" type="curve" smooth="yes"/>
+			<point x="129" y="669" type="line" smooth="yes"/>
+			<point x="129" y="684"/>
+			<point x="118" y="696"/>
+			<point x="103" y="696" type="curve" smooth="yes"/>
+			<point x="87" y="696"/>
+			<point x="78" y="684"/>
+			<point x="78" y="669" type="curve" smooth="yes"/>
+			<point x="78" y="608" type="line" smooth="yes"/>
+			<point x="78" y="556"/>
+			<point x="65" y="515"/>
+			<point x="40" y="487" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>76</integer>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+			<key>width</key>
+			<integer>64</integer>
+		</dict>
+	</lib>
 </glyph>

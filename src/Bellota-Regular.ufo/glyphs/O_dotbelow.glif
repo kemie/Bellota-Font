@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Odotbelow" format="1">
-  <advance width="799"/>
-  <unicode hex="1ECC"/>
-  <outline>
-    <component base="O"/>
-    <component base="dotbelowcomb" xOffset="453" yOffset="-27"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 10:49:25 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>O</string>
-    </dict>
-  </lib>
+<glyph name="Odotbelow" format="2">
+	<advance width="799"/>
+	<unicode hex="1ECC"/>
+	<outline>
+		<component base="O"/>
+		<component base="dotbelowcomb" xOffset="453" yOffset="-27"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>O</string>
+		</dict>
+	</lib>
 </glyph>

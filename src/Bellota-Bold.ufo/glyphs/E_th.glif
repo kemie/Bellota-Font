@@ -1,25 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Eth" format="1">
-  <advance width="790"/>
-  <unicode hex="00D0"/>
-  <outline>
-    <component base="D"/>
-    <component base="hyphen" yOffset="40"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 10:50:03 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>E</string>
-      <key>position</key>
-      <integer>674</integer>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-      <key>width</key>
-      <integer>60</integer>
-    </dict>
-  </lib>
+<glyph name="Eth" format="2">
+	<advance width="790"/>
+	<unicode hex="00D0"/>
+	<outline>
+		<component base="D"/>
+		<component base="hyphen" yOffset="40"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>E</string>
+			<key>position</key>
+			<integer>674</integer>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+			<key>width</key>
+			<integer>60</integer>
+		</dict>
+	</lib>
 </glyph>

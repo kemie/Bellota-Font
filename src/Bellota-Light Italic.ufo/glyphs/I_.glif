@@ -1,39 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="I" format="1">
-  <advance width="219"/>
-  <unicode hex="0049"/>
-  <outline>
-    <contour>
-      <point x="98" y="1" type="line"/>
-      <point x="194" y="685" type="line"/>
-      <point x="146" y="685" type="line"/>
-      <point x="50" y="1" type="line"/>
-    </contour>
-    <contour>
-      <point x="109" y="-6" type="move" name="ogonek"/>
-    </contour>
-    <contour>
-      <point x="169" y="692" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="114" y="684" type="move" name="topleft"/>
-    </contour>
-    <contour>
-      <point x="74" y="-7" type="move" name="bottom"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:24:47 +0000</string>
-      <key>position</key>
-      <integer>54</integer>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-      <key>width</key>
-      <integer>61</integer>
-    </dict>
-  </lib>
+<glyph name="I" format="2">
+	<advance width="219"/>
+	<unicode hex="0049"/>
+	<anchor x="109" y="-6" name="ogonek"/>
+	<anchor x="169" y="692" name="top"/>
+	<anchor x="114" y="684" name="topleft"/>
+	<anchor x="74" y="-7" name="bottom"/>
+	<outline>
+		<contour>
+			<point x="50" y="1" type="line"/>
+			<point x="98" y="1" type="line"/>
+			<point x="194" y="685" type="line"/>
+			<point x="146" y="685" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>54</integer>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+			<key>width</key>
+			<integer>61</integer>
+		</dict>
+	</lib>
 </glyph>

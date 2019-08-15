@@ -1,26 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="macron" format="1">
-  <advance width="431"/>
-  <unicode hex="00AF"/>
-  <outline>
-    <contour>
-      <point x="414" y="581" type="line"/>
-      <point x="420" y="625" type="line"/>
-      <point x="102" y="625" type="line"/>
-      <point x="96" y="581" type="line"/>
-    </contour>
-    <contour>
-      <point x="236" y="504" type="move" name="_top"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015-06-20 20:11:49 +0000</string>
-      <key>position</key>
-      <integer>43</integer>
-      <key>width</key>
-      <integer>326</integer>
-    </dict>
-  </lib>
+<glyph name="macron" format="2">
+	<advance width="431"/>
+	<unicode hex="00AF"/>
+	<anchor x="236" y="504" name="_top"/>
+	<outline>
+		<contour>
+			<point x="96" y="581" type="line"/>
+			<point x="414" y="581" type="line"/>
+			<point x="420" y="625" type="line"/>
+			<point x="102" y="625" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>43</integer>
+			<key>width</key>
+			<integer>326</integer>
+		</dict>
+	</lib>
 </glyph>

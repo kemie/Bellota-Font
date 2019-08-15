@@ -1,22 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="aringacute" format="1">
-  <advance width="573"/>
-  <unicode hex="01FB"/>
-  <outline>
-    <component base="a"/>
-    <component base="ringcomb" xOffset="268" yOffset="8"/>
-    <component base="acutecomb" xOffset="335" yOffset="266"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 10:52:01 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>c</string>
-      <key>position</key>
-      <integer>407</integer>
-      <key>width</key>
-      <integer>55</integer>
-    </dict>
-  </lib>
+<glyph name="aringacute" format="2">
+	<advance width="573"/>
+	<unicode hex="01FB"/>
+	<outline>
+		<component base="a"/>
+		<component base="ringcomb" xOffset="268" yOffset="8"/>
+		<component base="acutecomb" xOffset="335" yOffset="266"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>c</string>
+			<key>position</key>
+			<integer>407</integer>
+			<key>width</key>
+			<integer>55</integer>
+		</dict>
+	</lib>
 </glyph>

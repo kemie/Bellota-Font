@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="macronbelowcomb" format="1">
-  <advance width="0"/>
-  <unicode hex="0331"/>
-  <outline>
-    <component base="macron" xOffset="-315" yOffset="-778"/>
-    <contour>
-      <point x="-32" y="0" type="move" name="_bottom"/>
-    </contour>
-    <contour>
-      <point x="-60" y="-197" type="move" name="bottom"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 08:14:19 +0000</string>
-    </dict>
-  </lib>
+<glyph name="macronbelowcomb" format="2">
+	<advance width="0"/>
+	<unicode hex="0331"/>
+	<anchor x="-32" y="0" name="_bottom"/>
+	<anchor x="-60" y="-197" name="bottom"/>
+	<outline>
+		<component base="macron" xOffset="-315" yOffset="-778"/>
+	</outline>
 </glyph>

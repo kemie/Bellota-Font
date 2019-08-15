@@ -1,34 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="DZ" format="1">
-  <advance width="1228"/>
-  <unicode hex="01F1"/>
-  <outline>
-    <component base="D"/>
-    <component base="Z" xOffset="721" yOffset="-6"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 10:49:54 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>E</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>Z</string>
-      <key>position</key>
-      <integer>674</integer>
-      <key>width</key>
-      <integer>60</integer>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>Z</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
+<glyph name="DZ" format="2">
+	<advance width="1228"/>
+	<unicode hex="01F1"/>
+	<outline>
+		<component base="D"/>
+		<component base="Z" xOffset="721" yOffset="-6"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>Z</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>E</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>Z</string>
+			<key>position</key>
+			<integer>674</integer>
+			<key>width</key>
+			<integer>60</integer>
+		</dict>
+	</lib>
 </glyph>

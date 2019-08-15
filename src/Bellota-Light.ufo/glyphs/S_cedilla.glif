@@ -1,23 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Scedilla" format="1">
-  <advance width="496"/>
-  <unicode hex="015E"/>
-  <outline>
-    <component base="S"/>
-    <component base="cedillacomb" xOffset="278" yOffset="-18"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:43:37 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>S</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>S</string>
-      <key>position</key>
-      <integer>433</integer>
-      <key>width</key>
-      <integer>55</integer>
-    </dict>
-  </lib>
+<glyph name="Scedilla" format="2">
+	<advance width="496"/>
+	<unicode hex="015E"/>
+	<outline>
+		<component base="S"/>
+		<component base="cedillacomb" xOffset="278" yOffset="-18"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>S</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>S</string>
+			<key>position</key>
+			<integer>433</integer>
+			<key>width</key>
+			<integer>55</integer>
+		</dict>
+	</lib>
 </glyph>

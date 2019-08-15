@@ -1,22 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="mu" format="1">
-  <advance width="533"/>
-  <unicode hex="03BC"/>
-  <outline>
-    <component base="micro" xOffset="9" yOffset="11"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:24:46 +0000</string>
-      <key>position</key>
-      <integer>367</integer>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-      <key>width</key>
-      <integer>55</integer>
-    </dict>
-  </lib>
+<glyph name="mu" format="2">
+	<advance width="533"/>
+	<unicode hex="03BC"/>
+	<outline>
+		<component base="micro" xOffset="9" yOffset="11"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>367</integer>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+			<key>width</key>
+			<integer>55</integer>
+		</dict>
+	</lib>
 </glyph>

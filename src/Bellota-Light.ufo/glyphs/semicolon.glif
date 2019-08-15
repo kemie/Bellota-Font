@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="semicolon" format="1">
-  <advance width="230"/>
-  <unicode hex="003B"/>
-  <outline>
-    <component base="period" xOffset="22" yOffset="396"/>
-    <component base="comma" xOffset="-2" yOffset="-6"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 10:50:05 +0000</string>
-      <key>position</key>
-      <integer>62</integer>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-      <key>width</key>
-      <integer>64</integer>
-    </dict>
-  </lib>
+<glyph name="semicolon" format="2">
+	<advance width="230"/>
+	<unicode hex="003B"/>
+	<outline>
+		<component base="period" xOffset="22" yOffset="396"/>
+		<component base="comma" xOffset="-2" yOffset="-6"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>62</integer>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+			<key>width</key>
+			<integer>64</integer>
+		</dict>
+	</lib>
 </glyph>

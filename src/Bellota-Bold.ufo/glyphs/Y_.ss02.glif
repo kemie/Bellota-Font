@@ -1,46 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Y.ss02" format="1">
-  <advance width="551"/>
-  <outline>
-    <contour>
-      <point x="314" y="-1" type="line"/>
-      <point x="312" y="298" type="line"/>
-      <point x="529" y="687" type="line"/>
-      <point x="435" y="687" type="line"/>
-      <point x="270" y="385" type="line"/>
-      <point x="131" y="643" type="line" smooth="yes"/>
-      <point x="110" y="681"/>
-      <point x="73" y="699"/>
-      <point x="26" y="695" type="curve"/>
-      <point x="26" y="615" type="line"/>
-      <point x="48" y="616"/>
-      <point x="54" y="615"/>
-      <point x="60" y="604" type="curve"/>
-      <point x="60" y="605" type="line"/>
-      <point x="229" y="296" type="line"/>
-      <point x="226" y="-1" type="line"/>
-    </contour>
-    <contour>
-      <point x="266" y="675" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="267" y="12" type="move" name="bottom"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:14:58 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>Y</string>
-      <key>position</key>
-      <integer>308</integer>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-      <key>width</key>
-      <integer>66</integer>
-    </dict>
-  </lib>
+<glyph name="Y.ss02" format="2">
+	<advance width="551"/>
+	<anchor x="266" y="675" name="top"/>
+	<anchor x="267" y="12" name="bottom"/>
+	<outline>
+		<contour>
+			<point x="226" y="-1" type="line"/>
+			<point x="314" y="-1" type="line"/>
+			<point x="312" y="298" type="line"/>
+			<point x="529" y="687" type="line"/>
+			<point x="435" y="687" type="line"/>
+			<point x="270" y="385" type="line"/>
+			<point x="131" y="643" type="line" smooth="yes"/>
+			<point x="110" y="681"/>
+			<point x="73" y="699"/>
+			<point x="26" y="695" type="curve"/>
+			<point x="26" y="615" type="line"/>
+			<point x="48" y="616"/>
+			<point x="54" y="615"/>
+			<point x="60" y="604" type="curve"/>
+			<point x="60" y="605" type="line"/>
+			<point x="229" y="296" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>Y</string>
+			<key>position</key>
+			<integer>308</integer>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+			<key>width</key>
+			<integer>66</integer>
+		</dict>
+	</lib>
 </glyph>

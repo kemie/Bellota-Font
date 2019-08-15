@@ -1,26 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Dz" format="1">
-  <advance width="1229"/>
-  <unicode hex="01F2"/>
-  <outline>
-    <component base="D"/>
-    <component base="z" xOffset="780"/>
-    <contour>
-      <point x="729" y="684" type="move" name="top"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:27:47 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>E</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>z</string>
-      <key>position</key>
-      <integer>674</integer>
-      <key>width</key>
-      <integer>60</integer>
-    </dict>
-  </lib>
+<glyph name="Dz" format="2">
+	<advance width="1229"/>
+	<unicode hex="01F2"/>
+	<anchor x="729" y="684" name="top"/>
+	<outline>
+		<component base="D"/>
+		<component base="z" xOffset="780"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>E</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>z</string>
+			<key>position</key>
+			<integer>674</integer>
+			<key>width</key>
+			<integer>60</integer>
+		</dict>
+	</lib>
 </glyph>

@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="edotbelow" format="1">
-  <advance width="464"/>
-  <unicode hex="1EB9"/>
-  <outline>
-    <component base="e"/>
-    <component base="dotbelowcomb" xOffset="250"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:27:47 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>c</string>
-    </dict>
-  </lib>
+<glyph name="edotbelow" format="2">
+	<advance width="464"/>
+	<unicode hex="1EB9"/>
+	<outline>
+		<component base="e"/>
+		<component base="dotbelowcomb" xOffset="250"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>c</string>
+		</dict>
+	</lib>
 </glyph>

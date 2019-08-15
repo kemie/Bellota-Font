@@ -1,46 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="H.ss02" format="1">
-  <advance width="672"/>
-  <outline>
-    <contour>
-      <point x="133" y="-1" type="line"/>
-      <point x="177" y="317" type="line"/>
-      <point x="512" y="317" type="line"/>
-      <point x="468" y="-1" type="line"/>
-      <point x="550" y="-1" type="line"/>
-      <point x="646" y="686" type="line"/>
-      <point x="564" y="686" type="line"/>
-      <point x="523" y="395" type="line"/>
-      <point x="188" y="395" type="line"/>
-      <point x="229" y="686" type="line"/>
-      <point x="147" y="686" type="line"/>
-      <point x="51" y="-1" type="line"/>
-    </contour>
-    <contour>
-      <point x="304" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="373" y="684" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="108" y="684" type="move" name="topleft"/>
-    </contour>
-    <contour>
-      <point x="354" y="500" type="move" name="center"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:25:22 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>L</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>H</string>
-      <key>position</key>
-      <integer>525</integer>
-      <key>width</key>
-      <integer>61</integer>
-    </dict>
-  </lib>
+<glyph name="H.ss02" format="2">
+	<advance width="672"/>
+	<anchor x="354" y="500" name="center"/>
+	<anchor x="373" y="684" name="top"/>
+	<anchor x="108" y="684" name="topleft"/>
+	<anchor x="304" y="0" name="bottom"/>
+	<outline>
+		<contour>
+			<point x="51" y="-1" type="line"/>
+			<point x="133" y="-1" type="line"/>
+			<point x="177" y="317" type="line"/>
+			<point x="512" y="317" type="line"/>
+			<point x="468" y="-1" type="line"/>
+			<point x="550" y="-1" type="line"/>
+			<point x="646" y="686" type="line"/>
+			<point x="564" y="686" type="line"/>
+			<point x="523" y="395" type="line"/>
+			<point x="188" y="395" type="line"/>
+			<point x="229" y="686" type="line"/>
+			<point x="147" y="686" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>L</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>H</string>
+			<key>position</key>
+			<integer>525</integer>
+			<key>width</key>
+			<integer>61</integer>
+		</dict>
+	</lib>
 </glyph>

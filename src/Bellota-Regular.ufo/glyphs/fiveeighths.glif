@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="fiveeighths" format="1">
-  <advance width="711"/>
-  <unicode hex="215D"/>
-  <outline>
-    <component base="five.numr"/>
-    <component base="fraction" xOffset="247"/>
-    <component base="eight.dnom" xOffset="464"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 10:51:35 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>five.numr</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>five.numr</string>
-    </dict>
-  </lib>
+<glyph name="fiveeighths" format="2">
+	<advance width="711"/>
+	<unicode hex="215D"/>
+	<outline>
+		<component base="five.numr"/>
+		<component base="fraction" xOffset="247"/>
+		<component base="eight.dnom" xOffset="464"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>five.numr</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>five.numr</string>
+		</dict>
+	</lib>
 </glyph>

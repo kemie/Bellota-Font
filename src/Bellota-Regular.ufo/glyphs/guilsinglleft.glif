@@ -1,35 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="guilsinglleft" format="1">
-  <advance width="329"/>
-  <unicode hex="2039"/>
-  <outline>
-    <contour>
-      <point x="298" y="60" type="line"/>
-      <point x="82" y="251" type="line"/>
-      <point x="298" y="442" type="line"/>
-      <point x="261" y="483" type="line"/>
-      <point x="55" y="299" type="line" smooth="yes"/>
-      <point x="34" y="280"/>
-      <point x="23" y="264"/>
-      <point x="23" y="251" type="curve" smooth="yes"/>
-      <point x="23" y="237"/>
-      <point x="34" y="221"/>
-      <point x="55" y="203" type="curve" smooth="yes"/>
-      <point x="261" y="19" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 10:50:08 +0000</string>
-      <key>position</key>
-      <integer>33</integer>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-      <key>width</key>
-      <integer>275</integer>
-    </dict>
-  </lib>
+<glyph name="guilsinglleft" format="2">
+	<advance width="329"/>
+	<unicode hex="2039"/>
+	<outline>
+		<contour>
+			<point x="261" y="19" type="line"/>
+			<point x="298" y="60" type="line"/>
+			<point x="82" y="251" type="line"/>
+			<point x="298" y="442" type="line"/>
+			<point x="261" y="483" type="line"/>
+			<point x="55" y="299" type="line" smooth="yes"/>
+			<point x="34" y="280"/>
+			<point x="23" y="264"/>
+			<point x="23" y="251" type="curve" smooth="yes"/>
+			<point x="23" y="237"/>
+			<point x="34" y="221"/>
+			<point x="55" y="203" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>33</integer>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+			<key>width</key>
+			<integer>275</integer>
+		</dict>
+	</lib>
 </glyph>

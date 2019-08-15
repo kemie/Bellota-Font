@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Edotaccent" format="1">
-  <advance width="590"/>
-  <unicode hex="0116"/>
-  <outline>
-    <component base="E"/>
-    <component base="dotaccentcomb" xOffset="342" yOffset="192"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 10:49:26 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>E</string>
-      <key>position</key>
-      <integer>306</integer>
-      <key>width</key>
-      <integer>83</integer>
-    </dict>
-  </lib>
+<glyph name="Edotaccent" format="2">
+	<advance width="590"/>
+	<unicode hex="0116"/>
+	<outline>
+		<component base="E"/>
+		<component base="dotaccentcomb" xOffset="342" yOffset="192"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>E</string>
+			<key>position</key>
+			<integer>306</integer>
+			<key>width</key>
+			<integer>83</integer>
+		</dict>
+	</lib>
 </glyph>

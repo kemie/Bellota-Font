@@ -1,23 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Amacron" format="1">
-  <advance width="753"/>
-  <unicode hex="0100"/>
-  <outline>
-    <component base="A"/>
-    <component base="macroncomb" xOffset="448" yOffset="188"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:27:47 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>A</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>A</string>
-      <key>position</key>
-      <integer>268</integer>
-      <key>width</key>
-      <integer>282</integer>
-    </dict>
-  </lib>
+<glyph name="Amacron" format="2">
+	<advance width="753"/>
+	<unicode hex="0100"/>
+	<outline>
+		<component base="A"/>
+		<component base="macroncomb" xOffset="448" yOffset="188"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>A</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>A</string>
+			<key>position</key>
+			<integer>268</integer>
+			<key>width</key>
+			<integer>282</integer>
+		</dict>
+	</lib>
 </glyph>

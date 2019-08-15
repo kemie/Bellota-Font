@@ -1,33 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="circumflex" format="1">
-  <advance width="338"/>
-  <unicode hex="02C6"/>
-  <outline>
-    <contour>
-      <point x="88" y="575" type="line"/>
-      <point x="169" y="664" type="line"/>
-      <point x="249" y="575" type="line"/>
-      <point x="317" y="575" type="line"/>
-      <point x="193" y="717" type="line"/>
-      <point x="144" y="717" type="line"/>
-      <point x="21" y="575" type="line"/>
-    </contour>
-    <contour>
-      <point x="169" y="500" type="move" name="_top"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-30 12:53:39 +0000</string>
-      <key>position</key>
-      <integer>46</integer>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-      <key>width</key>
-      <integer>296</integer>
-    </dict>
-  </lib>
+<glyph name="circumflex" format="2">
+	<advance width="338"/>
+	<unicode hex="02C6"/>
+	<anchor x="169" y="500" name="_top"/>
+	<outline>
+		<contour>
+			<point x="21" y="575" type="line"/>
+			<point x="88" y="575" type="line"/>
+			<point x="169" y="664" type="line"/>
+			<point x="249" y="575" type="line"/>
+			<point x="317" y="575" type="line"/>
+			<point x="193" y="717" type="line"/>
+			<point x="144" y="717" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>46</integer>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+			<key>width</key>
+			<integer>296</integer>
+		</dict>
+	</lib>
 </glyph>

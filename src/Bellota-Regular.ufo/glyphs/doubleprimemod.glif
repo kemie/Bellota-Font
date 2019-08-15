@@ -1,22 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="doubleprimemod" format="1">
-  <advance width="312"/>
-  <unicode hex="02BA"/>
-  <outline>
-    <component base="quotedbl" xOffset="-29"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-30 12:53:42 +0000</string>
-      <key>position</key>
-      <integer>171</integer>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-      <key>width</key>
-      <integer>52</integer>
-    </dict>
-  </lib>
+<glyph name="doubleprimemod" format="2">
+	<advance width="312"/>
+	<unicode hex="02BA"/>
+	<outline>
+		<component base="quotedbl" xOffset="-29"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>171</integer>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+			<key>width</key>
+			<integer>52</integer>
+		</dict>
+	</lib>
 </glyph>

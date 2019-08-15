@@ -1,34 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="rinvertedbreve" format="1">
-  <advance width="352"/>
-  <unicode hex="0213"/>
-  <outline>
-    <component base="r"/>
-    <component base="breve" xOffset="1" yOffset="1295" yScale="-1"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 10:50:08 +0000</string>
-      <key>position</key>
-      <integer>268</integer>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-      <key>width</key>
-      <integer>61</integer>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>breve</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
+<glyph name="rinvertedbreve" format="2">
+	<advance width="352"/>
+	<unicode hex="0213"/>
+	<outline>
+		<component base="r"/>
+		<component base="breve" yScale="-1" xOffset="1" yOffset="1295"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>breve</string>
+				</dict>
+			</array>
+			<key>position</key>
+			<integer>268</integer>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+			<key>width</key>
+			<integer>61</integer>
+		</dict>
+	</lib>
 </glyph>

@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Eacute.ss02" format="1">
-  <advance width="568"/>
-  <outline>
-    <component base="E.ss02"/>
-    <component base="acutecomb" xOffset="401" yOffset="183"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 10:49:25 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>E.ss02</string>
-      <key>position</key>
-      <integer>193</integer>
-      <key>width</key>
-      <integer>231</integer>
-    </dict>
-  </lib>
+<glyph name="Eacute.ss02" format="2">
+	<advance width="568"/>
+	<outline>
+		<component base="E.ss02"/>
+		<component base="acutecomb" xOffset="401" yOffset="183"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>E.ss02</string>
+			<key>position</key>
+			<integer>193</integer>
+			<key>width</key>
+			<integer>231</integer>
+		</dict>
+	</lib>
 </glyph>

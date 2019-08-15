@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Etilde" format="1">
-  <advance width="630"/>
-  <unicode hex="1EBC"/>
-  <outline>
-    <component base="E"/>
-    <component base="tildecomb" xOffset="381" yOffset="175"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:25:27 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>E</string>
-    </dict>
-  </lib>
+<glyph name="Etilde" format="2">
+	<advance width="630"/>
+	<unicode hex="1EBC"/>
+	<outline>
+		<component base="E"/>
+		<component base="tildecomb" xOffset="381" yOffset="175"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>E</string>
+		</dict>
+	</lib>
 </glyph>

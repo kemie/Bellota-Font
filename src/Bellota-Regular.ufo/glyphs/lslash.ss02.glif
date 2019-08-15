@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="lslash.ss02" format="1">
-  <advance width="226"/>
-  <outline>
-    <contour>
-      <point x="209" y="435" type="line"/>
-      <point x="209" y="499" type="line"/>
-      <point x="19" y="380" type="line"/>
-      <point x="19" y="317" type="line"/>
-    </contour>
-    <component base="l.ss02" xOffset="16"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 10:50:00 +0000</string>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-    </dict>
-  </lib>
+<glyph name="lslash.ss02" format="2">
+	<advance width="226"/>
+	<outline>
+		<contour>
+			<point x="19" y="317" type="line"/>
+			<point x="209" y="435" type="line"/>
+			<point x="209" y="499" type="line"/>
+			<point x="19" y="380" type="line"/>
+		</contour>
+		<component base="l.ss02" xOffset="16"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+		</dict>
+	</lib>
 </glyph>

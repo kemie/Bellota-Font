@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uhornhookabove.ss02" format="1">
-  <advance width="504"/>
-  <outline>
-    <component base="uhorn.ss02"/>
-    <component base="hookabovecomb" xOffset="251" yOffset="-40"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 10:51:36 +0000</string>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-    </dict>
-  </lib>
+<glyph name="uhornhookabove.ss02" format="2">
+	<advance width="504"/>
+	<outline>
+		<component base="uhorn.ss02"/>
+		<component base="hookabovecomb" xOffset="251" yOffset="-40"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+		</dict>
+	</lib>
 </glyph>

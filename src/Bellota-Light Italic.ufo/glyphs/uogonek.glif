@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uogonek" format="1">
-  <advance width="561"/>
-  <unicode hex="0173"/>
-  <outline>
-    <component base="u"/>
-    <component base="ogonekcomb" xOffset="526" yOffset="38"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:27:47 +0000</string>
-      <key>position</key>
-      <integer>430</integer>
-      <key>width</key>
-      <integer>57</integer>
-    </dict>
-  </lib>
+<glyph name="uogonek" format="2">
+	<advance width="561"/>
+	<unicode hex="0173"/>
+	<outline>
+		<component base="u"/>
+		<component base="ogonekcomb" xOffset="526" yOffset="38"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>430</integer>
+			<key>width</key>
+			<integer>57</integer>
+		</dict>
+	</lib>
 </glyph>

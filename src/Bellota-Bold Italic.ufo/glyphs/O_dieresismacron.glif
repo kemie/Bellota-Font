@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Odieresismacron" format="1">
-  <advance width="787"/>
-  <unicode hex="022A"/>
-  <outline>
-    <component base="O"/>
-    <component base="dieresiscomb" xOffset="420" yOffset="205"/>
-    <component base="macroncomb" xOffset="451" yOffset="426"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:24:53 +0000</string>
-      <key>position</key>
-      <integer>683</integer>
-      <key>width</key>
-      <integer>56</integer>
-    </dict>
-  </lib>
+<glyph name="Odieresismacron" format="2">
+	<advance width="787"/>
+	<unicode hex="022A"/>
+	<outline>
+		<component base="O"/>
+		<component base="dieresiscomb" xOffset="420" yOffset="205"/>
+		<component base="macroncomb" xOffset="451" yOffset="426"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>683</integer>
+			<key>width</key>
+			<integer>56</integer>
+		</dict>
+	</lib>
 </glyph>

@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Adotmacron.ss02" format="1">
-  <advance width="654"/>
-  <outline>
-    <component base="A.ss02"/>
-    <component base="dotaccentcomb" xOffset="365" yOffset="204"/>
-    <component base="macroncomb" xOffset="387" yOffset="407"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:27:47 +0000</string>
-    </dict>
-  </lib>
+<glyph name="Adotmacron.ss02" format="2">
+	<advance width="654"/>
+	<outline>
+		<component base="A.ss02"/>
+		<component base="dotaccentcomb" xOffset="365" yOffset="204"/>
+		<component base="macroncomb" xOffset="387" yOffset="407"/>
+	</outline>
 </glyph>

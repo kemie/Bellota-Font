@@ -1,29 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="caron" format="1">
-  <advance width="418"/>
-  <unicode hex="02C7"/>
-  <outline>
-    <contour>
-      <point x="270" y="567" type="line"/>
-      <point x="434" y="728" type="line"/>
-      <point x="335" y="728" type="line"/>
-      <point x="249" y="647" type="line"/>
-      <point x="189" y="728" type="line"/>
-      <point x="95" y="728" type="line"/>
-      <point x="212" y="567" type="line"/>
-    </contour>
-    <contour>
-      <point x="229" y="496" type="move" name="_top"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 07:57:01 +0000</string>
-      <key>position</key>
-      <integer>37</integer>
-      <key>width</key>
-      <integer>296</integer>
-    </dict>
-  </lib>
+<glyph name="caron" format="2">
+	<advance width="418"/>
+	<unicode hex="02C7"/>
+	<anchor x="229" y="496" name="_top"/>
+	<outline>
+		<contour>
+			<point x="212" y="567" type="line"/>
+			<point x="270" y="567" type="line"/>
+			<point x="434" y="728" type="line"/>
+			<point x="335" y="728" type="line"/>
+			<point x="249" y="647" type="line"/>
+			<point x="189" y="728" type="line"/>
+			<point x="95" y="728" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>37</integer>
+			<key>width</key>
+			<integer>296</integer>
+		</dict>
+	</lib>
 </glyph>

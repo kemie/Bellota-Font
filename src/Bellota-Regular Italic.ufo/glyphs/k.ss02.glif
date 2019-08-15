@@ -1,55 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="k.ss02" format="1">
-  <advance width="463"/>
-  <outline>
-    <contour>
-      <point x="418" y="0" type="line"/>
-      <point x="262" y="270" type="line"/>
-      <point x="324" y="285"/>
-      <point x="444" y="434"/>
-      <point x="453" y="500" type="curve"/>
-      <point x="401" y="504" type="line"/>
-      <point x="397" y="480"/>
-      <point x="326" y="353"/>
-      <point x="243" y="315" type="curve" smooth="yes"/>
-      <point x="221" y="303"/>
-      <point x="197" y="301"/>
-      <point x="160" y="301" type="curve" smooth="yes"/>
-      <point x="113" y="301" type="line"/>
-      <point x="104" y="249" type="line"/>
-      <point x="166" y="249" type="line"/>
-      <point x="194" y="248"/>
-      <point x="214" y="241"/>
-      <point x="227" y="227" type="curve"/>
-      <point x="358" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="82" y="0" type="line"/>
-      <point x="184" y="726" type="line"/>
-      <point x="129" y="726" type="line"/>
-      <point x="27" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="290" y="500" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="227" y="11" type="move" name="bottom"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:25:22 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>l</string>
-      <key>position</key>
-      <integer>412</integer>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-      <key>width</key>
-      <integer>57</integer>
-    </dict>
-  </lib>
+<glyph name="k.ss02" format="2">
+	<advance width="463"/>
+	<anchor x="290" y="500" name="top"/>
+	<anchor x="227" y="11" name="bottom"/>
+	<outline>
+		<contour>
+			<point x="358" y="0" type="line"/>
+			<point x="418" y="0" type="line"/>
+			<point x="262" y="270" type="line"/>
+			<point x="324" y="285"/>
+			<point x="444" y="434"/>
+			<point x="453" y="500" type="curve"/>
+			<point x="401" y="504" type="line"/>
+			<point x="397" y="480"/>
+			<point x="326" y="353"/>
+			<point x="243" y="315" type="curve" smooth="yes"/>
+			<point x="221" y="303"/>
+			<point x="197" y="301"/>
+			<point x="160" y="301" type="curve" smooth="yes"/>
+			<point x="113" y="301" type="line"/>
+			<point x="104" y="249" type="line"/>
+			<point x="166" y="249" type="line"/>
+			<point x="194" y="248"/>
+			<point x="214" y="241"/>
+			<point x="227" y="227" type="curve"/>
+		</contour>
+		<contour>
+			<point x="27" y="0" type="line"/>
+			<point x="82" y="0" type="line"/>
+			<point x="184" y="726" type="line"/>
+			<point x="129" y="726" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>l</string>
+			<key>position</key>
+			<integer>412</integer>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+			<key>width</key>
+			<integer>57</integer>
+		</dict>
+	</lib>
 </glyph>

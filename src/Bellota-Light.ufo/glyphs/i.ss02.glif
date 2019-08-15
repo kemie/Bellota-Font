@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="i.ss02" format="1">
-  <advance width="175"/>
-  <outline>
-    <component base="idotless.ss02"/>
-    <component base="dotaccentcomb" xOffset="86" yOffset="9"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 10:51:36 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>j</string>
-      <key>position</key>
-      <integer>69</integer>
-      <key>width</key>
-      <integer>55</integer>
-    </dict>
-  </lib>
+<glyph name="i.ss02" format="2">
+	<advance width="175"/>
+	<outline>
+		<component base="idotless.ss02"/>
+		<component base="dotaccentcomb" xOffset="86" yOffset="9"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>j</string>
+			<key>position</key>
+			<integer>69</integer>
+			<key>width</key>
+			<integer>55</integer>
+		</dict>
+	</lib>
 </glyph>

@@ -1,21 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Uhorn" format="1">
-  <advance width="749"/>
-  <unicode hex="01AF"/>
-  <outline>
-    <component base="U"/>
-    <component base="horncomb" xOffset="736" yOffset="-5"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 10:49:29 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>E</string>
-      <key>position</key>
-      <integer>717</integer>
-      <key>width</key>
-      <integer>64</integer>
-    </dict>
-  </lib>
+<glyph name="Uhorn" format="2">
+	<advance width="749"/>
+	<unicode hex="01AF"/>
+	<outline>
+		<component base="U"/>
+		<component base="horncomb" xOffset="750" yOffset="70"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>U</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>horncomb</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>E</string>
+			<key>position</key>
+			<integer>717</integer>
+			<key>width</key>
+			<integer>64</integer>
+		</dict>
+	</lib>
 </glyph>

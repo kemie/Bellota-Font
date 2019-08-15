@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Ecircumflexdotbelow.ss02" format="1">
-  <advance width="599"/>
-  <outline>
-    <component base="E.ss02"/>
-    <component base="dotbelowcomb" xOffset="298" yOffset="11"/>
-    <component base="circumflexcomb" xOffset="333" yOffset="195"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:25:27 +0000</string>
-    </dict>
-  </lib>
+<glyph name="Ecircumflexdotbelow.ss02" format="2">
+	<advance width="599"/>
+	<outline>
+		<component base="E.ss02"/>
+		<component base="dotbelowcomb" xOffset="298" yOffset="11"/>
+		<component base="circumflexcomb" xOffset="333" yOffset="195"/>
+	</outline>
 </glyph>

@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="acutetonecomb" format="1">
-  <advance width="59"/>
-  <unicode hex="0341"/>
-  <outline>
-    <component base="acutecomb" xOffset="-19" yOffset="11"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 07:31:16 +0000</string>
-      <key>position</key>
-      <integer>35</integer>
-      <key>width</key>
-      <integer>231</integer>
-    </dict>
-  </lib>
+<glyph name="acutetonecomb" format="2">
+	<advance width="59"/>
+	<unicode hex="0341"/>
+	<outline>
+		<component base="acutecomb" xOffset="-19" yOffset="11"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>35</integer>
+			<key>width</key>
+			<integer>231</integer>
+		</dict>
+	</lib>
 </glyph>

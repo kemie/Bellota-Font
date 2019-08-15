@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ellipsis" format="1">
-  <advance width="536"/>
-  <unicode hex="2026"/>
-  <outline>
-    <component base="period" xOffset="165" yOffset="-6"/>
-    <component base="period" xOffset="2" yOffset="-6"/>
-    <component base="period" xOffset="328" yOffset="-6"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 10:50:05 +0000</string>
-      <key>position</key>
-      <integer>368</integer>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-      <key>width</key>
-      <integer>89</integer>
-    </dict>
-  </lib>
+<glyph name="ellipsis" format="2">
+	<advance width="536"/>
+	<unicode hex="2026"/>
+	<outline>
+		<component base="period" xOffset="165" yOffset="-6"/>
+		<component base="period" xOffset="2" yOffset="-6"/>
+		<component base="period" xOffset="328" yOffset="-6"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>368</integer>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+			<key>width</key>
+			<integer>89</integer>
+		</dict>
+	</lib>
 </glyph>

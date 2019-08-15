@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="gbreve" format="1">
-  <advance width="508"/>
-  <unicode hex="011F"/>
-  <outline>
-    <component base="g"/>
-    <component base="brevecomb" xOffset="260" yOffset="9"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 10:52:02 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>c</string>
-      <key>position</key>
-      <integer>405</integer>
-      <key>width</key>
-      <integer>53</integer>
-    </dict>
-  </lib>
+<glyph name="gbreve" format="2">
+	<advance width="508"/>
+	<unicode hex="011F"/>
+	<outline>
+		<component base="g"/>
+		<component base="brevecomb" xOffset="260" yOffset="9"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>c</string>
+			<key>position</key>
+			<integer>405</integer>
+			<key>width</key>
+			<integer>53</integer>
+		</dict>
+	</lib>
 </glyph>

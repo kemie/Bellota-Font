@@ -1,23 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="rinvertedbreve" format="1">
-  <advance width="361"/>
-  <unicode hex="0213"/>
-  <outline>
-    <component base="breve" xOffset="512" yOffset="1297" xScale="-1" yScale="-1"/>
-    <component base="r"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:25:22 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>r</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>r</string>
-      <key>position</key>
-      <integer>268</integer>
-      <key>width</key>
-      <integer>61</integer>
-    </dict>
-  </lib>
+<glyph name="rinvertedbreve" format="2">
+	<advance width="361"/>
+	<unicode hex="0213"/>
+	<outline>
+		<component base="breve" xScale="-1" yScale="-1" xOffset="512" yOffset="1297"/>
+		<component base="r"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>r</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>r</string>
+			<key>position</key>
+			<integer>268</integer>
+			<key>width</key>
+			<integer>61</integer>
+		</dict>
+	</lib>
 </glyph>

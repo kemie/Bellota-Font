@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Adotmacron" format="1">
-  <advance width="753"/>
-  <unicode hex="01E0"/>
-  <outline>
-    <component base="A"/>
-    <component base="dotaccentcomb" xOffset="446" yOffset="184"/>
-    <component base="macroncomb" xOffset="484" yOffset="414"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:27:47 +0000</string>
-      <key>position</key>
-      <integer>367</integer>
-      <key>width</key>
-      <integer>83</integer>
-    </dict>
-  </lib>
+<glyph name="Adotmacron" format="2">
+	<advance width="753"/>
+	<unicode hex="01E0"/>
+	<outline>
+		<component base="A"/>
+		<component base="dotaccentcomb" xOffset="446" yOffset="184"/>
+		<component base="macroncomb" xOffset="484" yOffset="414"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>367</integer>
+			<key>width</key>
+			<integer>83</integer>
+		</dict>
+	</lib>
 </glyph>

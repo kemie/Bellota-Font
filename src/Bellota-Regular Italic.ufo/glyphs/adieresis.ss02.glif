@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="adieresis.ss02" format="1">
-  <advance width="427"/>
-  <outline>
-    <component base="a.ss02"/>
-    <component base="dieresiscomb" xOffset="223" yOffset="7"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:27:47 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>c</string>
-      <key>position</key>
-      <integer>407</integer>
-      <key>width</key>
-      <integer>55</integer>
-    </dict>
-  </lib>
+<glyph name="adieresis.ss02" format="2">
+	<advance width="427"/>
+	<outline>
+		<component base="a.ss02"/>
+		<component base="dieresiscomb" xOffset="223" yOffset="7"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>c</string>
+			<key>position</key>
+			<integer>407</integer>
+			<key>width</key>
+			<integer>55</integer>
+		</dict>
+	</lib>
 </glyph>

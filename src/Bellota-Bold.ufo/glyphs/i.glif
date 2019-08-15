@@ -1,22 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="i" format="1">
-  <advance width="252"/>
-  <unicode hex="0069"/>
-  <outline>
-    <component base="idotless"/>
-    <component base="dotaccentcomb" xOffset="104" yOffset="-4"/>
-    <contour>
-      <point x="87" y="11" type="move" name="bottom"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:00:01 +0000</string>
-      <key>position</key>
-      <integer>57</integer>
-      <key>width</key>
-      <integer>55</integer>
-    </dict>
-  </lib>
+<glyph name="i" format="2">
+	<advance width="252"/>
+	<unicode hex="0069"/>
+	<anchor x="87" y="11" name="bottom"/>
+	<outline>
+		<component base="idotless"/>
+		<component base="dotaccentcomb" xOffset="104" yOffset="-4"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>57</integer>
+			<key>width</key>
+			<integer>55</integer>
+		</dict>
+	</lib>
 </glyph>

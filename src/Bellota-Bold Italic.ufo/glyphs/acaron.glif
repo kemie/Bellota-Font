@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="acaron" format="1">
-  <advance width="572"/>
-  <unicode hex="01CE"/>
-  <outline>
-    <component base="a"/>
-    <component base="caroncomb" xOffset="282" yOffset="20"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:27:47 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>c</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>a</string>
-    </dict>
-  </lib>
+<glyph name="acaron" format="2">
+	<advance width="572"/>
+	<unicode hex="01CE"/>
+	<outline>
+		<component base="a"/>
+		<component base="caroncomb" xOffset="282" yOffset="20"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>c</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>a</string>
+		</dict>
+	</lib>
 </glyph>

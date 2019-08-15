@@ -1,29 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dialytikatonoscomb" format="1">
-  <advance width="0"/>
-  <unicode hex="0344"/>
-  <outline>
-    <component base="acutecomb" xOffset="95" yOffset="170"/>
-    <component base="dieresiscomb" xOffset="-13" yOffset="11"/>
-    <contour>
-      <point x="-16" y="884" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="1" y="526" type="move" name="_top"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 09:29:02 +0000</string>
-      <key>position</key>
-      <integer>237</integer>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-      <key>width</key>
-      <integer>81</integer>
-    </dict>
-  </lib>
+<glyph name="dialytikatonoscomb" format="2">
+	<advance width="0"/>
+	<unicode hex="0344"/>
+	<anchor x="-16" y="884" name="top"/>
+	<anchor x="1" y="526" name="_top"/>
+	<outline>
+		<component base="acutecomb" xOffset="95" yOffset="170"/>
+		<component base="dieresiscomb" xOffset="-13" yOffset="11"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>237</integer>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+			<key>width</key>
+			<integer>81</integer>
+		</dict>
+	</lib>
 </glyph>

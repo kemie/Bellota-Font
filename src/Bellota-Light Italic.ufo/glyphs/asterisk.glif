@@ -1,38 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="asterisk" format="1">
-  <advance width="379"/>
-  <unicode hex="002A"/>
-  <outline>
-    <contour>
-      <point x="226" y="529" type="line"/>
-      <point x="277" y="430" type="line"/>
-      <point x="318" y="456" type="line"/>
-      <point x="260" y="542" type="line"/>
-      <point x="374" y="572" type="line"/>
-      <point x="366" y="616" type="line"/>
-      <point x="248" y="572" type="line"/>
-      <point x="274" y="695" type="line"/>
-      <point x="227" y="695" type="line"/>
-      <point x="216" y="573" type="line"/>
-      <point x="111" y="616" type="line"/>
-      <point x="91" y="572" type="line"/>
-      <point x="198" y="543" type="line"/>
-      <point x="115" y="456" type="line"/>
-      <point x="147" y="429" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:24:56 +0000</string>
-      <key>position</key>
-      <integer>27</integer>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-      <key>width</key>
-      <integer>295</integer>
-    </dict>
-  </lib>
+<glyph name="asterisk" format="2">
+	<advance width="379"/>
+	<unicode hex="002A"/>
+	<outline>
+		<contour>
+			<point x="147" y="429" type="line"/>
+			<point x="226" y="529" type="line"/>
+			<point x="277" y="430" type="line"/>
+			<point x="318" y="456" type="line"/>
+			<point x="260" y="542" type="line"/>
+			<point x="374" y="572" type="line"/>
+			<point x="366" y="616" type="line"/>
+			<point x="248" y="572" type="line"/>
+			<point x="274" y="695" type="line"/>
+			<point x="227" y="695" type="line"/>
+			<point x="216" y="573" type="line"/>
+			<point x="111" y="616" type="line"/>
+			<point x="91" y="572" type="line"/>
+			<point x="198" y="543" type="line"/>
+			<point x="115" y="456" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>27</integer>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+			<key>width</key>
+			<integer>295</integer>
+		</dict>
+	</lib>
 </glyph>

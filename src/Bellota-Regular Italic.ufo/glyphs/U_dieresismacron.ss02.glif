@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Udieresismacron.ss02" format="1">
-  <advance width="676"/>
-  <outline>
-    <component base="U.ss02"/>
-    <component base="dieresiscomb" xOffset="372" yOffset="182"/>
-    <component base="macroncomb" xOffset="402" yOffset="366"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:25:27 +0000</string>
-    </dict>
-  </lib>
+<glyph name="Udieresismacron.ss02" format="2">
+	<advance width="676"/>
+	<outline>
+		<component base="U.ss02"/>
+		<component base="dieresiscomb" xOffset="372" yOffset="182"/>
+		<component base="macroncomb" xOffset="402" yOffset="366"/>
+	</outline>
 </glyph>

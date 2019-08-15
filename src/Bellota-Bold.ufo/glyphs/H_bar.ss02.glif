@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Hbar.ss02" format="1">
-  <advance width="675"/>
-  <outline>
-    <contour>
-      <point x="613" y="489" type="line"/>
-      <point x="613" y="563" type="line"/>
-      <point x="77" y="563" type="line"/>
-      <point x="77" y="489" type="line"/>
-    </contour>
-    <component base="H.ss02" xOffset="1"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 10:50:05 +0000</string>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-    </dict>
-  </lib>
+<glyph name="Hbar.ss02" format="2">
+	<advance width="675"/>
+	<outline>
+		<contour>
+			<point x="77" y="489" type="line"/>
+			<point x="613" y="489" type="line"/>
+			<point x="613" y="563" type="line"/>
+			<point x="77" y="563" type="line"/>
+		</contour>
+		<component base="H.ss02" xOffset="1"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+		</dict>
+	</lib>
 </glyph>

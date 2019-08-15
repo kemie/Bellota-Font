@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="abrevetilde" format="1">
-  <advance width="561"/>
-  <unicode hex="1EB5"/>
-  <outline>
-    <component base="a"/>
-    <component base="brevecomb" xOffset="274" yOffset="8"/>
-    <component base="tildecomb" xOffset="306" yOffset="254"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:27:47 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>c</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>a</string>
-    </dict>
-  </lib>
+<glyph name="abrevetilde" format="2">
+	<advance width="561"/>
+	<unicode hex="1EB5"/>
+	<outline>
+		<component base="a"/>
+		<component base="brevecomb" xOffset="274" yOffset="8"/>
+		<component base="tildecomb" xOffset="306" yOffset="254"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>c</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>a</string>
+		</dict>
+	</lib>
 </glyph>

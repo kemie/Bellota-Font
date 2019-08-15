@@ -1,22 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="oogonekmacron" format="1">
-  <advance width="563"/>
-  <unicode hex="01ED"/>
-  <outline>
-    <component base="o"/>
-    <component base="ogonekcomb" xOffset="360" yOffset="7"/>
-    <component base="macroncomb" xOffset="283" yOffset="4"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 10:51:36 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>c</string>
-      <key>position</key>
-      <integer>481</integer>
-      <key>width</key>
-      <integer>57</integer>
-    </dict>
-  </lib>
+<glyph name="oogonekmacron" format="2">
+	<advance width="563"/>
+	<unicode hex="01ED"/>
+	<outline>
+		<component base="o"/>
+		<component base="ogonekcomb" xOffset="360" yOffset="7"/>
+		<component base="macroncomb" xOffset="283" yOffset="4"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>c</string>
+			<key>position</key>
+			<integer>481</integer>
+			<key>width</key>
+			<integer>57</integer>
+		</dict>
+	</lib>
 </glyph>

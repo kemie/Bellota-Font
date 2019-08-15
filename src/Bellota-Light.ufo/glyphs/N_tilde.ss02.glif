@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Ntilde.ss02" format="1">
-  <advance width="740"/>
-  <outline>
-    <component base="N.ss02"/>
-    <component base="tildecomb" xOffset="357" yOffset="180"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 10:16:34 +0000</string>
-    </dict>
-  </lib>
+<glyph name="Ntilde.ss02" format="2">
+	<advance width="740"/>
+	<outline>
+		<component base="N.ss02"/>
+		<component base="tildecomb" xOffset="358" yOffset="184"/>
+	</outline>
 </glyph>

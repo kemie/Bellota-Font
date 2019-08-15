@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ldot" format="1">
-  <advance width="321"/>
-  <unicode hex="0140"/>
-  <outline>
-    <component base="l"/>
-    <component base="periodcentered" xOffset="143" yOffset="115"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:24:52 +0000</string>
-      <key>position</key>
-      <integer>282</integer>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-      <key>width</key>
-      <integer>93</integer>
-    </dict>
-  </lib>
+<glyph name="ldot" format="2">
+	<advance width="321"/>
+	<unicode hex="0140"/>
+	<outline>
+		<component base="l"/>
+		<component base="periodcentered" xOffset="143" yOffset="115"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>282</integer>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+			<key>width</key>
+			<integer>93</integer>
+		</dict>
+	</lib>
 </glyph>

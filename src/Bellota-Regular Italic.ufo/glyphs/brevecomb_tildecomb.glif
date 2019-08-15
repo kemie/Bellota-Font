@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="brevecomb_tildecomb" format="1">
-  <advance width="0"/>
-  <outline>
-    <component base="brevecomb" xOffset="-4"/>
-    <component base="tildecomb" xOffset="28" yOffset="246"/>
-    <contour>
-      <point x="77" y="915" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="32" y="497" type="move" name="_top"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 08:25:12 +0000</string>
-    </dict>
-  </lib>
+<glyph name="brevecomb_tildecomb" format="2">
+	<advance width="0"/>
+	<anchor x="77" y="915" name="top"/>
+	<anchor x="32" y="497" name="_top"/>
+	<outline>
+		<component base="brevecomb" xOffset="-4"/>
+		<component base="tildecomb" xOffset="28" yOffset="246"/>
+	</outline>
 </glyph>

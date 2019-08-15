@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="udieresisgrave.ss02" format="1">
-  <advance width="523"/>
-  <outline>
-    <component base="u.ss02"/>
-    <component base="dieresiscomb" xOffset="306" yOffset="-2"/>
-    <component base="gravecomb" xOffset="248" yOffset="215"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 10:51:36 +0000</string>
-    </dict>
-  </lib>
+<glyph name="udieresisgrave.ss02" format="2">
+	<advance width="523"/>
+	<outline>
+		<component base="u.ss02"/>
+		<component base="dieresiscomb" xOffset="306" yOffset="-2"/>
+		<component base="gravecomb" xOffset="248" yOffset="215"/>
+	</outline>
 </glyph>

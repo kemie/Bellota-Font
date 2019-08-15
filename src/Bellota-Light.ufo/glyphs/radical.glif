@@ -1,33 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="radical" format="1">
-  <advance width="557"/>
-  <unicode hex="221A"/>
-  <outline>
-    <contour>
-      <point x="340" y="-96" type="line"/>
-      <point x="520" y="839" type="line"/>
-      <point x="470" y="839" type="line"/>
-      <point x="303" y="-53" type="line"/>
-      <point x="266" y="-53" type="line"/>
-      <point x="148" y="367" type="line"/>
-      <point x="21" y="327" type="line"/>
-      <point x="34" y="287" type="line"/>
-      <point x="115" y="314" type="line"/>
-      <point x="231" y="-96" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 10:50:00 +0000</string>
-      <key>position</key>
-      <string>-95</string>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-      <key>width</key>
-      <integer>56</integer>
-    </dict>
-  </lib>
+<glyph name="radical" format="2">
+	<advance width="557"/>
+	<unicode hex="221A"/>
+	<outline>
+		<contour>
+			<point x="231" y="-96" type="line"/>
+			<point x="340" y="-96" type="line"/>
+			<point x="520" y="839" type="line"/>
+			<point x="470" y="839" type="line"/>
+			<point x="303" y="-53" type="line"/>
+			<point x="266" y="-53" type="line"/>
+			<point x="148" y="367" type="line"/>
+			<point x="21" y="327" type="line"/>
+			<point x="34" y="287" type="line"/>
+			<point x="115" y="314" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<string>-95</string>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+			<key>width</key>
+			<integer>56</integer>
+		</dict>
+	</lib>
 </glyph>

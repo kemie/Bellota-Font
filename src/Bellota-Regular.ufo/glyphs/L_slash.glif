@@ -1,28 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Lslash" format="1">
-  <advance width="515"/>
-  <unicode hex="0141"/>
-  <outline>
-    <contour>
-      <point x="247" y="427" type="line"/>
-      <point x="247" y="491" type="line"/>
-      <point x="27" y="332" type="line"/>
-      <point x="27" y="269" type="line"/>
-    </contour>
-    <component base="L" xOffset="17"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 10:50:06 +0000</string>
-      <key>position</key>
-      <integer>87</integer>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-      <key>width</key>
-      <integer>61</integer>
-    </dict>
-  </lib>
+<glyph name="Lslash" format="2">
+	<advance width="515"/>
+	<unicode hex="0141"/>
+	<outline>
+		<contour>
+			<point x="27" y="269" type="line"/>
+			<point x="247" y="427" type="line"/>
+			<point x="247" y="491" type="line"/>
+			<point x="27" y="332" type="line"/>
+		</contour>
+		<component base="L" xOffset="17"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>87</integer>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+			<key>width</key>
+			<integer>61</integer>
+		</dict>
+	</lib>
 </glyph>

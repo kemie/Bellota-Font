@@ -1,24 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="adotmacron" format="1">
-  <advance width="561"/>
-  <unicode hex="01E1"/>
-  <outline>
-    <component base="a"/>
-    <component base="dotaccentcomb" xOffset="266" yOffset="8"/>
-    <component base="macroncomb" xOffset="280" yOffset="192"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:43:37 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>c</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>a</string>
-      <key>position</key>
-      <integer>407</integer>
-      <key>width</key>
-      <integer>55</integer>
-    </dict>
-  </lib>
+<glyph name="adotmacron" format="2">
+	<advance width="561"/>
+	<unicode hex="01E1"/>
+	<outline>
+		<component base="a"/>
+		<component base="dotaccentcomb" xOffset="266" yOffset="8"/>
+		<component base="macroncomb" xOffset="280" yOffset="192"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>c</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>a</string>
+			<key>position</key>
+			<integer>407</integer>
+			<key>width</key>
+			<integer>55</integer>
+		</dict>
+	</lib>
 </glyph>

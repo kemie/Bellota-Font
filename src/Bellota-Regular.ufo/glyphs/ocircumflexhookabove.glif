@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ocircumflexhookabove" format="1">
-  <advance width="555"/>
-  <unicode hex="1ED5"/>
-  <outline>
-    <component base="o"/>
-    <component base="circumflexcomb" xOffset="279" yOffset="8"/>
-    <component base="hookabovecomb" xOffset="309" yOffset="248"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 10:51:36 +0000</string>
-    </dict>
-  </lib>
+<glyph name="ocircumflexhookabove" format="2">
+	<advance width="555"/>
+	<unicode hex="1ED5"/>
+	<outline>
+		<component base="o"/>
+		<component base="circumflexcomb" xOffset="279" yOffset="8"/>
+		<component base="hookabovecomb" xOffset="309" yOffset="248"/>
+	</outline>
 </glyph>

@@ -1,25 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="perthousand" format="1">
-  <advance width="1016"/>
-  <unicode hex="2030"/>
-  <outline>
-    <component base="degree" xOffset="304" yOffset="-403"/>
-    <component base="fraction" xOffset="249" yOffset="1"/>
-    <component base="degree" xOffset="-37" yOffset="-160"/>
-    <component base="degree" xOffset="584" yOffset="-403"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:24:54 +0000</string>
-      <key>position</key>
-      <integer>744</integer>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-      <key>width</key>
-      <integer>51</integer>
-    </dict>
-  </lib>
+<glyph name="perthousand" format="2">
+	<advance width="1016"/>
+	<unicode hex="2030"/>
+	<outline>
+		<component base="degree" xOffset="304" yOffset="-403"/>
+		<component base="fraction" xOffset="249" yOffset="1"/>
+		<component base="degree" xOffset="-37" yOffset="-160"/>
+		<component base="degree" xOffset="584" yOffset="-403"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>744</integer>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+			<key>width</key>
+			<integer>51</integer>
+		</dict>
+	</lib>
 </glyph>

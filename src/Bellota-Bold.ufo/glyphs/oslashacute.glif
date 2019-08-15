@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="oslashacute" format="1">
-  <advance width="563"/>
-  <unicode hex="01FF"/>
-  <outline>
-    <component base="oslash"/>
-    <component base="acutecomb" xOffset="345"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:43:37 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>c</string>
-      <key>position</key>
-      <integer>491</integer>
-      <key>width</key>
-      <integer>57</integer>
-    </dict>
-  </lib>
+<glyph name="oslashacute" format="2">
+	<advance width="563"/>
+	<unicode hex="01FF"/>
+	<outline>
+		<component base="oslash"/>
+		<component base="acutecomb" xOffset="345"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>c</string>
+			<key>position</key>
+			<integer>491</integer>
+			<key>width</key>
+			<integer>57</integer>
+		</dict>
+	</lib>
 </glyph>

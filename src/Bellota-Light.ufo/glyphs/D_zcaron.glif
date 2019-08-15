@@ -1,35 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Dzcaron" format="1">
-  <advance width="1167"/>
-  <unicode hex="01C5"/>
-  <outline>
-    <component base="D"/>
-    <component base="z" xOffset="730" yOffset="-6"/>
-    <component base="caron" xOffset="812" yOffset="-9"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 10:51:47 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>E</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>z</string>
-      <key>position</key>
-      <integer>897</integer>
-      <key>width</key>
-      <integer>296</integer>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>z</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
+<glyph name="Dzcaron" format="2">
+	<advance width="1167"/>
+	<unicode hex="01C5"/>
+	<outline>
+		<component base="D"/>
+		<component base="z" xOffset="730" yOffset="-6"/>
+		<component base="caron" xOffset="807" yOffset="-9"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>z</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>E</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>z</string>
+			<key>position</key>
+			<integer>897</integer>
+			<key>width</key>
+			<integer>296</integer>
+		</dict>
+	</lib>
 </glyph>

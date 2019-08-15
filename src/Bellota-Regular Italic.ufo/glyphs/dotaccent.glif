@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dotaccent" format="1">
-  <advance width="177"/>
-  <unicode hex="02D9"/>
-  <outline>
-    <component base="period" xOffset="33" yOffset="607"/>
-    <contour>
-      <point x="93" y="500" type="move" name="_top"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:24:56 +0000</string>
-      <key>position</key>
-      <integer>30</integer>
-      <key>width</key>
-      <integer>83</integer>
-    </dict>
-  </lib>
+<glyph name="dotaccent" format="2">
+	<advance width="177"/>
+	<unicode hex="02D9"/>
+	<anchor x="93" y="500" name="_top"/>
+	<outline>
+		<component base="period" xOffset="33" yOffset="607"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>30</integer>
+			<key>width</key>
+			<integer>83</integer>
+		</dict>
+	</lib>
 </glyph>

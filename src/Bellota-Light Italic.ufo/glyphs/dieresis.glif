@@ -1,22 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dieresis" format="1">
-  <advance width="433"/>
-  <unicode hex="00A8"/>
-  <outline>
-    <component base="period" xOffset="52" yOffset="607"/>
-    <component base="period" xOffset="279" yOffset="607"/>
-    <contour>
-      <point x="238" y="504" type="move" name="_top"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2013-06-19 09:35:47 +0000</string>
-      <key>position</key>
-      <integer>277</integer>
-      <key>width</key>
-      <integer>81</integer>
-    </dict>
-  </lib>
+<glyph name="dieresis" format="2">
+	<advance width="433"/>
+	<unicode hex="00A8"/>
+	<anchor x="238" y="504" name="_top"/>
+	<outline>
+		<component base="period" xOffset="52" yOffset="607"/>
+		<component base="period" xOffset="279" yOffset="607"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>277</integer>
+			<key>width</key>
+			<integer>81</integer>
+		</dict>
+	</lib>
 </glyph>

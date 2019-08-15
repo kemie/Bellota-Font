@@ -1,28 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="exclam" format="1">
-  <advance width="254"/>
-  <unicode hex="0021"/>
-  <outline>
-    <contour>
-      <point x="159" y="139" type="line"/>
-      <point x="168" y="704" type="line"/>
-      <point x="98" y="704" type="line"/>
-      <point x="107" y="139" type="line"/>
-    </contour>
-    <component base="period" xOffset="-4" yOffset="-8"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 10:50:06 +0000</string>
-      <key>position</key>
-      <integer>51</integer>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-      <key>width</key>
-      <integer>56</integer>
-    </dict>
-  </lib>
+<glyph name="exclam" format="2">
+	<advance width="254"/>
+	<unicode hex="0021"/>
+	<outline>
+		<contour>
+			<point x="107" y="139" type="line"/>
+			<point x="159" y="139" type="line"/>
+			<point x="168" y="704" type="line"/>
+			<point x="98" y="704" type="line"/>
+		</contour>
+		<component base="period" xOffset="-4" yOffset="-8"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>51</integer>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+			<key>width</key>
+			<integer>56</integer>
+		</dict>
+	</lib>
 </glyph>

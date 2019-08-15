@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="acircumflexacute" format="1">
-  <advance width="573"/>
-  <unicode hex="1EA5"/>
-  <outline>
-    <component base="a"/>
-    <component base="circumflexcomb" xOffset="268" yOffset="8"/>
-    <component base="acutecomb" xOffset="361" yOffset="240"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:43:37 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>c</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>a</string>
-    </dict>
-  </lib>
+<glyph name="acircumflexacute" format="2">
+	<advance width="573"/>
+	<unicode hex="1EA5"/>
+	<outline>
+		<component base="a"/>
+		<component base="circumflexcomb" xOffset="268" yOffset="8"/>
+		<component base="acutecomb" xOffset="361" yOffset="240"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>c</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>a</string>
+		</dict>
+	</lib>
 </glyph>

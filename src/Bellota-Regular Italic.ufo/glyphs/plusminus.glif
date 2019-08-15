@@ -1,41 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="plusminus" format="1">
-  <advance width="499"/>
-  <unicode hex="00B1"/>
-  <outline>
-    <contour>
-      <point x="258" y="107" type="line"/>
-      <point x="281" y="268" type="line"/>
-      <point x="439" y="268" type="line"/>
-      <point x="446" y="319" type="line"/>
-      <point x="288" y="319" type="line"/>
-      <point x="310" y="479" type="line"/>
-      <point x="254" y="479" type="line"/>
-      <point x="232" y="319" type="line"/>
-      <point x="74" y="319" type="line"/>
-      <point x="67" y="268" type="line"/>
-      <point x="225" y="268" type="line"/>
-      <point x="202" y="107" type="line"/>
-    </contour>
-    <contour>
-      <point x="401" y="0" type="line"/>
-      <point x="408" y="52" type="line"/>
-      <point x="36" y="52" type="line"/>
-      <point x="29" y="0" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:24:51 +0000</string>
-      <key>position</key>
-      <integer>203</integer>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-      <key>width</key>
-      <integer>56</integer>
-    </dict>
-  </lib>
+<glyph name="plusminus" format="2">
+	<advance width="499"/>
+	<unicode hex="00B1"/>
+	<outline>
+		<contour>
+			<point x="202" y="107" type="line"/>
+			<point x="258" y="107" type="line"/>
+			<point x="281" y="268" type="line"/>
+			<point x="439" y="268" type="line"/>
+			<point x="446" y="319" type="line"/>
+			<point x="288" y="319" type="line"/>
+			<point x="310" y="479" type="line"/>
+			<point x="254" y="479" type="line"/>
+			<point x="232" y="319" type="line"/>
+			<point x="74" y="319" type="line"/>
+			<point x="67" y="268" type="line"/>
+			<point x="225" y="268" type="line"/>
+		</contour>
+		<contour>
+			<point x="29" y="0" type="line"/>
+			<point x="401" y="0" type="line"/>
+			<point x="408" y="52" type="line"/>
+			<point x="36" y="52" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>203</integer>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+			<key>width</key>
+			<integer>56</integer>
+		</dict>
+	</lib>
 </glyph>

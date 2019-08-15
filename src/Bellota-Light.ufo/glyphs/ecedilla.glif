@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ecedilla" format="1">
-  <advance width="445"/>
-  <unicode hex="0229"/>
-  <outline>
-    <component base="e"/>
-    <component base="cedillacomb" xOffset="268"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 10:52:02 +0000</string>
-      <key>position</key>
-      <integer>382</integer>
-      <key>width</key>
-      <integer>57</integer>
-    </dict>
-  </lib>
+<glyph name="ecedilla" format="2">
+	<advance width="445"/>
+	<unicode hex="0229"/>
+	<outline>
+		<component base="e"/>
+		<component base="cedillacomb" xOffset="268"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>382</integer>
+			<key>width</key>
+			<integer>57</integer>
+		</dict>
+	</lib>
 </glyph>

@@ -1,32 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="F.ss02" format="1">
-  <advance width="573"/>
-  <outline>
-    <contour>
-      <point x="133" y="-1" type="line"/>
-      <point x="177" y="315" type="line"/>
-      <point x="485" y="315" type="line"/>
-      <point x="496" y="393" type="line"/>
-      <point x="188" y="393" type="line"/>
-      <point x="218" y="608" type="line"/>
-      <point x="594" y="608" type="line"/>
-      <point x="605" y="686" type="line"/>
-      <point x="147" y="686" type="line"/>
-      <point x="51" y="-1" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:25:22 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>L</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>F</string>
-      <key>position</key>
-      <integer>95</integer>
-      <key>width</key>
-      <integer>61</integer>
-    </dict>
-  </lib>
+<glyph name="F.ss02" format="2">
+	<advance width="573"/>
+	<outline>
+		<contour>
+			<point x="51" y="-1" type="line"/>
+			<point x="133" y="-1" type="line"/>
+			<point x="177" y="315" type="line"/>
+			<point x="485" y="315" type="line"/>
+			<point x="496" y="393" type="line"/>
+			<point x="188" y="393" type="line"/>
+			<point x="218" y="608" type="line"/>
+			<point x="594" y="608" type="line"/>
+			<point x="605" y="686" type="line"/>
+			<point x="147" y="686" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>L</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>F</string>
+			<key>position</key>
+			<integer>95</integer>
+			<key>width</key>
+			<integer>61</integer>
+		</dict>
+	</lib>
 </glyph>

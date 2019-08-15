@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ubreve" format="1">
-  <advance width="586"/>
-  <unicode hex="016D"/>
-  <outline>
-    <component base="u"/>
-    <component base="brevecomb" xOffset="260"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 10:49:12 +0000</string>
-      <key>position</key>
-      <integer>415</integer>
-      <key>width</key>
-      <integer>55</integer>
-    </dict>
-  </lib>
+<glyph name="ubreve" format="2">
+	<advance width="586"/>
+	<unicode hex="016D"/>
+	<outline>
+		<component base="u"/>
+		<component base="brevecomb" xOffset="260"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>415</integer>
+			<key>width</key>
+			<integer>55</integer>
+		</dict>
+	</lib>
 </glyph>

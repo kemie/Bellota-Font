@@ -1,23 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Tbar" format="1">
-  <advance width="598"/>
-  <unicode hex="0166"/>
-  <outline>
-    <component base="T"/>
-    <component base="strokeshortcomb" xOffset="316" yOffset="54"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:27:47 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>T</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>T</string>
-      <key>position</key>
-      <integer>277</integer>
-      <key>width</key>
-      <integer>61</integer>
-    </dict>
-  </lib>
+<glyph name="Tbar" format="2">
+	<advance width="598"/>
+	<unicode hex="0166"/>
+	<outline>
+		<component base="T"/>
+		<component base="strokeshortcomb" xOffset="316" yOffset="54"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>T</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>T</string>
+			<key>position</key>
+			<integer>277</integer>
+			<key>width</key>
+			<integer>61</integer>
+		</dict>
+	</lib>
 </glyph>

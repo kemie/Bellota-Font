@@ -1,23 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Wdieresis" format="1">
-  <advance width="1095"/>
-  <unicode hex="1E84"/>
-  <outline>
-    <component base="W"/>
-    <component base="dieresiscomb" xOffset="621" yOffset="192"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:27:47 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>V</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>V</string>
-      <key>position</key>
-      <integer>616</integer>
-      <key>width</key>
-      <integer>81</integer>
-    </dict>
-  </lib>
+<glyph name="Wdieresis" format="2">
+	<advance width="1095"/>
+	<unicode hex="1E84"/>
+	<outline>
+		<component base="W"/>
+		<component base="dieresiscomb" xOffset="621" yOffset="192"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>V</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>V</string>
+			<key>position</key>
+			<integer>616</integer>
+			<key>width</key>
+			<integer>81</integer>
+		</dict>
+	</lib>
 </glyph>

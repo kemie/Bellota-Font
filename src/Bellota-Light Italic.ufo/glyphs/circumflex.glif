@@ -1,29 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="circumflex" format="1">
-  <advance width="408"/>
-  <unicode hex="02C6"/>
-  <outline>
-    <contour>
-      <point x="154" y="568" type="line"/>
-      <point x="253" y="663" type="line"/>
-      <point x="325" y="568" type="line"/>
-      <point x="375" y="568" type="line"/>
-      <point x="279" y="699" type="line"/>
-      <point x="236" y="699" type="line"/>
-      <point x="105" y="568" type="line"/>
-    </contour>
-    <contour>
-      <point x="224" y="504" type="move" name="_top"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 07:55:27 +0000</string>
-      <key>position</key>
-      <integer>46</integer>
-      <key>width</key>
-      <integer>296</integer>
-    </dict>
-  </lib>
+<glyph name="circumflex" format="2">
+	<advance width="408"/>
+	<unicode hex="02C6"/>
+	<anchor x="224" y="504" name="_top"/>
+	<outline>
+		<contour>
+			<point x="105" y="568" type="line"/>
+			<point x="154" y="568" type="line"/>
+			<point x="253" y="663" type="line"/>
+			<point x="325" y="568" type="line"/>
+			<point x="375" y="568" type="line"/>
+			<point x="279" y="699" type="line"/>
+			<point x="236" y="699" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>46</integer>
+			<key>width</key>
+			<integer>296</integer>
+		</dict>
+	</lib>
 </glyph>

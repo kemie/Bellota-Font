@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Scircumflex.ss02" format="1">
-  <advance width="523"/>
-  <outline>
-    <component base="S.ss02"/>
-    <component base="circumflexcomb" xOffset="273" yOffset="206"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 10:51:38 +0000</string>
-    </dict>
-  </lib>
+<glyph name="Scircumflex.ss02" format="2">
+	<advance width="523"/>
+	<outline>
+		<component base="S.ss02"/>
+		<component base="circumflexcomb" xOffset="273" yOffset="206"/>
+	</outline>
 </glyph>

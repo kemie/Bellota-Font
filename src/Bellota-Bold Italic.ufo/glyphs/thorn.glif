@@ -1,66 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="thorn" format="1">
-  <advance width="529"/>
-  <unicode hex="00FE"/>
-  <outline>
-    <contour>
-      <point x="78" y="-242" type="line"/>
-      <point x="114" y="-2" type="line"/>
-      <point x="148" y="-6"/>
-      <point x="191" y="-9"/>
-      <point x="219" y="-9" type="curve" smooth="yes"/>
-      <point x="374" y="-9"/>
-      <point x="479" y="104"/>
-      <point x="500" y="252" type="curve" smooth="yes"/>
-      <point x="502" y="269"/>
-      <point x="504" y="286"/>
-      <point x="504" y="303" type="curve" smooth="yes"/>
-      <point x="504" y="419"/>
-      <point x="442" y="516"/>
-      <point x="314" y="516" type="curve" smooth="yes"/>
-      <point x="269" y="516"/>
-      <point x="217" y="503"/>
-      <point x="173" y="461" type="curve"/>
-      <point x="185" y="524"/>
-      <point x="197" y="605"/>
-      <point x="207" y="675" type="curve" smooth="yes"/>
-      <point x="209" y="694"/>
-      <point x="212" y="710"/>
-      <point x="214" y="725" type="curve"/>
-      <point x="138" y="727" type="line"/>
-      <point x="2" y="-242" type="line"/>
-    </contour>
-    <contour>
-      <point x="205" y="64"/>
-      <point x="190" y="65"/>
-      <point x="120" y="72" type="curve"/>
-      <point x="158" y="328" type="line"/>
-      <point x="177" y="398"/>
-      <point x="247" y="443"/>
-      <point x="312" y="443" type="curve" smooth="yes"/>
-      <point x="389" y="443"/>
-      <point x="425" y="376"/>
-      <point x="425" y="295" type="curve" smooth="yes"/>
-      <point x="425" y="281"/>
-      <point x="424" y="268"/>
-      <point x="422" y="254" type="curve" smooth="yes"/>
-      <point x="406" y="143"/>
-      <point x="338" y="64"/>
-      <point x="216" y="64" type="curve" smooth="yes"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:24:49 +0000</string>
-      <key>position</key>
-      <integer>414</integer>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-      <key>width</key>
-      <integer>57</integer>
-    </dict>
-  </lib>
+<glyph name="thorn" format="2">
+	<advance width="529"/>
+	<unicode hex="00FE"/>
+	<outline>
+		<contour>
+			<point x="2" y="-242" type="line"/>
+			<point x="78" y="-242" type="line"/>
+			<point x="114" y="-2" type="line"/>
+			<point x="148" y="-6"/>
+			<point x="191" y="-9"/>
+			<point x="219" y="-9" type="curve" smooth="yes"/>
+			<point x="374" y="-9"/>
+			<point x="479" y="104"/>
+			<point x="500" y="252" type="curve" smooth="yes"/>
+			<point x="502" y="269"/>
+			<point x="504" y="286"/>
+			<point x="504" y="303" type="curve" smooth="yes"/>
+			<point x="504" y="419"/>
+			<point x="442" y="516"/>
+			<point x="314" y="516" type="curve" smooth="yes"/>
+			<point x="269" y="516"/>
+			<point x="217" y="503"/>
+			<point x="173" y="461" type="curve"/>
+			<point x="185" y="524"/>
+			<point x="197" y="605"/>
+			<point x="207" y="675" type="curve" smooth="yes"/>
+			<point x="209" y="694"/>
+			<point x="212" y="710"/>
+			<point x="214" y="725" type="curve"/>
+			<point x="138" y="727" type="line"/>
+		</contour>
+		<contour>
+			<point x="216" y="64" type="curve" smooth="yes"/>
+			<point x="205" y="64"/>
+			<point x="190" y="65"/>
+			<point x="120" y="72" type="curve"/>
+			<point x="158" y="328" type="line"/>
+			<point x="177" y="398"/>
+			<point x="247" y="443"/>
+			<point x="312" y="443" type="curve" smooth="yes"/>
+			<point x="389" y="443"/>
+			<point x="425" y="376"/>
+			<point x="425" y="295" type="curve" smooth="yes"/>
+			<point x="425" y="281"/>
+			<point x="424" y="268"/>
+			<point x="422" y="254" type="curve" smooth="yes"/>
+			<point x="406" y="143"/>
+			<point x="338" y="64"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>414</integer>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+			<key>width</key>
+			<integer>57</integer>
+		</dict>
+	</lib>
 </glyph>

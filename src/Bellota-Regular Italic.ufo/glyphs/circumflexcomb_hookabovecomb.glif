@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="circumflexcomb_hookabovecomb" format="1">
-  <advance width="0"/>
-  <outline>
-    <component base="circumflexcomb"/>
-    <component base="hookabovecomb" xOffset="36" yOffset="208"/>
-    <contour>
-      <point x="79" y="982" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="12" y="500" type="move" name="_top"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 08:14:48 +0000</string>
-    </dict>
-  </lib>
+<glyph name="circumflexcomb_hookabovecomb" format="2">
+	<advance width="0"/>
+	<anchor x="79" y="982" name="top"/>
+	<anchor x="12" y="500" name="_top"/>
+	<outline>
+		<component base="circumflexcomb"/>
+		<component base="hookabovecomb" xOffset="36" yOffset="208"/>
+	</outline>
 </glyph>

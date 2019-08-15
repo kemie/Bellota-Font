@@ -1,39 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="T.ss02" format="1">
-  <advance width="587"/>
-  <outline>
-    <contour>
-      <point x="286" y="0" type="line"/>
-      <point x="374" y="627" type="line"/>
-      <point x="613" y="627" type="line"/>
-      <point x="621" y="684" type="line"/>
-      <point x="82" y="684" type="line"/>
-      <point x="74" y="627" type="line"/>
-      <point x="313" y="627" type="line"/>
-      <point x="225" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="303" y="356" type="move" name="center"/>
-    </contour>
-    <contour>
-      <point x="259" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="348" y="684" type="move" name="top"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:24:56 +0000</string>
-      <key>position</key>
-      <integer>254</integer>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-      <key>width</key>
-      <integer>61</integer>
-    </dict>
-  </lib>
+<glyph name="T.ss02" format="2">
+	<advance width="587"/>
+	<anchor x="303" y="356" name="center"/>
+	<anchor x="259" y="0" name="bottom"/>
+	<anchor x="348" y="684" name="top"/>
+	<outline>
+		<contour>
+			<point x="225" y="0" type="line"/>
+			<point x="286" y="0" type="line"/>
+			<point x="374" y="627" type="line"/>
+			<point x="613" y="627" type="line"/>
+			<point x="621" y="684" type="line"/>
+			<point x="82" y="684" type="line"/>
+			<point x="74" y="627" type="line"/>
+			<point x="313" y="627" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>254</integer>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+			<key>width</key>
+			<integer>61</integer>
+		</dict>
+	</lib>
 </glyph>

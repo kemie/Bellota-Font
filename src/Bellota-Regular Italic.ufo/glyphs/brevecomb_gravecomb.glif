@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="brevecomb_gravecomb" format="1">
-  <advance width="0"/>
-  <outline>
-    <component base="brevecomb" xOffset="20"/>
-    <component base="gravecomb" xOffset="53" yOffset="246"/>
-    <contour>
-      <point x="114" y="972" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="47" y="500" type="move" name="_top"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 10:52:59 +0000</string>
-    </dict>
-  </lib>
+<glyph name="brevecomb_gravecomb" format="2">
+	<advance width="0"/>
+	<anchor x="114" y="972" name="top"/>
+	<anchor x="47" y="500" name="_top"/>
+	<outline>
+		<component base="brevecomb" xOffset="20"/>
+		<component base="gravecomb" xOffset="53" yOffset="246"/>
+	</outline>
 </glyph>

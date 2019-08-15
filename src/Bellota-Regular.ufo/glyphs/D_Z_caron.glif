@@ -1,23 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="DZcaron" format="1">
-  <advance width="1259"/>
-  <unicode hex="01C4"/>
-  <outline>
-    <component base="caron" xOffset="110" yOffset="183"/>
-    <component base="DZ"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 10:49:54 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>E</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>Z</string>
-      <key>position</key>
-      <integer>926</integer>
-      <key>width</key>
-      <integer>296</integer>
-    </dict>
-  </lib>
+<glyph name="DZcaron" format="2">
+	<advance width="1259"/>
+	<unicode hex="01C4"/>
+	<outline>
+		<component base="caron" xOffset="110" yOffset="183"/>
+		<component base="DZ"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>E</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>Z</string>
+			<key>position</key>
+			<integer>926</integer>
+			<key>width</key>
+			<integer>296</integer>
+		</dict>
+	</lib>
 </glyph>

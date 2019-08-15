@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="oneeighth" format="1">
-  <advance width="596"/>
-  <unicode hex="215B"/>
-  <outline>
-    <component base="one.numr"/>
-    <component base="fraction" xOffset="156"/>
-    <component base="eight.dnom" xOffset="357"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:25:22 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>one.numr</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>one.numr</string>
-    </dict>
-  </lib>
+<glyph name="oneeighth" format="2">
+	<advance width="596"/>
+	<unicode hex="215B"/>
+	<outline>
+		<component base="one.numr"/>
+		<component base="fraction" xOffset="156"/>
+		<component base="eight.dnom" xOffset="357"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>one.numr</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>one.numr</string>
+		</dict>
+	</lib>
 </glyph>

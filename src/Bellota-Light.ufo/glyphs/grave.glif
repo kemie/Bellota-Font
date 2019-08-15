@@ -1,30 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="grave" format="1">
-  <advance width="233"/>
-  <unicode hex="0060"/>
-  <outline>
-    <contour>
-      <point x="206" y="605" type="line"/>
-      <point x="55" y="724" type="line"/>
-      <point x="28" y="686" type="line"/>
-      <point x="191" y="582" type="line"/>
-    </contour>
-    <contour>
-      <point x="182" y="504" type="move" name="_top"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-30 12:53:43 +0000</string>
-      <key>position</key>
-      <integer>17</integer>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-      <key>width</key>
-      <integer>194</integer>
-    </dict>
-  </lib>
+<glyph name="grave" format="2">
+	<advance width="233"/>
+	<unicode hex="0060"/>
+	<anchor x="182" y="504" name="_top"/>
+	<outline>
+		<contour>
+			<point x="191" y="582" type="line"/>
+			<point x="206" y="605" type="line"/>
+			<point x="55" y="724" type="line"/>
+			<point x="28" y="686" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>17</integer>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+			<key>width</key>
+			<integer>194</integer>
+		</dict>
+	</lib>
 </glyph>

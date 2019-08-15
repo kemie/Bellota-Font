@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="percent" format="1">
-  <advance width="736"/>
-  <unicode hex="0025"/>
-  <outline>
-    <component base="degree" xOffset="305" yOffset="-393"/>
-    <component base="fraction" xOffset="249" yOffset="11"/>
-    <component base="degree" xOffset="-36" yOffset="-150"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:24:49 +0000</string>
-      <key>position</key>
-      <integer>630</integer>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-      <key>width</key>
-      <integer>50</integer>
-    </dict>
-  </lib>
+<glyph name="percent" format="2">
+	<advance width="736"/>
+	<unicode hex="0025"/>
+	<outline>
+		<component base="degree" xOffset="305" yOffset="-393"/>
+		<component base="fraction" xOffset="249" yOffset="11"/>
+		<component base="degree" xOffset="-36" yOffset="-150"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>630</integer>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+			<key>width</key>
+			<integer>50</integer>
+		</dict>
+	</lib>
 </glyph>

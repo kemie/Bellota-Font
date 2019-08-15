@@ -1,29 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="divide" format="1">
-  <advance width="436"/>
-  <unicode hex="00F7"/>
-  <outline>
-    <contour>
-      <point x="400" y="274" type="line"/>
-      <point x="400" y="312" type="line"/>
-      <point x="35" y="312" type="line"/>
-      <point x="35" y="274" type="line"/>
-    </contour>
-    <component base="period" xOffset="126" yOffset="101"/>
-    <component base="period" xOffset="126" yOffset="406"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 10:50:03 +0000</string>
-      <key>position</key>
-      <integer>183</integer>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-      <key>width</key>
-      <integer>93</integer>
-    </dict>
-  </lib>
+<glyph name="divide" format="2">
+	<advance width="436"/>
+	<unicode hex="00F7"/>
+	<outline>
+		<contour>
+			<point x="35" y="274" type="line"/>
+			<point x="400" y="274" type="line"/>
+			<point x="400" y="312" type="line"/>
+			<point x="35" y="312" type="line"/>
+		</contour>
+		<component base="period" xOffset="126" yOffset="101"/>
+		<component base="period" xOffset="126" yOffset="406"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>183</integer>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+			<key>width</key>
+			<integer>93</integer>
+		</dict>
+	</lib>
 </glyph>

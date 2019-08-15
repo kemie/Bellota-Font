@@ -1,27 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="endash" format="1">
-  <advance width="548"/>
-  <unicode hex="2013"/>
-  <outline>
-    <contour>
-      <point x="493" y="268" type="line"/>
-      <point x="493" y="347" type="line"/>
-      <point x="55" y="347" type="line"/>
-      <point x="55" y="268" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 10:50:01 +0000</string>
-      <key>position</key>
-      <integer>277</integer>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-      <key>width</key>
-      <integer>57</integer>
-    </dict>
-  </lib>
+<glyph name="endash" format="2">
+	<advance width="548"/>
+	<unicode hex="2013"/>
+	<outline>
+		<contour>
+			<point x="55" y="268" type="line"/>
+			<point x="493" y="268" type="line"/>
+			<point x="493" y="347" type="line"/>
+			<point x="55" y="347" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>277</integer>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+			<key>width</key>
+			<integer>57</integer>
+		</dict>
+	</lib>
 </glyph>

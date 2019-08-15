@@ -1,29 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="less" format="1">
-  <advance width="366"/>
-  <unicode hex="003C"/>
-  <outline>
-    <contour>
-      <point x="311" y="124" type="line"/>
-      <point x="107" y="266" type="line"/>
-      <point x="309" y="407" type="line"/>
-      <point x="285" y="443" type="line"/>
-      <point x="28" y="264" type="line"/>
-      <point x="285" y="86" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 10:50:07 +0000</string>
-      <key>position</key>
-      <integer>12</integer>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-      <key>width</key>
-      <integer>298</integer>
-    </dict>
-  </lib>
+<glyph name="less" format="2">
+	<advance width="366"/>
+	<unicode hex="003C"/>
+	<outline>
+		<contour>
+			<point x="285" y="86" type="line"/>
+			<point x="311" y="124" type="line"/>
+			<point x="107" y="266" type="line"/>
+			<point x="309" y="407" type="line"/>
+			<point x="285" y="443" type="line"/>
+			<point x="28" y="264" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>12</integer>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+			<key>width</key>
+			<integer>298</integer>
+		</dict>
+	</lib>
 </glyph>

@@ -1,27 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="divisionslash" format="1">
-  <advance width="414"/>
-  <unicode hex="2215"/>
-  <outline>
-    <contour>
-      <point x="111" y="-46" type="line"/>
-      <point x="371" y="644" type="line"/>
-      <point x="303" y="644" type="line"/>
-      <point x="43" y="-46" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 10:50:02 +0000</string>
-      <key>position</key>
-      <integer>33</integer>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-      <key>width</key>
-      <integer>328</integer>
-    </dict>
-  </lib>
+<glyph name="divisionslash" format="2">
+	<advance width="414"/>
+	<unicode hex="2215"/>
+	<outline>
+		<contour>
+			<point x="43" y="-46" type="line"/>
+			<point x="111" y="-46" type="line"/>
+			<point x="371" y="644" type="line"/>
+			<point x="303" y="644" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>33</integer>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+			<key>width</key>
+			<integer>328</integer>
+		</dict>
+	</lib>
 </glyph>

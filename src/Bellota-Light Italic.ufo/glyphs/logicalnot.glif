@@ -1,29 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="logicalnot" format="1">
-  <advance width="511"/>
-  <unicode hex="00AC"/>
-  <outline>
-    <contour>
-      <point x="402" y="151" type="line"/>
-      <point x="425" y="315" type="line"/>
-      <point x="72" y="315" type="line"/>
-      <point x="66" y="270" type="line"/>
-      <point x="370" y="270" type="line"/>
-      <point x="353" y="151" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:24:50 +0000</string>
-      <key>position</key>
-      <integer>341</integer>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-      <key>width</key>
-      <integer>62</integer>
-    </dict>
-  </lib>
+<glyph name="logicalnot" format="2">
+	<advance width="511"/>
+	<unicode hex="00AC"/>
+	<outline>
+		<contour>
+			<point x="353" y="151" type="line"/>
+			<point x="402" y="151" type="line"/>
+			<point x="425" y="315" type="line"/>
+			<point x="72" y="315" type="line"/>
+			<point x="66" y="270" type="line"/>
+			<point x="370" y="270" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>341</integer>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+			<key>width</key>
+			<integer>62</integer>
+		</dict>
+	</lib>
 </glyph>

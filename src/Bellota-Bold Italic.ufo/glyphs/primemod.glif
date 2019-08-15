@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="primemod" format="1">
-  <advance width="217"/>
-  <unicode hex="02B9"/>
-  <outline>
-    <component base="quotesingle" xOffset="-19" yOffset="11"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:23:42 +0000</string>
-      <key>position</key>
-      <integer>55</integer>
-      <key>width</key>
-      <integer>52</integer>
-    </dict>
-  </lib>
+<glyph name="primemod" format="2">
+	<advance width="217"/>
+	<unicode hex="02B9"/>
+	<outline>
+		<component base="quotesingle" xOffset="-19" yOffset="11"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>55</integer>
+			<key>width</key>
+			<integer>52</integer>
+		</dict>
+	</lib>
 </glyph>

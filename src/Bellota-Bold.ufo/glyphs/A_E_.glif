@@ -1,50 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="AE" format="1">
-  <advance width="919"/>
-  <unicode hex="00C6"/>
-  <outline>
-    <contour>
-      <point x="119" y="-1" type="line"/>
-      <point x="233" y="220" type="line"/>
-      <point x="400" y="220" type="line"/>
-      <point x="400" y="-1" type="line"/>
-      <point x="878" y="-1" type="line"/>
-      <point x="878" y="78" type="line"/>
-      <point x="483" y="78" type="line"/>
-      <point x="483" y="322" type="line"/>
-      <point x="790" y="322" type="line"/>
-      <point x="790" y="401" type="line"/>
-      <point x="483" y="401" type="line"/>
-      <point x="483" y="608" type="line"/>
-      <point x="858" y="608" type="line"/>
-      <point x="858" y="686" type="line"/>
-      <point x="383" y="686" type="line"/>
-      <point x="22" y="-1" type="line"/>
-    </contour>
-    <contour>
-      <point x="412" y="576" type="line"/>
-      <point x="400" y="538" type="line"/>
-      <point x="400" y="298" type="line"/>
-      <point x="271" y="298" type="line"/>
-    </contour>
-    <contour>
-      <point x="471" y="673" type="move" name="top"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 10:50:07 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>E</string>
-      <key>position</key>
-      <integer>422</integer>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-      <key>width</key>
-      <integer>61</integer>
-    </dict>
-  </lib>
+<glyph name="AE" format="2">
+	<advance width="919"/>
+	<unicode hex="00C6"/>
+	<anchor x="471" y="673" name="top"/>
+	<outline>
+		<contour>
+			<point x="22" y="-1" type="line"/>
+			<point x="119" y="-1" type="line"/>
+			<point x="233" y="220" type="line"/>
+			<point x="400" y="220" type="line"/>
+			<point x="400" y="-1" type="line"/>
+			<point x="878" y="-1" type="line"/>
+			<point x="878" y="78" type="line"/>
+			<point x="483" y="78" type="line"/>
+			<point x="483" y="322" type="line"/>
+			<point x="790" y="322" type="line"/>
+			<point x="790" y="401" type="line"/>
+			<point x="483" y="401" type="line"/>
+			<point x="483" y="608" type="line"/>
+			<point x="858" y="608" type="line"/>
+			<point x="858" y="686" type="line"/>
+			<point x="383" y="686" type="line"/>
+		</contour>
+		<contour>
+			<point x="271" y="298" type="line"/>
+			<point x="412" y="576" type="line"/>
+			<point x="400" y="538" type="line"/>
+			<point x="400" y="298" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>E</string>
+			<key>position</key>
+			<integer>422</integer>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+			<key>width</key>
+			<integer>61</integer>
+		</dict>
+	</lib>
 </glyph>

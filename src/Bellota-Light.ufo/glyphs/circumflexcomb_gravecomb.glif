@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="circumflexcomb_gravecomb" format="1">
-  <advance width="0"/>
-  <outline>
-    <component base="circumflexcomb"/>
-    <component base="gravecomb" xOffset="-61" yOffset="180"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 09:29:19 +0000</string>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-    </dict>
-  </lib>
+<glyph name="circumflexcomb_gravecomb" format="2">
+	<advance width="0"/>
+	<outline>
+		<component base="circumflexcomb"/>
+		<component base="gravecomb" xOffset="-67" yOffset="211"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+		</dict>
+	</lib>
 </glyph>

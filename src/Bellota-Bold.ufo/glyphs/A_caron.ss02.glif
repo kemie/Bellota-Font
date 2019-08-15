@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Acaron.ss02" format="1">
-  <advance width="679"/>
-  <outline>
-    <component base="A.ss02"/>
-    <component base="caroncomb" xOffset="344" yOffset="205"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 10:51:38 +0000</string>
-    </dict>
-  </lib>
+<glyph name="Acaron.ss02" format="2">
+	<advance width="679"/>
+	<outline>
+		<component base="A.ss02"/>
+		<component base="caroncomb" xOffset="344" yOffset="205"/>
+	</outline>
 </glyph>

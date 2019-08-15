@@ -1,46 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="trademark" format="1">
-  <advance width="653"/>
-  <unicode hex="2122"/>
-  <outline>
-    <contour>
-      <point x="309" y="337" type="line"/>
-      <point x="309" y="614" type="line"/>
-      <point x="400" y="348" type="line"/>
-      <point x="432" y="348" type="line"/>
-      <point x="526" y="613" type="line"/>
-      <point x="526" y="337" type="line"/>
-      <point x="553" y="337" type="line"/>
-      <point x="553" y="622" type="line"/>
-      <point x="507" y="622" type="line"/>
-      <point x="416" y="371" type="line"/>
-      <point x="329" y="622" type="line"/>
-      <point x="283" y="622" type="line"/>
-      <point x="283" y="337" type="line"/>
-    </contour>
-    <contour>
-      <point x="156" y="338" type="line"/>
-      <point x="156" y="601" type="line"/>
-      <point x="241" y="601" type="line"/>
-      <point x="241" y="622" type="line"/>
-      <point x="43" y="622" type="line"/>
-      <point x="43" y="601" type="line"/>
-      <point x="129" y="601" type="line"/>
-      <point x="129" y="338" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 10:50:06 +0000</string>
-      <key>position</key>
-      <integer>514</integer>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-      <key>width</key>
-      <integer>32</integer>
-    </dict>
-  </lib>
+<glyph name="trademark" format="2">
+	<advance width="653"/>
+	<unicode hex="2122"/>
+	<outline>
+		<contour>
+			<point x="283" y="337" type="line"/>
+			<point x="309" y="337" type="line"/>
+			<point x="309" y="614" type="line"/>
+			<point x="400" y="348" type="line"/>
+			<point x="432" y="348" type="line"/>
+			<point x="526" y="613" type="line"/>
+			<point x="526" y="337" type="line"/>
+			<point x="553" y="337" type="line"/>
+			<point x="553" y="622" type="line"/>
+			<point x="507" y="622" type="line"/>
+			<point x="416" y="371" type="line"/>
+			<point x="329" y="622" type="line"/>
+			<point x="283" y="622" type="line"/>
+		</contour>
+		<contour>
+			<point x="129" y="338" type="line"/>
+			<point x="156" y="338" type="line"/>
+			<point x="156" y="601" type="line"/>
+			<point x="241" y="601" type="line"/>
+			<point x="241" y="622" type="line"/>
+			<point x="43" y="622" type="line"/>
+			<point x="43" y="601" type="line"/>
+			<point x="129" y="601" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>514</integer>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+			<key>width</key>
+			<integer>32</integer>
+		</dict>
+	</lib>
 </glyph>

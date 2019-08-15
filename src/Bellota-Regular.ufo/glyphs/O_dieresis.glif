@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Odieresis" format="1">
-  <advance width="799"/>
-  <unicode hex="00D6"/>
-  <outline>
-    <component base="O"/>
-    <component base="dieresiscomb" xOffset="411" yOffset="184"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 10:49:28 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>O</string>
-      <key>position</key>
-      <integer>683</integer>
-      <key>width</key>
-      <integer>56</integer>
-    </dict>
-  </lib>
+<glyph name="Odieresis" format="2">
+	<advance width="799"/>
+	<unicode hex="00D6"/>
+	<outline>
+		<component base="O"/>
+		<component base="dieresiscomb" xOffset="411" yOffset="184"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>O</string>
+			<key>position</key>
+			<integer>683</integer>
+			<key>width</key>
+			<integer>56</integer>
+		</dict>
+	</lib>
 </glyph>

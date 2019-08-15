@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="iacute.ss02" format="1">
-  <advance width="193"/>
-  <outline>
-    <component base="idotless.ss02"/>
-    <component base="acute" xOffset="25" yOffset="5"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:27:47 +0000</string>
-      <key>position</key>
-      <integer>43</integer>
-      <key>width</key>
-      <integer>55</integer>
-    </dict>
-  </lib>
+<glyph name="iacute.ss02" format="2">
+	<advance width="193"/>
+	<outline>
+		<component base="idotless.ss02"/>
+		<component base="acute" xOffset="25" yOffset="5"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>43</integer>
+			<key>width</key>
+			<integer>55</integer>
+		</dict>
+	</lib>
 </glyph>

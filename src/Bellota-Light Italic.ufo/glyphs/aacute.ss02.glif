@@ -1,25 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="aacute.ss02" format="1">
-  <advance width="417"/>
-  <outline>
-    <component base="a.ss02"/>
-    <component base="acutecomb" xOffset="232" yOffset="5"/>
-    <contour>
-      <point x="58" y="505" type="move" name="_top"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:27:47 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>c</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>a</string>
-      <key>position</key>
-      <integer>407</integer>
-      <key>width</key>
-      <integer>55</integer>
-    </dict>
-  </lib>
+<glyph name="aacute.ss02" format="2">
+	<advance width="417"/>
+	<anchor x="58" y="505" name="_top"/>
+	<outline>
+		<component base="a.ss02"/>
+		<component base="acutecomb" xOffset="232" yOffset="5"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>c</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>a</string>
+			<key>position</key>
+			<integer>407</integer>
+			<key>width</key>
+			<integer>55</integer>
+		</dict>
+	</lib>
 </glyph>

@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ymacron" format="1">
-  <advance width="520"/>
-  <unicode hex="0233"/>
-  <outline>
-    <component base="y"/>
-    <component base="macroncomb" xOffset="264" yOffset="4"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:27:47 +0000</string>
-      <key>position</key>
-      <integer>417</integer>
-      <key>width</key>
-      <integer>53</integer>
-    </dict>
-  </lib>
+<glyph name="ymacron" format="2">
+	<advance width="520"/>
+	<unicode hex="0233"/>
+	<outline>
+		<component base="y"/>
+		<component base="macroncomb" xOffset="264" yOffset="4"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>417</integer>
+			<key>width</key>
+			<integer>53</integer>
+		</dict>
+	</lib>
 </glyph>

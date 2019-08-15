@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ograve" format="1">
-  <advance width="552"/>
-  <unicode hex="00F2"/>
-  <outline>
-    <component base="o"/>
-    <component base="gravecomb" xOffset="282" yOffset="5"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:27:47 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>c</string>
-      <key>position</key>
-      <integer>481</integer>
-      <key>width</key>
-      <integer>57</integer>
-    </dict>
-  </lib>
+<glyph name="ograve" format="2">
+	<advance width="552"/>
+	<unicode hex="00F2"/>
+	<outline>
+		<component base="o"/>
+		<component base="gravecomb" xOffset="282" yOffset="5"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>c</string>
+			<key>position</key>
+			<integer>481</integer>
+			<key>width</key>
+			<integer>57</integer>
+		</dict>
+	</lib>
 </glyph>

@@ -1,22 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dialytikatonoscomb" format="1">
-  <advance width="30"/>
-  <unicode hex="0344"/>
-  <outline>
-    <component base="acutecomb" xOffset="99" yOffset="164"/>
-    <component base="dieresiscomb" xOffset="130" yOffset="388"/>
-    <contour>
-      <point x="198" y="502" type="move" name="_top"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 10:52:59 +0000</string>
-      <key>position</key>
-      <integer>237</integer>
-      <key>width</key>
-      <integer>81</integer>
-    </dict>
-  </lib>
+<glyph name="dialytikatonoscomb" format="2">
+	<advance width="30"/>
+	<unicode hex="0344"/>
+	<anchor x="198" y="502" name="_top"/>
+	<outline>
+		<component base="acutecomb" xOffset="99" yOffset="164"/>
+		<component base="dieresiscomb" xOffset="130" yOffset="388"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>237</integer>
+			<key>width</key>
+			<integer>81</integer>
+		</dict>
+	</lib>
 </glyph>

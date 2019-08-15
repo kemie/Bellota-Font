@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Zacute" format="1">
-  <advance width="561"/>
-  <unicode hex="0179"/>
-  <outline>
-    <component base="Z"/>
-    <component base="acutecomb" xOffset="368" yOffset="178"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:43:37 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>Z</string>
-      <key>position</key>
-      <integer>164</integer>
-      <key>width</key>
-      <integer>231</integer>
-    </dict>
-  </lib>
+<glyph name="Zacute" format="2">
+	<advance width="561"/>
+	<unicode hex="0179"/>
+	<outline>
+		<component base="Z"/>
+		<component base="acutecomb" xOffset="368" yOffset="178"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>Z</string>
+			<key>position</key>
+			<integer>164</integer>
+			<key>width</key>
+			<integer>231</integer>
+		</dict>
+	</lib>
 </glyph>

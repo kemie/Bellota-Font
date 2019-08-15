@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Icircumflex" format="1">
-  <advance width="220"/>
-  <unicode hex="00CE"/>
-  <outline>
-    <component base="I"/>
-    <component base="circumflexcomb" xOffset="108" yOffset="188"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 10:11:37 +0000</string>
-      <key>position</key>
-      <integer>54</integer>
-      <key>width</key>
-      <integer>61</integer>
-    </dict>
-  </lib>
+<glyph name="Icircumflex" format="2">
+	<advance width="220"/>
+	<unicode hex="00CE"/>
+	<outline>
+		<component base="I"/>
+		<component base="circumflexcomb" xOffset="108" yOffset="188"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>54</integer>
+			<key>width</key>
+			<integer>61</integer>
+		</dict>
+	</lib>
 </glyph>

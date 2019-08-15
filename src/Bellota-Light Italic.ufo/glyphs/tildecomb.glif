@@ -1,24 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="tildecomb" format="1">
-  <advance width="0"/>
-  <unicode hex="0303"/>
-  <outline>
-    <component base="tilde" xOffset="-248"/>
-    <contour>
-      <point x="55" y="660" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="32" y="500" type="move" name="_top"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 08:14:38 +0000</string>
-      <key>position</key>
-      <integer>674</integer>
-      <key>width</key>
-      <integer>53</integer>
-    </dict>
-  </lib>
+<glyph name="tildecomb" format="2">
+	<advance width="0"/>
+	<unicode hex="0303"/>
+	<anchor x="55" y="660" name="top"/>
+	<anchor x="32" y="500" name="_top"/>
+	<outline>
+		<component base="tilde" xOffset="-248"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>674</integer>
+			<key>width</key>
+			<integer>53</integer>
+		</dict>
+	</lib>
 </glyph>

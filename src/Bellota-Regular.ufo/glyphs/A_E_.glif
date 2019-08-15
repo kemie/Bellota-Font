@@ -1,52 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="AE" format="1">
-  <advance width="909"/>
-  <unicode hex="00C6"/>
-  <outline>
-    <contour>
-      <point x="95" y="0" type="line"/>
-      <point x="212" y="227" type="line"/>
-      <point x="404" y="227" type="line"/>
-      <point x="404" y="0" type="line"/>
-      <point x="872" y="0" type="line"/>
-      <point x="872" y="57" type="line"/>
-      <point x="465" y="57" type="line"/>
-      <point x="465" y="333" type="line"/>
-      <point x="782" y="333" type="line"/>
-      <point x="782" y="390" type="line"/>
-      <point x="465" y="390" type="line"/>
-      <point x="465" y="627" type="line"/>
-      <point x="852" y="627" type="line"/>
-      <point x="852" y="684" type="line"/>
-      <point x="381" y="684" type="line"/>
-      <point x="22" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="393" y="587" type="line"/>
-      <point x="404" y="623" type="line"/>
-      <point x="404" y="284" type="line"/>
-      <point x="239" y="284" type="line"/>
-    </contour>
-    <contour>
-      <point x="465" y="682" type="move" name="top"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 10:50:07 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>==E</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>E</string>
-      <key>position</key>
-      <integer>422</integer>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-      <key>width</key>
-      <integer>61</integer>
-    </dict>
-  </lib>
+<glyph name="AE" format="2">
+	<advance width="909"/>
+	<unicode hex="00C6"/>
+	<anchor x="465" y="682" name="top"/>
+	<outline>
+		<contour>
+			<point x="22" y="0" type="line"/>
+			<point x="95" y="0" type="line"/>
+			<point x="212" y="227" type="line"/>
+			<point x="404" y="227" type="line"/>
+			<point x="404" y="0" type="line"/>
+			<point x="872" y="0" type="line"/>
+			<point x="872" y="57" type="line"/>
+			<point x="465" y="57" type="line"/>
+			<point x="465" y="333" type="line"/>
+			<point x="782" y="333" type="line"/>
+			<point x="782" y="390" type="line"/>
+			<point x="465" y="390" type="line"/>
+			<point x="465" y="627" type="line"/>
+			<point x="852" y="627" type="line"/>
+			<point x="852" y="684" type="line"/>
+			<point x="381" y="684" type="line"/>
+		</contour>
+		<contour>
+			<point x="239" y="284" type="line"/>
+			<point x="393" y="587" type="line"/>
+			<point x="404" y="623" type="line"/>
+			<point x="404" y="284" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+			<string>==E</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>E</string>
+			<key>position</key>
+			<integer>422</integer>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+			<key>width</key>
+			<integer>61</integer>
+		</dict>
+	</lib>
 </glyph>

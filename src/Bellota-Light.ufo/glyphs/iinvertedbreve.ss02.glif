@@ -1,37 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="iinvertedbreve.ss02" format="1">
-  <advance width="284"/>
-  <outline>
-    <component base="idotless.ss02" xOffset="42"/>
-    <component base="breve" xOffset="-38" yOffset="1273" yScale="-1"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 10:25:40 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>=idotless.ss02-60</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>=idotless.ss02-60</string>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>idotless.ss02</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>breve</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
+<glyph name="iinvertedbreve.ss02" format="2">
+	<advance width="284"/>
+	<outline>
+		<component base="idotless.ss02" xOffset="42"/>
+		<component base="breve" yScale="-1" xOffset="-38" yOffset="1273"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>idotless.ss02</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>breve</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>=idotless.ss02-60</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>=idotless.ss02-60</string>
+		</dict>
+	</lib>
 </glyph>

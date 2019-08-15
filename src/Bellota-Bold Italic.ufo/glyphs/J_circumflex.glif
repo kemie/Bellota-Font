@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Jcircumflex" format="1">
-  <advance width="487"/>
-  <unicode hex="0134"/>
-  <outline>
-    <component base="J"/>
-    <component base="circumflexcomb" xOffset="269" yOffset="188"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:25:27 +0000</string>
-      <key>position</key>
-      <integer>333</integer>
-      <key>width</key>
-      <integer>53</integer>
-    </dict>
-  </lib>
+<glyph name="Jcircumflex" format="2">
+	<advance width="487"/>
+	<unicode hex="0134"/>
+	<outline>
+		<component base="J"/>
+		<component base="circumflexcomb" xOffset="269" yOffset="188"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>333</integer>
+			<key>width</key>
+			<integer>53</integer>
+		</dict>
+	</lib>
 </glyph>

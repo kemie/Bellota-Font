@@ -1,23 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Wacute" format="1">
-  <advance width="1094"/>
-  <unicode hex="1E82"/>
-  <outline>
-    <component base="W"/>
-    <component base="acutecomb" xOffset="619" yOffset="184"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:27:47 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>V</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>V</string>
-      <key>position</key>
-      <integer>434</integer>
-      <key>width</key>
-      <integer>231</integer>
-    </dict>
-  </lib>
+<glyph name="Wacute" format="2">
+	<advance width="1094"/>
+	<unicode hex="1E82"/>
+	<outline>
+		<component base="W"/>
+		<component base="acutecomb" xOffset="619" yOffset="184"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>V</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>V</string>
+			<key>position</key>
+			<integer>434</integer>
+			<key>width</key>
+			<integer>231</integer>
+		</dict>
+	</lib>
 </glyph>

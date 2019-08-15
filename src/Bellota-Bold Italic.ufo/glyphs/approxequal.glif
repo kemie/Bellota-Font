@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="approxequal" format="1">
-  <advance width="540"/>
-  <unicode hex="2248"/>
-  <outline>
-    <component base="asciitilde" xOffset="16" yOffset="89"/>
-    <component base="asciitilde" xOffset="-8" yOffset="-86"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:24:51 +0000</string>
-      <key>position</key>
-      <integer>374</integer>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-      <key>width</key>
-      <integer>61</integer>
-    </dict>
-  </lib>
+<glyph name="approxequal" format="2">
+	<advance width="540"/>
+	<unicode hex="2248"/>
+	<outline>
+		<component base="asciitilde" xOffset="16" yOffset="89"/>
+		<component base="asciitilde" xOffset="-8" yOffset="-86"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>374</integer>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+			<key>width</key>
+			<integer>61</integer>
+		</dict>
+	</lib>
 </glyph>

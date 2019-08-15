@@ -1,29 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="seven" format="1">
-  <advance width="452"/>
-  <unicode hex="0037"/>
-  <outline>
-    <contour>
-      <point x="135" y="1" type="line"/>
-      <point x="484" y="653" type="line"/>
-      <point x="72" y="648" type="line"/>
-      <point x="66" y="605" type="line"/>
-      <point x="414" y="609" type="line"/>
-      <point x="85" y="1" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:24:47 +0000</string>
-      <key>position</key>
-      <integer>592</integer>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-      <key>width</key>
-      <integer>56</integer>
-    </dict>
-  </lib>
+<glyph name="seven" format="2">
+	<advance width="452"/>
+	<unicode hex="0037"/>
+	<outline>
+		<contour>
+			<point x="85" y="1" type="line"/>
+			<point x="135" y="1" type="line"/>
+			<point x="484" y="653" type="line"/>
+			<point x="72" y="648" type="line"/>
+			<point x="66" y="605" type="line"/>
+			<point x="414" y="609" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>592</integer>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+			<key>width</key>
+			<integer>56</integer>
+		</dict>
+	</lib>
 </glyph>

@@ -1,27 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="minus" format="1">
-  <advance width="509"/>
-  <unicode hex="2212"/>
-  <outline>
-    <contour>
-      <point x="425" y="271" type="line"/>
-      <point x="431" y="315" type="line"/>
-      <point x="96" y="315" type="line"/>
-      <point x="90" y="271" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:24:54 +0000</string>
-      <key>position</key>
-      <integer>265</integer>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-      <key>width</key>
-      <integer>57</integer>
-    </dict>
-  </lib>
+<glyph name="minus" format="2">
+	<advance width="509"/>
+	<unicode hex="2212"/>
+	<outline>
+		<contour>
+			<point x="90" y="271" type="line"/>
+			<point x="425" y="271" type="line"/>
+			<point x="431" y="315" type="line"/>
+			<point x="96" y="315" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>265</integer>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+			<key>width</key>
+			<integer>57</integer>
+		</dict>
+	</lib>
 </glyph>

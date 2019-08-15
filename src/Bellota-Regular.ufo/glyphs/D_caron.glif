@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Dcaron" format="1">
-  <advance width="786"/>
-  <unicode hex="010E"/>
-  <outline>
-    <component base="D"/>
-    <component base="caron" xOffset="241" yOffset="184"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:43:37 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>E</string>
-      <key>position</key>
-      <integer>674</integer>
-      <key>width</key>
-      <integer>60</integer>
-    </dict>
-  </lib>
+<glyph name="Dcaron" format="2">
+	<advance width="786"/>
+	<unicode hex="010E"/>
+	<outline>
+		<component base="D"/>
+		<component base="caron" xOffset="241" yOffset="184"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>E</string>
+			<key>position</key>
+			<integer>674</integer>
+			<key>width</key>
+			<integer>60</integer>
+		</dict>
+	</lib>
 </glyph>

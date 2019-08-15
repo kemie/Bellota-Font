@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Gcaron.ss02" format="1">
-  <advance width="710"/>
-  <outline>
-    <component base="G.ss02"/>
-    <component base="caroncomb" xOffset="416" yOffset="199"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-31 11:24:18 +0000</string>
-    </dict>
-  </lib>
+<glyph name="Gcaron.ss02" format="2">
+	<advance width="710"/>
+	<outline>
+		<component base="G.ss02"/>
+		<component base="caroncomb" xOffset="416" yOffset="199"/>
+	</outline>
 </glyph>
