@@ -986,11 +986,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1192;
+value = 1255;
 },
 {
 name = winDescent;
-value = 325;
+value = 389;
 }
 );
 descender = -260;
@@ -59469,6 +59469,44 @@ width = 229;
 }
 );
 unicode = 00B3;
+},
+{
+glyphname = foursuperior;
+layers = (
+{
+components = (
+{
+name = four.numr;
+transform = "{1, 0, 0, 1, 24, 178}";
+}
+);
+layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
+width = 219;
+},
+{
+components = (
+{
+name = four.numr;
+transform = "{1, 0, 0, 1, 24, 178}";
+}
+);
+layerId = "873CAA12-270D-4223-A88E-AE8E101FDBE8";
+width = 233;
+},
+{
+components = (
+{
+name = four.numr;
+transform = "{1, 0, 0, 1, 24, 178}";
+}
+);
+layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
+width = 255;
+}
+);
+leftMetricsKey = four;
+rightMetricsKey = four;
+unicode = 2074;
 },
 {
 glyphname = fraction;
