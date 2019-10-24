@@ -936,32 +936,44 @@ ascender = 800;
 capHeight = 684;
 customParameters = (
 {
-name = TypoAscender;
-value = 890;
-},
-{
-name = TypoDescender;
-value = 139;
-},
-{
-name = TypoLineGap;
-value = 0;
-},
-{
-name = winAscent;
-value = 1255;
-},
-{
-name = winDescent;
-value = 389;
-},
-{
 name = postscriptUnderlineThickness;
 value = 50;
 },
 {
 name = postscriptUnderlinePosition;
 value = -50;
+},
+{
+name = hheaAscender;
+value = 968;
+},
+{
+name = hheaDescender;
+value = -290;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = typoAscender;
+value = 968;
+},
+{
+name = typoDescender;
+value = -290;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1192;
+},
+{
+name = winDescent;
+value = 325;
 }
 );
 descender = -260;
@@ -1002,32 +1014,44 @@ ascender = 800;
 capHeight = 684;
 customParameters = (
 {
-name = TypoAscender;
-value = 890;
-},
-{
-name = TypoDescender;
-value = 139;
-},
-{
-name = TypoLineGap;
-value = 0;
-},
-{
-name = winAscent;
-value = 1255;
-},
-{
-name = winDescent;
-value = 389;
-},
-{
 name = postscriptUnderlineThickness;
 value = 50;
 },
 {
 name = postscriptUnderlinePosition;
 value = -50;
+},
+{
+name = hheaAscender;
+value = 968;
+},
+{
+name = hheaDescender;
+value = -290;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = typoAscender;
+value = 968;
+},
+{
+name = typoDescender;
+value = -290;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1192;
+},
+{
+name = winDescent;
+value = 325;
 }
 );
 descender = -260;
@@ -1065,32 +1089,44 @@ ascender = 800;
 capHeight = 684;
 customParameters = (
 {
-name = TypoAscender;
-value = 890;
-},
-{
-name = TypoDescender;
-value = 139;
-},
-{
-name = TypoLineGap;
-value = 0;
-},
-{
-name = winAscent;
-value = 1255;
-},
-{
-name = winDescent;
-value = 389;
-},
-{
 name = postscriptUnderlineThickness;
 value = 50;
 },
 {
 name = postscriptUnderlinePosition;
 value = -50;
+},
+{
+name = hheaAscender;
+value = 968;
+},
+{
+name = hheaDescender;
+value = -290;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = typoAscender;
+value = 968;
+},
+{
+name = typoDescender;
+value = -290;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1192;
+},
+{
+name = winDescent;
+value = 325;
 }
 );
 descender = -260;
