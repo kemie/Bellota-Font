@@ -146,18 +146,6 @@ name = Uppercase;
 copyright = "Copyright 2011 The Bellota Project Authors (https://github.com/kemie/Bellota-Font)";
 customParameters = (
 {
-name = openTypeNameCompatibleFullName;
-value = Bellota;
-},
-{
-name = openTypeNameUniqueID;
-value = "Kemie Guaida:Bellota:2017";
-},
-{
-name = openTypeNameVersion;
-value = "Version 3.000";
-},
-{
 name = openTypeOS2VendorID;
 value = PIXL;
 },
@@ -187,7 +175,7 @@ name = "Use Line Breaks";
 value = 1;
 }
 );
-date = "2017-05-31 06:50:59 +0000";
+date = "2019-10-24 16:19:06 +0000";
 designer = "Kemie Guaida";
 designerURL = "http://www.pixilate.com";
 familyName = Bellota;
@@ -76704,5 +76692,5 @@ GSDimensionPlugin.Dimensions = {
 };
 };
 versionMajor = 3;
-versionMinor = 0;
+versionMinor = 1;
 }
