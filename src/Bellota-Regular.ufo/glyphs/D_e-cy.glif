@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="De-cy" format="2">
-	<advance width="600"/>
+	<advance width="725"/>
 	<unicode hex="0414"/>
 	<outline>
+		<contour>
+			<point x="692" y="-160" type="line"/>
+			<point x="692" y="56" type="line"/>
+			<point x="603" y="56" type="line"/>
+			<point x="604" y="684" type="line"/>
+			<point x="286" y="684" type="line"/>
+			<point x="261" y="433"/>
+			<point x="234" y="313"/>
+			<point x="88" y="58" type="curve"/>
+			<point x="33" y="56" type="line"/>
+			<point x="33" y="-160" type="line"/>
+			<point x="93" y="-160" type="line"/>
+			<point x="93" y="0" type="line"/>
+			<point x="632" y="0" type="line"/>
+			<point x="632" y="-160" type="line"/>
+		</contour>
+		<contour>
+			<point x="339" y="628" type="curve"/>
+			<point x="339" y="628" type="line"/>
+			<point x="544" y="628" type="line"/>
+			<point x="544" y="56" type="line"/>
+			<point x="150" y="56" type="line"/>
+			<point x="268" y="267"/>
+			<point x="314" y="399"/>
+		</contour>
 	</outline>
 </glyph>

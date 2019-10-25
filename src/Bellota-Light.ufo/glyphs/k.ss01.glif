@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="k.ss01" format="2">
+	<advance width="498"/>
+	<anchor x="104" y="727" name="top"/>
+	<anchor x="260" y="-6" name="bottom"/>
+	<outline>
+		<contour>
+			<point x="268" y="228" type="curve"/>
+			<point x="432" y="0" type="line"/>
+			<point x="479" y="0" type="line"/>
+			<point x="282" y="273" type="line"/>
+			<point x="340" y="297"/>
+			<point x="419" y="427"/>
+			<point x="426" y="500" type="curve"/>
+			<point x="386" y="500" type="line"/>
+			<point x="379" y="463"/>
+			<point x="339" y="345"/>
+			<point x="264" y="306" type="curve"/>
+			<point x="239" y="293"/>
+			<point x="206" y="293"/>
+			<point x="172" y="293" type="curve"/>
+			<point x="119" y="293" type="line"/>
+			<point x="117" y="255" type="line"/>
+			<point x="191" y="255" type="line" smooth="yes"/>
+			<point x="221" y="255"/>
+			<point x="255" y="248"/>
+		</contour>
+		<contour>
+			<point x="84" y="726" type="line"/>
+			<point x="84" y="0" type="line"/>
+			<point x="126" y="0" type="line"/>
+			<point x="126" y="726" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>412</integer>
+			<key>width</key>
+			<integer>57</integer>
+		</dict>
+	</lib>
+</glyph>

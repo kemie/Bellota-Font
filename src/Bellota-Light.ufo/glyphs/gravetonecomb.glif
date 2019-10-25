@@ -2,16 +2,14 @@
 <glyph name="gravetonecomb" format="2">
 	<advance width="0"/>
 	<unicode hex="0340"/>
-	<anchor x="94" y="502" name="_top"/>
+	<anchor x="-21" y="502" name="_top"/>
 	<outline>
-		<component base="gravecomb" yOffset="-6"/>
+		<component base="gravecomb" xOffset="97" yOffset="-6"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>position</key>
 			<integer>5</integer>
-			<key>public.markColor</key>
-			<string>0.99,0.62,0.11,1</string>
 			<key>width</key>
 			<integer>231</integer>
 		</dict>

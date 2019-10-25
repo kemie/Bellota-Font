@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="won" format="2">
+	<advance width="1101"/>
+	<unicode hex="20A9"/>
+	<anchor x="545" y="643" name="top"/>
+	<anchor x="541" y="0" name="bottom"/>
+	<outline>
+		<contour>
+			<point x="109" y="577" type="curve"/>
+			<point x="304" y="1" type="line"/>
+			<point x="352" y="1" type="line"/>
+			<point x="544" y="575" type="line"/>
+			<point x="738" y="1" type="line"/>
+			<point x="786" y="1" type="line"/>
+			<point x="1000" y="638" type="line"/>
+			<point x="956" y="638" type="line"/>
+			<point x="774" y="88" type="line"/>
+			<point x="762" y="40" type="line"/>
+			<point x="752" y="88" type="line"/>
+			<point x="570" y="638" type="line"/>
+			<point x="521" y="638" type="line"/>
+			<point x="339" y="88" type="line"/>
+			<point x="328" y="41" type="line"/>
+			<point x="317" y="89" type="line"/>
+			<point x="151" y="590" type="line" smooth="yes"/>
+			<point x="145" y="608"/>
+			<point x="134" y="622"/>
+			<point x="121" y="631" type="curve"/>
+			<point x="110" y="638"/>
+			<point x="95" y="645"/>
+			<point x="78" y="645" type="curve"/>
+			<point x="78" y="603" type="line"/>
+			<point x="93" y="601"/>
+			<point x="104" y="593"/>
+		</contour>
+		<component base="strokelongcomb" xScale="2.178" xOffset="1179" yOffset="-20"/>
+		<component base="strokelongcomb" xScale="2.178" xOffset="1179" yOffset="112"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>RMXScaler</key>
+			<dict>
+				<key>height</key>
+				<integer>93</integer>
+				<key>width</key>
+				<integer>96</integer>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

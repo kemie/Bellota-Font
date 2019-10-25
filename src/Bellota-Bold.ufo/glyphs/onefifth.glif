@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onefifth" format="2">
-	<advance width="707"/>
+	<advance width="763"/>
 	<unicode hex="2155"/>
 	<outline>
 		<component base="one.numr"/>
-		<component base="fraction" xOffset="200"/>
+		<component base="fraction" xOffset="236"/>
 		<component base="five.dnom" xOffset="440"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>one.numr</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>one.numr</string>
-		</dict>
-	</lib>
 </glyph>

@@ -1,7 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Be-cy" format="2">
-	<advance width="600"/>
+	<advance width="584"/>
 	<unicode hex="0411"/>
 	<outline>
+		<contour>
+			<point x="300" y="391" type="curve"/>
+			<point x="300" y="391" type="line"/>
+			<point x="141" y="391" type="line"/>
+			<point x="141" y="335" type="line"/>
+			<point x="306" y="335" type="line" smooth="yes"/>
+			<point x="415" y="335"/>
+			<point x="474" y="270"/>
+			<point x="474" y="185" type="curve"/>
+			<point x="474" y="92"/>
+			<point x="403" y="45"/>
+			<point x="292" y="45" type="curve"/>
+			<point x="276" y="45"/>
+			<point x="246" y="46"/>
+			<point x="225" y="47" type="curve"/>
+			<point x="160" y="50" type="line"/>
+			<point x="160" y="652" type="line"/>
+			<point x="100" y="652" type="line"/>
+			<point x="100" y="1" type="line"/>
+			<point x="152" y="-5" type="line" smooth="yes"/>
+			<point x="186" y="-9"/>
+			<point x="255" y="-10"/>
+			<point x="282" y="-10" type="curve"/>
+			<point x="333" y="-10"/>
+			<point x="368" y="-6"/>
+			<point x="399" y="4" type="curve"/>
+			<point x="489" y="33"/>
+			<point x="533" y="106"/>
+			<point x="533" y="185" type="curve"/>
+			<point x="533" y="304"/>
+			<point x="438" y="391"/>
+		</contour>
+		<contour>
+			<point x="100" y="629" type="line"/>
+			<point x="499" y="629" type="line"/>
+			<point x="499" y="685" type="line"/>
+			<point x="100" y="685" type="line"/>
+		</contour>
 	</outline>
 </glyph>

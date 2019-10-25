@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="adotmacron" format="2">
-	<advance width="536"/>
+	<advance width="581"/>
 	<unicode hex="01E1"/>
 	<outline>
 		<component base="a"/>
-		<component base="dotaccentcomb" xOffset="256" yOffset="12"/>
-		<component base="macroncomb" xOffset="255" yOffset="192"/>
+		<component base="dotaccentcomb" xOffset="360"/>
+		<component base="macroncomb" xOffset="463" yOffset="143"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>c</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>a</string>
 			<key>position</key>
 			<integer>407</integer>
 			<key>width</key>

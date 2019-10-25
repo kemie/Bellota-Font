@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dong" format="2">
-	<advance width="600"/>
+	<advance width="591"/>
 	<unicode hex="20AB"/>
 	<outline>
+		<component base="dcroat.ss01"/>
+		<component base="macronbelowcomb" xScale="1.25" xOffset="546" yOffset="-10"/>
 	</outline>
 </glyph>

@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Hcircumflex" format="2">
-	<advance width="714"/>
+	<advance width="727"/>
 	<unicode hex="0124"/>
 	<outline>
 		<component base="H"/>
-		<component base="circumflex" xOffset="207" yOffset="179"/>
+		<component base="circumflexcomb.case" xOffset="579" yOffset="-9"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>H</string>
 			<key>position</key>
 			<integer>554</integer>
 			<key>width</key>

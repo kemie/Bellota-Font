@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="OE" format="2">
-	<advance width="1222"/>
+	<advance width="1213"/>
 	<unicode hex="0152"/>
 	<anchor x="671" y="0" name="top"/>
+	<anchor x="611" y="0" name="bottom"/>
 	<outline>
 		<component base="O"/>
-		<component base="E.ss02" xOffset="631"/>
+		<component base="E.ss01" xOffset="603"/>
 	</outline>
 	<lib>
 		<dict>
@@ -17,13 +18,9 @@
 					<key>index</key>
 					<integer>1</integer>
 					<key>name</key>
-					<string>E.ss02</string>
+					<string>E.ss01</string>
 				</dict>
 			</array>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>O</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>E</string>
 			<key>position</key>
 			<integer>502</integer>
 			<key>width</key>

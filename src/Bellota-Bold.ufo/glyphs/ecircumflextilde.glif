@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ecircumflextilde" format="2">
-	<advance width="477"/>
+	<advance width="508"/>
 	<unicode hex="1EC5"/>
 	<outline>
 		<component base="e"/>
-		<component base="circumflexcomb" xOffset="252" yOffset="8"/>
-		<component base="tildecomb" xOffset="277" yOffset="240"/>
+		<component base="circumflexcomb_tildecomb" xOffset="484" yOffset="1"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>c</string>
-		</dict>
-	</lib>
 </glyph>

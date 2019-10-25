@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ebreve" format="2">
-	<advance width="590"/>
+	<advance width="619"/>
 	<unicode hex="0114"/>
 	<outline>
 		<component base="E"/>
-		<component base="brevecomb" xOffset="340" yOffset="188"/>
+		<component base="brevecomb.case" xOffset="548" yOffset="6"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>E</string>
 			<key>position</key>
 			<integer>400</integer>
 			<key>width</key>

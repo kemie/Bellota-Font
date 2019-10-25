@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="y.ss01" format="2">
+	<advance width="475"/>
+	<anchor x="250" y="500" name="top"/>
+	<anchor x="372" y="0" name="bottom"/>
+	<outline>
+		<contour>
+			<point x="71" y="-212" type="curve"/>
+			<point x="78" y="-261" type="line"/>
+			<point x="125" y="-261"/>
+			<point x="163" y="-251"/>
+			<point x="191" y="-232" type="curve"/>
+			<point x="221" y="-212"/>
+			<point x="240" y="-181"/>
+			<point x="250" y="-150" type="curve"/>
+			<point x="453" y="503" type="line"/>
+			<point x="391" y="503" type="line"/>
+			<point x="260" y="61" type="line"/>
+			<point x="80" y="503" type="line"/>
+			<point x="17" y="503" type="line"/>
+			<point x="236" y="-13" type="line"/>
+			<point x="198" y="-132" type="line" smooth="yes"/>
+			<point x="190" y="-156"/>
+			<point x="175" y="-179"/>
+			<point x="156" y="-191" type="curve"/>
+			<point x="135" y="-206"/>
+			<point x="103" y="-212"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>483</integer>
+			<key>width</key>
+			<integer>20</integer>
+		</dict>
+	</lib>
+</glyph>

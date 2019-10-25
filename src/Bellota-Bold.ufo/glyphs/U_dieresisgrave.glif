@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Udieresisgrave" format="2">
-	<advance width="749"/>
+	<advance width="733"/>
 	<unicode hex="01DB"/>
 	<outline>
 		<component base="U"/>
-		<component base="dieresiscomb" xOffset="450" yOffset="175"/>
-		<component base="gravecomb" xOffset="392" yOffset="392"/>
+		<component base="dieresiscomb.case" xOffset="627" yOffset="-9"/>
+		<component base="gravecomb.case" xOffset="454" yOffset="137"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>E</string>
-		</dict>
-	</lib>
 </glyph>

@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="percent" format="2">
-	<advance width="793"/>
+	<advance width="812"/>
 	<unicode hex="0025"/>
 	<outline>
-		<component base="degree" xOffset="392" yOffset="-370"/>
-		<component base="fraction" xOffset="263" yOffset="11"/>
-		<component base="degree" xOffset="-10" yOffset="-132"/>
+		<component base="degree" xOffset="380" yOffset="-370"/>
+		<component base="fraction" xOffset="298" yOffset="-3"/>
+		<component base="degree" xOffset="-22" yOffset="-132"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>position</key>
 			<integer>630</integer>
-			<key>public.markColor</key>
-			<string>0.99,0.62,0.11,1</string>
 			<key>width</key>
 			<integer>50</integer>
 		</dict>

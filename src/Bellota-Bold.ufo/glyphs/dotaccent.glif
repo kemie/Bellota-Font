@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotaccent" format="2">
-	<advance width="211"/>
+	<advance width="222"/>
 	<unicode hex="02D9"/>
-	<anchor x="78" y="500" name="_top"/>
+	<anchor x="74" y="500" name="_top"/>
 	<outline>
-		<component base="period" xOffset="-28" yOffset="599"/>
+		<component base="period" xOffset="-32" yOffset="599"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>position</key>
 			<integer>30</integer>
-			<key>public.markColor</key>
-			<string>0.99,0.62,0.11,1</string>
 			<key>width</key>
 			<integer>83</integer>
 		</dict>

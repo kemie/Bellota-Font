@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="backslash" format="2">
-	<advance width="263"/>
+	<advance width="310"/>
 	<unicode hex="005C"/>
 	<outline>
 		<contour>
-			<point x="215" y="-70" type="line"/>
-			<point x="266" y="-70" type="line"/>
-			<point x="46" y="752" type="line"/>
-			<point x="-3" y="752" type="line"/>
+			<point x="21" y="752" type="line"/>
+			<point x="239" y="-70" type="line"/>
+			<point x="290" y="-70" type="line"/>
+			<point x="70" y="752" type="line"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>position</key>
 			<integer>15</integer>
-			<key>public.markColor</key>
-			<string>0.99,0.62,0.11,1</string>
 			<key>width</key>
 			<integer>282</integer>
 		</dict>

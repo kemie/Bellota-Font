@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_corner.caps_diag" format="2">
+	<advance width="282"/>
+	<anchor x="27" y="640" name="_topswash"/>
+	<anchor x="7" y="0" name="origin"/>
+	<outline>
+		<contour>
+			<point x="7" y="1" type="move"/>
+			<point x="7" y="-56"/>
+			<point x="44" y="-93"/>
+			<point x="95" y="-93" type="curve"/>
+			<point x="119" y="-93"/>
+			<point x="137" y="-85"/>
+			<point x="147" y="-75" type="curve"/>
+			<point x="116" y="-31" type="line"/>
+			<point x="112" y="-35"/>
+			<point x="104" y="-37"/>
+			<point x="97" y="-37" type="curve"/>
+			<point x="78" y="-37"/>
+			<point x="66" y="-21"/>
+			<point x="66" y="0" type="curve"/>
+		</contour>
+	</outline>
+</glyph>

@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Eth" format="2">
-	<advance width="772"/>
+	<advance width="787"/>
 	<unicode hex="00D0"/>
 	<outline>
 		<component base="D"/>
-		<component base="hyphen" yOffset="30"/>
+		<component base="strokeshortcomb" xOffset="430" yOffset="117"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>E</string>
 			<key>position</key>
 			<integer>674</integer>
-			<key>public.markColor</key>
-			<string>0.99,0.62,0.11,1</string>
 			<key>width</key>
 			<integer>60</integer>
 		</dict>

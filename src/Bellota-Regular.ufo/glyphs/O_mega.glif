@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Omega" format="2">
-	<advance width="568"/>
+	<advance width="629"/>
 	<unicode hex="03A9"/>
-	<anchor x="1" y="0" name="topleft"/>
+	<anchor x="0" y="0" name="topleft"/>
+	<anchor x="283" y="0" name="bottom"/>
 	<outline>
-		<component base="Ohm" xOffset="-19"/>
+		<component base="Ohm" xOffset="-20"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>position</key>
 			<integer>430</integer>
-			<key>public.markColor</key>
-			<string>0.99,0.62,0.11,1</string>
 			<key>width</key>
 			<integer>62</integer>
 		</dict>

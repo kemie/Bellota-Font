@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE.ss01" format="2">
+	<advance width="894"/>
+	<anchor x="495" y="673" name="top"/>
+	<anchor x="484" y="0" name="bottom"/>
+	<outline>
+		<contour>
+			<point x="407" y="686" type="line"/>
+			<point x="15" y="-1" type="line"/>
+			<point x="106" y="0" type="line"/>
+			<point x="227" y="220" type="line"/>
+			<point x="424" y="220" type="line"/>
+			<point x="424" y="-1" type="line"/>
+			<point x="851" y="-1" type="line"/>
+			<point x="851" y="75" type="line"/>
+			<point x="506" y="75" type="line"/>
+			<point x="506" y="325" type="line"/>
+			<point x="733" y="325" type="line"/>
+			<point x="733" y="401" type="line"/>
+			<point x="506" y="401" type="line"/>
+			<point x="506" y="610" type="line"/>
+			<point x="831" y="610" type="line"/>
+			<point x="831" y="686" type="line"/>
+		</contour>
+		<contour>
+			<point x="424" y="296" type="line"/>
+			<point x="265" y="296" type="line"/>
+			<point x="410" y="561" type="line"/>
+			<point x="424" y="593" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>=A*.5</string>
+			<key>position</key>
+			<integer>422</integer>
+			<key>width</key>
+			<integer>61</integer>
+		</dict>
+	</lib>
+</glyph>

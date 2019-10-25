@@ -2,14 +2,9 @@
 <glyph name="dieresiscomb" format="2">
 	<advance width="0"/>
 	<unicode hex="0308"/>
-	<anchor x="5" y="713" name="top"/>
+	<anchor x="-240" y="664" name="top"/>
+	<anchor x="-239" y="500" name="_top"/>
 	<outline>
-		<component base="dieresis" xOffset="-225"/>
+		<component base="dieresis" xOffset="-445"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.99,0.62,0.11,1</string>
-		</dict>
-	</lib>
 </glyph>

@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Wdieresis" format="2">
-	<advance width="1102"/>
+	<advance width="1082"/>
 	<unicode hex="1E84"/>
 	<outline>
 		<component base="W"/>
-		<component base="dieresiscomb" xOffset="632" yOffset="175"/>
+		<component base="dieresiscomb.case" xOffset="808" yOffset="-9"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>V</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>V</string>
 			<key>position</key>
 			<integer>616</integer>
 			<key>width</key>

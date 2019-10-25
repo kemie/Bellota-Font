@@ -10,11 +10,11 @@ This information should be distributed along with the Bellota fonts and any deri
 Basic Font Information
 ————————————————————————————————
 
-Bellota is an ornamented, low contrast sans-serif. It’s just cute enough!
+Bellota is an ornamented, low contrast sans-serif with text and swash alernates. It’s just cute enough!
 
-It comes in six variations: regular, italic, light, light italic, bold & bold italic. It has stylistic alternates (for swash and non-ornamented characters) and ligatures available through opentype features.
-Stylistic Style1: Swash Caps
-Stylistic Style 2: Text
+It comes in two variations: regular and text. Each of these comes in tree weights (light/regular/bold) and italics. It has stylistic alternates (for swash and non-ornamented characters) and ligatures available through opentype features.
+Stylistic Style1: Text
+Stylistic Style 2: Swash caps
 
 Bellota is based on the font "Snippet" by Gesine Todt (www.gesine-todt.de)
 
@@ -25,6 +25,15 @@ To contribute to the project contact Kemie Guaida at kemie@pixilate.com
 
 Changelog
 ————————————————————————————————
+=v4.0, Oct  2019 (Kemie Guaida)=
++ Basic Cyrillic support
++ Better Vietnamese diacritics
++ Wider character coverage
++ Better spacing and kerning
++ Better consistency on character outlines
++ Added Swash characters
++ Changed Stylistic Set 2 to 1
+
 =v3.0, May 2017 (Kemie Guaida)=
 + Better spacing and kerning
 + Fixed some character outlines
@@ -50,12 +59,16 @@ Acknowledgements
 N: Kemie Guaida
 E: fonts@pixilate.com
 W: http://www.pixilate.com
-D: Contributor: glyph modifications, opentype features, weights, italics
+D: Contributor: character design, opentype features, weights, italics
 
 N: Gesine Todt
 E: see website
 W: http://www.gesine-todt.de
-D: Original design, kerning
+D: Original design
+
+N:Andriy Konstantynov
+W:https://minttype.com/about
+D: Cyrillic guidance & critique
 
   If you make modifications be sure to add your name (N), 
   email (E), web-address (if you have one) (W) and 

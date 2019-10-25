@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eightsuperior" format="2">
-	<advance width="600"/>
+	<advance width="324"/>
 	<unicode hex="2078"/>
 	<outline>
-		<component base="eight"/>
+		<component base="eight.numr" yOffset="-1"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>eight</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>eight</string>
-		</dict>
-	</lib>
 </glyph>

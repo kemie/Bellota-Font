@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_corner.caps_swash" format="2">
+	<advance width="200"/>
+	<anchor x="2" y="0" name="origin"/>
+	<outline>
+		<contour>
+			<point x="2" y="1" type="move" smooth="yes"/>
+			<point x="2" y="-56"/>
+			<point x="44" y="-96"/>
+			<point x="99" y="-96" type="curve"/>
+			<point x="130" y="-96"/>
+			<point x="157" y="-82"/>
+			<point x="176" y="-57" type="curve"/>
+			<point x="143" y="-37" type="line"/>
+			<point x="132" y="-48"/>
+			<point x="116" y="-57"/>
+			<point x="99" y="-57" type="curve"/>
+			<point x="68" y="-57"/>
+			<point x="42" y="-30"/>
+			<point x="42" y="2" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>

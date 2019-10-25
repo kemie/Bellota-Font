@@ -2,14 +2,9 @@
 <glyph name="brevecomb" format="2">
 	<advance width="0"/>
 	<unicode hex="0306"/>
-	<anchor x="9" y="718" name="top"/>
+	<anchor x="-190" y="684" name="top"/>
+	<anchor x="-189" y="500" name="_top"/>
 	<outline>
-		<component base="breve" xOffset="-183"/>
+		<component base="breve" xOffset="-379" yOffset="-4"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.99,0.62,0.11,1</string>
-		</dict>
-	</lib>
 </glyph>

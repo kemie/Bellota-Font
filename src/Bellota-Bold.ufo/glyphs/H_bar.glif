@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Hbar" format="2">
-	<advance width="714"/>
+	<advance width="727"/>
 	<unicode hex="0126"/>
 	<outline>
-		<contour>
-			<point x="87" y="485" type="line"/>
-			<point x="623" y="485" type="line"/>
-			<point x="623" y="559" type="line"/>
-			<point x="87" y="559" type="line"/>
-		</contour>
-		<component base="H" yOffset="11"/>
+		<component base="H"/>
+		<component base="strokelongcomb" xOffset="675" yOffset="240"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>H</string>
 			<key>position</key>
 			<integer>554</integer>
-			<key>public.markColor</key>
-			<string>0.99,0.62,0.11,1</string>
 			<key>width</key>
 			<integer>61</integer>
 		</dict>

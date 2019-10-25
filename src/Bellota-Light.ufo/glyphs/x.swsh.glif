@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="x.swsh" format="2">
+	<advance width="512"/>
+	<anchor x="252" y="500" name="top"/>
+	<anchor x="252" y="0" name="bottom"/>
+	<outline>
+		<contour>
+			<point x="408" y="-18" type="curve"/>
+			<point x="408" y="-18" type="line"/>
+			<point x="452" y="-18"/>
+			<point x="487" y="11"/>
+			<point x="492" y="57" type="curve"/>
+			<point x="449" y="59" type="line"/>
+			<point x="445" y="42"/>
+			<point x="431" y="26"/>
+			<point x="408" y="26" type="curve"/>
+			<point x="391" y="26"/>
+			<point x="378" y="35"/>
+			<point x="373" y="46" type="curve"/>
+			<point x="246" y="251" type="line"/>
+			<point x="398" y="497" type="line"/>
+			<point x="347" y="497" type="line"/>
+			<point x="216" y="280" type="line"/>
+			<point x="80" y="497" type="line"/>
+			<point x="29" y="497" type="line"/>
+			<point x="187" y="249" type="line"/>
+			<point x="31" y="1" type="line"/>
+			<point x="80" y="1" type="line"/>
+			<point x="216" y="218" type="line"/>
+			<point x="336" y="22" type="line" smooth="yes"/>
+			<point x="355" y="-9"/>
+			<point x="382" y="-18"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>480</integer>
+			<key>width</key>
+			<integer>20</integer>
+		</dict>
+	</lib>
+</glyph>

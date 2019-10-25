@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Oogonekmacron" format="2">
-	<advance width="801"/>
+	<advance width="795"/>
 	<unicode hex="01EC"/>
 	<outline>
 		<component base="O"/>
-		<component base="ogonekcomb" xOffset="573" yOffset="36"/>
-		<component base="macroncomb" xOffset="400" yOffset="208"/>
+		<component base="ogonekcomb" xOffset="707" yOffset="36"/>
+		<component base="macroncomb.case" xOffset="625"/>
 	</outline>
 	<lib>
 		<dict>

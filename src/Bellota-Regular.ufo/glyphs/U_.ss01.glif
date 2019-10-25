@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="U.ss01" format="2">
+	<advance width="685"/>
+	<anchor x="343" y="342" name="center"/>
+	<anchor x="521" y="67" name="ogonek"/>
+	<anchor x="348" y="684" name="top"/>
+	<anchor x="647" y="684" name="topright"/>
+	<anchor x="570" y="684" name="horn"/>
+	<anchor x="341" y="-10" name="bottom"/>
+	<outline>
+		<contour>
+			<point x="341" y="-10" type="curve"/>
+			<point x="341" y="-10" type="line"/>
+			<point x="490" y="-10"/>
+			<point x="600" y="98"/>
+			<point x="600" y="267" type="curve"/>
+			<point x="600" y="684" type="line"/>
+			<point x="540" y="684" type="line"/>
+			<point x="540" y="267" type="line" smooth="yes"/>
+			<point x="540" y="133"/>
+			<point x="458" y="45"/>
+			<point x="343" y="45" type="curve"/>
+			<point x="230" y="45"/>
+			<point x="145" y="131"/>
+			<point x="145" y="267" type="curve"/>
+			<point x="145" y="684" type="line"/>
+			<point x="85" y="684" type="line"/>
+			<point x="85" y="267" type="line" smooth="yes"/>
+			<point x="85" y="108"/>
+			<point x="186" y="-10"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>564</integer>
+			<key>width</key>
+			<integer>61</integer>
+		</dict>
+	</lib>
+</glyph>

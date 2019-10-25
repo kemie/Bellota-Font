@@ -1,23 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="divide" format="2">
-	<advance width="490"/>
+	<advance width="489"/>
 	<unicode hex="00F7"/>
 	<outline>
-		<contour>
-			<point x="53" y="259" type="line"/>
-			<point x="437" y="259" type="line"/>
-			<point x="437" y="332" type="line"/>
-			<point x="53" y="332" type="line"/>
-		</contour>
-		<component base="period" xOffset="158" yOffset="113"/>
-		<component base="period" xOffset="158" yOffset="403"/>
+		<component base="period" xOffset="102" yOffset="113"/>
+		<component base="period" xOffset="102" yOffset="403"/>
+		<component base="minus" xOffset="-47" yOffset="12"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>position</key>
 			<integer>183</integer>
-			<key>public.markColor</key>
-			<string>0.99,0.62,0.11,1</string>
 			<key>width</key>
 			<integer>93</integer>
 		</dict>

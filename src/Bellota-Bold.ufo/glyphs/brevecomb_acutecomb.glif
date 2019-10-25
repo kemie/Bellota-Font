@@ -2,13 +2,7 @@
 <glyph name="brevecomb_acutecomb" format="2">
 	<advance width="0"/>
 	<outline>
-		<component base="brevecomb" xOffset="-19"/>
-		<component base="acutecomb" xOffset="59" yOffset="222"/>
+		<component base="brevecomb" xOffset="15"/>
+		<component base="acutecomb" xOffset="-144" yOffset="196"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.99,0.62,0.11,1</string>
-		</dict>
-	</lib>
 </glyph>

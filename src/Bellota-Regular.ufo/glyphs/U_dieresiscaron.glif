@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Udieresiscaron" format="2">
-	<advance width="741"/>
+	<advance width="734"/>
 	<unicode hex="01D9"/>
 	<outline>
 		<component base="U"/>
-		<component base="dieresiscomb" xOffset="416" yOffset="184"/>
-		<component base="caroncomb" xOffset="437" yOffset="338"/>
+		<component base="dieresiscomb.case" xOffset="619"/>
+		<component base="caroncomb.case" xOffset="573" yOffset="127"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>E</string>
-		</dict>
-	</lib>
 </glyph>

@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="macroncomb.narrow" format="2">
-	<advance width="600"/>
+	<advance width="0"/>
+	<anchor x="-195" y="646" name="top"/>
+	<anchor x="-195" y="500" name="_top"/>
 	<outline>
+		<contour>
+			<point x="-315" y="635" type="line"/>
+			<point x="-315" y="567" type="line"/>
+			<point x="-75" y="567" type="line"/>
+			<point x="-75" y="635" type="line"/>
+		</contour>
 	</outline>
 </glyph>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Istroke" format="2">
-	<advance width="600"/>
+	<advance width="261"/>
 	<unicode hex="0197"/>
 	<outline>
+		<component base="I"/>
+		<component base="strokeshortcomb" xOffset="350" yOffset="136"/>
 	</outline>
 </glyph>

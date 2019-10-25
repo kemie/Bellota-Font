@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Yeru-cy" format="2">
-	<advance width="600"/>
+	<advance width="839"/>
 	<unicode hex="042B"/>
+	<anchor x="407" y="684" name="top"/>
 	<outline>
+		<component base="Softsign-cy"/>
+		<component base="I" xOffset="578"/>
 	</outline>
 </glyph>

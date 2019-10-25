@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Wgrave" format="2">
-	<advance width="1102"/>
+	<advance width="1082"/>
 	<unicode hex="1E80"/>
 	<outline>
 		<component base="W"/>
-		<component base="gravecomb" xOffset="526" yOffset="179"/>
+		<component base="gravecomb.case" xOffset="635" yOffset="-8"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>V</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>V</string>
 			<key>position</key>
 			<integer>404</integer>
 			<key>width</key>

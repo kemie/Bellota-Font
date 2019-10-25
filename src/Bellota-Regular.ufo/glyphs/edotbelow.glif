@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="edotbelow" format="2">
-	<advance width="464"/>
+	<advance width="499"/>
 	<unicode hex="1EB9"/>
 	<outline>
 		<component base="e"/>
-		<component base="dotbelowcomb" xOffset="301"/>
+		<component base="dotbelowcomb" xOffset="376"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>c</string>
-		</dict>
-	</lib>
 </glyph>

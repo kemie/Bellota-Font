@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="abrevegrave" format="2">
-	<advance width="573"/>
+	<advance width="593"/>
 	<unicode hex="1EB1"/>
 	<outline>
 		<component base="a"/>
-		<component base="brevecomb" xOffset="268" yOffset="8"/>
-		<component base="gravecomb" xOffset="215" yOffset="230"/>
+		<component base="brevecomb_gravecomb" xOffset="452" yOffset="5"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>c</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>a</string>
-		</dict>
-	</lib>
 </glyph>

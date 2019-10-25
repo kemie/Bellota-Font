@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="engtail" format="2">
+	<advance width="312"/>
+	<anchor x="222" y="159" name="_eng"/>
+	<note>
+		nned to scale weight 50
+  </note>
+	<outline>
+		<contour>
+			<point x="123" y="-203" type="curve"/>
+			<point x="123" y="-203" type="line"/>
+			<point x="184" y="-203"/>
+			<point x="222" y="-157"/>
+			<point x="222" y="-104" type="curve"/>
+			<point x="222" y="159" type="line"/>
+			<point x="140" y="159" type="line"/>
+			<point x="140" y="-104" type="line" smooth="yes"/>
+			<point x="140" y="-116"/>
+			<point x="131" y="-126"/>
+			<point x="118" y="-126" type="curve"/>
+			<point x="106" y="-126"/>
+			<point x="95" y="-119"/>
+			<point x="90" y="-107" type="curve"/>
+			<point x="30" y="-149" type="line"/>
+			<point x="49" y="-184"/>
+			<point x="87" y="-203"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>

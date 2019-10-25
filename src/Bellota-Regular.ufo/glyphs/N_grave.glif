@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ngrave" format="2">
-	<advance width="791"/>
+	<advance width="781"/>
 	<unicode hex="01F8"/>
 	<outline>
 		<component base="N"/>
-		<component base="grave" xOffset="238" yOffset="184"/>
+		<component base="gravecomb.case" xOffset="471" yOffset="-2"/>
 	</outline>
 	<lib>
 		<dict>

@@ -1,37 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="daggerdbl" format="2">
-	<advance width="483"/>
+	<advance width="543"/>
 	<unicode hex="2021"/>
 	<outline>
 		<contour>
-			<point x="218" y="-77" type="line"/>
-			<point x="264" y="-77" type="line"/>
-			<point x="264" y="120" type="line"/>
-			<point x="442" y="120" type="line"/>
-			<point x="442" y="164" type="line"/>
-			<point x="264" y="164" type="line"/>
-			<point x="264" y="449" type="line"/>
-			<point x="442" y="449" type="line"/>
-			<point x="442" y="495" type="line"/>
-			<point x="264" y="495" type="line"/>
-			<point x="264" y="693" type="line"/>
-			<point x="218" y="693" type="line"/>
-			<point x="218" y="495" type="line"/>
-			<point x="41" y="495" type="line"/>
-			<point x="41" y="449" type="line"/>
-			<point x="218" y="449" type="line"/>
-			<point x="218" y="164" type="line"/>
-			<point x="41" y="164" type="line"/>
-			<point x="41" y="120" type="line"/>
-			<point x="218" y="120" type="line"/>
+			<point x="248" y="120" type="line"/>
+			<point x="248" y="-77" type="line"/>
+			<point x="294" y="-77" type="line"/>
+			<point x="294" y="120" type="line"/>
+			<point x="472" y="120" type="line"/>
+			<point x="472" y="164" type="line"/>
+			<point x="294" y="164" type="line"/>
+			<point x="294" y="449" type="line"/>
+			<point x="472" y="449" type="line"/>
+			<point x="472" y="495" type="line"/>
+			<point x="294" y="495" type="line"/>
+			<point x="294" y="693" type="line"/>
+			<point x="248" y="693" type="line"/>
+			<point x="248" y="495" type="line"/>
+			<point x="71" y="495" type="line"/>
+			<point x="71" y="449" type="line"/>
+			<point x="248" y="449" type="line"/>
+			<point x="248" y="164" type="line"/>
+			<point x="71" y="164" type="line"/>
+			<point x="71" y="120" type="line"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>position</key>
 			<integer>207</integer>
-			<key>public.markColor</key>
-			<string>0.99,0.62,0.11,1</string>
 			<key>width</key>
 			<integer>59</integer>
 		</dict>

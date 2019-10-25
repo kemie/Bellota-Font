@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ccircumflex" format="2">
-	<advance width="705"/>
+	<advance width="720"/>
 	<unicode hex="0108"/>
 	<outline>
 		<component base="C"/>
-		<component base="circumflexcomb" xOffset="375" yOffset="207"/>
+		<component base="circumflexcomb.case" xOffset="577" yOffset="19"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>O</string>
 			<key>position</key>
 			<integer>570</integer>
 			<key>width</key>

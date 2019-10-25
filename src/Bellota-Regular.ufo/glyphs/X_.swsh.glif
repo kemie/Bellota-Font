@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="X.swsh" format="2">
+	<advance width="670"/>
+	<anchor x="327" y="684" name="top"/>
+	<anchor x="330" y="0" name="bottom"/>
+	<outline>
+		<contour>
+			<point x="287" y="361" type="line"/>
+			<point x="78" y="0" type="line"/>
+			<point x="149" y="0" type="line"/>
+			<point x="323" y="304" type="line"/>
+			<point x="450" y="65" type="line" smooth="yes"/>
+			<point x="474" y="19"/>
+			<point x="497" y="-7"/>
+			<point x="541" y="-7" type="curve"/>
+			<point x="589" y="-7"/>
+			<point x="634" y="24"/>
+			<point x="637" y="80" type="curve"/>
+			<point x="579" y="83" type="line"/>
+			<point x="576" y="65"/>
+			<point x="564" y="51"/>
+			<point x="545" y="51" type="curve"/>
+			<point x="533" y="51"/>
+			<point x="523" y="57"/>
+			<point x="519" y="65" type="curve"/>
+			<point x="362" y="349" type="line"/>
+			<point x="579" y="684" type="line"/>
+			<point x="508" y="684" type="line"/>
+			<point x="327" y="405" type="line"/>
+			<point x="191" y="642" type="line"/>
+			<point x="163" y="692"/>
+			<point x="115" y="708"/>
+			<point x="70" y="685" type="curve"/>
+			<point x="49" y="674"/>
+			<point x="36" y="659"/>
+			<point x="32" y="645" type="curve"/>
+			<point x="80" y="620" type="line"/>
+			<point x="82" y="626"/>
+			<point x="88" y="631"/>
+			<point x="94" y="634" type="curve"/>
+			<point x="111" y="643"/>
+			<point x="129" y="634"/>
+			<point x="139" y="616" type="curve"/>
+			<point x="139" y="616" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>566</integer>
+			<key>width</key>
+			<integer>58</integer>
+		</dict>
+	</lib>
+</glyph>

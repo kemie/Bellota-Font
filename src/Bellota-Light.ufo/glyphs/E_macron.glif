@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Emacron" format="2">
-	<advance width="590"/>
+	<advance width="619"/>
 	<unicode hex="0112"/>
 	<outline>
 		<component base="E"/>
-		<component base="macroncomb" xOffset="341" yOffset="188"/>
+		<component base="macroncomb.case" xOffset="530" yOffset="9"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>E</string>
 			<key>position</key>
 			<integer>168</integer>
 			<key>width</key>

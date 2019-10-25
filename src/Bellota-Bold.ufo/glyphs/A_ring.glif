@@ -4,12 +4,10 @@
 	<unicode hex="00C5"/>
 	<outline>
 		<component base="A"/>
-		<component base="ringcomb" xOffset="416" yOffset="188"/>
+		<component base="ringcomb.case" xOffset="574"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>A</string>
 			<key>position</key>
 			<integer>464</integer>
 			<key>width</key>

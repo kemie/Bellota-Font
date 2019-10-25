@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Uhungarumlaut" format="2">
-	<advance width="749"/>
+	<advance width="733"/>
 	<unicode hex="0170"/>
 	<outline>
 		<component base="U"/>
-		<component base="hungarumlautcomb" xOffset="460" yOffset="179"/>
+		<component base="hungarumlautcomb.case" xOffset="709" yOffset="-9"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>E</string>
 			<key>position</key>
 			<integer>606</integer>
 			<key>width</key>

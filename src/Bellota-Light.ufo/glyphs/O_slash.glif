@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Oslash" format="2">
-	<advance width="783"/>
+	<advance width="808"/>
 	<unicode hex="00D8"/>
-	<anchor x="425" y="692" name="top"/>
 	<outline>
 		<component base="O"/>
-		<component base="slashlongcomb.case" xOffset="385" yOffset="48"/>
+		<component base="slashlongcomb.case" xOffset="599" yOffset="48"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>O</string>
 			<key>position</key>
 			<integer>683</integer>
 			<key>width</key>

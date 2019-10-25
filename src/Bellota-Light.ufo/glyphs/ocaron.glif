@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ocaron" format="2">
-	<advance width="539"/>
+	<advance width="576"/>
 	<unicode hex="01D2"/>
 	<outline>
 		<component base="o"/>
-		<component base="caroncomb" xOffset="273" yOffset="5"/>
+		<component base="caroncomb" xOffset="445" yOffset="1"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>c</string>
-		</dict>
-	</lib>
 </glyph>

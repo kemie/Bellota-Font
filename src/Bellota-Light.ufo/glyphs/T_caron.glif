@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tcaron" format="2">
-	<advance width="562"/>
+	<advance width="608"/>
 	<unicode hex="0164"/>
 	<outline>
 		<component base="T"/>
-		<component base="caroncomb" xOffset="293" yOffset="184"/>
+		<component base="caroncomb.case" xOffset="484"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>T</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>T</string>
 			<key>position</key>
 			<integer>277</integer>
 			<key>width</key>

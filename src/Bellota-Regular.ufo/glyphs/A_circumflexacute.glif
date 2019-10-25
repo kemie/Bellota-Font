@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Acircumflexacute" format="2">
-	<advance width="744"/>
+	<advance width="748"/>
 	<unicode hex="1EA4"/>
 	<outline>
 		<component base="A"/>
-		<component base="circumflexcomb_acutecomb" xOffset="437" yOffset="186"/>
+		<component base="circumflexcomb.case" xOffset="594"/>
+		<component base="acutecomb.case" xOffset="760" yOffset="74"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>A</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>A</string>
-		</dict>
-	</lib>
 </glyph>

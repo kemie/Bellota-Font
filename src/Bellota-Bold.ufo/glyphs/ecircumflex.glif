@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ecircumflex" format="2">
-	<advance width="477"/>
+	<advance width="508"/>
 	<unicode hex="00EA"/>
 	<outline>
 		<component base="e"/>
-		<component base="circumflexcomb" xOffset="252" yOffset="8"/>
+		<component base="circumflexcomb" xOffset="462" yOffset="1"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>c</string>
 			<key>position</key>
 			<integer>382</integer>
 			<key>width</key>

@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aogonek" format="2">
-	<advance width="709"/>
+	<advance width="752"/>
 	<unicode hex="0104"/>
 	<outline>
 		<component base="A"/>
-		<component base="ogonekcomb" xOffset="664" yOffset="18"/>
+		<component base="ogonekcomb" xOffset="791" yOffset="18"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>A</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>A</string>
 			<key>position</key>
 			<integer>580</integer>
 			<key>width</key>

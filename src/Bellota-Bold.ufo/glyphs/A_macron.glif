@@ -4,14 +4,10 @@
 	<unicode hex="0100"/>
 	<outline>
 		<component base="A"/>
-		<component base="macroncomb" xOffset="416" yOffset="184"/>
+		<component base="macroncomb.case" xOffset="641"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>A</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>A</string>
 			<key>position</key>
 			<integer>268</integer>
 			<key>width</key>

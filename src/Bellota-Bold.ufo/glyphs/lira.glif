@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lira" format="2">
-	<advance width="600"/>
+	<advance width="559"/>
 	<unicode hex="20A4"/>
 	<outline>
+		<component base="_libra"/>
+		<component base="strokeshortcomb" xOffset="436" yOffset="-19"/>
+		<component base="strokeshortcomb" xOffset="436" yOffset="121"/>
 	</outline>
 </glyph>

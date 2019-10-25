@@ -1,21 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seven.numr" format="2">
-	<advance width="191"/>
+	<advance width="252"/>
 	<outline>
 		<contour>
-			<point x="45" y="222" type="line"/>
-			<point x="82" y="222" type="line"/>
-			<point x="188" y="490" type="line"/>
-			<point x="188" y="500" type="line"/>
-			<point x="7" y="498" type="line"/>
-			<point x="7" y="464" type="line"/>
-			<point x="142" y="466" type="line"/>
+			<point x="182" y="481" type="line"/>
+			<point x="62" y="199" type="line"/>
+			<point x="107" y="199" type="line"/>
+			<point x="238" y="521" type="line"/>
+			<point x="238" y="521" type="line"/>
+			<point x="14" y="521" type="line"/>
+			<point x="14" y="481" type="line"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
-			<key>public.markColor</key>
-			<string>0.99,0.62,0.11,1</string>
+			<key>RMXScaler</key>
+			<dict>
+				<key>height</key>
+				<integer>50</integer>
+				<key>verticalShift</key>
+				<integer>200</integer>
+				<key>weight</key>
+				<integer>130</integer>
+				<key>width</key>
+				<integer>52</integer>
+			</dict>
 		</dict>
 	</lib>
 </glyph>

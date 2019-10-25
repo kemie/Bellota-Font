@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ecircumflexacute" format="2">
-	<advance width="623"/>
+	<advance width="634"/>
 	<unicode hex="1EBE"/>
 	<outline>
 		<component base="E"/>
-		<component base="circumflexcomb" xOffset="357" yOffset="184"/>
-		<component base="acutecomb" xOffset="453" yOffset="412"/>
+		<component base="circumflexcomb.case" xOffset="549"/>
+		<component base="acutecomb.case" xOffset="715" yOffset="74"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>E</string>
-		</dict>
-	</lib>
 </glyph>

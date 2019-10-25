@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Acircumflexgrave" format="2">
-	<advance width="744"/>
+	<advance width="748"/>
 	<unicode hex="1EA6"/>
 	<outline>
 		<component base="A"/>
-		<component base="circumflexcomb_gravecomb" xOffset="414" yOffset="186"/>
+		<component base="circumflexcomb.case" xOffset="594"/>
+		<component base="gravecomb.case" xOffset="598" yOffset="72"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>A</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>A</string>
-		</dict>
-	</lib>
 </glyph>

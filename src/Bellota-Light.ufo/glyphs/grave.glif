@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="grave" format="2">
-	<advance width="233"/>
+	<advance width="225"/>
 	<unicode hex="0060"/>
-	<anchor x="182" y="504" name="_top"/>
+	<anchor x="178" y="701" name="top"/>
+	<anchor x="178" y="500" name="_top"/>
 	<outline>
 		<contour>
-			<point x="191" y="582" type="line"/>
-			<point x="206" y="605" type="line"/>
-			<point x="55" y="724" type="line"/>
-			<point x="28" y="686" type="line"/>
+			<point x="32" y="692" type="line"/>
+			<point x="175" y="561" type="line"/>
+			<point x="193" y="581" type="line"/>
+			<point x="65" y="725" type="line"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>position</key>
 			<integer>17</integer>
-			<key>public.markColor</key>
-			<string>0.99,0.62,0.11,1</string>
 			<key>width</key>
 			<integer>194</integer>
 		</dict>

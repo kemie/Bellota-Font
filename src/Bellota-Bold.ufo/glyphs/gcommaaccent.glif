@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gcommaaccent" format="2">
-	<advance width="530"/>
+	<advance width="553"/>
 	<unicode hex="0123"/>
 	<outline>
 		<component base="g"/>
-		<component base="commaaccentcomb" xScale="-1" yScale="-1" xOffset="295" yOffset="516"/>
+		<component base="commaturnedabovecomb" xOffset="390" yOffset="4"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>c</string>
 			<key>position</key>
 			<integer>405</integer>
 			<key>width</key>

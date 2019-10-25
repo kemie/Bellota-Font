@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Acaron" format="2">
-	<advance width="744"/>
+	<advance width="748"/>
 	<unicode hex="01CD"/>
 	<outline>
 		<component base="A"/>
-		<component base="caroncomb" xOffset="414" yOffset="186"/>
+		<component base="caroncomb.case" xOffset="596"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>A</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>A</string>
-		</dict>
-	</lib>
 </glyph>

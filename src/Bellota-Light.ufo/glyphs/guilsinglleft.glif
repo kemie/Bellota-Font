@@ -1,29 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guilsinglleft" format="2">
-	<advance width="296"/>
+	<advance width="349"/>
 	<unicode hex="2039"/>
 	<outline>
 		<contour>
-			<point x="244" y="23" type="line"/>
-			<point x="272" y="55" type="line"/>
-			<point x="51" y="250" type="line"/>
-			<point x="272" y="445" type="line"/>
-			<point x="244" y="477" type="line"/>
-			<point x="39" y="294" type="line" smooth="yes"/>
-			<point x="18" y="275"/>
-			<point x="9" y="261"/>
-			<point x="9" y="250" type="curve" smooth="yes"/>
-			<point x="9" y="238"/>
-			<point x="18" y="224"/>
-			<point x="39" y="206" type="curve" smooth="yes"/>
+			<point x="69" y="206" type="curve"/>
+			<point x="274" y="23" type="line"/>
+			<point x="301" y="54" type="line"/>
+			<point x="78" y="250" type="line"/>
+			<point x="301" y="445" type="line"/>
+			<point x="274" y="477" type="line"/>
+			<point x="69" y="294" type="line" smooth="yes"/>
+			<point x="48" y="275"/>
+			<point x="39" y="261"/>
+			<point x="39" y="250" type="curve"/>
+			<point x="39" y="237"/>
+			<point x="49" y="224"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>position</key>
 			<integer>33</integer>
-			<key>public.markColor</key>
-			<string>0.99,0.62,0.11,1</string>
 			<key>width</key>
 			<integer>275</integer>
 		</dict>

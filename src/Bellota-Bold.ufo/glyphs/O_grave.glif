@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ograve" format="2">
-	<advance width="801"/>
+	<advance width="795"/>
 	<unicode hex="00D2"/>
 	<outline>
 		<component base="O"/>
-		<component base="gravecomb" xOffset="337" yOffset="212"/>
+		<component base="gravecomb.case" xOffset="461" yOffset="1"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>O</string>
 			<key>position</key>
 			<integer>683</integer>
 			<key>width</key>

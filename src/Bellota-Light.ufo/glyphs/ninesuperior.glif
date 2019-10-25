@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ninesuperior" format="2">
-	<advance width="600"/>
+	<advance width="314"/>
 	<unicode hex="2079"/>
 	<outline>
-		<component base="nine"/>
+		<component base="nine.numr" yOffset="10"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>nine</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>nine</string>
-		</dict>
-	</lib>
 </glyph>

@@ -4,15 +4,7 @@
 	<unicode hex="1EB4"/>
 	<outline>
 		<component base="A"/>
-		<component base="brevecomb" xOffset="416" yOffset="188"/>
-		<component base="tildecomb" xOffset="426" yOffset="410"/>
+		<component base="brevecomb.case" xOffset="607"/>
+		<component base="tildecomb.case" xOffset="637" yOffset="186"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>A</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>A</string>
-		</dict>
-	</lib>
 </glyph>

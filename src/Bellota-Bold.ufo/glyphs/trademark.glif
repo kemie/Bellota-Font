@@ -1,40 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="trademark" format="2">
-	<advance width="675"/>
+	<advance width="751"/>
 	<unicode hex="2122"/>
 	<outline>
 		<contour>
-			<point x="281" y="319" type="line"/>
-			<point x="343" y="319" type="line"/>
-			<point x="343" y="489" type="line"/>
-			<point x="398" y="329" type="line"/>
-			<point x="455" y="329" type="line"/>
-			<point x="513" y="493" type="line"/>
-			<point x="513" y="319" type="line"/>
-			<point x="575" y="319" type="line"/>
-			<point x="575" y="627" type="line"/>
-			<point x="500" y="627" type="line"/>
-			<point x="427" y="425" type="line"/>
-			<point x="357" y="627" type="line"/>
-			<point x="281" y="627" type="line"/>
+			<point x="337" y="626" type="line"/>
+			<point x="337" y="316" type="line"/>
+			<point x="406" y="316" type="line"/>
+			<point x="406" y="463" type="line"/>
+			<point x="454" y="326" type="line"/>
+			<point x="515" y="326" type="line"/>
+			<point x="565" y="468" type="line"/>
+			<point x="565" y="316" type="line"/>
+			<point x="634" y="316" type="line"/>
+			<point x="634" y="626" type="line"/>
+			<point x="554" y="626" type="line"/>
+			<point x="485" y="435" type="line"/>
+			<point x="419" y="626" type="line"/>
 		</contour>
 		<contour>
-			<point x="135" y="320" type="line"/>
-			<point x="198" y="320" type="line"/>
-			<point x="198" y="570" type="line"/>
-			<point x="278" y="570" type="line"/>
-			<point x="278" y="627" type="line"/>
-			<point x="53" y="627" type="line"/>
-			<point x="53" y="570" type="line"/>
-			<point x="135" y="570" type="line"/>
+			<point x="146" y="562" type="line"/>
+			<point x="146" y="317" type="line"/>
+			<point x="215" y="317" type="line"/>
+			<point x="215" y="562" type="line"/>
+			<point x="293" y="562" type="line"/>
+			<point x="293" y="626" type="line"/>
+			<point x="65" y="626" type="line"/>
+			<point x="65" y="562" type="line"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>position</key>
 			<integer>514</integer>
-			<key>public.markColor</key>
-			<string>0.99,0.62,0.11,1</string>
 			<key>width</key>
 			<integer>32</integer>
 		</dict>

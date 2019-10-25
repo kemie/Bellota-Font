@@ -2,13 +2,7 @@
 <glyph name="circumflexcomb_tildecomb" format="2">
 	<advance width="0"/>
 	<outline>
-		<component base="circumflexcomb" xOffset="-31"/>
-		<component base="tildecomb" xOffset="-32" yOffset="205"/>
+		<component base="circumflexcomb" xOffset="-22"/>
+		<component base="tildecomb" xOffset="102" yOffset="184"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.99,0.62,0.11,1</string>
-		</dict>
-	</lib>
 </glyph>

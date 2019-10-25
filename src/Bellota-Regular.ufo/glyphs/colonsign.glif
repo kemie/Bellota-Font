@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="colonsign" format="2">
+	<advance width="752"/>
+	<unicode hex="20A1"/>
+	<anchor x="403" y="655" name="top"/>
+	<anchor x="403" y="-18" name="bottom"/>
+	<outline>
+		<component base="slashlongcomb.case" xOffset="660" yOffset="33"/>
+		<component base="slashlongcomb.case" xOffset="498" yOffset="33"/>
+		<component base="_smallc" xOffset="44"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>RMXScaler</key>
+			<dict>
+				<key>height</key>
+				<integer>92</integer>
+				<key>width</key>
+				<integer>94</integer>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

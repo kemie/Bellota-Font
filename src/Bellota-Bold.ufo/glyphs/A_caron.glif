@@ -4,14 +4,6 @@
 	<unicode hex="01CD"/>
 	<outline>
 		<component base="A"/>
-		<component base="caroncomb" xOffset="417" yOffset="188"/>
+		<component base="caroncomb.case" xOffset="606"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>A</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>A</string>
-		</dict>
-	</lib>
 </glyph>

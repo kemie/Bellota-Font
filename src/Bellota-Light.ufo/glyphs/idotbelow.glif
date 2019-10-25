@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="idotbelow" format="2">
-	<advance width="201"/>
+	<advance width="239"/>
 	<unicode hex="1ECB"/>
 	<outline>
 		<component base="i"/>
-		<component base="dotbelowcomb" xOffset="91" yOffset="-6"/>
+		<component base="dotbelowcomb" xOffset="197"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.99,0.62,0.11,1</string>
-		</dict>
-	</lib>
 </glyph>

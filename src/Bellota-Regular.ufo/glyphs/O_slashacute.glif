@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Oslashacute" format="2">
-	<advance width="799"/>
+	<advance width="798"/>
 	<unicode hex="01FE"/>
 	<outline>
 		<component base="Oslash"/>
-		<component base="acutecomb" xOffset="490" yOffset="184"/>
+		<component base="acutecomb.case" xOffset="609"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>O</string>
 			<key>position</key>
 			<integer>683</integer>
 			<key>width</key>

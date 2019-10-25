@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Hcaron" format="2">
-	<advance width="705"/>
+	<advance width="724"/>
 	<unicode hex="021E"/>
 	<outline>
 		<component base="H"/>
-		<component base="caron" xOffset="212" yOffset="184"/>
+		<component base="caroncomb.case" xOffset="571"/>
 	</outline>
 	<lib>
 		<dict>

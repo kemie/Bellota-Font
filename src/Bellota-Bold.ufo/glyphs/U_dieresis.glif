@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Udieresis" format="2">
-	<advance width="749"/>
+	<advance width="733"/>
 	<unicode hex="00DC"/>
 	<outline>
 		<component base="U"/>
-		<component base="dieresiscomb" xOffset="450" yOffset="175"/>
+		<component base="dieresiscomb.case" xOffset="627" yOffset="-9"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>E</string>
 			<key>position</key>
 			<integer>606</integer>
 			<key>width</key>

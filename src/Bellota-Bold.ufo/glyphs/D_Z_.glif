@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="DZ" format="2">
-	<advance width="1271"/>
+	<advance width="1365"/>
 	<unicode hex="01F1"/>
+	<anchor x="1105" y="684" name="top"/>
 	<outline>
 		<component base="D"/>
-		<component base="Z" xOffset="710" yOffset="11"/>
+		<component base="Z" xOffset="777"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-			<array>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>1</integer>
-					<key>name</key>
-					<string>Z</string>
-				</dict>
-			</array>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>E</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>Z</string>
 			<key>position</key>
 			<integer>674</integer>
 			<key>width</key>

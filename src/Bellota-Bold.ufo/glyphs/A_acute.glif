@@ -4,14 +4,10 @@
 	<unicode hex="00C1"/>
 	<outline>
 		<component base="A"/>
-		<component base="acutecomb" xOffset="484" yOffset="188"/>
+		<component base="acutecomb.case" xOffset="637"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>A</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>A</string>
 			<key>position</key>
 			<integer>294</integer>
 			<key>width</key>

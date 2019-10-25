@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dz" format="2">
-	<advance width="997"/>
+	<advance width="1045"/>
 	<unicode hex="01F3"/>
+	<anchor x="791" y="500" name="top"/>
 	<outline>
 		<component base="d"/>
-		<component base="z" xOffset="560"/>
+		<component base="z" xOffset="581"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>c</string>
 			<key>position</key>
 			<integer>404</integer>
 			<key>width</key>

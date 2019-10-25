@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Wcircumflex" format="2">
-	<advance width="1078"/>
+	<advance width="1097"/>
 	<unicode hex="0174"/>
 	<outline>
 		<component base="W"/>
-		<component base="circumflexcomb" xOffset="580" yOffset="188"/>
+		<component base="circumflexcomb.case" xOffset="753" yOffset="8"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>V</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>V</string>
 			<key>position</key>
 			<integer>401</integer>
 			<key>width</key>

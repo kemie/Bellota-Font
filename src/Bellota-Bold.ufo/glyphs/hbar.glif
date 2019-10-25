@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hbar" format="2">
-	<advance width="578"/>
+	<advance width="601"/>
 	<unicode hex="0127"/>
 	<outline>
 		<component base="h"/>
-		<component base="strokeshortcomb" xOffset="142" yOffset="333"/>
+		<component base="strokeshortcomb" xOffset="365" yOffset="354"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>position</key>
 			<integer>385</integer>
-			<key>public.markColor</key>
-			<string>0.99,0.62,0.11,1</string>
 			<key>width</key>
 			<integer>55</integer>
 		</dict>

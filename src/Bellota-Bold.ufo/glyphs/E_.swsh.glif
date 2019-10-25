@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E.swsh" format="2">
+	<advance width="663"/>
+	<anchor x="625" y="-1" name="ogonek"/>
+	<anchor x="367" y="11" name="top"/>
+	<anchor x="38" y="684" name="topleft"/>
+	<anchor x="367" y="11" name="bottom"/>
+	<outline>
+		<contour>
+			<point x="167" y="569" type="line"/>
+			<point x="167" y="0" type="line"/>
+			<point x="615" y="0" type="line"/>
+			<point x="615" y="76" type="line"/>
+			<point x="249" y="76" type="line"/>
+			<point x="249" y="325" type="line"/>
+			<point x="499" y="325" type="line"/>
+			<point x="499" y="401" type="line"/>
+			<point x="249" y="401" type="line"/>
+			<point x="249" y="569" type="line"/>
+		</contour>
+		<contour>
+			<point x="147" y="609" type="curve"/>
+			<point x="147" y="609" type="line"/>
+			<point x="147" y="609" type="line"/>
+			<point x="615" y="609" type="line"/>
+			<point x="615" y="685" type="line"/>
+			<point x="148" y="685" type="line"/>
+			<point x="83" y="685"/>
+			<point x="36" y="636"/>
+			<point x="36" y="573" type="curve"/>
+			<point x="36" y="524"/>
+			<point x="64" y="488"/>
+			<point x="100" y="472" type="curve"/>
+			<point x="137" y="534" type="line"/>
+			<point x="122" y="542"/>
+			<point x="113" y="553"/>
+			<point x="113" y="572" type="curve"/>
+			<point x="113" y="593"/>
+			<point x="129" y="609"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>130</integer>
+			<key>width</key>
+			<integer>61</integer>
+		</dict>
+	</lib>
+</glyph>

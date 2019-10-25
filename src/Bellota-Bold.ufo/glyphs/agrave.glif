@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="agrave" format="2">
-	<advance width="573"/>
+	<advance width="593"/>
 	<unicode hex="00E0"/>
 	<outline>
 		<component base="a"/>
-		<component base="gravecomb" xOffset="205" yOffset="8"/>
+		<component base="gravecomb" xOffset="350" yOffset="5"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>c</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>a</string>
 			<key>position</key>
 			<integer>407</integer>
 			<key>width</key>

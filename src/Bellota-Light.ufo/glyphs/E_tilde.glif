@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Etilde" format="2">
-	<advance width="590"/>
+	<advance width="619"/>
 	<unicode hex="1EBC"/>
 	<outline>
 		<component base="E"/>
-		<component base="tildecomb" xOffset="342" yOffset="192"/>
+		<component base="tildecomb" xOffset="557" yOffset="193"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>E</string>
-		</dict>
-	</lib>
 </glyph>

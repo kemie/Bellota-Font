@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_corner.right_curved" format="2">
+	<advance width="200"/>
+	<anchor x="87" y="89" name="origin"/>
+	<outline>
+		<contour>
+			<point x="14" y="61" type="move"/>
+			<point x="15" y="24"/>
+			<point x="55" y="-10"/>
+			<point x="103" y="-11" type="curve"/>
+			<point x="141" y="-12"/>
+			<point x="178" y="8"/>
+			<point x="196" y="43" type="curve"/>
+			<point x="140" y="80" type="line"/>
+			<point x="133" y="68"/>
+			<point x="124" y="63"/>
+			<point x="113" y="63" type="curve"/>
+			<point x="96" y="63"/>
+			<point x="87" y="73"/>
+			<point x="87" y="90" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>

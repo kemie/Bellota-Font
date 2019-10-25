@@ -1,7 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bitcoin" format="2">
-	<advance width="600"/>
+	<advance width="612"/>
 	<unicode hex="20BF"/>
+	<anchor x="304" y="629" name="top"/>
+	<anchor x="304" y="0" name="bottom"/>
 	<outline>
+		<contour>
+			<point x="293" y="-9" type="curve"/>
+			<point x="293" y="-9" type="line"/>
+			<point x="343" y="-9"/>
+			<point x="373" y="-6"/>
+			<point x="406" y="4" type="curve"/>
+			<point x="494" y="31"/>
+			<point x="538" y="104"/>
+			<point x="538" y="177" type="curve"/>
+			<point x="538" y="247"/>
+			<point x="507" y="297"/>
+			<point x="448" y="328" type="curve"/>
+			<point x="435" y="335"/>
+			<point x="420" y="340"/>
+			<point x="412" y="340" type="curve"/>
+			<point x="421" y="342"/>
+			<point x="427" y="344"/>
+			<point x="431" y="346" type="curve"/>
+			<point x="484" y="374"/>
+			<point x="509" y="413"/>
+			<point x="509" y="468" type="curve"/>
+			<point x="509" y="542"/>
+			<point x="463" y="604"/>
+			<point x="391" y="629" type="curve"/>
+			<point x="365" y="638"/>
+			<point x="338" y="641"/>
+			<point x="309" y="641" type="curve"/>
+			<point x="111" y="641" type="line"/>
+			<point x="111" y="566" type="line"/>
+			<point x="322" y="566" type="line"/>
+			<point x="391" y="561"/>
+			<point x="429" y="529"/>
+			<point x="429" y="472" type="curve"/>
+			<point x="429" y="405"/>
+			<point x="378" y="371"/>
+			<point x="308" y="371" type="curve"/>
+			<point x="149" y="371" type="line"/>
+			<point x="149" y="296" type="line"/>
+			<point x="315" y="296" type="line" smooth="yes"/>
+			<point x="409" y="296"/>
+			<point x="458" y="245"/>
+			<point x="458" y="177" type="curve"/>
+			<point x="458" y="103"/>
+			<point x="399" y="65"/>
+			<point x="303" y="65" type="curve"/>
+			<point x="288" y="65"/>
+			<point x="263" y="65"/>
+			<point x="240" y="66" type="curve"/>
+			<point x="192" y="69" type="line"/>
+			<point x="192" y="602" type="line"/>
+			<point x="111" y="602" type="line"/>
+			<point x="111" y="1" type="line"/>
+			<point x="170" y="-5" type="line" smooth="yes"/>
+			<point x="206" y="-9"/>
+			<point x="270" y="-9"/>
+		</contour>
+		<component base="bar" yScale="0.18" xOffset="219" yOffset="-84"/>
+		<component base="bar" yScale="0.18" xOffset="70" yOffset="-82"/>
+		<component base="bar" yScale="0.18" xOffset="219" yOffset="611"/>
+		<component base="bar" yScale="0.18" xOffset="70" yOffset="610"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>RMXScaler</key>
+			<dict>
+				<key>height</key>
+				<integer>92</integer>
+				<key>width</key>
+				<integer>96</integer>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

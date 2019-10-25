@@ -1,41 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guillemetright" format="2">
-	<advance width="538"/>
+	<advance width="560"/>
 	<unicode hex="00BB"/>
 	<outline>
-		<contour>
-			<point x="277" y="19" type="line"/>
-			<point x="483" y="203" type="line" smooth="yes"/>
-			<point x="504" y="222"/>
-			<point x="515" y="238"/>
-			<point x="515" y="251" type="curve" smooth="yes"/>
-			<point x="515" y="264"/>
-			<point x="504" y="280"/>
-			<point x="483" y="299" type="curve" smooth="yes"/>
-			<point x="277" y="483" type="line"/>
-			<point x="240" y="442" type="line"/>
-			<point x="456" y="251" type="line"/>
-			<point x="240" y="60" type="line"/>
-		</contour>
-		<contour>
-			<point x="67" y="19" type="line"/>
-			<point x="273" y="203" type="line" smooth="yes"/>
-			<point x="294" y="222"/>
-			<point x="305" y="238"/>
-			<point x="305" y="251" type="curve" smooth="yes"/>
-			<point x="305" y="265"/>
-			<point x="294" y="281"/>
-			<point x="273" y="299" type="curve" smooth="yes"/>
-			<point x="67" y="483" type="line"/>
-			<point x="30" y="442" type="line"/>
-			<point x="246" y="251" type="line"/>
-			<point x="30" y="60" type="line"/>
-		</contour>
+		<component base="guilsinglright" xOffset="208"/>
+		<component base="guilsinglright"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.99,0.62,0.11,1</string>
-		</dict>
-	</lib>
 </glyph>

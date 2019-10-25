@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="clicklateral" format="2">
-	<advance width="470"/>
+	<advance width="450"/>
 	<unicode hex="01C1"/>
 	<outline>
-		<component base="bar" xOffset="205" yOffset="-6"/>
-		<component base="bar" xOffset="7" yOffset="-6"/>
+		<component base="bar" xOffset="177" yOffset="-6"/>
+		<component base="bar" xOffset="-21" yOffset="-6"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>position</key>
 			<integer>248</integer>
-			<key>public.markColor</key>
-			<string>0.99,0.62,0.11,1</string>
 			<key>width</key>
 			<integer>61</integer>
 		</dict>

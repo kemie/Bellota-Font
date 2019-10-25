@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="omacron" format="2">
-	<advance width="539"/>
+	<advance width="576"/>
 	<unicode hex="014D"/>
 	<outline>
 		<component base="o"/>
-		<component base="macroncomb" xOffset="272" yOffset="1"/>
+		<component base="macroncomb" xOffset="473" yOffset="1"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>c</string>
 			<key>position</key>
 			<integer>481</integer>
 			<key>width</key>

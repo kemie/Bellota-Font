@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="abreveacute" format="2">
-	<advance width="536"/>
+	<advance width="581"/>
 	<unicode hex="1EAF"/>
 	<outline>
 		<component base="a"/>
-		<component base="brevecomb" xOffset="254" yOffset="8"/>
-		<component base="acutecomb" xOffset="331" yOffset="222"/>
+		<component base="brevecomb_acutecomb" xOffset="425"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>c</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>a</string>
-		</dict>
-	</lib>
 </glyph>

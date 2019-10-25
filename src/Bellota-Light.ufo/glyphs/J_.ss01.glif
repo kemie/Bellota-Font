@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="J.ss01" format="2">
+	<advance width="510"/>
+	<anchor x="393" y="684" name="top"/>
+	<anchor x="238" y="0" name="bottom"/>
+	<outline>
+		<contour>
+			<point x="224" y="-6" type="curve"/>
+			<point x="224" y="-6" type="line"/>
+			<point x="362" y="-6"/>
+			<point x="414" y="92"/>
+			<point x="414" y="191" type="curve"/>
+			<point x="414" y="685" type="line"/>
+			<point x="374" y="684" type="line"/>
+			<point x="370" y="635" type="line"/>
+			<point x="373" y="194" type="line" smooth="yes"/>
+			<point x="373" y="127"/>
+			<point x="338" y="34"/>
+			<point x="224" y="34" type="curve"/>
+			<point x="135" y="34"/>
+			<point x="88" y="89"/>
+			<point x="86" y="162" type="curve"/>
+			<point x="42" y="166" type="line"/>
+			<point x="44" y="79"/>
+			<point x="92" y="-6"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>333</integer>
+			<key>width</key>
+			<integer>53</integer>
+		</dict>
+	</lib>
+</glyph>

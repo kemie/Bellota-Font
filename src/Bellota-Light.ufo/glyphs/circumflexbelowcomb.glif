@@ -2,13 +2,8 @@
 <glyph name="circumflexbelowcomb" format="2">
 	<advance width="0"/>
 	<unicode hex="032D"/>
+	<anchor x="-166" y="0" name="bottom"/>
 	<outline>
-		<component base="circumflex" xOffset="-158" yOffset="-954"/>
+		<component base="circumflex" xOffset="-324" yOffset="-770"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.99,0.62,0.11,1</string>
-		</dict>
-	</lib>
 </glyph>

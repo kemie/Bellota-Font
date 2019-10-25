@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tbar" format="2">
-	<advance width="367"/>
+	<advance width="371"/>
 	<unicode hex="0167"/>
 	<outline>
 		<component base="t"/>
-		<component base="macron" xOffset="-22" yOffset="-319"/>
+		<component base="strokeshortcomb" xOffset="356" yOffset="69"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>position</key>
 			<integer>52</integer>
-			<key>public.markColor</key>
-			<string>0.99,0.62,0.11,1</string>
 			<key>width</key>
 			<integer>55</integer>
 		</dict>

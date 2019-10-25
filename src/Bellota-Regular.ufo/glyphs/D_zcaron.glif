@@ -1,29 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Dzcaron" format="2">
-	<advance width="1174"/>
+	<advance width="1259"/>
 	<unicode hex="01C5"/>
 	<outline>
 		<component base="D"/>
-		<component base="z" xOffset="725"/>
-		<component base="caron" xOffset="798" yOffset="-3"/>
+		<component base="zcaron" xOffset="787"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-			<array>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>1</integer>
-					<key>name</key>
-					<string>z</string>
-				</dict>
-			</array>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>E</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>z</string>
 			<key>position</key>
 			<integer>897</integer>
 			<key>width</key>

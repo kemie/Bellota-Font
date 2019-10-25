@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Acircumflextilde" format="2">
-	<advance width="744"/>
+	<advance width="748"/>
 	<unicode hex="1EAA"/>
 	<outline>
 		<component base="A"/>
-		<component base="circumflexcomb_tildecomb" xOffset="441" yOffset="186"/>
+		<component base="circumflexcomb.case" xOffset="594"/>
+		<component base="tildecomb.case" xOffset="631" yOffset="174"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>A</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>A</string>
-		</dict>
-	</lib>
 </glyph>

@@ -1,29 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="four.numr" format="2">
-	<advance width="212"/>
+	<advance width="288"/>
 	<outline>
 		<contour>
-			<point x="137" y="216" type="line"/>
-			<point x="172" y="216" type="line"/>
-			<point x="172" y="269" type="line"/>
-			<point x="207" y="269" type="line"/>
-			<point x="207" y="303" type="line"/>
-			<point x="172" y="303" type="line"/>
-			<point x="172" y="393" type="line"/>
-			<point x="137" y="393" type="line"/>
-			<point x="137" y="303" type="line"/>
-			<point x="48" y="303" type="line"/>
-			<point x="130" y="497" type="line"/>
-			<point x="92" y="497" type="line"/>
-			<point x="7" y="295" type="line"/>
-			<point x="7" y="269" type="line"/>
-			<point x="137" y="269" type="line"/>
+			<point x="182" y="260" type="line"/>
+			<point x="182" y="198" type="line"/>
+			<point x="224" y="198" type="line"/>
+			<point x="224" y="260" type="line"/>
+			<point x="266" y="260" type="line"/>
+			<point x="266" y="298" type="line"/>
+			<point x="224" y="298" type="line"/>
+			<point x="224" y="406" type="line"/>
+			<point x="182" y="406" type="line"/>
+			<point x="182" y="298" type="line"/>
+			<point x="74" y="298" type="line"/>
+			<point x="175" y="525" type="line"/>
+			<point x="128" y="525" type="line"/>
+			<point x="23" y="291" type="line"/>
+			<point x="23" y="260" type="line"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
-			<key>public.markColor</key>
-			<string>0.99,0.62,0.11,1</string>
+			<key>RMXScaler</key>
+			<dict>
+				<key>height</key>
+				<integer>50</integer>
+				<key>verticalShift</key>
+				<integer>200</integer>
+				<key>weight</key>
+				<integer>130</integer>
+				<key>width</key>
+				<integer>52</integer>
+			</dict>
 		</dict>
 	</lib>
 </glyph>

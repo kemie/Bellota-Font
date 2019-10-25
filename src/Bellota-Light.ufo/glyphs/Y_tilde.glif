@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ytilde" format="2">
-	<advance width="579"/>
+	<advance width="613"/>
 	<unicode hex="1EF8"/>
 	<outline>
 		<component base="Y"/>
-		<component base="tildecomb" xOffset="329" yOffset="192"/>
+		<component base="tildecomb.case" xOffset="540"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>Y</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>Y</string>
-		</dict>
-	</lib>
 </glyph>

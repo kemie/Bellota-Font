@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="macron" format="2">
-	<advance width="416"/>
+	<advance width="461"/>
 	<unicode hex="00AF"/>
-	<anchor x="208" y="500" name="_top"/>
+	<anchor x="228" y="601" name="center"/>
+	<anchor x="231" y="640" name="top"/>
+	<anchor x="231" y="500" name="_top"/>
 	<outline>
 		<contour>
-			<point x="68" y="588" type="line"/>
-			<point x="348" y="588" type="line"/>
-			<point x="348" y="666" type="line"/>
-			<point x="68" y="666" type="line"/>
+			<point x="59" y="638" type="line"/>
+			<point x="59" y="564" type="line"/>
+			<point x="402" y="564" type="line"/>
+			<point x="402" y="638" type="line"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>position</key>
 			<integer>43</integer>
-			<key>public.markColor</key>
-			<string>0.99,0.62,0.11,1</string>
 			<key>width</key>
 			<integer>326</integer>
 		</dict>

@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Abrevehookabove" format="2">
-	<advance width="744"/>
+	<advance width="748"/>
 	<unicode hex="1EB2"/>
 	<outline>
 		<component base="A"/>
-		<component base="brevecomb_hookabovecomb" xOffset="413" yOffset="186"/>
+		<component base="brevecomb.case" xOffset="603"/>
+		<component base="hookabovecomb.case" xOffset="570" yOffset="174"/>
 	</outline>
 </glyph>

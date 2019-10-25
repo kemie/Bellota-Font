@@ -3,14 +3,12 @@
 	<advance width="0"/>
 	<unicode hex="0341"/>
 	<outline>
-		<component base="acutecomb" yOffset="11"/>
+		<component base="acutecomb" xOffset="130" yOffset="11"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>position</key>
 			<integer>35</integer>
-			<key>public.markColor</key>
-			<string>0.99,0.62,0.11,1</string>
 			<key>width</key>
 			<integer>231</integer>
 		</dict>

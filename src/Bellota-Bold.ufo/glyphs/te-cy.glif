@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="te-cy" format="2">
-	<advance width="600"/>
+	<advance width="518"/>
 	<unicode hex="0442"/>
+	<anchor x="504" y="0" name="bottomright"/>
 	<outline>
+		<contour>
+			<point x="218" y="425" type="line"/>
+			<point x="218" y="0" type="line"/>
+			<point x="300" y="0" type="line"/>
+			<point x="300" y="425" type="line"/>
+			<point x="500" y="425" type="line"/>
+			<point x="500" y="501" type="line"/>
+			<point x="18" y="501" type="line"/>
+			<point x="18" y="425" type="line"/>
+		</contour>
 	</outline>
 </glyph>

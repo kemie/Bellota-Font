@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Uacute" format="2">
-	<advance width="749"/>
+	<advance width="733"/>
 	<unicode hex="00DA"/>
 	<outline>
 		<component base="U"/>
-		<component base="acutecomb" xOffset="475" yOffset="179"/>
+		<component base="acutecomb.case" xOffset="614" yOffset="-9"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>E</string>
 			<key>position</key>
 			<integer>606</integer>
 			<key>width</key>

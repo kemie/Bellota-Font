@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="endash" format="2">
-	<advance width="523"/>
+	<advance width="581"/>
 	<unicode hex="2013"/>
 	<outline>
 		<contour>
-			<point x="51" y="284" type="line"/>
-			<point x="472" y="284" type="line"/>
-			<point x="472" y="328" type="line"/>
-			<point x="51" y="328" type="line"/>
+			<point x="80" y="328" type="line"/>
+			<point x="80" y="286" type="line"/>
+			<point x="501" y="286" type="line"/>
+			<point x="501" y="328" type="line"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>position</key>
 			<integer>277</integer>
-			<key>public.markColor</key>
-			<string>0.99,0.62,0.11,1</string>
 			<key>width</key>
 			<integer>57</integer>
 		</dict>

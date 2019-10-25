@@ -1,22 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="exclam" format="2">
-	<advance width="242"/>
+	<advance width="249"/>
 	<unicode hex="0021"/>
 	<outline>
 		<contour>
-			<point x="108" y="143" type="line"/>
-			<point x="147" y="143" type="line"/>
-			<point x="156" y="705" type="line"/>
-			<point x="99" y="705" type="line"/>
+			<point x="96" y="705" type="line"/>
+			<point x="105" y="143" type="line"/>
+			<point x="144" y="143" type="line"/>
+			<point x="153" y="705" type="line"/>
 		</contour>
-		<component base="period" xOffset="-5" yOffset="-16"/>
+		<component base="period" xOffset="2" yOffset="-14"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>position</key>
 			<integer>51</integer>
-			<key>public.markColor</key>
-			<string>0.99,0.62,0.11,1</string>
 			<key>width</key>
 			<integer>56</integer>
 		</dict>

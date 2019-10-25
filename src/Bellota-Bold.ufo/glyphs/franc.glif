@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="franc" format="2">
+	<advance width="687"/>
+	<unicode hex="20A3"/>
+	<anchor x="380" y="636" name="top"/>
+	<anchor x="380" y="0" name="bottom"/>
+	<outline>
+		<contour>
+			<point x="190" y="638" type="line"/>
+			<point x="190" y="-1" type="line"/>
+			<point x="272" y="-1" type="line"/>
+			<point x="272" y="291" type="line"/>
+			<point x="560" y="291" type="line"/>
+			<point x="560" y="367" type="line"/>
+			<point x="272" y="367" type="line"/>
+			<point x="272" y="562" type="line"/>
+			<point x="624" y="562" type="line"/>
+			<point x="624" y="638" type="line"/>
+		</contour>
+		<component base="strokeshortcomb" xOffset="442" yOffset="-103"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>RMXScaler</key>
+			<dict>
+				<key>height</key>
+				<integer>93</integer>
+				<key>width</key>
+				<integer>94</integer>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="h.ss01" format="2">
+	<advance width="550"/>
+	<anchor x="160" y="612" name="center"/>
+	<anchor x="273" y="0" name="bottom"/>
+	<anchor x="121" y="727" name="top"/>
+	<outline>
+		<contour>
+			<point x="78" y="727" type="line"/>
+			<point x="78" y="-1" type="line"/>
+			<point x="160" y="-1" type="line"/>
+			<point x="160" y="351" type="line"/>
+			<point x="204" y="409"/>
+			<point x="240" y="443"/>
+			<point x="307" y="443" type="curve"/>
+			<point x="380" y="443"/>
+			<point x="400" y="399"/>
+			<point x="400" y="337" type="curve"/>
+			<point x="400" y="-1" type="line"/>
+			<point x="482" y="-1" type="line"/>
+			<point x="482" y="348" type="line" smooth="yes"/>
+			<point x="482" y="451"/>
+			<point x="424" y="517"/>
+			<point x="313" y="517" type="curve"/>
+			<point x="248" y="517"/>
+			<point x="197" y="493"/>
+			<point x="160" y="454" type="curve"/>
+			<point x="160" y="727" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>position</key>
+			<integer>416</integer>
+			<key>width</key>
+			<integer>55</integer>
+		</dict>
+	</lib>
+</glyph>

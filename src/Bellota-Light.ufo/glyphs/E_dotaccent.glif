@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Edotaccent" format="2">
-	<advance width="590"/>
+	<advance width="619"/>
 	<unicode hex="0116"/>
 	<outline>
 		<component base="E"/>
-		<component base="dotaccentcomb" xOffset="342" yOffset="192"/>
+		<component base="dotaccentcomb.case" xOffset="454" yOffset="9"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>E</string>
 			<key>position</key>
 			<integer>306</integer>
 			<key>width</key>

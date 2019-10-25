@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Sacute" format="2">
-	<advance width="496"/>
+	<advance width="561"/>
 	<unicode hex="015A"/>
 	<outline>
 		<component base="S"/>
-		<component base="acutecomb" xOffset="328" yOffset="210"/>
+		<component base="acutecomb.case" xOffset="490"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>S</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>S</string>
 			<key>position</key>
 			<integer>433</integer>
 			<key>width</key>

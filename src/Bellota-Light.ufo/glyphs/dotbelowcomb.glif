@@ -2,14 +2,8 @@
 <glyph name="dotbelowcomb" format="2">
 	<advance width="0"/>
 	<unicode hex="0323"/>
-	<anchor x="1" y="0" name="_bottom"/>
+	<anchor x="-96" y="0" name="_bottom"/>
 	<outline>
-		<component base="dotaccent" xOffset="-79" yOffset="-793"/>
+		<component base="dotaccent" xOffset="-193" yOffset="-747"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.99,0.62,0.11,1</string>
-		</dict>
-	</lib>
 </glyph>

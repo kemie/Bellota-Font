@@ -1,22 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lslash" format="2">
-	<advance width="515"/>
+	<advance width="540"/>
 	<unicode hex="0141"/>
 	<outline>
-		<contour>
-			<point x="27" y="269" type="line"/>
-			<point x="247" y="427" type="line"/>
-			<point x="247" y="491" type="line"/>
-			<point x="27" y="332" type="line"/>
-		</contour>
-		<component base="L" xOffset="17"/>
+		<component base="L"/>
+		<component base="slashshortcomb" xOffset="289" yOffset="-59"/>
 	</outline>
 	<lib>
 		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>slashshortcomb</string>
+				</dict>
+			</array>
 			<key>position</key>
 			<integer>87</integer>
-			<key>public.markColor</key>
-			<string>0.99,0.62,0.11,1</string>
 			<key>width</key>
 			<integer>61</integer>
 		</dict>

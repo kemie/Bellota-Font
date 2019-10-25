@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="exclamdown" format="2">
-	<advance width="268"/>
+	<advance width="267"/>
 	<unicode hex="00A1"/>
 	<outline>
-		<component base="exclam" yScale="-1" xOffset="25" yOffset="506"/>
+		<component base="exclam" yScale="-1" xOffset="1" yOffset="506"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>position</key>
 			<integer>71</integer>
-			<key>public.markColor</key>
-			<string>0.99,0.62,0.11,1</string>
 			<key>width</key>
 			<integer>56</integer>
 		</dict>

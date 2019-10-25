@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="slashlongcomb.case" format="2">
 	<advance width="0"/>
-	<anchor x="0" y="294" name="_center"/>
+	<anchor x="-192" y="294" name="_center"/>
 	<outline>
 		<contour>
-			<point x="-183" y="-76" type="line"/>
-			<point x="-129" y="-76" type="line"/>
-			<point x="182" y="663" type="line"/>
-			<point x="128" y="663" type="line"/>
+			<point x="-64" y="693" type="line"/>
+			<point x="-375" y="-76" type="line"/>
+			<point x="-321" y="-76" type="line"/>
+			<point x="-10" y="693" type="line"/>
 		</contour>
 	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.99,0.62,0.11,1</string>
-		</dict>
-	</lib>
 </glyph>

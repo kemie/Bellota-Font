@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cdotaccent" format="2">
-	<advance width="436"/>
+	<advance width="491"/>
 	<unicode hex="010B"/>
 	<outline>
 		<component base="c"/>
-		<component base="dotaccentcomb" xOffset="240" yOffset="4"/>
+		<component base="dotaccentcomb" xOffset="354" yOffset="4"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>c</string>
 			<key>position</key>
 			<integer>382</integer>
 			<key>width</key>

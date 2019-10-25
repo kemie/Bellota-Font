@@ -1,29 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lozenge" format="2">
-	<advance width="532"/>
+	<advance width="554"/>
 	<unicode hex="25CA"/>
 	<outline>
 		<contour>
-			<point x="233" y="-1" type="line"/>
-			<point x="307" y="-1" type="line"/>
-			<point x="488" y="332" type="line"/>
-			<point x="304" y="663" type="line"/>
-			<point x="231" y="663" type="line"/>
-			<point x="44" y="332" type="line"/>
+			<point x="55" y="332" type="line"/>
+			<point x="244" y="-1" type="line"/>
+			<point x="318" y="-1" type="line"/>
+			<point x="499" y="332" type="line"/>
+			<point x="315" y="663" type="line"/>
+			<point x="242" y="663" type="line"/>
 		</contour>
 		<contour>
-			<point x="268" y="90" type="line"/>
-			<point x="132" y="332" type="line"/>
-			<point x="268" y="572" type="line"/>
-			<point x="400" y="332" type="line"/>
+			<point x="411" y="332" type="line"/>
+			<point x="279" y="90" type="line"/>
+			<point x="143" y="332" type="line"/>
+			<point x="279" y="572" type="line"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>position</key>
 			<integer>0</integer>
-			<key>public.markColor</key>
-			<string>0.99,0.62,0.11,1</string>
 			<key>width</key>
 			<integer>21</integer>
 		</dict>

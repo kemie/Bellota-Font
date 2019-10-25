@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ucaron" format="2">
-	<advance width="749"/>
+	<advance width="733"/>
 	<unicode hex="01D3"/>
 	<outline>
 		<component base="U"/>
-		<component base="caroncomb" xOffset="408" yOffset="179"/>
+		<component base="caroncomb.case" xOffset="583" yOffset="-9"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>E</string>
-		</dict>
-	</lib>
 </glyph>

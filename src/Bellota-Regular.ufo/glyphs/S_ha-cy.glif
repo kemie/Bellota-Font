@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Sha-cy" format="2">
-	<advance width="600"/>
+	<advance width="1008"/>
 	<unicode hex="0428"/>
+	<anchor x="908" y="0" name="tail"/>
 	<outline>
+		<contour>
+			<point x="137" y="0" type="line"/>
+			<point x="908" y="0" type="line"/>
+			<point x="908" y="686" type="line"/>
+			<point x="848" y="686" type="line"/>
+			<point x="848" y="56" type="line"/>
+			<point x="552" y="56" type="line"/>
+			<point x="552" y="686" type="line"/>
+			<point x="492" y="686" type="line"/>
+			<point x="492" y="56" type="line"/>
+			<point x="196" y="56" type="line"/>
+			<point x="196" y="572" type="line"/>
+			<point x="196" y="598" type="line"/>
+			<point x="196" y="658"/>
+			<point x="158" y="701"/>
+			<point x="99" y="701" type="curve"/>
+			<point x="56" y="701"/>
+			<point x="27" y="674"/>
+			<point x="14" y="650" type="curve"/>
+			<point x="59" y="618" type="line"/>
+			<point x="65" y="628"/>
+			<point x="78" y="644"/>
+			<point x="100" y="644" type="curve"/>
+			<point x="123" y="644"/>
+			<point x="136" y="624"/>
+			<point x="136" y="598" type="curve"/>
+			<point x="136" y="572" type="line"/>
+			<point x="136" y="572" type="line"/>
+		</contour>
 	</outline>
 </glyph>

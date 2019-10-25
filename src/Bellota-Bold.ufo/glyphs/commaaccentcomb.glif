@@ -2,21 +2,19 @@
 <glyph name="commaaccentcomb" format="2">
 	<advance width="0"/>
 	<unicode hex="0326"/>
-	<anchor x="22" y="11" name="_bottom"/>
+	<anchor x="-101" y="0" name="_bottom"/>
 	<outline>
 		<contour>
-			<point x="-65" y="-277" type="line"/>
-			<point x="11" y="-277" type="line"/>
-			<point x="65" y="-53" type="line"/>
-			<point x="-21" y="-53" type="line"/>
+			<point x="-134" y="-78" type="line"/>
+			<point x="-169" y="-285" type="line"/>
+			<point x="-106" y="-285" type="line"/>
+			<point x="-50" y="-78" type="line"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>position</key>
 			<integer>23</integer>
-			<key>public.markColor</key>
-			<string>0.99,0.62,0.11,1</string>
 			<key>width</key>
 			<integer>114</integer>
 		</dict>

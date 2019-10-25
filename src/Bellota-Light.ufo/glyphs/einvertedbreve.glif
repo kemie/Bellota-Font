@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="einvertedbreve" format="2">
-	<advance width="443"/>
+	<advance width="495"/>
 	<unicode hex="0207"/>
 	<outline>
-		<component base="breve" yScale="-1" xOffset="67" yOffset="1273"/>
-		<component base="e" yOffset="-6"/>
+		<component base="e"/>
+		<component base="breveinvertedcomb" xOffset="450" yOffset="12"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>c</string>
 			<key>position</key>
 			<integer>382</integer>
-			<key>public.markColor</key>
-			<string>0.99,0.62,0.11,1</string>
 			<key>width</key>
 			<integer>57</integer>
 		</dict>

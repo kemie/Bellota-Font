@@ -7,13 +7,68 @@
 	<key>capHeight</key>
 	<integer>684</integer>
 	<key>copyright</key>
-	<string>Copyright (c) 2011-2017 Kemie Guaida (http://www.monolinea.com| fonts@pixilate.com&gt;). Copyright (c) 2011 Gesine Todt (http://www.gesine-todt.de), with Reserved Font Name 'Snippet'.</string>
+	<string>Copyright 2019 The Bellota Project Authors (https://github.com/kemie/Bellota-Font)</string>
 	<key>descender</key>
 	<integer>-260</integer>
 	<key>familyName</key>
 	<string>Bellota</string>
+	<key>guidelines</key>
+	<array>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>locked</key>
+			<true/>
+			<key>name</key>
+			<string>diacritics_lower</string>
+			<key>x</key>
+			<integer>-2</integer>
+			<key>y</key>
+			<integer>569</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>diacritics_upper</string>
+			<key>y</key>
+			<integer>744</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>locked</key>
+			<true/>
+			<key>name</key>
+			<string>diacritics below</string>
+			<key>x</key>
+			<integer>1</integer>
+			<key>y</key>
+			<integer>-92</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<real>0.061</real>
+			<key>locked</key>
+			<true/>
+			<key>name</key>
+			<string>currency</string>
+			<key>x</key>
+			<integer>-4</integer>
+			<key>y</key>
+			<integer>641</integer>
+		</dict>
+		<dict>
+			<key>y</key>
+			<integer>89</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>cor_curve</string>
+			<key>y</key>
+			<integer>61</integer>
+		</dict>
+	</array>
 	<key>openTypeHeadCreated</key>
-	<string>2017/05/31 10:59:28</string>
+	<string>2019/10/24 19:29:08</string>
 	<key>openTypeNameCompatibleFullName</key>
 	<string>Bellota</string>
 	<key>openTypeNameDesigner</key>
@@ -31,9 +86,9 @@
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Bold</string>
 	<key>openTypeNameUniqueID</key>
-	<string>Kemie Guaida:Bellota:2017</string>
+	<string>Kemie Guaida:Bellota:2019</string>
 	<key>openTypeNameVersion</key>
-	<string>Version 3.00</string>
+	<string>Version 4.00</string>
 	<key>openTypeOS2VendorID</key>
 	<string>PIXL</string>
 	<key>openTypeOS2WeightClass</key>
@@ -67,16 +122,13 @@
 	<key>postscriptStemSnapH</key>
 	<array>
 		<integer>74</integer>
-		<integer>78</integer>
-		<integer>85</integer>
 		<integer>76</integer>
+		<integer>72</integer>
 	</array>
 	<key>postscriptStemSnapV</key>
 	<array>
-		<integer>74</integer>
-		<integer>78</integer>
-		<integer>85</integer>
-		<integer>76</integer>
+		<integer>80</integer>
+		<integer>82</integer>
 	</array>
 	<key>styleMapStyleName</key>
 	<string>bold</string>
@@ -85,7 +137,7 @@
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>versionMajor</key>
-	<integer>3</integer>
+	<integer>4</integer>
 	<key>versionMinor</key>
 	<integer>0</integer>
 	<key>xHeight</key>

@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gcaron" format="2">
-	<advance width="725"/>
+	<advance width="728"/>
 	<unicode hex="01E6"/>
 	<outline>
 		<component base="G"/>
-		<component base="caroncomb" xOffset="387" yOffset="199"/>
+		<component base="caroncomb.case" xOffset="573" yOffset="15"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>O</string>
 			<key>position</key>
 			<integer>593</integer>
 			<key>width</key>

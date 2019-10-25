@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="AEmacron" format="2">
-	<advance width="919"/>
+	<advance width="962"/>
 	<unicode hex="01E2"/>
 	<outline>
 		<component base="AE"/>
-		<component base="macron" xOffset="263" yOffset="173"/>
+		<component base="macroncomb.case" xOffset="782" yOffset="-11"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>A</string>
 			<key>position</key>
 			<integer>494</integer>
 			<key>width</key>

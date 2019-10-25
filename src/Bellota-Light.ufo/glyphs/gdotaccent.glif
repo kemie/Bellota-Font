@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gdotaccent" format="2">
-	<advance width="508"/>
+	<advance width="547"/>
 	<unicode hex="0121"/>
 	<outline>
 		<component base="g"/>
-		<component base="dotaccentcomb" xOffset="262" yOffset="13"/>
+		<component base="dotaccentcomb" xOffset="366" yOffset="13"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>c</string>
 			<key>position</key>
 			<integer>405</integer>
 			<key>width</key>

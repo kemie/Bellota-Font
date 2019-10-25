@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oogonek" format="2">
-	<advance width="539"/>
+	<advance width="576"/>
 	<unicode hex="01EB"/>
+	<anchor x="270" y="500" name="top"/>
 	<outline>
 		<component base="o"/>
-		<component base="ogonekcomb" xOffset="390" yOffset="59"/>
+		<component base="ogonekcomb" xOffset="512" yOffset="59"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>c</string>
 			<key>position</key>
 			<integer>481</integer>
 			<key>width</key>

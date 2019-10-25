@@ -2,24 +2,24 @@
 <glyph name="circumflex" format="2">
 	<advance width="360"/>
 	<unicode hex="02C6"/>
+	<anchor x="180" y="703" name="top"/>
 	<anchor x="180" y="496" name="_top"/>
+	<anchor x="314" y="630" name="top_viet"/>
 	<outline>
 		<contour>
-			<point x="11" y="566" type="line"/>
-			<point x="107" y="566" type="line"/>
-			<point x="180" y="647" type="line"/>
-			<point x="253" y="566" type="line"/>
-			<point x="349" y="566" type="line"/>
-			<point x="209" y="727" type="line"/>
-			<point x="151" y="727" type="line"/>
+			<point x="151" y="703" type="line"/>
+			<point x="23" y="566" type="line"/>
+			<point x="117" y="566" type="line"/>
+			<point x="180" y="637" type="line"/>
+			<point x="243" y="566" type="line"/>
+			<point x="337" y="566" type="line"/>
+			<point x="209" y="703" type="line"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>position</key>
 			<integer>46</integer>
-			<key>public.markColor</key>
-			<string>0.99,0.62,0.11,1</string>
 			<key>width</key>
 			<integer>296</integer>
 		</dict>

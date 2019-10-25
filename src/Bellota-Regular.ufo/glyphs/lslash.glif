@@ -1,22 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lslash" format="2">
-	<advance width="255"/>
+	<advance width="278"/>
 	<unicode hex="0142"/>
 	<outline>
 		<contour>
-			<point x="20" y="317" type="line"/>
-			<point x="210" y="435" type="line"/>
-			<point x="210" y="499" type="line"/>
-			<point x="20" y="380" type="line"/>
+			<point x="28" y="380" type="line"/>
+			<point x="28" y="317" type="line"/>
+			<point x="218" y="435" type="line"/>
+			<point x="218" y="499" type="line"/>
 		</contour>
-		<component base="l" xOffset="19"/>
+		<component base="l" xOffset="18"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>position</key>
 			<integer>93</integer>
-			<key>public.markColor</key>
-			<string>0.99,0.62,0.11,1</string>
 			<key>width</key>
 			<integer>55</integer>
 		</dict>

@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="parenright" format="2">
-	<advance width="309"/>
+	<advance width="361"/>
 	<unicode hex="0029"/>
 	<outline>
-		<component base="parenleft" xScale="-1" xOffset="309" yOffset="-6"/>
+		<component base="parenleft" xScale="-1" xOffset="361" yOffset="-6"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>position</key>
 			<integer>254</integer>
-			<key>public.markColor</key>
-			<string>0.99,0.62,0.11,1</string>
 			<key>width</key>
 			<integer>61</integer>
 		</dict>

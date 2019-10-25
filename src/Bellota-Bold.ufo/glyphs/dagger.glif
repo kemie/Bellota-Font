@@ -1,29 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dagger" format="2">
-	<advance width="504"/>
+	<advance width="526"/>
 	<unicode hex="2020"/>
 	<outline>
 		<contour>
-			<point x="212" y="-75" type="line"/>
-			<point x="293" y="-75" type="line"/>
-			<point x="293" y="425" type="line"/>
-			<point x="461" y="425" type="line"/>
-			<point x="461" y="506" type="line"/>
-			<point x="293" y="506" type="line"/>
-			<point x="293" y="694" type="line"/>
-			<point x="212" y="694" type="line"/>
-			<point x="212" y="506" type="line"/>
-			<point x="43" y="506" type="line"/>
-			<point x="43" y="425" type="line"/>
-			<point x="212" y="425" type="line"/>
+			<point x="223" y="425" type="line"/>
+			<point x="223" y="-75" type="line"/>
+			<point x="304" y="-75" type="line"/>
+			<point x="304" y="425" type="line"/>
+			<point x="472" y="425" type="line"/>
+			<point x="472" y="506" type="line"/>
+			<point x="304" y="506" type="line"/>
+			<point x="304" y="694" type="line"/>
+			<point x="223" y="694" type="line"/>
+			<point x="223" y="506" type="line"/>
+			<point x="54" y="506" type="line"/>
+			<point x="54" y="425" type="line"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>position</key>
 			<integer>207</integer>
-			<key>public.markColor</key>
-			<string>0.99,0.62,0.11,1</string>
 			<key>width</key>
 			<integer>59</integer>
 		</dict>

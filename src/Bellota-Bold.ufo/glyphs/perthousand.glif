@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="perthousand" format="2">
-	<advance width="1104"/>
+	<advance width="1169"/>
 	<unicode hex="2030"/>
 	<outline>
-		<component base="degree" xOffset="411" yOffset="-370"/>
-		<component base="fraction" xOffset="249" yOffset="11"/>
-		<component base="degree" xOffset="-14" yOffset="-150"/>
-		<component base="degree" xOffset="702" yOffset="-370"/>
+		<component base="degree" xOffset="404" yOffset="-370"/>
+		<component base="fraction" xOffset="313" yOffset="-6"/>
+		<component base="degree" xOffset="-21" yOffset="-150"/>
+		<component base="degree" xOffset="736" yOffset="-368"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>position</key>
 			<integer>744</integer>
-			<key>public.markColor</key>
-			<string>0.99,0.62,0.11,1</string>
 			<key>width</key>
 			<integer>51</integer>
 		</dict>

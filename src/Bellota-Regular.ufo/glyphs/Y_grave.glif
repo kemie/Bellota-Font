@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ygrave" format="2">
-	<advance width="617"/>
+	<advance width="601"/>
 	<unicode hex="1EF2"/>
 	<outline>
 		<component base="Y"/>
-		<component base="gravecomb" xOffset="280" yOffset="184"/>
+		<component base="gravecomb.case" xOffset="373" yOffset="-2"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>Y</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>Y</string>
-		</dict>
-	</lib>
 </glyph>

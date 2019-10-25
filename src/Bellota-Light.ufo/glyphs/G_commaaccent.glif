@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gcommaaccent" format="2">
-	<advance width="710"/>
+	<advance width="735"/>
 	<unicode hex="0122"/>
 	<outline>
 		<component base="G"/>
-		<component base="commaaccentcomb" xOffset="351" yOffset="-29"/>
+		<component base="commaaccentcomb" xOffset="478" yOffset="-35"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>O</string>
 			<key>position</key>
 			<integer>593</integer>
 			<key>width</key>

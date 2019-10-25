@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aringacute" format="2">
-	<advance width="561"/>
+	<advance width="588"/>
 	<unicode hex="01FB"/>
 	<outline>
 		<component base="a"/>
-		<component base="ringcomb" xOffset="263" yOffset="8"/>
-		<component base="acutecomb" xOffset="327" yOffset="262"/>
+		<component base="ringcomb" xOffset="443"/>
+		<component base="acutecomb" xOffset="470" yOffset="252"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>c</string>
 			<key>position</key>
 			<integer>407</integer>
 			<key>width</key>

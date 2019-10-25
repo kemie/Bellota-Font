@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Wacute" format="2">
-	<advance width="1102"/>
+	<advance width="1082"/>
 	<unicode hex="1E82"/>
 	<outline>
 		<component base="W"/>
-		<component base="acutecomb" xOffset="657" yOffset="179"/>
+		<component base="acutecomb.case" xOffset="795" yOffset="-9"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>V</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>V</string>
 			<key>position</key>
 			<integer>434</integer>
 			<key>width</key>

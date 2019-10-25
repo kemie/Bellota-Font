@@ -1,36 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="apostrophemod" format="2">
-	<advance width="197"/>
+	<advance width="215"/>
 	<unicode hex="02BC"/>
-	<anchor x="110" y="603" name="_apostrophe"/>
+	<anchor x="119" y="603" name="_apostrophe"/>
 	<outline>
 		<contour>
-			<point x="73" y="450" type="line"/>
-			<point x="98" y="468"/>
-			<point x="116" y="491"/>
-			<point x="127" y="519" type="curve" smooth="yes"/>
-			<point x="138" y="546"/>
-			<point x="143" y="574"/>
-			<point x="143" y="602" type="curve" smooth="yes"/>
-			<point x="143" y="662" type="line" smooth="yes"/>
-			<point x="143" y="681"/>
-			<point x="130" y="695"/>
-			<point x="111" y="695" type="curve" smooth="yes"/>
-			<point x="92" y="695"/>
-			<point x="79" y="681"/>
-			<point x="79" y="662" type="curve" smooth="yes"/>
-			<point x="79" y="602" type="line" smooth="yes"/>
-			<point x="79" y="549"/>
-			<point x="66" y="510"/>
-			<point x="39" y="483" type="curve"/>
+			<point x="48" y="483" type="curve"/>
+			<point x="82" y="450" type="line"/>
+			<point x="107" y="468"/>
+			<point x="125" y="491"/>
+			<point x="136" y="519" type="curve"/>
+			<point x="147" y="546"/>
+			<point x="152" y="574"/>
+			<point x="152" y="602" type="curve"/>
+			<point x="152" y="662" type="line" smooth="yes"/>
+			<point x="152" y="681"/>
+			<point x="139" y="695"/>
+			<point x="120" y="695" type="curve"/>
+			<point x="101" y="695"/>
+			<point x="88" y="681"/>
+			<point x="88" y="662" type="curve"/>
+			<point x="88" y="602" type="line" smooth="yes"/>
+			<point x="88" y="549"/>
+			<point x="75" y="510"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>position</key>
 			<integer>76</integer>
-			<key>public.markColor</key>
-			<string>0.99,0.62,0.11,1</string>
 			<key>width</key>
 			<integer>64</integer>
 		</dict>

@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Racute" format="2">
-	<advance width="712"/>
+	<advance width="718"/>
 	<unicode hex="0154"/>
 	<outline>
 		<component base="R"/>
-		<component base="acutecomb" xOffset="398" yOffset="179"/>
+		<component base="acutecomb.case" xOffset="556"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>R</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>R</string>
 			<key>position</key>
 			<integer>619</integer>
 			<key>width</key>

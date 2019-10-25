@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ecaron" format="2">
-	<advance width="635"/>
+	<advance width="651"/>
 	<unicode hex="011A"/>
 	<outline>
 		<component base="E"/>
-		<component base="caroncomb" xOffset="362" yOffset="188"/>
+		<component base="caroncomb.case" xOffset="574"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>E</string>
 			<key>position</key>
 			<integer>161</integer>
 			<key>width</key>

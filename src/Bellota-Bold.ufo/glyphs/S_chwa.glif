@@ -1,7 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Schwa" format="2">
-	<advance width="600"/>
+	<advance width="692"/>
 	<unicode hex="018F"/>
+	<anchor x="77" y="629" name="ogonek"/>
+	<anchor x="335" y="696" name="bottom"/>
+	<anchor x="339" y="-14" name="top"/>
 	<outline>
+		<contour>
+			<point x="333" y="712" type="curve"/>
+			<point x="333" y="712" type="line"/>
+			<point x="240" y="712"/>
+			<point x="148" y="680"/>
+			<point x="77" y="629" type="curve"/>
+			<point x="114" y="569" type="line"/>
+			<point x="193" y="612"/>
+			<point x="252" y="636"/>
+			<point x="328" y="636" type="curve"/>
+			<point x="538" y="636"/>
+			<point x="551" y="442"/>
+			<point x="551" y="370" type="curve"/>
+			<point x="551" y="162"/>
+			<point x="452" y="59"/>
+			<point x="333" y="59" type="curve"/>
+			<point x="223" y="59"/>
+			<point x="135" y="146"/>
+			<point x="135" y="273" type="curve"/>
+			<point x="135" y="296"/>
+			<point x="138" y="328"/>
+			<point x="146" y="377" type="curve"/>
+			<point x="60" y="377" type="line"/>
+			<point x="57" y="339"/>
+			<point x="53" y="307"/>
+			<point x="53" y="277" type="curve"/>
+			<point x="53" y="106"/>
+			<point x="175" y="-15"/>
+			<point x="332" y="-15" type="curve"/>
+			<point x="528" y="-15"/>
+			<point x="634" y="169"/>
+			<point x="634" y="369" type="curve"/>
+			<point x="634" y="568"/>
+			<point x="527" y="712"/>
+		</contour>
+		<contour>
+			<point x="607" y="301" type="line"/>
+			<point x="607" y="377" type="line"/>
+			<point x="88" y="377" type="line"/>
+			<point x="88" y="301" type="line"/>
+		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>RMXScaler</key>
+			<dict>
+				<key>height</key>
+				<integer>140</integer>
+				<key>weight</key>
+				<integer>-120</integer>
+				<key>width</key>
+				<integer>135</integer>
+			</dict>
+		</dict>
+	</lib>
 </glyph>
