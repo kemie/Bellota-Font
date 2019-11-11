@@ -532,7 +532,6 @@
 	</array>
 	<key>public.kern1.a</key>
 	<array>
-		<string>f_f_i</string>
 		<string>f_f_l</string>
 		<string>fl</string>
 	</array>
@@ -949,6 +948,7 @@
 		<string>ndotaccent.ss01</string>
 		<string>nlinebelow.ss01</string>
 		<string>utildeacute.ss01</string>
+		<string>f_f_i</string>
 		<string>fi</string>
 		<string>a-cy</string>
 		<string>ii-cy</string>
@@ -1755,6 +1755,10 @@
 		<string>emdash</string>
 		<string>anoteleia</string>
 		<string>bulletoperator</string>
+	</array>
+	<key>public.kern2.f</key>
+	<array>
+		<string>f_f_i</string>
 	</array>
 	<key>public.kern2.ftext</key>
 	<array>
