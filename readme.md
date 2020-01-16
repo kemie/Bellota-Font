@@ -27,7 +27,14 @@ In other words, you are free to use it for any purpose, commercial included.
 
 If you remix or modify the font, I'd love to hear about it!.
 
+# Build
+Because Bellota uses components that `fontmake` cannot currently build (as of Jan. 2020) such as corner components, we’re using a partially automated build process.
+To generate correct TTFs, export TTFs directly out of Glyphs.app (remove overlaps, autohint), then run the partial build script `build.sh` to change a few things regarding the hinting settings.
+
 # Changelog	 
+
+## v4.1, Jan 2020
++ Bumped to Google Fonts specs 
 
 ## v4.0, Oct  2019 
 + Basic Cyrillic support
