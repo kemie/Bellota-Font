@@ -171,7 +171,9 @@ We’re not the same, no",
 "/bowl wentak /stem_lc_short noexciala",
 "/a.ital áăắặằẳẵǎâấậầẩẫȁäǟȧạǡàảȃāąåǻãḃḅbďđḋḍḏǳǆdǵğǧĝģġḡṗþq/g_g.dlig gaрpӑа₫/bowl/bowl",
 "/_corner.left/stem_lc_short/u.ss01/udieresis.ss01",
-a
+a,
+"nnnon /z.ss01 onlnlnn",
+"/jdotless.swsh j"
 );
 axes = (
 {
@@ -77413,12 +77415,12 @@ shapes = (
 closed = 1;
 nodes = (
 (170,-103,l),
-(170,500,l,{
+(170,501,l,{
 "Letterink-NibData" = {
 AngleInDegrees = 270;
 };
 }),
-(89,500,l,{
+(88,501,l,{
 "Letterink-NibData" = {
 AngleInDegrees = 180.0891;
 };
@@ -77596,12 +77598,12 @@ shapes = (
 closed = 1;
 nodes = (
 (233,-83,l),
-(233,496,l,{
+(233,501,l,{
 "Letterink-NibData" = {
 AngleInDegrees = 270;
 };
 }),
-(73,496,l,{
+(68,501,l,{
 "Letterink-NibData" = {
 AngleInDegrees = 180.0891;
 };
@@ -77679,12 +77681,12 @@ shapes = (
 closed = 1;
 nodes = (
 (135,-123,l),
-(135,500,l,{
+(135,501,l,{
 "Letterink-NibData" = {
 AngleInDegrees = 270;
 };
 }),
-(54,500,l,{
+(53,501,l,{
 "Letterink-NibData" = {
 AngleInDegrees = 180.0891;
 };
@@ -77867,7 +77869,7 @@ nodes = (
 AngleInDegrees = 270;
 };
 }),
-(57,499,l,{
+(59,499,l,{
 "Letterink-NibData" = {
 AngleInDegrees = 180.0891;
 };
@@ -102023,6 +102025,7 @@ shapes = (
 {
 closed = 1;
 nodes = (
+(424,0,l),
 (424,34,l,{
 "Letterink-NibData" = {
 AngleInDegrees = 270;
@@ -102067,8 +102070,7 @@ AngleInDegrees = 180;
 "Letterink-NibData" = {
 AngleInDegrees = 90.15078;
 };
-}),
-(424,-1,l)
+})
 );
 }
 );
@@ -130157,7 +130159,7 @@ shapes = (
 ref = x.ss01;
 }
 );
-width = 452;
+width = 449;
 },
 {
 anchors = (
