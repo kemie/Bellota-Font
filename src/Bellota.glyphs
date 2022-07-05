@@ -178,7 +178,8 @@ a,
 "/f_f_l.dlig",
 "/A.swsh/AE.swsh BD",
 "/J.swsh",
-"/_corner.caps_swash_vert/N.swsh"
+"R/_corner.caps_swash_vert/N.swsh",
+"/Z.swsh"
 );
 axes = (
 {
@@ -58829,7 +58830,7 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(566,684,l,{
+(585,684,l,{
 "Letterink-NibData" = {
 AngleInDegrees = 270;
 };
@@ -58856,7 +58857,7 @@ AngleInDegrees = 210.93514;
 AngleInDegrees = 120.69972;
 };
 }),
-(131,-30,l,{
+(150,-30,l,{
 "Letterink-NibData" = {
 AngleInDegrees = 30.82766;
 };
