@@ -61585,7 +61585,7 @@ pos = (244,0);
 ref = acutecomb;
 }
 );
-width = 576;
+width = 583;
 },
 {
 anchors = (
@@ -61612,6 +61612,7 @@ userData = {
 position = 407;
 width = 55;
 };
+changeCount = 2;
 },
 {
 glyphname = aacute.ss01;
@@ -61654,7 +61655,7 @@ pos = (206,5);
 ref = acutecomb;
 }
 );
-width = 547;
+width = 548;
 },
 {
 anchors = (
@@ -61680,6 +61681,7 @@ userData = {
 position = 407;
 width = 55;
 };
+changeCount = 2;
 },
 {
 glyphname = abreve;
@@ -61710,7 +61712,7 @@ pos = (107,0);
 ref = brevecomb;
 }
 );
-width = 576;
+width = 583;
 },
 {
 layerId = m004;
@@ -61723,7 +61725,7 @@ pos = (66,0);
 ref = brevecomb;
 }
 );
-width = 619;
+width = 614;
 }
 );
 unicode = 259;
@@ -61731,6 +61733,7 @@ userData = {
 position = 407;
 width = 55;
 };
+changeCount = 2;
 },
 {
 glyphname = abreve.ss01;
@@ -61777,6 +61780,7 @@ ref = brevecomb;
 width = 548;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = abreveacute;
@@ -61807,7 +61811,7 @@ pos = (73,0);
 ref = brevecomb_acutecomb;
 }
 );
-width = 576;
+width = 583;
 },
 {
 layerId = m004;
@@ -61824,6 +61828,7 @@ width = 619;
 }
 );
 unicode = 7855;
+changeCount = 2;
 },
 {
 glyphname = abreveacute.ss01;
@@ -61870,6 +61875,7 @@ ref = brevecomb_acutecomb;
 width = 548;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = abrevedotbelow;
@@ -61929,6 +61935,7 @@ width = 619;
 }
 );
 unicode = 7863;
+changeCount = 1;
 },
 {
 glyphname = abrevedotbelow.ss01;
@@ -61987,6 +61994,7 @@ ref = brevecomb;
 width = 548;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = abrevegrave;
@@ -62017,7 +62025,7 @@ pos = (109,0);
 ref = brevecomb_gravecomb;
 }
 );
-width = 576;
+width = 583;
 },
 {
 layerId = m004;
@@ -62034,6 +62042,7 @@ width = 619;
 }
 );
 unicode = 7857;
+changeCount = 2;
 },
 {
 glyphname = abrevegrave.ss01;
@@ -62080,6 +62089,7 @@ ref = brevecomb_gravecomb;
 width = 548;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = abrevehookabove;
@@ -62127,6 +62137,7 @@ width = 619;
 }
 );
 unicode = 7859;
+changeCount = 1;
 },
 {
 glyphname = abrevehookabove.ss01;
@@ -62173,6 +62184,7 @@ ref = brevecomb_hookabovecomb;
 width = 548;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = abrevetilde;
@@ -62203,7 +62215,7 @@ pos = (92,0);
 ref = brevecomb_tildecomb;
 }
 );
-width = 576;
+width = 583;
 },
 {
 layerId = m004;
@@ -62220,6 +62232,7 @@ width = 619;
 }
 );
 unicode = 7861;
+changeCount = 2;
 },
 {
 glyphname = abrevetilde.ss01;
@@ -62266,6 +62279,7 @@ ref = brevecomb_tildecomb;
 width = 548;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = acaron;
@@ -62296,7 +62310,7 @@ pos = (132,0);
 ref = caroncomb;
 }
 );
-width = 576;
+width = 583;
 },
 {
 layerId = m004;
@@ -62313,6 +62327,7 @@ width = 619;
 }
 );
 unicode = 462;
+changeCount = 2;
 },
 {
 glyphname = acaron.ss01;
@@ -62359,6 +62374,7 @@ ref = caroncomb;
 width = 548;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = acircumflex;
@@ -62389,7 +62405,7 @@ pos = (130,0);
 ref = circumflexcomb;
 }
 );
-width = 576;
+width = 583;
 },
 {
 layerId = m004;
@@ -62410,6 +62426,7 @@ userData = {
 position = 407;
 width = 55;
 };
+changeCount = 2;
 },
 {
 glyphname = acircumflex.ss01;
@@ -62456,6 +62473,7 @@ ref = circumflexcomb;
 width = 548;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = acircumflexacute;
@@ -62486,7 +62504,7 @@ pos = (146,0);
 ref = circumflexcomb_acutecomb;
 }
 );
-width = 576;
+width = 583;
 },
 {
 layerId = m004;
@@ -62503,6 +62521,7 @@ width = 619;
 }
 );
 unicode = 7845;
+changeCount = 2;
 },
 {
 glyphname = acircumflexacute.ss01;
@@ -62549,6 +62568,7 @@ ref = circumflexcomb_acutecomb;
 width = 548;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = acircumflexdotbelow;
@@ -62608,6 +62628,7 @@ width = 619;
 }
 );
 unicode = 7853;
+changeCount = 1;
 },
 {
 glyphname = acircumflexdotbelow.ss01;
@@ -62666,6 +62687,7 @@ ref = circumflexcomb;
 width = 548;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = acircumflexgrave;
@@ -62696,7 +62718,7 @@ pos = (121,0);
 ref = circumflexcomb_gravecomb;
 }
 );
-width = 576;
+width = 583;
 },
 {
 layerId = m004;
@@ -62713,6 +62735,7 @@ width = 619;
 }
 );
 unicode = 7847;
+changeCount = 2;
 },
 {
 glyphname = acircumflexgrave.ss01;
@@ -62759,6 +62782,7 @@ ref = circumflexcomb_gravecomb;
 width = 548;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = acircumflexhookabove;
@@ -62806,6 +62830,7 @@ width = 619;
 }
 );
 unicode = 7849;
+changeCount = 1;
 },
 {
 glyphname = acircumflexhookabove.ss01;
@@ -62852,6 +62877,7 @@ ref = circumflexcomb_hookabovecomb;
 width = 548;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = acircumflextilde;
@@ -62882,7 +62908,7 @@ pos = (107,0);
 ref = circumflexcomb_tildecomb;
 }
 );
-width = 576;
+width = 583;
 },
 {
 layerId = m004;
@@ -62899,6 +62925,7 @@ width = 619;
 }
 );
 unicode = 7851;
+changeCount = 2;
 },
 {
 glyphname = acircumflextilde.ss01;
@@ -62945,6 +62972,7 @@ ref = circumflexcomb_tildecomb;
 width = 548;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = adblgrave;
@@ -62992,6 +63020,7 @@ width = 619;
 }
 );
 unicode = 513;
+changeCount = 1;
 },
 {
 glyphname = adblgrave.ss01;
@@ -63038,6 +63067,7 @@ ref = dblgravecomb;
 width = 548;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = adieresis;
@@ -63068,7 +63098,7 @@ pos = (103,0);
 ref = dieresiscomb;
 }
 );
-width = 576;
+width = 583;
 },
 {
 layerId = m004;
@@ -63089,6 +63119,7 @@ userData = {
 position = 407;
 width = 55;
 };
+changeCount = 2;
 },
 {
 glyphname = adieresis.ss01;
@@ -63139,6 +63170,7 @@ userData = {
 position = 407;
 width = 55;
 };
+changeCount = 1;
 },
 {
 glyphname = adieresismacron;
@@ -63177,7 +63209,7 @@ pos = (88,123);
 ref = macroncomb;
 }
 );
-width = 576;
+width = 583;
 },
 {
 layerId = m004;
@@ -63202,6 +63234,7 @@ userData = {
 position = 407;
 width = 55;
 };
+changeCount = 2;
 },
 {
 glyphname = adieresismacron.ss01;
@@ -63260,6 +63293,7 @@ ref = macroncomb;
 width = 548;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = adotaccent;
@@ -63290,7 +63324,7 @@ pos = (175,1);
 ref = dotaccentcomb;
 }
 );
-width = 576;
+width = 583;
 },
 {
 layerId = m004;
@@ -63311,6 +63345,7 @@ userData = {
 position = 407;
 width = 55;
 };
+changeCount = 2;
 },
 {
 glyphname = adotaccent.ss01;
@@ -63357,6 +63392,7 @@ ref = dotaccentcomb;
 width = 548;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = adotbelow;
@@ -63387,7 +63423,7 @@ pos = (277,1);
 ref = dotbelowcomb;
 }
 );
-width = 576;
+width = 583;
 },
 {
 layerId = m004;
@@ -63404,6 +63440,7 @@ width = 619;
 }
 );
 unicode = 7841;
+changeCount = 2;
 },
 {
 glyphname = adotbelow.ss01;
@@ -63450,6 +63487,7 @@ ref = dotbelowcomb;
 width = 548;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = adotmacron;
@@ -63488,7 +63526,7 @@ pos = (86,150);
 ref = macroncomb;
 }
 );
-width = 576;
+width = 583;
 },
 {
 layerId = m004;
@@ -63513,6 +63551,7 @@ userData = {
 position = 407;
 width = 55;
 };
+changeCount = 2;
 },
 {
 glyphname = adotmacron.ss01;
@@ -63571,6 +63610,7 @@ ref = macroncomb;
 width = 548;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = agrave;
@@ -63601,7 +63641,7 @@ pos = (150,10);
 ref = gravecomb;
 }
 );
-width = 576;
+width = 583;
 },
 {
 layerId = m004;
@@ -63622,6 +63662,7 @@ userData = {
 position = 407;
 width = 55;
 };
+changeCount = 2;
 },
 {
 glyphname = agrave.ss01;
@@ -63668,6 +63709,7 @@ ref = gravecomb;
 width = 548;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = ahookabove;
@@ -63715,6 +63757,7 @@ width = 619;
 }
 );
 unicode = 7843;
+changeCount = 1;
 },
 {
 glyphname = ahookabove.ss01;
@@ -63761,6 +63804,7 @@ ref = hookabovecomb;
 width = 548;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = ainvertedbreve;
@@ -63808,6 +63852,7 @@ width = 619;
 }
 );
 unicode = 515;
+changeCount = 1;
 },
 {
 glyphname = ainvertedbreve.ss01;
@@ -63854,6 +63899,7 @@ ref = breveinvertedcomb;
 width = 548;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = amacron;
@@ -63884,7 +63930,7 @@ pos = (89,0);
 ref = macroncomb;
 }
 );
-width = 576;
+width = 583;
 },
 {
 layerId = m004;
@@ -63905,6 +63951,7 @@ userData = {
 position = 407;
 width = 55;
 };
+changeCount = 2;
 },
 {
 glyphname = amacron.ss01;
@@ -63951,6 +63998,7 @@ ref = macroncomb;
 width = 548;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = aogonek;
@@ -63981,7 +64029,7 @@ pos = (408,32);
 ref = ogonekcomb;
 }
 );
-width = 576;
+width = 583;
 },
 {
 layerId = m004;
@@ -64002,6 +64050,7 @@ userData = {
 position = 407;
 width = 55;
 };
+changeCount = 2;
 },
 {
 glyphname = aogonek.ss01;
@@ -64048,6 +64097,7 @@ ref = ogonekcomb;
 width = 548;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = aring;
@@ -64078,7 +64128,7 @@ pos = (139,-5);
 ref = ringcomb;
 }
 );
-width = 576;
+width = 583;
 },
 {
 layerId = m004;
@@ -64099,6 +64149,7 @@ userData = {
 position = 407;
 width = 55;
 };
+changeCount = 2;
 },
 {
 glyphname = aring.ss01;
@@ -64149,6 +64200,7 @@ userData = {
 position = 407;
 width = 55;
 };
+changeCount = 1;
 },
 {
 glyphname = aringacute;
@@ -64187,7 +64239,7 @@ pos = (244,246);
 ref = acutecomb;
 }
 );
-width = 576;
+width = 583;
 },
 {
 layerId = m004;
@@ -64212,6 +64264,7 @@ userData = {
 position = 407;
 width = 55;
 };
+changeCount = 2;
 },
 {
 glyphname = aringacute.ss01;
@@ -64270,6 +64323,7 @@ ref = acutecomb;
 width = 548;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = atilde;
@@ -64300,7 +64354,7 @@ pos = (82,0);
 ref = tildecomb;
 }
 );
-width = 576;
+width = 583;
 },
 {
 layerId = m004;
@@ -64321,6 +64375,7 @@ userData = {
 position = 407;
 width = 55;
 };
+changeCount = 2;
 },
 {
 glyphname = atilde.ss01;
@@ -64367,6 +64422,7 @@ ref = tildecomb;
 width = 548;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = ae;
@@ -67921,7 +67977,7 @@ pos = (470,0);
 ref = caroncomb.alt;
 }
 );
-width = 572;
+width = 579;
 },
 {
 layerId = m004;
@@ -67943,6 +67999,7 @@ userData = {
 position = 404;
 width = 55;
 };
+changeCount = 1;
 },
 {
 glyphname = dcaron.ss01;
@@ -67989,6 +68046,7 @@ ref = caroncomb.alt;
 width = 591;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = dcroat;
@@ -68019,7 +68077,7 @@ pos = (217,359);
 ref = strokeshortcomb;
 }
 );
-width = 572;
+width = 579;
 },
 {
 layerId = m004;
@@ -68040,6 +68098,7 @@ userData = {
 position = 404;
 width = 55;
 };
+changeCount = 2;
 },
 {
 glyphname = dcroat.ss01;
@@ -68086,6 +68145,7 @@ ref = strokeshortcomb;
 width = 591;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = ddotaccent;
@@ -68133,6 +68193,7 @@ width = 619;
 }
 );
 unicode = 7691;
+changeCount = 1;
 },
 {
 glyphname = ddotaccent.ss01;
@@ -68179,6 +68240,7 @@ ref = dotaccentcomb.case;
 width = 591;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = ddotbelow;
@@ -68226,6 +68288,7 @@ width = 619;
 }
 );
 unicode = 7693;
+changeCount = 1;
 },
 {
 glyphname = ddotbelow.ss01;
@@ -68272,6 +68335,7 @@ ref = dotbelowcomb;
 width = 591;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = dmacronbelow;
@@ -68319,6 +68383,7 @@ width = 619;
 }
 );
 unicode = 7695;
+changeCount = 1;
 },
 {
 glyphname = dmacronbelow.ss01;
@@ -68365,6 +68430,7 @@ ref = macronbelowcomb;
 width = 591;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = dz;
@@ -68391,11 +68457,11 @@ shapes = (
 ref = d;
 },
 {
-pos = (557,0);
+pos = (564,0);
 ref = z;
 }
 );
-width = 1047;
+width = 1054;
 },
 {
 layerId = m004;
@@ -68416,6 +68482,7 @@ userData = {
 position = 404;
 width = 55;
 };
+changeCount = 2;
 },
 {
 glyphname = dz.ss01;
@@ -68466,6 +68533,7 @@ userData = {
 position = 404;
 width = 55;
 };
+changeCount = 1;
 },
 {
 glyphname = dzcaron;
@@ -68492,11 +68560,11 @@ shapes = (
 ref = d;
 },
 {
-pos = (557,0);
+pos = (564,0);
 ref = zcaron;
 }
 );
-width = 1047;
+width = 1054;
 },
 {
 layerId = m004;
@@ -68517,6 +68585,7 @@ userData = {
 position = 704;
 width = 296;
 };
+changeCount = 2;
 },
 {
 glyphname = dzcaron.ss01;
@@ -68567,6 +68636,7 @@ userData = {
 position = 704;
 width = 296;
 };
+changeCount = 1;
 },
 {
 glyphname = e;
@@ -74632,7 +74702,7 @@ pos = (-90,364);
 ref = strokeshortcomb;
 }
 );
-width = 594;
+width = 606;
 },
 {
 layerId = m004;
@@ -74653,6 +74723,7 @@ userData = {
 position = 385;
 width = 55;
 };
+changeCount = 2;
 },
 {
 glyphname = hbar.ss01;
@@ -74697,6 +74768,7 @@ ref = strokeshortcomb;
 width = 599;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = hbrevebelow;
@@ -74743,6 +74815,7 @@ width = 629;
 }
 );
 unicode = 7723;
+changeCount = 1;
 },
 {
 glyphname = hbrevebelow.ss01;
@@ -74791,6 +74864,7 @@ ref = brevebelowcomb;
 width = 621;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = hcaron;
@@ -74820,7 +74894,7 @@ pos = (-62,46);
 ref = caroncomb.case;
 }
 );
-width = 594;
+width = 606;
 },
 {
 layerId = m004;
@@ -74841,6 +74915,7 @@ userData = {
 position = 385;
 width = 55;
 };
+changeCount = 2;
 },
 {
 glyphname = hcaron.ss01;
@@ -74887,6 +74962,7 @@ ref = caroncomb.case;
 width = 599;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = hcircumflex;
@@ -74916,7 +74992,7 @@ pos = (-48,46);
 ref = circumflexcomb.case;
 }
 );
-width = 594;
+width = 606;
 },
 {
 layerId = m004;
@@ -74937,6 +75013,7 @@ userData = {
 position = 385;
 width = 55;
 };
+changeCount = 2;
 },
 {
 glyphname = hcircumflex.ss01;
@@ -74981,6 +75058,7 @@ ref = circumflexcomb.case;
 width = 599;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = hdieresis;
@@ -75027,6 +75105,7 @@ width = 629;
 }
 );
 unicode = 7719;
+changeCount = 1;
 },
 {
 glyphname = hdotbelow;
@@ -75073,6 +75152,7 @@ width = 629;
 }
 );
 unicode = 7717;
+changeCount = 1;
 },
 {
 glyphname = hdotbelow.ss01;
@@ -75121,6 +75201,7 @@ ref = dotbelowcomb;
 width = 621;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = i;
@@ -75151,7 +75232,7 @@ pos = (-10,1);
 ref = dotaccentcomb;
 }
 );
-width = 229;
+width = 236;
 },
 {
 layerId = m004;
@@ -75172,6 +75253,7 @@ userData = {
 position = 57;
 width = 55;
 };
+changeCount = 2;
 },
 {
 glyphname = i.ss01;
@@ -75585,7 +75667,7 @@ pos = (53,-16);
 ref = acutecomb.narrow;
 }
 );
-width = 229;
+width = 236;
 },
 {
 layerId = m004;
@@ -75606,6 +75688,7 @@ userData = {
 position = 43;
 width = 55;
 };
+changeCount = 2;
 },
 {
 glyphname = iacute.ss01;
@@ -75688,7 +75771,7 @@ pos = (-43,0);
 ref = brevecomb.narrow;
 }
 );
-width = 229;
+width = 236;
 },
 {
 layerId = m004;
@@ -75709,6 +75792,7 @@ userData = {
 position = 151;
 width = 61;
 };
+changeCount = 2;
 },
 {
 glyphname = ibreve.ss01;
@@ -75787,7 +75871,7 @@ pos = (-28,-5);
 ref = caroncomb.narrow;
 }
 );
-width = 229;
+width = 236;
 },
 {
 layerId = m004;
@@ -75804,6 +75888,7 @@ width = 313;
 }
 );
 unicode = 464;
+changeCount = 2;
 },
 {
 glyphname = icaron.ss01;
@@ -75882,7 +75967,7 @@ pos = (-25,0);
 ref = circumflexcomb.narrow;
 }
 );
-width = 229;
+width = 236;
 },
 {
 layerId = m004;
@@ -75906,6 +75991,7 @@ userData = {
 position = 43;
 width = 55;
 };
+changeCount = 1;
 },
 {
 glyphname = icircumflex.ss01;
@@ -76001,6 +76087,7 @@ width = 313;
 }
 );
 unicode = 521;
+changeCount = 1;
 },
 {
 glyphname = idblgrave.ss01;
@@ -76079,7 +76166,7 @@ pos = (-71,0);
 ref = dieresiscomb.narrow;
 }
 );
-width = 229;
+width = 236;
 },
 {
 layerId = m004;
@@ -76103,6 +76190,7 @@ userData = {
 position = 138;
 width = 81;
 };
+changeCount = 1;
 },
 {
 glyphname = idieresis.ss01;
@@ -76210,6 +76298,7 @@ width = 313;
 }
 );
 unicode = 7727;
+changeCount = 1;
 },
 {
 glyphname = idieresisacute.ss01;
@@ -76317,6 +76406,7 @@ ref = dotaccentcomb;
 width = 313;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = idotaccent.ss01;
@@ -76393,7 +76483,7 @@ pos = (159,0);
 ref = dotbelowcomb;
 }
 );
-width = 229;
+width = 236;
 },
 {
 layerId = m004;
@@ -76410,6 +76500,7 @@ width = 313;
 }
 );
 unicode = 7883;
+changeCount = 2;
 },
 {
 glyphname = idotbelow.ss01;
@@ -76486,7 +76577,7 @@ pos = (-31,0);
 ref = gravecomb.narrow;
 }
 );
-width = 229;
+width = 236;
 },
 {
 layerId = m004;
@@ -76507,6 +76598,7 @@ userData = {
 position = 43;
 width = 55;
 };
+changeCount = 2;
 },
 {
 glyphname = igrave.ss01;
@@ -76602,6 +76694,7 @@ width = 313;
 }
 );
 unicode = 7881;
+changeCount = 1;
 },
 {
 glyphname = ihookabove.ss01;
@@ -76680,7 +76773,7 @@ pos = (-43,0);
 ref = breveinvertedcomb.narrow;
 }
 );
-width = 229;
+width = 236;
 },
 {
 layerId = m004;
@@ -76701,6 +76794,7 @@ userData = {
 position = 152;
 width = 61;
 };
+changeCount = 2;
 },
 {
 glyphname = iinvertedbreve.ss01;
@@ -77053,7 +77147,7 @@ pos = (-63,0);
 ref = macroncomb.narrow;
 }
 );
-width = 229;
+width = 236;
 },
 {
 layerId = m004;
@@ -77074,6 +77168,7 @@ userData = {
 position = 43;
 width = 55;
 };
+changeCount = 2;
 },
 {
 glyphname = imacron.ss01;
@@ -77160,7 +77255,7 @@ pos = (46,19);
 ref = ogonekcomb;
 }
 );
-width = 229;
+width = 236;
 },
 {
 layerId = m004;
@@ -77185,6 +77280,7 @@ userData = {
 position = 82;
 width = 57;
 };
+changeCount = 2;
 },
 {
 glyphname = iogonek.ss01;
@@ -77305,6 +77401,7 @@ width = 313;
 }
 );
 unicode = 616;
+changeCount = 1;
 },
 {
 glyphname = istroke.ss01;
@@ -77396,7 +77493,7 @@ pos = (-80,0);
 ref = tildecomb.narrow;
 }
 );
-width = 229;
+width = 236;
 },
 {
 layerId = m004;
@@ -77417,6 +77514,7 @@ userData = {
 position = 43;
 width = 55;
 };
+changeCount = 2;
 },
 {
 glyphname = itilde.ss01;
@@ -77616,6 +77714,7 @@ userData = {
 position = 119;
 width = 55;
 };
+changeCount = 1;
 },
 {
 glyphname = jdotless;
@@ -79520,6 +79619,7 @@ ref = acutecomb.narrow;
 width = 314;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = jcaron;
@@ -79671,6 +79771,7 @@ userData = {
 position = 119;
 width = 55;
 };
+changeCount = 1;
 },
 {
 glyphname = jcircumflex;
@@ -79822,6 +79923,7 @@ userData = {
 position = 119;
 width = 55;
 };
+changeCount = 1;
 },
 {
 glyphname = k;
@@ -81845,6 +81947,7 @@ userData = {
 position = 54;
 width = 55;
 };
+changeCount = 1;
 },
 {
 glyphname = l;
@@ -82357,7 +82460,7 @@ pos = (52,43);
 ref = acutecomb.case;
 }
 );
-width = 227;
+width = 234;
 },
 {
 layerId = m004;
@@ -82378,6 +82481,7 @@ userData = {
 position = 53;
 width = 55;
 };
+changeCount = 2;
 },
 {
 glyphname = lacute.ss01;
@@ -82551,7 +82655,7 @@ pos = (29,0);
 ref = commaaccentcomb;
 }
 );
-width = 227;
+width = 234;
 },
 {
 layerId = m004;
@@ -82572,6 +82676,7 @@ userData = {
 position = 102;
 width = 64;
 };
+changeCount = 2;
 },
 {
 glyphname = lcommaaccent.ss01;
@@ -82763,6 +82868,7 @@ width = 309;
 }
 );
 unicode = 7735;
+changeCount = 1;
 },
 {
 glyphname = ldotbelow.ss01;
@@ -82832,11 +82938,11 @@ shapes = (
 ref = l;
 },
 {
-pos = (227,0);
+pos = (234,0);
 ref = j;
 }
 );
-width = 441;
+width = 448;
 },
 {
 layerId = m004;
@@ -82857,6 +82963,7 @@ userData = {
 position = 370;
 width = 55;
 };
+changeCount = 2;
 },
 {
 glyphname = lj.ss01;
@@ -82948,6 +83055,7 @@ width = 309;
 }
 );
 unicode = 7739;
+changeCount = 1;
 },
 {
 glyphname = lmacronbelow.ss01;
@@ -83978,6 +84086,7 @@ width = 927;
 }
 );
 unicode = 7745;
+changeCount = 1;
 },
 {
 glyphname = mdotaccent.ss01;
@@ -84023,6 +84132,7 @@ ref = dotaccentcomb;
 width = 897;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = mdotbelow;
@@ -84070,6 +84180,7 @@ width = 927;
 }
 );
 unicode = 7747;
+changeCount = 1;
 },
 {
 glyphname = mdotbelow.ss01;
@@ -84117,6 +84228,7 @@ ref = dotbelowcomb;
 width = 896;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = n;
@@ -85417,6 +85529,7 @@ userData = {
 position = 718;
 width = 55;
 };
+changeCount = 1;
 },
 {
 glyphname = nj.ss01;
@@ -89269,6 +89382,7 @@ width = 591;
 }
 );
 unicode = 7767;
+changeCount = 1;
 },
 {
 glyphname = thorn;
@@ -90045,6 +90159,7 @@ userData = {
 position = 80;
 width = 55;
 };
+changeCount = 1;
 },
 {
 glyphname = rcaron;
@@ -90096,6 +90211,7 @@ userData = {
 position = 80;
 width = 55;
 };
+changeCount = 1;
 },
 {
 glyphname = rcommaaccent;
@@ -90147,6 +90263,7 @@ userData = {
 position = 172;
 width = 64;
 };
+changeCount = 1;
 },
 {
 glyphname = rdblgrave;
@@ -90194,6 +90311,7 @@ width = 409;
 }
 );
 unicode = 529;
+changeCount = 1;
 },
 {
 glyphname = rdotbelow;
@@ -90241,6 +90359,7 @@ width = 409;
 }
 );
 unicode = 7771;
+changeCount = 1;
 },
 {
 glyphname = rinvertedbreve;
@@ -90292,6 +90411,7 @@ userData = {
 position = 268;
 width = 61;
 };
+changeCount = 1;
 },
 {
 glyphname = rmacronbelow;
@@ -90339,6 +90459,7 @@ width = 409;
 }
 );
 unicode = 7775;
+changeCount = 1;
 },
 {
 glyphname = s;
@@ -95137,11 +95258,11 @@ shapes = (
 ref = u;
 },
 {
-pos = (242,2);
+pos = (241,2);
 ref = acutecomb;
 }
 );
-width = 584;
+width = 590;
 },
 {
 layerId = m004;
@@ -95162,6 +95283,7 @@ userData = {
 position = 415;
 width = 55;
 };
+changeCount = 2;
 },
 {
 glyphname = uacute.ss01;
@@ -95212,6 +95334,7 @@ userData = {
 position = 415;
 width = 55;
 };
+changeCount = 1;
 },
 {
 glyphname = ubar;
@@ -95262,6 +95385,7 @@ width = 633;
 }
 );
 unicode = 649;
+changeCount = 1;
 },
 {
 glyphname = ubar.ss01;
@@ -95311,6 +95435,7 @@ scale = (1.1419,1);
 width = 608;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = ubreve;
@@ -95337,11 +95462,11 @@ shapes = (
 ref = u;
 },
 {
-pos = (105,2);
+pos = (104,2);
 ref = brevecomb;
 }
 );
-width = 584;
+width = 590;
 },
 {
 layerId = m004;
@@ -95362,6 +95487,7 @@ userData = {
 position = 415;
 width = 55;
 };
+changeCount = 2;
 },
 {
 glyphname = ubreve.ss01;
@@ -95408,6 +95534,7 @@ ref = brevecomb;
 width = 608;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = ucaron;
@@ -95434,11 +95561,11 @@ shapes = (
 ref = u;
 },
 {
-pos = (130,2);
+pos = (129,2);
 ref = caroncomb;
 }
 );
-width = 584;
+width = 590;
 },
 {
 layerId = m004;
@@ -95455,6 +95582,7 @@ width = 633;
 }
 );
 unicode = 468;
+changeCount = 2;
 },
 {
 glyphname = ucaron.ss01;
@@ -95501,6 +95629,7 @@ ref = caroncomb;
 width = 608;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = ucircumflex;
@@ -95527,11 +95656,11 @@ shapes = (
 ref = u;
 },
 {
-pos = (128,2);
+pos = (127,2);
 ref = circumflexcomb;
 }
 );
-width = 584;
+width = 590;
 },
 {
 layerId = m004;
@@ -95552,6 +95681,7 @@ userData = {
 position = 415;
 width = 55;
 };
+changeCount = 2;
 },
 {
 glyphname = ucircumflex.ss01;
@@ -95598,6 +95728,7 @@ ref = circumflexcomb;
 width = 608;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = udblgrave;
@@ -95645,6 +95776,7 @@ width = 633;
 }
 );
 unicode = 533;
+changeCount = 1;
 },
 {
 glyphname = udblgrave.ss01;
@@ -95691,6 +95823,7 @@ ref = dblgravecomb;
 width = 608;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = udieresis;
@@ -95717,11 +95850,11 @@ shapes = (
 ref = u;
 },
 {
-pos = (101,2);
+pos = (100,2);
 ref = dieresiscomb;
 }
 );
-width = 584;
+width = 590;
 },
 {
 layerId = m004;
@@ -95742,6 +95875,7 @@ userData = {
 position = 415;
 width = 55;
 };
+changeCount = 2;
 },
 {
 glyphname = udieresis.ss01;
@@ -95788,6 +95922,7 @@ ref = dieresiscomb;
 width = 608;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = udieresisacute;
@@ -95818,15 +95953,15 @@ shapes = (
 ref = u;
 },
 {
-pos = (101,2);
+pos = (100,2);
 ref = dieresiscomb;
 },
 {
-pos = (241,125);
+pos = (240,125);
 ref = acutecomb;
 }
 );
-width = 584;
+width = 590;
 },
 {
 layerId = m004;
@@ -95847,6 +95982,7 @@ width = 633;
 }
 );
 unicode = 472;
+changeCount = 2;
 },
 {
 glyphname = udieresisacute.ss01;
@@ -95905,6 +96041,7 @@ ref = acutecomb;
 width = 608;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = udieresiscaron;
@@ -95935,15 +96072,15 @@ shapes = (
 ref = u;
 },
 {
-pos = (101,2);
+pos = (100,2);
 ref = dieresiscomb;
 },
 {
-pos = (129,125);
+pos = (128,125);
 ref = caroncomb;
 }
 );
-width = 584;
+width = 590;
 },
 {
 layerId = m004;
@@ -95964,6 +96101,7 @@ width = 633;
 }
 );
 unicode = 474;
+changeCount = 2;
 },
 {
 glyphname = udieresiscaron.ss01;
@@ -96022,6 +96160,7 @@ ref = caroncomb;
 width = 608;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = udieresisgrave;
@@ -96052,15 +96191,15 @@ shapes = (
 ref = u;
 },
 {
-pos = (101,2);
+pos = (100,2);
 ref = dieresiscomb;
 },
 {
-pos = (147,135);
+pos = (146,135);
 ref = gravecomb;
 }
 );
-width = 584;
+width = 590;
 },
 {
 layerId = m004;
@@ -96081,6 +96220,7 @@ width = 633;
 }
 );
 unicode = 476;
+changeCount = 2;
 },
 {
 glyphname = udieresisgrave.ss01;
@@ -96139,6 +96279,7 @@ ref = gravecomb;
 width = 608;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = udieresismacron;
@@ -96169,15 +96310,15 @@ shapes = (
 ref = u;
 },
 {
-pos = (101,2);
+pos = (100,2);
 ref = dieresiscomb;
 },
 {
-pos = (86,125);
+pos = (85,125);
 ref = macroncomb;
 }
 );
-width = 584;
+width = 590;
 },
 {
 layerId = m004;
@@ -96198,6 +96339,7 @@ width = 633;
 }
 );
 unicode = 470;
+changeCount = 2;
 },
 {
 glyphname = udieresismacron.ss01;
@@ -96256,6 +96398,7 @@ ref = macroncomb;
 width = 608;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = udotbelow;
@@ -96282,11 +96425,11 @@ shapes = (
 ref = u;
 },
 {
-pos = (287,0);
+pos = (286,0);
 ref = dotbelowcomb;
 }
 );
-width = 584;
+width = 590;
 },
 {
 layerId = m004;
@@ -96303,6 +96446,7 @@ width = 633;
 }
 );
 unicode = 7909;
+changeCount = 2;
 },
 {
 glyphname = udotbelow.ss01;
@@ -96349,6 +96493,7 @@ ref = dotbelowcomb;
 width = 608;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = ugrave;
@@ -96375,11 +96520,11 @@ shapes = (
 ref = u;
 },
 {
-pos = (148,12);
+pos = (147,12);
 ref = gravecomb;
 }
 );
-width = 584;
+width = 590;
 },
 {
 layerId = m004;
@@ -96400,6 +96545,7 @@ userData = {
 position = 415;
 width = 55;
 };
+changeCount = 2;
 },
 {
 glyphname = ugrave.ss01;
@@ -96446,6 +96592,7 @@ ref = gravecomb;
 width = 608;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = uhookabove;
@@ -96493,6 +96640,7 @@ width = 633;
 }
 );
 unicode = 7911;
+changeCount = 1;
 },
 {
 glyphname = uhookabove.ss01;
@@ -96539,6 +96687,7 @@ ref = hookabovecomb;
 width = 608;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = uhorn;
@@ -96565,11 +96714,11 @@ shapes = (
 ref = u;
 },
 {
-pos = (415,-58);
+pos = (414,-58);
 ref = horncomb;
 }
 );
-width = 584;
+width = 590;
 },
 {
 layerId = m004;
@@ -96590,6 +96739,7 @@ userData = {
 position = 551;
 width = 64;
 };
+changeCount = 2;
 },
 {
 glyphname = uhorn.ss01;
@@ -96636,6 +96786,7 @@ ref = horncomb;
 width = 608;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = uhornacute;
@@ -96653,7 +96804,7 @@ pos = (241,2);
 ref = acutecomb;
 }
 );
-width = 584;
+width = 590;
 },
 {
 layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
@@ -96683,6 +96834,7 @@ width = 633;
 }
 );
 unicode = 7913;
+changeCount = 2;
 },
 {
 glyphname = uhornacute.ss01;
@@ -96729,6 +96881,7 @@ ref = acutecomb;
 width = 608;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = uhorndotbelow;
@@ -96746,7 +96899,7 @@ pos = (286,0);
 ref = dotbelowcomb;
 }
 );
-width = 584;
+width = 590;
 },
 {
 layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
@@ -96776,6 +96929,7 @@ width = 633;
 }
 );
 unicode = 7921;
+changeCount = 2;
 },
 {
 glyphname = uhorndotbelow.ss01;
@@ -96822,6 +96976,7 @@ ref = dotbelowcomb;
 width = 608;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = uhorngrave;
@@ -96839,7 +96994,7 @@ pos = (147,12);
 ref = gravecomb;
 }
 );
-width = 584;
+width = 590;
 },
 {
 layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
@@ -96869,6 +97024,7 @@ width = 633;
 }
 );
 unicode = 7915;
+changeCount = 2;
 },
 {
 glyphname = uhorngrave.ss01;
@@ -96915,6 +97071,7 @@ ref = gravecomb;
 width = 608;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = uhornhookabove;
@@ -96932,7 +97089,7 @@ pos = (180,2);
 ref = hookabovecomb;
 }
 );
-width = 584;
+width = 590;
 },
 {
 layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
@@ -96962,6 +97119,7 @@ width = 633;
 }
 );
 unicode = 7917;
+changeCount = 2;
 },
 {
 glyphname = uhornhookabove.ss01;
@@ -97008,6 +97166,7 @@ ref = hookabovecomb;
 width = 608;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = uhorntilde;
@@ -97025,7 +97184,7 @@ pos = (79,2);
 ref = tildecomb;
 }
 );
-width = 584;
+width = 590;
 },
 {
 layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
@@ -97055,6 +97214,7 @@ width = 633;
 }
 );
 unicode = 7919;
+changeCount = 2;
 },
 {
 glyphname = uhorntilde.ss01;
@@ -97101,6 +97261,7 @@ ref = tildecomb;
 width = 608;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = uhungarumlaut;
@@ -97127,11 +97288,11 @@ shapes = (
 ref = u;
 },
 {
-pos = (144,2);
+pos = (143,2);
 ref = hungarumlautcomb;
 }
 );
-width = 584;
+width = 590;
 },
 {
 layerId = m004;
@@ -97152,6 +97313,7 @@ userData = {
 position = 415;
 width = 55;
 };
+changeCount = 2;
 },
 {
 glyphname = uhungarumlaut.ss01;
@@ -97198,6 +97360,7 @@ ref = hungarumlautcomb;
 width = 608;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = uinvertedbreve;
@@ -97224,11 +97387,11 @@ shapes = (
 ref = u;
 },
 {
-pos = (104,2);
+pos = (103,2);
 ref = breveinvertedcomb;
 }
 );
-width = 584;
+width = 590;
 },
 {
 layerId = m004;
@@ -97249,6 +97412,7 @@ userData = {
 position = 415;
 width = 55;
 };
+changeCount = 2;
 },
 {
 glyphname = uinvertedbreve.ss01;
@@ -97299,6 +97463,7 @@ userData = {
 position = 415;
 width = 55;
 };
+changeCount = 1;
 },
 {
 glyphname = umacron;
@@ -97325,11 +97490,11 @@ shapes = (
 ref = u;
 },
 {
-pos = (87,2);
+pos = (86,2);
 ref = macroncomb;
 }
 );
-width = 584;
+width = 590;
 },
 {
 layerId = m004;
@@ -97350,6 +97515,7 @@ userData = {
 position = 415;
 width = 55;
 };
+changeCount = 2;
 },
 {
 glyphname = umacron.ss01;
@@ -97396,6 +97562,7 @@ ref = macroncomb;
 width = 608;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = umacrondieresis;
@@ -97455,6 +97622,7 @@ width = 633;
 }
 );
 unicode = 7803;
+changeCount = 1;
 },
 {
 glyphname = umacrondieresis.ss01;
@@ -97513,6 +97681,7 @@ ref = dieresiscomb;
 width = 608;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = uogonek;
@@ -97539,11 +97708,11 @@ shapes = (
 ref = u;
 },
 {
-pos = (413,30);
+pos = (412,30);
 ref = ogonekcomb;
 }
 );
-width = 584;
+width = 590;
 },
 {
 layerId = m004;
@@ -97564,6 +97733,7 @@ userData = {
 position = 430;
 width = 57;
 };
+changeCount = 2;
 },
 {
 glyphname = uogonek.ss01;
@@ -97610,6 +97780,7 @@ ref = ogonekcomb;
 width = 608;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = uring;
@@ -97636,11 +97807,11 @@ shapes = (
 ref = u;
 },
 {
-pos = (137,-3);
+pos = (136,-3);
 ref = ringcomb;
 }
 );
-width = 584;
+width = 590;
 },
 {
 layerId = m004;
@@ -97661,6 +97832,7 @@ userData = {
 position = 415;
 width = 55;
 };
+changeCount = 2;
 },
 {
 glyphname = uring.ss01;
@@ -97707,6 +97879,7 @@ ref = ringcomb;
 width = 608;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = utilde;
@@ -97733,11 +97906,11 @@ shapes = (
 ref = u;
 },
 {
-pos = (80,2);
+pos = (79,2);
 ref = tildecomb;
 }
 );
-width = 584;
+width = 590;
 },
 {
 layerId = m004;
@@ -97758,6 +97931,7 @@ userData = {
 position = 415;
 width = 55;
 };
+changeCount = 2;
 },
 {
 glyphname = utilde.ss01;
@@ -97804,6 +97978,7 @@ ref = tildecomb;
 width = 608;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = utildeacute;
@@ -97863,6 +98038,7 @@ width = 633;
 }
 );
 unicode = 7801;
+changeCount = 1;
 },
 {
 glyphname = utildeacute.ss01;
@@ -97921,6 +98097,7 @@ ref = acutecomb;
 width = 608;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = v;
@@ -99917,6 +100094,7 @@ width = 573;
 }
 );
 unicode = 7821;
+changeCount = 1;
 },
 {
 glyphname = y;
@@ -101145,6 +101323,7 @@ userData = {
 position = 417;
 width = 53;
 };
+changeCount = 1;
 },
 {
 glyphname = yacute.ss01;
@@ -101242,6 +101421,7 @@ userData = {
 position = 417;
 width = 53;
 };
+changeCount = 1;
 },
 {
 glyphname = ycircumflex.ss01;
@@ -101339,6 +101519,7 @@ userData = {
 position = 417;
 width = 53;
 };
+changeCount = 1;
 },
 {
 glyphname = ydieresis.ss01;
@@ -101432,6 +101613,7 @@ width = 595;
 }
 );
 unicode = 7823;
+changeCount = 1;
 },
 {
 glyphname = ydotbelow;
@@ -101479,6 +101661,7 @@ width = 595;
 }
 );
 unicode = 7925;
+changeCount = 1;
 },
 {
 glyphname = ydotbelow.ss01;
@@ -101572,6 +101755,7 @@ width = 595;
 }
 );
 unicode = 7923;
+changeCount = 1;
 },
 {
 glyphname = ygrave.ss01;
@@ -101665,6 +101849,7 @@ width = 595;
 }
 );
 unicode = 7927;
+changeCount = 1;
 },
 {
 glyphname = yhookabove.ss01;
@@ -101762,6 +101947,7 @@ userData = {
 position = 417;
 width = 53;
 };
+changeCount = 1;
 },
 {
 glyphname = ymacron.ss01;
@@ -101855,6 +102041,7 @@ width = 595;
 }
 );
 unicode = 7929;
+changeCount = 1;
 },
 {
 glyphname = ytilde.ss01;
@@ -104698,6 +104885,7 @@ width = 736;
 metricLeft = f;
 metricRight = i;
 unicode = 64257;
+changeCount = 1;
 },
 {
 glyphname = fi.dlig;
@@ -122114,6 +122302,7 @@ width = 619;
 }
 );
 unicode = 1072;
+changeCount = 1;
 },
 {
 glyphname = "a-cy.ss01";
@@ -122148,6 +122337,7 @@ ref = a.ss01;
 width = 548;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = "be-cy";
@@ -123626,6 +123816,7 @@ width = 442;
 }
 );
 unicode = 1107;
+changeCount = 1;
 },
 {
 glyphname = "geupturn-cy";
@@ -123827,6 +124018,7 @@ width = 442;
 }
 );
 unicode = 1169;
+changeCount = 1;
 },
 {
 glyphname = "de-cy";
@@ -126785,6 +126977,7 @@ width = 661;
 }
 );
 unicode = 1081;
+changeCount = 1;
 },
 {
 glyphname = "iishort-cy.ss01";
@@ -126830,6 +127023,7 @@ ref = "brevecomb-cy";
 width = 624;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = "ka-cy";
@@ -127699,6 +127893,7 @@ width = 579;
 }
 );
 unicode = 1116;
+changeCount = 1;
 },
 {
 glyphname = "kje-cy.ss01";
@@ -127744,6 +127939,7 @@ ref = acutecomb;
 width = 560;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = "el-cy";
@@ -129834,6 +130030,7 @@ width = 591;
 }
 );
 unicode = 1088;
+changeCount = 1;
 },
 {
 glyphname = "es-cy";
@@ -130128,6 +130325,7 @@ width = 595;
 }
 );
 unicode = 1091;
+changeCount = 1;
 },
 {
 glyphname = "u-cy.ss01";
@@ -130209,6 +130407,7 @@ width = 595;
 }
 );
 unicode = 1118;
+changeCount = 1;
 },
 {
 glyphname = "ushort-cy.ss01";
@@ -130608,6 +130807,7 @@ width = 573;
 }
 );
 unicode = 1093;
+changeCount = 1;
 },
 {
 glyphname = "ha-cy.ss01";
@@ -132427,6 +132627,7 @@ width = 968;
 }
 );
 unicode = 1097;
+changeCount = 1;
 },
 {
 glyphname = "shcha-cy.ss01";
@@ -132627,6 +132828,7 @@ ref = _corner.cy_sh;
 width = 1022;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = "softsign-cy";
@@ -133406,6 +133608,7 @@ ref = idotless.ss01;
 width = 769;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = "hardsign-cy";
@@ -134042,7 +134245,7 @@ shapes = (
 ref = i;
 }
 );
-width = 229;
+width = 236;
 },
 {
 layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
@@ -134064,6 +134267,7 @@ width = 313;
 }
 );
 unicode = 1110;
+changeCount = 2;
 },
 {
 glyphname = "i-cy.ss01";
@@ -134147,6 +134351,7 @@ width = 313;
 }
 );
 unicode = 1111;
+changeCount = 1;
 },
 {
 glyphname = "yi-cy.ss01";
@@ -134242,7 +134447,7 @@ shapes = (
 ref = hbar;
 }
 );
-width = 594;
+width = 606;
 },
 {
 layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
@@ -134264,6 +134469,7 @@ width = 629;
 }
 );
 unicode = 1115;
+changeCount = 2;
 },
 {
 glyphname = "tshe-cy.001";
@@ -134297,6 +134503,7 @@ ref = hbar.ss01;
 width = 599;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = "yu-cy";
@@ -135454,6 +135661,7 @@ width = 606;
 }
 );
 unicode = 1187;
+changeCount = 1;
 },
 {
 glyphname = "chedescender-cy";
@@ -135648,6 +135856,7 @@ width = 614;
 }
 );
 unicode = 1207;
+changeCount = 1;
 },
 {
 glyphname = "chedescender-cy.ss01";
@@ -135845,6 +136054,7 @@ ref = _corner.cy_lc;
 width = 541;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = "shha-cy";
@@ -135885,6 +136095,7 @@ width = 552;
 }
 );
 unicode = 1211;
+changeCount = 1;
 },
 {
 glyphname = "abreve-cy";
@@ -135932,6 +136143,7 @@ width = 619;
 }
 );
 unicode = 1233;
+changeCount = 1;
 },
 {
 glyphname = "abreve-cy.ss01";
@@ -135980,6 +136192,7 @@ ref = "brevecomb-cy";
 width = 611;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = "schwa-cy";
@@ -136065,6 +136278,7 @@ width = 683;
 }
 );
 unicode = 1251;
+changeCount = 1;
 },
 {
 glyphname = "imacron-cy.ss01";
@@ -136110,6 +136324,7 @@ ref = macroncomb;
 width = 624;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = "umacron-cy";
@@ -136157,6 +136372,7 @@ width = 595;
 }
 );
 unicode = 1263;
+changeCount = 1;
 },
 {
 glyphname = "umacron-cy.ss01";
