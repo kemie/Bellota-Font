@@ -1,5 +1,5 @@
 {
-.appVersion = "3180";
+.appVersion = "3206";
 .formatVersion = 3;
 DisplayStrings = (
 "MTATVolkswumixNHAVYjzzYSEedargeton kokonokn",
@@ -134702,7 +134702,7 @@ background = {
 hints = (
 {
 name = _corner.left;
-place = (0, 0);
+place = (0,0);
 type = Corner;
 }
 );
@@ -134815,7 +134815,7 @@ background = {
 hints = (
 {
 name = _corner.left;
-place = (0, 0);
+place = (0,0);
 type = Corner;
 }
 );
@@ -135195,7 +135195,7 @@ background = {
 hints = (
 {
 name = _corner.left;
-place = (0, 0);
+place = (0,0);
 type = Corner;
 }
 );
@@ -135607,7 +135607,7 @@ background = {
 hints = (
 {
 name = _corner.left;
-place = (0, 0);
+place = (0,0);
 type = Corner;
 }
 );
@@ -135720,7 +135720,7 @@ background = {
 hints = (
 {
 name = _corner.left;
-place = (0, 0);
+place = (0,0);
 type = Corner;
 }
 );
@@ -194509,6 +194509,7 @@ name = italicAngle;
 value = "7";
 }
 );
+exports = 0;
 name = "Bellota Italic";
 properties = (
 {
@@ -194951,6 +194952,7 @@ name = italicAngle;
 value = "7";
 }
 );
+exports = 0;
 name = "BellotaText Italic";
 properties = (
 {
