@@ -12,15 +12,15 @@
 *,Number,*,*,0.8,*,.numr,
 *,Number,*,*,0.8,*,.inferior,
 *,Number,Fraction,minor,1.4,*,*,
-*,Number,*,*,0.8,*,.dnom,
+*,Number,*,*,1.0,*,*,
 *,Number,Decimal Digit,*,1.2,one,*,
 
 # Punctuation
-*,Punctuation,*,*,1.2,*,*,
-*,Punctuation,Other,*,1.4,*,*,
-*,Punctuation,Dash,*,1.0,*,*,
-*,Punctuation,Quote,*,1.1,*,*,
-*,Punctuation,Parenthesis,*,1.2,*,*,
+*,Punctuation,*,*,1.1,*,*,
+*,Punctuation,Other,*,1.1,*,*,
+*,Punctuation,Dash,*,0.75,hyphen,*,
+*,Punctuation,Quote,*,1.0,quotedblbase,*,
+*,Punctuation,Parenthesis,*,1.0,parenleft,*,
 
 # Separator
 
