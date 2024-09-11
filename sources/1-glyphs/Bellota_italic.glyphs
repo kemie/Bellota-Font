@@ -199662,15 +199662,15 @@ ss01
 name = "Axis Mappings";
 value = {
 wght = {
-38 = 200;
-47 = 300;
-60 = 400;
-73 = 500;
-90 = 600;
-109 = 700;
-129 = 800;
-148 = 900;
-165 = 1000;
+38 = 100;
+47 = 200;
+60 = 300;
+74 = 400;
+91 = 500;
+109 = 600;
+128 = 700;
+148 = 800;
+165 = 900;
 };
 };
 },
@@ -200161,6 +200161,13 @@ type = variable;
 axesValues = (
 38
 );
+name = Thin;
+weightClass = 100;
+},
+{
+axesValues = (
+47
+);
 customParameters = (
 {
 name = italicAngle;
@@ -200186,16 +200193,13 @@ Location = 200;
 );
 }
 );
-instanceInterpolations = {
-"49C16FD3-6177-408B-A733-AEB3898BB77C" = 1;
-};
 linkStyle = Extralight;
 name = "Extra Light";
 weightClass = 200;
 },
 {
 axesValues = (
-47
+59
 );
 customParameters = (
 {
@@ -200217,16 +200221,12 @@ Location = 300;
 );
 }
 );
-instanceInterpolations = {
-"0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0" = 0.20455;
-"49C16FD3-6177-408B-A733-AEB3898BB77C" = 0.79545;
-};
 name = Light;
 weightClass = 300;
 },
 {
 axesValues = (
-60
+74
 );
 customParameters = (
 {
@@ -200243,16 +200243,12 @@ Location = 400;
 );
 }
 );
-instanceInterpolations = {
-"0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0" = 0.5;
-"49C16FD3-6177-408B-A733-AEB3898BB77C" = 0.5;
-};
 linkStyle = Regular;
 name = Italic;
 },
 {
 axesValues = (
-76
+91
 );
 customParameters = (
 {
@@ -200274,43 +200270,8 @@ Location = 500;
 );
 }
 );
-instanceInterpolations = {
-"0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0" = 0.86364;
-"49C16FD3-6177-408B-A733-AEB3898BB77C" = 0.13636;
-};
 name = Medium;
 weightClass = 500;
-},
-{
-axesValues = (
-90
-);
-customParameters = (
-{
-name = italicAngle;
-value = "7";
-},
-{
-disabled = 1;
-name = Filter;
-value = "Transformations;OffsetX:-20;ScaleX:97;SlantCorrection:1;Slant:7.5;Origin:3.5;";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 600;
-}
-);
-}
-);
-instanceInterpolations = {
-"0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0" = 0.90361;
-m004 = 0.09639;
-};
-name = "Semi Bold";
-weightClass = 600;
 },
 {
 axesValues = (
@@ -200331,22 +200292,17 @@ name = "Axis Location";
 value = (
 {
 Axis = Weight;
-Location = 700;
+Location = "700";
 }
 );
 }
 );
-instanceInterpolations = {
-"0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0" = 0.6747;
-m004 = 0.3253;
-};
-linkStyle = Regular;
-name = Bold;
-weightClass = 700;
+name = "Semi Bold";
+weightClass = 600;
 },
 {
 axesValues = (
-129
+128
 );
 customParameters = (
 {
@@ -200363,21 +200319,45 @@ name = "Axis Location";
 value = (
 {
 Axis = Weight;
-Location = 800;
+Location = "700";
 }
 );
 }
 );
-instanceInterpolations = {
-"0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0" = 0.43373;
-m004 = 0.56627;
-};
+linkStyle = Regular;
+name = Bold;
+weightClass = 700;
+},
+{
+axesValues = (
+148
+);
+customParameters = (
+{
+name = italicAngle;
+value = "7";
+},
+{
+disabled = 1;
+name = Filter;
+value = "Transformations;OffsetX:-20;ScaleX:97;SlantCorrection:1;Slant:7.5;Origin:3.5;";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = "700";
+}
+);
+}
+);
 name = "Extra Bold";
 weightClass = 800;
 },
 {
 axesValues = (
-148
+165
 );
 customParameters = (
 {
@@ -200399,10 +200379,6 @@ Location = 900;
 );
 }
 );
-instanceInterpolations = {
-"0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0" = 0.20482;
-m004 = 0.79518;
-};
 name = Black;
 weightClass = 900;
 },
@@ -200430,9 +200406,7 @@ Location = 1000;
 );
 }
 );
-instanceInterpolations = {
-m004 = 1;
-};
+exports = 0;
 name = "Extra Black";
 weightClass = 1000;
 },
@@ -200875,9 +200849,6 @@ schwa
 }
 );
 exports = 0;
-instanceInterpolations = {
-"49C16FD3-6177-408B-A733-AEB3898BB77C" = 1;
-};
 isItalic = 1;
 linkStyle = Extralight;
 name = "Extralight Italic";
@@ -201334,10 +201305,6 @@ schwa
 }
 );
 exports = 0;
-instanceInterpolations = {
-"0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0" = 0.20455;
-"49C16FD3-6177-408B-A733-AEB3898BB77C" = 0.79545;
-};
 isItalic = 1;
 name = "Light Italic";
 properties = (
@@ -201798,10 +201765,6 @@ schwa
 }
 );
 exports = 0;
-instanceInterpolations = {
-"0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0" = 0.5;
-"49C16FD3-6177-408B-A733-AEB3898BB77C" = 0.5;
-};
 isItalic = 1;
 linkStyle = Regular;
 name = Italic;
@@ -202262,10 +202225,6 @@ schwa
 }
 );
 exports = 0;
-instanceInterpolations = {
-"0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0" = 0.86364;
-"49C16FD3-6177-408B-A733-AEB3898BB77C" = 0.13636;
-};
 isItalic = 1;
 name = "Medium Italic";
 properties = (
@@ -202726,10 +202685,6 @@ schwa
 }
 );
 exports = 0;
-instanceInterpolations = {
-"0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0" = 0.90361;
-m004 = 0.09639;
-};
 isItalic = 1;
 name = "Semibold Italic";
 properties = (
@@ -203190,10 +203145,6 @@ schwa
 }
 );
 exports = 0;
-instanceInterpolations = {
-"0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0" = 0.6747;
-m004 = 0.3253;
-};
 isBold = 1;
 isItalic = 1;
 linkStyle = Regular;
@@ -203656,10 +203607,6 @@ schwa
 }
 );
 exports = 0;
-instanceInterpolations = {
-"0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0" = 0.43373;
-m004 = 0.56627;
-};
 isItalic = 1;
 name = "Extrabold Italic";
 properties = (
@@ -204120,10 +204067,6 @@ schwa
 }
 );
 exports = 0;
-instanceInterpolations = {
-"0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0" = 0.20482;
-m004 = 0.79518;
-};
 isItalic = 1;
 name = "Black Italic";
 properties = (
@@ -204584,9 +204527,6 @@ schwa
 }
 );
 exports = 0;
-instanceInterpolations = {
-m004 = 1;
-};
 isItalic = 1;
 name = "Extrablack Italic";
 properties = (
@@ -206801,7 +206741,9 @@ value = "Kemie Guaida:Bellota:2022";
 }
 );
 settings = {
+fontType = variable;
 keepAlternatesTogether = 1;
+previewRemoveOverlap = 0;
 };
 stems = (
 {
