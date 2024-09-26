@@ -12,7 +12,10 @@ Basic Font Information
 
 Bellota is an ornamented, low contrast sans-serif with text and swash alernates. It’s just cute enough!
 
-It comes in two variations: regular and text. Each of these comes in tree weights (light/regular/bold) and italics. There are stylistic alternates (for swash and non-ornamented characters) and ligatures available through opentype features.
+It comes in two subfamilies: Bellota and Bellota weights Each of these comes in 9 weights (thin, extralight, light, regular, medium, semibold, bold, extrabold, black) with their corresponding italics. clea
+
+Bellota has stylistic alternate setsligatures available through opentype features.
+
 Stylistic Style1: Text
 Stylistic Style 2: Swash caps
 
@@ -27,6 +30,14 @@ To contribute to the project contact Kemie Guaida at hi@letradora.com
 
 Changelog
 ————————————————————————————————
+=v5.0, Oct  2024 (Kemie Guaida)=
++ Expanded weights: thin to black
++ Variable font support
++ Better spacing and kerning
++ Better consistency on character outlines
++ Expanded character set
+
+
 =v4.0, Oct  2019 (Kemie Guaida)=
 + Basic Cyrillic support
 + Better Vietnamese diacritics
