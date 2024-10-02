@@ -1,27 +1,35 @@
 
-Bellota Font Family
+Bellota & Bellota Text font families
 ==============================
-![Bellota cover](http://www.pixilate.com/roots/wp-content/uploads/2012/12/bellota1.png)
+![Bellota font cover](documentation/images/Bellota_cover.png)
+![Bellota Text font cover](documentation/images/BellotaText_cover.png)
 
-Bellota is an ornamented, low contrast sans-serif with text and swash alternates. It’s just cute enough!
+Bellota is an ornamented, low contrast sans-serif with swash alternates. It’s just cute enough!
 
-It comes in two variations: regular and text. Each of these comes in tree weights (light/regular/bold) and italics. There are stylistic alternates (for swash and non-ornamented characters) and ligatures available through opentype features.
-Stylistic Style1: Text
-Stylistic Style 2: Swash caps
 
-Bellota supports most latin. languages and basic cyrillic
+It comes in two subfamilies: **Bellota** and **Bellota Text**. Each of these comes in 9 weights (thin, extralight, light, regular, medium, semibold, bold, extrabold, black) with their corresponding italics. Bellota also comes as a variable font. 
+
+Bellota has stylistic alternate sets and ligatures available through opentype features.
+
+* Stylistic Style1: Text
+* Stylistic Style 2: Swash caps
+
+Bellota supports most latin languages and basic cyrillic
 
 Bellota is based on the font "Snippet" by Gesine Todt (www.gesine-todt.de)
 
 
-To contribute to the project contact Kemie Guaida at kemie@pixilate.com
-
-![Bellota charset](http://www.pixilate.com/roots/wp-content/uploads/2012/12/bellota-04.png)
-![Bellota sample](http://www.pixilate.com/roots/wp-content/uploads/2012/12/bellota2.png)
+To contribute to the project contact  Kemie Guaida at [hi@letradora.com](mailto://hi@letradora.com)
 
 
-# Licence	  
-The **Bellota Family** is licensed under the [SIL Open Font Licence Version 1.1](http://scripts.sil.org/OFL). The Open Font License is a free software license, and as such permits the fonts to be used, modified, and distributed freely (so long as the resulting fonts remain under the Open Font License). 
+![Bellota font cover](documentation/images/Bellota_waterfall.png)
+![Bellota Text font cover](documentation/images/BellotaText_waterfall.png)
+![Bellota font cover](documentation/images/Bellota_text.png)
+![Bellota Text font cover](documentation/images/BellotaText_text.png)
+
+
+# License	  
+The **Bellota Family** is licensed under the [SIL Open Font License Version 1.1](http://scripts.sil.org/OFL). The Open Font License is a free software license, and as such permits the fonts to be used, modified, and distributed freely (so long as the resulting fonts remain under the Open Font License). 
 
 In other words, you are free to use it for any purpose, commercial included.
 
@@ -31,7 +39,13 @@ If you remix or modify the font, I'd love to hear about it!.
 Because Bellota uses components that `fontmake` cannot currently build (as of Jan. 2020) such as corner components, we’re using a partially automated build process.
 To generate correct TTFs, export TTFs directly out of Glyphs.app (remove overlaps, autohint), then run the partial build script `build.sh` to change a few things regarding the hinting settings.
 
-# Changelog	 
+# Changelog	
+## v5.0, Sept 2024
++ Expanded weights: thin to black
++ Variable font support
++ Better spacing and kerning
++ Better consistency on character outlines
++ Expanded character set 
 
 ## v4.1, Jan 2020
 + Bumped to Google Fonts specs 
@@ -56,9 +70,9 @@ To generate correct TTFs, export TTFs directly out of Glyphs.app (remove overlap
 + Minor fixes.
 
 # Questions? Comments?
-The font was made and is maintained by [Kemie Guaida](http://www.pixilate.com). 
+The font was made and is maintained by [Kemie Guaida](https://www.letradora.com). 
 
-If you have questions or suggestions, you can open an issue here at github, or ping me via twitter [@kemie](http://twitter.com/kemie)
+If you have questions or suggestions, you can open an issue here at github, or ping me via instagram [@kemie](https://www.instagram.com/kemieg/)
 
 
 
