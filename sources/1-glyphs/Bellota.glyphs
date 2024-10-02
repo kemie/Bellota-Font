@@ -1,6 +1,10 @@
 {
 .appVersion = "3322";
 .formatVersion = 3;
+DisplayStrings = (
+"ђ",
+"/Dzhe-cy.ss01"
+);
 axes = (
 {
 name = Weight;
@@ -10,7 +14,7 @@ tag = wght;
 classes = (
 {
 automatic = 1;
-code = "A A.ss01 A.swsh Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adblgrave Adieresis Adieresismacron Adotaccent Adotbelow Adotmacron Agrave Ahookabove Ainvertedbreve Amacron Aogonek Aring Aringacute Atilde Atilde.ss01 AE AE.ss01 AE.swsh AEacute AEacute.ss01 AEmacron AEmacron.ss01 B B.ss01 B.swsh Bdotaccent Bdotaccent.ss01 Bdotbelow Bdotbelow.ss01 Bmacronbelow C C.ss01 C.swsh Cacute Cacute.ss01 Ccaron Ccaron.ss01 Ccedilla Ccedilla.ss01 Ccedillaacute Ccedillaacute.ss01 Ccircumflex Ccircumflex.ss01 Cdotaccent Cdotaccent.ss01 D D.ss01 D.swsh DZ DZ.ss01 DZcaron DZcaron.ss01 Dcaron Dcaron.ss01 Dcedilla Dcircumflexbelow Dcroat Dcroat.ss01 Ddotaccent Ddotaccent.ss01 Ddotbelow Ddotbelow.ss01 Dmacronbelow Dz Dz.ss01 Dzcaron Dzcaron.ss01 Eth Eth.ss01 E E.ss01 E.swsh Eacute Eacute.ss01 Ebreve Ebreve.ss01 Ecaron Ecaron.ss01 Ecedilla Ecedilla.ss01 Ecedillabreve Ecircumflex Ecircumflex.ss01 Ecircumflexacute Ecircumflexacute.ss01 Ecircumflexbelow Ecircumflexdotbelow Ecircumflexdotbelow.ss01 Ecircumflexgrave Ecircumflexgrave.ss01 Ecircumflexhookabove Ecircumflexhookabove.ss01 Ecircumflextilde Ecircumflextilde.ss01 Edblgrave Edblgrave.ss01 Edieresis Edieresis.ss01 Edotaccent Edotaccent.ss01 Edotbelow Edotbelow.ss01 Egrave Egrave.ss01 Ehookabove Ehookabove.ss01 Einvertedbreve Einvertedbreve.ss01 Emacron Emacron.ss01 Emacronacute Emacronacute.ss01 Emacrongrave Emacrongrave.ss01 Eogonek Eogonek.ss01 Etilde Etilde.ss01 Schwa F F.ss01 F.swsh Fdotaccent Fdotaccent.ss01 G G.ss01 G.swsh Gacute Gacute.ss01 Gbreve Gbreve.ss01 Gcaron Gcaron.ss01 Gcircumflex Gcircumflex.ss01 Gcommaaccent Gcommaaccent.ss01 Gdotaccent Gdotaccent.ss01 Gmacron Gmacron.ss01 H H.ss01 H.swsh Hbar Hbar.ss01 Hbrevebelow Hbrevebelow.ss01 Hcaron Hcaron.ss01 Hcedilla Hcircumflex Hcircumflex.ss01 Hdieresis Hdieresis.ss01 Hdotaccent Hdotbelow Hdotbelow.ss01 I I.swsh IJ IJ.ss01 Iacute Ibreve Icaron Icircumflex Idblgrave Idieresis Idieresisacute Idotaccent Idotbelow Igrave Ihookabove Iinvertedbreve Imacron Iogonek Istroke Itilde J J.ss01 J.swsh Jacute Jacute.ss01 Jcircumflex Jcircumflex.ss01 K K.ss01 K.swsh Kcaron Kcaron.ss01 Kcommaaccent Kcommaaccent.ss01 Kdotbelow L L.swsh LJ LJ.ss01 Lacute Lcaron Lcircumflexbelow Lcommaaccent Ldot Ldotbelow Ldotbelowmacron Lj Lmacronbelow Lslash M M.ss01 M.swsh Macute Mdotaccent Mdotaccent.ss01 Mdotbelow Mdotbelow.ss01 N N.ss01 N.swsh NJ NJ.ss01 Nacute Nacute.ss01 Ncaron Ncaron.ss01 Ncircumflexbelow Ncommaaccent Ncommaaccent.ss01 Ndotaccent Ndotaccent.ss01 Ndotbelow Ndotbelow.ss01 Ngrave Ngrave.ss01 Nj Nj.ss01 Nmacronbelow Nmacronbelow.ss01 Ntilde Ntilde.ss01 O Oacute Obreve Ocaron Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odblgrave Odieresis Odieresismacron Odotaccent Odotaccentmacron Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Oinvertedbreve Omacron Omacronacute Omacrongrave Oogonek Oogonekmacron Oslash Oslashacute Otilde Otildeacute Otildedieresis Otildemacron OE P P.ss01 P.swsh Pacute Pdotaccent Pdotaccent.ss01 Thorn Thorn.ss01 Q Q.swsh R R.ss01 R.swsh Racute Racute.ss01 Rcaron Rcaron.ss01 Rcommaaccent Rcommaaccent.ss01 Rdblgrave Rdblgrave.ss01 Rdotaccent Rdotbelow Rdotbelow.ss01 Rdotbelowmacron Rinvertedbreve Rinvertedbreve.ss01 Rmacronbelow Rmacronbelow.ss01 S S.ss01 S.swsh Sacute Sacute.ss01 Sacutedotaccent Sacutedotaccent.ss01 Scaron Scaron.ss01 Scarondotaccent Scarondotaccent.ss01 Scedilla Scedilla.ss01 Scircumflex Scircumflex.ss01 Scommaaccent Scommaaccent.ss01 Sdotaccent Sdotaccent.ss01 Sdotbelow Sdotbelow.ss01 Sdotbelowdotaccent Sdotbelowdotaccent.ss01 Germandbls Germandbls.swsh T T.ss01 T.swsh Tbar Tbar.ss01 Tcaron Tcaron.ss01 Tcedilla Tcedilla.ss01 Tcommaaccent Tcommaaccent.ss01 Tdotaccent Tdotaccent.ss01 Tdotbelow Tdotbelow.ss01 Tmacronbelow Tmacronbelow.ss01 U U.ss01 U.swsh Uacute Uacute.ss01 Ubreve Ubreve.ss01 Ucaron Ucaron.ss01 Ucircumflex Ucircumflex.ss01 Ucircumflexbelow Udblgrave Udblgrave.ss01 Udieresis Udieresis.ss01 Udieresisacute Udieresisacute.ss01 Udieresisbelow Udieresiscaron Udieresiscaron.ss01 Udieresisgrave Udieresisgrave.ss01 Udieresismacron Udieresismacron.ss01 Udotbelow Udotbelow.ss01 Ugrave Ugrave.ss01 Uhookabove Uhookabove.ss01 Uhorn Uhorn.ss01 Uhornacute Uhornacute.ss01 Uhorndotbelow Uhorndotbelow.ss01 Uhorngrave Uhorngrave.ss01 Uhornhookabove Uhornhookabove.ss01 Uhorntilde Uhorntilde.ss01 Uhungarumlaut Uhungarumlaut.ss01 Uinvertedbreve Uinvertedbreve.ss01 Umacron Umacron.ss01 Umacrondieresis Umacrondieresis.ss01 Uogonek Uogonek.ss01 Uring Uring.ss01 Utilde Utilde.ss01 Utildeacute Utildeacute.ss01 V V.ss01 V.swsh Vdotbelow Vtilde W W.ss01 W.swsh Wacute Wacute.ss01 Wcircumflex Wcircumflex.ss01 Wdieresis Wdieresis.ss01 Wdotaccent Wdotbelow Wgrave Wgrave.ss01 X X.ss01 X.swsh Xdieresis Xdieresis.ss01 Xdotaccent Y Y.ss01 Y.swsh Yacute Yacute.ss01 Ycircumflex Ycircumflex.ss01 Ydieresis Ydieresis.ss01 Ydotaccent Ydotaccent.ss01 Ydotbelow Ydotbelow.ss01 Ygrave Ygrave.ss01 Yhookabove Yhookabove.ss01 Ymacron Ymacron.ss01 Ytilde Ytilde.ss01 Z Z.ss01 Z.swsh Zacute Zacute.ss01 Zcaron Zcaron.ss01 Zcircumflex Zdotaccent Zdotaccent.ss01 Zdotbelow Zdotbelow.ss01 Zmacronbelow Zstroke Saltillo Nhookleft Eng Eng.ss01 Ubar Ubar.ss01 R_A.dlig R_A.dlig.ss01 T_h.dlig T_h.dlig.ss01 A-cy A-cy.ss01 Be-cy Ve-cy Ve-cy.ss01 Ge-cy Gje-cy Geupturn-cy De-cy Ie-cy Ie-cy.ss01 Iegrave-cy Iegrave-cy.ss01 Io-cy Io-cy.ss01 Zhe-cy Zhe-cy.ss01 Ze-cy Ii-cy Ii-cy.ss01 Iishort-cy Iishort-cy.ss01 Iigrave-cy Iigrave-cy.ss01 Ka-cy Kje-cy El-cy El-cy.ss01 Em-cy Em-cy.ss01 En-cy En-cy.ss01 O-cy Pe-cy Er-cy Er-cy.ss01 Es-cy Es-cy.ss01 Te-cy Te-cy.ss01 U-cy U-cy.ss01 Ushort-cy Ushort-cy.ss01 Ef-cy Ha-cy Ha-cy.ss01 Tse-cy Tse-cy.ss01 Che-cy Che-cy.ss01 Sha-cy Sha-cy.ss01 Shcha-cy Shcha-cy.ss01 Dzhe-cy Dzhe-cy.ss01 Softsign-cy Yeru-cy Hardsign-cy Lje-cy Nje-cy Dze-cy Dze-cy.ss01 E-cy Ereversed-cy I-cy Yi-cy Je-cy Je-cy.ss01 Tshe-cy Tshe-cy.ss01 Yu-cy Ya-cy Ya-cy.ss01 Dje-cy Dje-cy.ss01 Endescender-cy Endescender-cy.ss01 Chedescender-cy Chedescender-cy.ss01 Shha-cy Abreve-cy Abreve-cy.ss01 Schwa-cy Imacron-cy Imacron-cy.ss01 Umacron-cy Umacron-cy.ss01 Delta Omega";
+code = "A A.ss01 A.swsh Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adblgrave Adieresis Adieresismacron Adotaccent Adotbelow Adotmacron Agrave Ahookabove Ainvertedbreve Amacron Aogonek Aring Aringacute Atilde Atilde.ss01 AE AE.ss01 AE.swsh AEacute AEacute.ss01 AEmacron AEmacron.ss01 B B.ss01 B.swsh Bdotaccent Bdotaccent.ss01 Bdotbelow Bdotbelow.ss01 Bmacronbelow C C.ss01 C.swsh Cacute Cacute.ss01 Ccaron Ccaron.ss01 Ccedilla Ccedilla.ss01 Ccedillaacute Ccedillaacute.ss01 Ccircumflex Ccircumflex.ss01 Cdotaccent Cdotaccent.ss01 D D.ss01 D.swsh DZ DZ.ss01 DZcaron DZcaron.ss01 Dcaron Dcaron.ss01 Dcedilla Dcircumflexbelow Dcroat Dcroat.ss01 Ddotaccent Ddotaccent.ss01 Ddotbelow Ddotbelow.ss01 Dmacronbelow Dz Dz.ss01 Dzcaron Dzcaron.ss01 Eth Eth.ss01 E E.ss01 E.swsh Eacute Eacute.ss01 Ebreve Ebreve.ss01 Ecaron Ecaron.ss01 Ecedilla Ecedilla.ss01 Ecedillabreve Ecircumflex Ecircumflex.ss01 Ecircumflexacute Ecircumflexacute.ss01 Ecircumflexbelow Ecircumflexdotbelow Ecircumflexdotbelow.ss01 Ecircumflexgrave Ecircumflexgrave.ss01 Ecircumflexhookabove Ecircumflexhookabove.ss01 Ecircumflextilde Ecircumflextilde.ss01 Edblgrave Edblgrave.ss01 Edieresis Edieresis.ss01 Edotaccent Edotaccent.ss01 Edotbelow Edotbelow.ss01 Egrave Egrave.ss01 Ehookabove Ehookabove.ss01 Einvertedbreve Einvertedbreve.ss01 Emacron Emacron.ss01 Emacronacute Emacronacute.ss01 Emacrongrave Emacrongrave.ss01 Eogonek Eogonek.ss01 Etilde Etilde.ss01 Schwa F F.ss01 F.swsh Fdotaccent Fdotaccent.ss01 G G.ss01 G.swsh Gacute Gacute.ss01 Gbreve Gbreve.ss01 Gcaron Gcaron.ss01 Gcircumflex Gcircumflex.ss01 Gcommaaccent Gcommaaccent.ss01 Gdotaccent Gdotaccent.ss01 Gmacron Gmacron.ss01 H H.ss01 H.swsh Hbar Hbar.ss01 Hbrevebelow Hbrevebelow.ss01 Hcaron Hcaron.ss01 Hcedilla Hcircumflex Hcircumflex.ss01 Hdieresis Hdieresis.ss01 Hdotaccent Hdotbelow Hdotbelow.ss01 I I.swsh IJ IJ.ss01 Iacute Ibreve Icaron Icircumflex Idblgrave Idieresis Idieresisacute Idotaccent Idotbelow Igrave Ihookabove Iinvertedbreve Imacron Iogonek Istroke Itilde J J.ss01 J.swsh Jacute Jacute.ss01 Jcircumflex Jcircumflex.ss01 K K.ss01 K.swsh Kcaron Kcaron.ss01 Kcommaaccent Kcommaaccent.ss01 Kdotbelow L L.swsh LJ LJ.ss01 Lacute Lcaron Lcircumflexbelow Lcommaaccent Ldot Ldotbelow Ldotbelowmacron Lj Lmacronbelow Lslash M M.ss01 M.swsh Macute Mdotaccent Mdotaccent.ss01 Mdotbelow Mdotbelow.ss01 N N.ss01 N.swsh NJ NJ.ss01 Nacute Nacute.ss01 Ncaron Ncaron.ss01 Ncircumflexbelow Ncommaaccent Ncommaaccent.ss01 Ndotaccent Ndotaccent.ss01 Ndotbelow Ndotbelow.ss01 Ngrave Ngrave.ss01 Nj Nj.ss01 Nmacronbelow Nmacronbelow.ss01 Ntilde Ntilde.ss01 O Oacute Obreve Ocaron Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odblgrave Odieresis Odieresismacron Odotaccent Odotaccentmacron Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Oinvertedbreve Omacron Omacronacute Omacrongrave Oogonek Oogonekmacron Oslash Oslashacute Otilde Otildeacute Otildedieresis Otildemacron OE P P.ss01 P.swsh Pacute Pdotaccent Pdotaccent.ss01 Thorn Thorn.ss01 Q Q.swsh R R.ss01 R.swsh Racute Racute.ss01 Rcaron Rcaron.ss01 Rcommaaccent Rcommaaccent.ss01 Rdblgrave Rdblgrave.ss01 Rdotaccent Rdotbelow Rdotbelow.ss01 Rdotbelowmacron Rinvertedbreve Rinvertedbreve.ss01 Rmacronbelow Rmacronbelow.ss01 S S.ss01 S.swsh Sacute Sacute.ss01 Sacutedotaccent Sacutedotaccent.ss01 Scaron Scaron.ss01 Scarondotaccent Scarondotaccent.ss01 Scedilla Scedilla.ss01 Scircumflex Scircumflex.ss01 Scommaaccent Scommaaccent.ss01 Sdotaccent Sdotaccent.ss01 Sdotbelow Sdotbelow.ss01 Sdotbelowdotaccent Sdotbelowdotaccent.ss01 Germandbls Germandbls.swsh T T.ss01 T.swsh Tbar Tbar.ss01 Tcaron Tcaron.ss01 Tcedilla Tcedilla.ss01 Tcommaaccent Tcommaaccent.ss01 Tdotaccent Tdotaccent.ss01 Tdotbelow Tdotbelow.ss01 Tmacronbelow Tmacronbelow.ss01 U U.ss01 U.swsh Uacute Uacute.ss01 Ubreve Ubreve.ss01 Ucaron Ucaron.ss01 Ucircumflex Ucircumflex.ss01 Ucircumflexbelow Udblgrave Udblgrave.ss01 Udieresis Udieresis.ss01 Udieresisacute Udieresisacute.ss01 Udieresisbelow Udieresiscaron Udieresiscaron.ss01 Udieresisgrave Udieresisgrave.ss01 Udieresismacron Udieresismacron.ss01 Udotbelow Udotbelow.ss01 Ugrave Ugrave.ss01 Uhookabove Uhookabove.ss01 Uhorn Uhorn.ss01 Uhornacute Uhornacute.ss01 Uhorndotbelow Uhorndotbelow.ss01 Uhorngrave Uhorngrave.ss01 Uhornhookabove Uhornhookabove.ss01 Uhorntilde Uhorntilde.ss01 Uhungarumlaut Uhungarumlaut.ss01 Uinvertedbreve Uinvertedbreve.ss01 Umacron Umacron.ss01 Umacrondieresis Umacrondieresis.ss01 Uogonek Uogonek.ss01 Uring Uring.ss01 Utilde Utilde.ss01 Utildeacute Utildeacute.ss01 V V.ss01 V.swsh Vdotbelow Vtilde W W.ss01 W.swsh Wacute Wacute.ss01 Wcircumflex Wcircumflex.ss01 Wdieresis Wdieresis.ss01 Wdotaccent Wdotbelow Wgrave Wgrave.ss01 X X.ss01 X.swsh Xdieresis Xdieresis.ss01 Xdotaccent Y Y.ss01 Y.swsh Yacute Yacute.ss01 Ycircumflex Ycircumflex.ss01 Ydieresis Ydieresis.ss01 Ydotaccent Ydotaccent.ss01 Ydotbelow Ydotbelow.ss01 Ygrave Ygrave.ss01 Yhookabove Yhookabove.ss01 Ymacron Ymacron.ss01 Ytilde Ytilde.ss01 Z Z.ss01 Z.swsh Zacute Zacute.ss01 Zcaron Zcaron.ss01 Zcircumflex Zdotaccent Zdotaccent.ss01 Zdotbelow Zdotbelow.ss01 Zmacronbelow Zstroke Saltillo Nhookleft Eng Eng.ss01 Ubar Ubar.ss01 R_A.dlig R_A.dlig.ss01 T_h.dlig T_h.dlig.ss01 A-cy A-cy.ss01 Be-cy Ve-cy Ve-cy.ss01 Ge-cy Gje-cy Geupturn-cy De-cy Ie-cy Ie-cy.ss01 Iegrave-cy Iegrave-cy.ss01 Io-cy Io-cy.ss01 Zhe-cy Zhe-cy.ss01 Ze-cy Ii-cy Ii-cy.ss01 Iishort-cy Iishort-cy.ss01 Iigrave-cy Iigrave-cy.ss01 Ka-cy Kje-cy El-cy El-cy.ss01 Em-cy Em-cy.ss01 En-cy En-cy.ss01 O-cy Pe-cy Er-cy Er-cy.ss01 Es-cy Es-cy.ss01 Te-cy Te-cy.ss01 U-cy U-cy.ss01 Ushort-cy Ushort-cy.ss01 Ef-cy Ha-cy Ha-cy.ss01 Tse-cy Tse-cy.ss01 Che-cy Che-cy.ss01 Sha-cy Sha-cy.ss01 Shcha-cy Shcha-cy.ss01 Dzhe-cy Dzhe-cy.ss01 Softsign-cy Yeru-cy Hardsign-cy Lje-cy Lje-cy.ss01 Nje-cy Dze-cy Dze-cy.ss01 E-cy Ereversed-cy I-cy Yi-cy Je-cy Je-cy.ss01 Tshe-cy Tshe-cy.ss01 Yu-cy Ya-cy Ya-cy.ss01 Dje-cy Dje-cy.ss01 Endescender-cy Endescender-cy.ss01 Chedescender-cy Chedescender-cy.ss01 Shha-cy Abreve-cy Abreve-cy.ss01 Schwa-cy Imacron-cy Imacron-cy.ss01 Umacron-cy Umacron-cy.ss01 Delta Omega";
 name = Uppercase;
 }
 );
@@ -747,6 +751,7 @@ sub Che-cy by Che-cy.ss01;
 sub Sha-cy by Sha-cy.ss01;
 sub Shcha-cy by Shcha-cy.ss01;
 sub Dzhe-cy by Dzhe-cy.ss01;
+sub Lje-cy by Lje-cy.ss01;
 sub Dze-cy by Dze-cy.ss01;
 sub Je-cy by Je-cy.ss01;
 sub Tshe-cy by Tshe-cy.ss01;
@@ -91527,11 +91532,11 @@ layers = (
 anchors = (
 {
 name = bottomright;
-pos = (424,0);
+pos = (378,0);
 },
 {
 name = top;
-pos = (221,684);
+pos = (175,684);
 }
 );
 layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
@@ -91549,11 +91554,11 @@ width = 515;
 anchors = (
 {
 name = bottomright;
-pos = (439,0);
+pos = (413,0);
 },
 {
 name = top;
-pos = (204,684);
+pos = (178,684);
 }
 );
 layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
@@ -91571,11 +91576,11 @@ width = 511;
 anchors = (
 {
 name = bottomright;
-pos = (449,0);
+pos = (421,0);
 },
 {
 name = top;
-pos = (260,684);
+pos = (232,684);
 }
 );
 layerId = m004;
@@ -91629,7 +91634,7 @@ shapes = (
 ref = "Ge-cy";
 },
 {
-pos = (179,0);
+pos = (151,0);
 ref = acutecomb.case;
 }
 );
@@ -97945,18 +97950,18 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(374,-167,l,{
+(379,-167,l,{
 "Letterink-NibData" = {
 AngleInDegrees = "359.73475";
 };
 }),
-(374,35,l,{
+(379,35,l,{
 "Letterink-NibData" = {
 AngleInDegrees = "270";
 };
 }),
-(292,35,l),
-(292,-167,l,{
+(297,35,l),
+(297,-167,l,{
 "Letterink-NibData" = {
 AngleInDegrees = "90";
 };
@@ -97977,18 +97982,18 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(424,-173,l,{
+(434,-173,l,{
 "Letterink-NibData" = {
 AngleInDegrees = "359.73475";
 };
 }),
-(424,88,l,{
+(434,88,l,{
 "Letterink-NibData" = {
 AngleInDegrees = "270";
 };
 }),
-(259,88,l),
-(259,-173,l,{
+(269,88,l),
+(269,-173,l,{
 "Letterink-NibData" = {
 AngleInDegrees = "90";
 };
@@ -98024,38 +98029,38 @@ shapes = (
 closed = 1;
 nodes = (
 (433,-10,o),
-(521,69,o),
-(521,185,cs),
-(521,304,o),
-(433,386,o),
-(305,386,cs,{
+(521,72,o),
+(521,193,cs),
+(521,316,o),
+(433,400,o),
+(305,400,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 270;
 };
 }),
-(119,386,l,{
+(119,400,l,{
 "Letterink-NibData" = {
 AngleInDegrees = 180;
 };
 }),
-(119,350,l,{
+(119,364,l,{
 "Letterink-NibData" = {
 AngleInDegrees = 90;
 };
 }),
-(297,350,ls,{
+(297,364,ls,{
 "Letterink-NibData" = {
 AngleInDegrees = 90;
 };
 }),
-(412,350,o),
-(484,286,o),
-(484,185,cs,{
+(412,364,o),
+(481,298,o),
+(481,193,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 180;
 };
 }),
-(484,87,o),
+(481,90,o),
 (412,25,o),
 (297,25,cs,{
 "Letterink-NibData" = {
@@ -98111,38 +98116,38 @@ shapes = (
 closed = 1;
 nodes = (
 (407,-11,o),
-(523,48,o),
-(523,191,cs),
-(523,316,o),
-(425,401,o),
-(283,401,c,{
+(523,50,o),
+(523,198,cs),
+(523,318,o),
+(425,412,o),
+(283,412,c,{
 "Letterink-NibData" = {
 AngleInDegrees = "270";
 };
 }),
-(119,401,l,{
+(119,412,l,{
 "Letterink-NibData" = {
 AngleInDegrees = "180";
 };
 }),
-(119,325,l,{
+(119,336,l,{
 "Letterink-NibData" = {
 AngleInDegrees = "90";
 };
 }),
-(291,325,ls,{
+(291,336,ls,{
 "Letterink-NibData" = {
 AngleInDegrees = "90";
 };
 }),
-(383,325,o),
-(441,273,o),
-(441,191,cs,{
+(383,336,o),
+(439,284,o),
+(439,198,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = "180";
 };
 }),
-(441,111,o),
+(439,114,o),
 (382,65,o),
 (278,65,cs,{
 "Letterink-NibData" = {
@@ -98477,20 +98482,22 @@ layers = (
 layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
 shapes = (
 {
+alignment = -1;
 ref = "El-cy";
 },
 {
 alignment = -1;
-pos = (536,0);
+pos = (539,0);
 ref = "Softsign-cy";
 }
 );
-width = 1095;
+width = 1098;
 },
 {
 layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
 shapes = (
 {
+alignment = -1;
 ref = "El-cy";
 },
 {
@@ -98505,6 +98512,7 @@ width = 1045;
 layerId = m004;
 shapes = (
 {
+alignment = -1;
 ref = "El-cy";
 },
 {
@@ -98519,6 +98527,61 @@ width = 1063;
 metricLeft = "El-cy";
 metricRight = "Softsign-cy";
 unicode = (1033,1113);
+},
+{
+glyphname = "Lje-cy.ss01";
+layers = (
+{
+layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
+shapes = (
+{
+alignment = -1;
+pos = (4,0);
+ref = "El-cy.ss01";
+},
+{
+alignment = -1;
+pos = (487,0);
+ref = "Softsign-cy";
+}
+);
+width = 1046;
+},
+{
+layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
+shapes = (
+{
+alignment = -1;
+pos = (1,0);
+ref = "El-cy.ss01";
+},
+{
+alignment = -1;
+pos = (440,1);
+ref = "Softsign-cy";
+}
+);
+width = 989;
+},
+{
+layerId = m004;
+shapes = (
+{
+alignment = -1;
+pos = (4,0);
+ref = "El-cy.ss01";
+},
+{
+alignment = -1;
+pos = (420,0);
+ref = "Softsign-cy";
+}
+);
+width = 993;
+}
+);
+metricLeft = "El-cy";
+metricRight = "Softsign-cy";
 },
 {
 glyphname = "Nje-cy";
@@ -109780,7 +109843,7 @@ width = 679;
 anchors = (
 {
 name = top;
-pos = (929,500);
+pos = (933,500);
 }
 );
 layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
@@ -109799,7 +109862,7 @@ width = 730;
 anchors = (
 {
 name = top;
-pos = (612,500);
+pos = (616,500);
 }
 );
 layerId = m004;
@@ -127129,10 +127192,10 @@ width = 626;
 {
 guides = (
 {
-pos = (10528,250);
+pos = (11002,250);
 },
 {
-pos = (10528,584);
+pos = (11002,584);
 }
 );
 layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
@@ -159175,6 +159238,7 @@ schwa,
 "Tshe-cy.ss01",
 "Dje-cy.ss01",
 "Endescender-cy.ss01",
+"endescender-cy",
 "Chedescender-cy.ss01",
 "Imacron-cy.ss01",
 "tse-cy.ss01",
@@ -159184,7 +159248,9 @@ schwa,
 "chedescender-cy.ss01",
 "imacron-cy.ss01",
 "umacron-cy.ss01",
-"io-cy.ss01"
+"io-cy.ss01",
+"Lje-cy.ss01",
+"dje-cy"
 );
 },
 {
@@ -159274,7 +159340,8 @@ value = (
 "fl=fl.ss01",
 "t_t.dlig=t_t.dlig.001",
 "el-cy=el-cy.ss01",
-"El-cy=El-cy.ss01"
+"El-cy=El-cy.ss01",
+"Lje-cy=Lje-cy.ss01"
 );
 },
 {
@@ -159547,6 +159614,7 @@ schwa,
 "Tshe-cy.ss01",
 "Dje-cy.ss01",
 "Endescender-cy.ss01",
+"endescender-cy",
 "Chedescender-cy.ss01",
 "Imacron-cy.ss01",
 "tse-cy.ss01",
@@ -159556,7 +159624,9 @@ schwa,
 "chedescender-cy.ss01",
 "imacron-cy.ss01",
 "umacron-cy.ss01",
-"io-cy.ss01"
+"io-cy.ss01",
+"Lje-cy.ss01",
+"dje-cy"
 );
 },
 {
@@ -159646,7 +159716,8 @@ value = (
 "fl=fl.ss01",
 "t_t.dlig=t_t.dlig.001",
 "el-cy=el-cy.ss01",
-"El-cy=El-cy.ss01"
+"El-cy=El-cy.ss01",
+"Lje-cy=Lje-cy.ss01"
 );
 },
 {
@@ -159718,6 +159789,7 @@ schwa,
 "Tshe-cy.ss01",
 "Dje-cy.ss01",
 "Endescender-cy.ss01",
+"endescender-cy",
 "Chedescender-cy.ss01",
 "Imacron-cy.ss01",
 "tse-cy.ss01",
@@ -159727,7 +159799,9 @@ schwa,
 "chedescender-cy.ss01",
 "imacron-cy.ss01",
 "umacron-cy.ss01",
-"io-cy.ss01"
+"io-cy.ss01",
+"Lje-cy.ss01",
+"dje-cy"
 );
 },
 {
@@ -159817,7 +159891,8 @@ value = (
 "fl=fl.ss01",
 "t_t.dlig=t_t.dlig.001",
 "el-cy=el-cy.ss01",
-"El-cy=El-cy.ss01"
+"El-cy=El-cy.ss01",
+"Lje-cy=Lje-cy.ss01"
 );
 },
 {
@@ -159915,6 +159990,7 @@ schwa,
 "Tshe-cy.ss01",
 "Dje-cy.ss01",
 "Endescender-cy.ss01",
+"endescender-cy",
 "Chedescender-cy.ss01",
 "Imacron-cy.ss01",
 "tse-cy.ss01",
@@ -159924,7 +160000,9 @@ schwa,
 "chedescender-cy.ss01",
 "imacron-cy.ss01",
 "umacron-cy.ss01",
-"io-cy.ss01"
+"io-cy.ss01",
+"Lje-cy.ss01",
+"dje-cy"
 );
 },
 {
@@ -160014,7 +160092,8 @@ value = (
 "fl=fl.ss01",
 "t_t.dlig=t_t.dlig.001",
 "el-cy=el-cy.ss01",
-"El-cy=El-cy.ss01"
+"El-cy=El-cy.ss01",
+"Lje-cy=Lje-cy.ss01"
 );
 },
 {
@@ -160087,6 +160166,7 @@ schwa,
 "Tshe-cy.ss01",
 "Dje-cy.ss01",
 "Endescender-cy.ss01",
+"endescender-cy",
 "Chedescender-cy.ss01",
 "Imacron-cy.ss01",
 "tse-cy.ss01",
@@ -160096,7 +160176,9 @@ schwa,
 "chedescender-cy.ss01",
 "imacron-cy.ss01",
 "umacron-cy.ss01",
-"io-cy.ss01"
+"io-cy.ss01",
+"Lje-cy.ss01",
+"dje-cy"
 );
 },
 {
@@ -160186,7 +160268,8 @@ value = (
 "fl=fl.ss01",
 "t_t.dlig=t_t.dlig.001",
 "el-cy=el-cy.ss01",
-"El-cy=El-cy.ss01"
+"El-cy=El-cy.ss01",
+"Lje-cy=Lje-cy.ss01"
 );
 },
 {
@@ -160258,6 +160341,7 @@ schwa,
 "Tshe-cy.ss01",
 "Dje-cy.ss01",
 "Endescender-cy.ss01",
+"endescender-cy",
 "Chedescender-cy.ss01",
 "Imacron-cy.ss01",
 "tse-cy.ss01",
@@ -160267,7 +160351,9 @@ schwa,
 "chedescender-cy.ss01",
 "imacron-cy.ss01",
 "umacron-cy.ss01",
-"io-cy.ss01"
+"io-cy.ss01",
+"Lje-cy.ss01",
+"dje-cy"
 );
 },
 {
@@ -160357,7 +160443,8 @@ value = (
 "fl=fl.ss01",
 "t_t.dlig=t_t.dlig.001",
 "el-cy=el-cy.ss01",
-"El-cy=El-cy.ss01"
+"El-cy=El-cy.ss01",
+"Lje-cy=Lje-cy.ss01"
 );
 },
 {
@@ -160430,6 +160517,7 @@ schwa,
 "Tshe-cy.ss01",
 "Dje-cy.ss01",
 "Endescender-cy.ss01",
+"endescender-cy",
 "Chedescender-cy.ss01",
 "Imacron-cy.ss01",
 "tse-cy.ss01",
@@ -160439,7 +160527,9 @@ schwa,
 "chedescender-cy.ss01",
 "imacron-cy.ss01",
 "umacron-cy.ss01",
-"io-cy.ss01"
+"io-cy.ss01",
+"Lje-cy.ss01",
+"dje-cy"
 );
 },
 {
@@ -160529,7 +160619,8 @@ value = (
 "fl=fl.ss01",
 "t_t.dlig=t_t.dlig.001",
 "el-cy=el-cy.ss01",
-"El-cy=El-cy.ss01"
+"El-cy=El-cy.ss01",
+"Lje-cy=Lje-cy.ss01"
 );
 },
 {
@@ -160602,6 +160693,7 @@ schwa,
 "Tshe-cy.ss01",
 "Dje-cy.ss01",
 "Endescender-cy.ss01",
+"endescender-cy",
 "Chedescender-cy.ss01",
 "Imacron-cy.ss01",
 "tse-cy.ss01",
@@ -160611,7 +160703,9 @@ schwa,
 "chedescender-cy.ss01",
 "imacron-cy.ss01",
 "umacron-cy.ss01",
-"io-cy.ss01"
+"io-cy.ss01",
+"Lje-cy.ss01",
+"dje-cy"
 );
 },
 {
@@ -160701,7 +160795,8 @@ value = (
 "fl=fl.ss01",
 "t_t.dlig=t_t.dlig.001",
 "el-cy=el-cy.ss01",
-"El-cy=El-cy.ss01"
+"El-cy=El-cy.ss01",
+"Lje-cy=Lje-cy.ss01"
 );
 },
 {
@@ -160775,6 +160870,7 @@ schwa,
 "Tshe-cy.ss01",
 "Dje-cy.ss01",
 "Endescender-cy.ss01",
+"endescender-cy",
 "Chedescender-cy.ss01",
 "Imacron-cy.ss01",
 "tse-cy.ss01",
@@ -160784,7 +160880,9 @@ schwa,
 "chedescender-cy.ss01",
 "imacron-cy.ss01",
 "umacron-cy.ss01",
-"io-cy.ss01"
+"io-cy.ss01",
+"Lje-cy.ss01",
+"dje-cy"
 );
 },
 {
@@ -160874,7 +160972,8 @@ value = (
 "fl=fl.ss01",
 "t_t.dlig=t_t.dlig.001",
 "el-cy=el-cy.ss01",
-"El-cy=El-cy.ss01"
+"El-cy=El-cy.ss01",
+"Lje-cy=Lje-cy.ss01"
 );
 },
 {
@@ -160947,6 +161046,7 @@ schwa,
 "Tshe-cy.ss01",
 "Dje-cy.ss01",
 "Endescender-cy.ss01",
+"endescender-cy",
 "Chedescender-cy.ss01",
 "Imacron-cy.ss01",
 "tse-cy.ss01",
@@ -160956,7 +161056,9 @@ schwa,
 "chedescender-cy.ss01",
 "imacron-cy.ss01",
 "umacron-cy.ss01",
-"io-cy.ss01"
+"io-cy.ss01",
+"Lje-cy.ss01",
+"dje-cy"
 );
 },
 {
@@ -161046,7 +161148,8 @@ value = (
 "fl=fl.ss01",
 "t_t.dlig=t_t.dlig.001",
 "el-cy=el-cy.ss01",
-"El-cy=El-cy.ss01"
+"El-cy=El-cy.ss01",
+"Lje-cy=Lje-cy.ss01"
 );
 },
 {
