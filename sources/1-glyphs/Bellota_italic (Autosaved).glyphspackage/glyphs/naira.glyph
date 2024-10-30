@@ -1,0 +1,74 @@
+{
+glyphname = naira;
+layers = (
+{
+.lastUpdate = 751986486.264;
+layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
+shapes = (
+{
+ref = _smallN;
+},
+{
+pos = (-63,-3);
+ref = doublelines;
+scale = (1.3327,1);
+}
+);
+userData = {
+RMXScaler = {
+height = 93;
+width = 96;
+};
+};
+width = 646;
+},
+{
+.lastUpdate = 751986486.264;
+layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
+shapes = (
+{
+ref = _smallN;
+},
+{
+pos = (-110,-3);
+ref = doublelines;
+scale = (1.3322,1);
+}
+);
+userData = {
+RMXScaler = {
+height = 93;
+width = 96;
+};
+};
+width = 660;
+},
+{
+.lastUpdate = 751986486.264;
+layerId = m004;
+shapes = (
+{
+ref = _smallN;
+},
+{
+pos = (-91,-13);
+ref = doublelines;
+scale = (1.1634,1);
+}
+);
+userData = {
+RMXScaler = {
+height = 93;
+width = 96;
+};
+};
+width = 674;
+}
+);
+unicode = 8358;
+userData = {
+RMXScaler = {
+source = N.ss01;
+};
+};
+}

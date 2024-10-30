@@ -1,0 +1,54 @@
+{
+glyphname = scedilla;
+kernLeft = s;
+kernRight = c;
+layers = (
+{
+.lastUpdate = 751986486.249;
+layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
+shapes = (
+{
+ref = s;
+},
+{
+pos = (108,-6);
+ref = cedillacomb;
+}
+);
+width = 434;
+},
+{
+.lastUpdate = 751986486.25;
+layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
+shapes = (
+{
+ref = s;
+},
+{
+pos = (109,-2);
+ref = cedillacomb;
+}
+);
+width = 416;
+},
+{
+.lastUpdate = 751986486.25;
+layerId = m004;
+shapes = (
+{
+ref = s;
+},
+{
+pos = (106,-16);
+ref = cedillacomb;
+}
+);
+width = 482;
+}
+);
+unicode = 351;
+userData = {
+position = 325;
+width = 58;
+};
+}

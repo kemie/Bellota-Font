@@ -1,0 +1,53 @@
+{
+glyphname = sterling;
+layers = (
+{
+.lastUpdate = 751986486.264;
+layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
+shapes = (
+{
+ref = _libra;
+},
+{
+pos = (-63,61);
+ref = strokeshortcomb;
+}
+);
+width = 516;
+},
+{
+.lastUpdate = 751986486.264;
+layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
+shapes = (
+{
+ref = _libra;
+},
+{
+pos = (-68,68);
+ref = strokeshortcomb;
+}
+);
+width = 494;
+},
+{
+.lastUpdate = 751986486.264;
+layerId = m004;
+shapes = (
+{
+ref = _libra;
+},
+{
+pos = (-57,32);
+ref = strokeshortcomb;
+scale = (1.0629,1);
+}
+);
+width = 572;
+}
+);
+unicode = 163;
+userData = {
+position = 130;
+width = 61;
+};
+}

@@ -1,0 +1,94 @@
+{
+glyphname = "sha-cy";
+kernLeft = n;
+kernRight = pe;
+layers = (
+{
+.lastUpdate = 751986486.261;
+anchors = (
+{
+name = bottom;
+pos = (2050,0);
+},
+{
+name = top;
+pos = (2049,492);
+}
+);
+layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
+shapes = (
+{
+angle = 180;
+pos = (871,500);
+ref = m;
+}
+);
+userData = {
+RMXScaler = {
+height = 72;
+width = 78;
+};
+};
+width = 871;
+},
+{
+.lastUpdate = 751986486.261;
+anchors = (
+{
+name = bottom;
+pos = (2048,0);
+},
+{
+name = top;
+pos = (2047,499);
+}
+);
+layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
+shapes = (
+{
+angle = 180;
+pos = (890,500);
+ref = m;
+}
+);
+userData = {
+RMXScaler = {
+height = 73;
+width = 78;
+};
+};
+width = 890;
+},
+{
+.lastUpdate = 751986486.261;
+anchors = (
+{
+name = bottom;
+pos = (2052,0);
+},
+{
+name = top;
+pos = (2052,506);
+}
+);
+layerId = m004;
+shapes = (
+{
+angle = 180;
+pos = (945,500);
+ref = m;
+}
+);
+userData = {
+RMXScaler = {
+height = 74;
+width = 78;
+};
+};
+width = 945;
+}
+);
+metricLeft = "=|n";
+metricRight = "em-cy.ss01";
+unicode = 1096;
+}

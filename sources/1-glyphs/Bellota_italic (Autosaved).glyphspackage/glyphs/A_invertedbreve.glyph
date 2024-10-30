@@ -1,0 +1,50 @@
+{
+glyphname = Ainvertedbreve;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+.lastUpdate = 751986486.209;
+layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (222,-5);
+ref = breveinvertedcomb.case;
+}
+);
+width = 709;
+},
+{
+.lastUpdate = 751986486.209;
+layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (213,2);
+ref = breveinvertedcomb.case;
+}
+);
+width = 711;
+},
+{
+.lastUpdate = 751986486.209;
+layerId = m004;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (226,0);
+ref = breveinvertedcomb.case;
+}
+);
+width = 768;
+}
+);
+unicode = 514;
+}

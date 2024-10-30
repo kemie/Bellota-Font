@@ -1,0 +1,54 @@
+{
+glyphname = Scircumflex;
+kernLeft = S;
+kernRight = S;
+layers = (
+{
+.lastUpdate = 751986486.226;
+layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
+shapes = (
+{
+ref = S;
+},
+{
+pos = (99,12);
+ref = circumflexcomb.case;
+}
+);
+width = 541;
+},
+{
+.lastUpdate = 751986486.226;
+layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
+shapes = (
+{
+ref = S;
+},
+{
+pos = (105,0);
+ref = circumflexcomb.case;
+}
+);
+width = 530;
+},
+{
+.lastUpdate = 751986486.226;
+layerId = m004;
+shapes = (
+{
+ref = S;
+},
+{
+pos = (60,12);
+ref = circumflexcomb.case;
+}
+);
+width = 553;
+}
+);
+unicode = 348;
+userData = {
+position = 433;
+width = 55;
+};
+}

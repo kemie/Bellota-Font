@@ -1,0 +1,75 @@
+{
+glyphname = kgreenlandic;
+kernLeft = i;
+kernRight = m;
+lastChange = "2024-10-30 13:38:41 +0000";
+layers = (
+{
+.lastUpdate = 751988321.12;
+anchors = (
+{
+name = bottom;
+pos = (208,0);
+},
+{
+name = top;
+pos = (269,500);
+}
+);
+layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
+shapes = (
+{
+ref = "ka-cy.ss01";
+}
+);
+width = 516;
+},
+{
+.lastUpdate = 751986486.244;
+anchors = (
+{
+name = bottom;
+pos = (-100,0);
+},
+{
+name = top;
+pos = (-39,500);
+}
+);
+layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
+shapes = (
+{
+ref = "ka-cy.ss01";
+}
+);
+width = 497;
+},
+{
+.lastUpdate = 751987240.353;
+anchors = (
+{
+name = bottom;
+pos = (256,0);
+},
+{
+name = top;
+pos = (317,500);
+}
+);
+layerId = m004;
+shapes = (
+{
+alignment = -1;
+pos = (-7,0);
+ref = "ka-cy.ss01";
+}
+);
+width = 530;
+}
+);
+unicode = 312;
+userData = {
+position = 54;
+width = 55;
+};
+}

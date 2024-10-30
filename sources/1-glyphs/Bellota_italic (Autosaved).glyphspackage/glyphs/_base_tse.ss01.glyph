@@ -1,0 +1,165 @@
+{
+export = 0;
+glyphname = _base_tse.ss01;
+layers = (
+{
+anchors = (
+{
+name = tail;
+pos = (425,0);
+}
+);
+layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
+shapes = (
+{
+closed = 1;
+nodes = (
+(487,500,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 270;
+};
+}),
+(449,500,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 180;
+};
+}),
+(392,36,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 270;
+};
+}),
+(90,36,l),
+(147,500,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 270;
+};
+}),
+(109,500,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 180;
+};
+}),
+(48,0,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 90.1345;
+};
+}),
+(426,0,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 180;
+};
+})
+);
+}
+);
+width = 535;
+},
+{
+anchors = (
+{
+name = tail;
+pos = (465,0);
+}
+);
+layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
+shapes = (
+{
+closed = 1;
+nodes = (
+(526,500,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 270;
+};
+}),
+(444,500,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 180;
+};
+}),
+(392,76,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 270;
+};
+}),
+(135,76,l),
+(187,500,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 270;
+};
+}),
+(105,500,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 180;
+};
+}),
+(44,0,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 90;
+};
+}),
+(465,0,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 180;
+};
+})
+);
+}
+);
+width = 570;
+},
+{
+anchors = (
+{
+name = tail;
+pos = (514,0);
+}
+);
+layerId = m004;
+shapes = (
+{
+closed = 1;
+nodes = (
+(575,500,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 270;
+};
+}),
+(409,500,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 180;
+};
+}),
+(366,148,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 270;
+};
+}),
+(214,148,l),
+(257,500,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 270;
+};
+}),
+(91,500,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 180;
+};
+}),
+(30,0,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 90;
+};
+}),
+(514,0,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 180;
+};
+})
+);
+}
+);
+width = 605;
+}
+);
+}

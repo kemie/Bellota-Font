@@ -1,0 +1,53 @@
+{
+glyphname = nhookleft.ss01;
+kernRight = h2;
+layers = (
+{
+.lastUpdate = 751986486.257;
+layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
+shapes = (
+{
+alignment = -1;
+ref = n.ss01;
+},
+{
+alignment = -1;
+pos = (-63,-5);
+ref = engtail;
+}
+);
+width = 548;
+},
+{
+.lastUpdate = 751986486.257;
+layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
+shapes = (
+{
+ref = n.ss01;
+},
+{
+alignment = -1;
+pos = (-63,12);
+ref = engtail;
+}
+);
+width = 580;
+},
+{
+.lastUpdate = 751986486.257;
+layerId = m004;
+shapes = (
+{
+ref = n.ss01;
+},
+{
+alignment = -1;
+pos = (-72,0);
+ref = engtail;
+}
+);
+width = 603;
+}
+);
+metricRight = n.ss01;
+}

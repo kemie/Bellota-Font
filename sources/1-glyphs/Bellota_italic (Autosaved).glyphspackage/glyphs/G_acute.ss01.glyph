@@ -1,0 +1,49 @@
+{
+glyphname = Gacute.ss01;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+.lastUpdate = 751986486.217;
+layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
+shapes = (
+{
+ref = G.ss01;
+},
+{
+pos = (338,10);
+ref = acutecomb.case;
+}
+);
+width = 736;
+},
+{
+.lastUpdate = 751986486.217;
+layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
+shapes = (
+{
+ref = G.ss01;
+},
+{
+pos = (313,18);
+ref = acutecomb.case;
+}
+);
+width = 737;
+},
+{
+.lastUpdate = 751986486.217;
+layerId = m004;
+shapes = (
+{
+ref = G.ss01;
+},
+{
+pos = (296,14);
+ref = acutecomb.case;
+}
+);
+width = 746;
+}
+);
+}

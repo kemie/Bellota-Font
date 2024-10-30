@@ -1,0 +1,50 @@
+{
+glyphname = acaron;
+kernLeft = o;
+kernRight = m;
+layers = (
+{
+.lastUpdate = 751986486.234;
+layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
+shapes = (
+{
+ref = a;
+},
+{
+pos = (97,5);
+ref = caroncomb;
+}
+);
+width = 602;
+},
+{
+.lastUpdate = 751986486.234;
+layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
+shapes = (
+{
+ref = a;
+},
+{
+pos = (102,0);
+ref = caroncomb;
+}
+);
+width = 575;
+},
+{
+.lastUpdate = 751986486.234;
+layerId = m004;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (41,15);
+ref = caroncomb;
+}
+);
+width = 636;
+}
+);
+unicode = 462;
+}

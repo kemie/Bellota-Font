@@ -1,0 +1,49 @@
+{
+glyphname = amacron.ss01;
+kernLeft = a;
+kernRight = a2;
+layers = (
+{
+.lastUpdate = 751986486.236;
+layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
+shapes = (
+{
+ref = a.ss01;
+},
+{
+pos = (44,0);
+ref = macroncomb;
+}
+);
+width = 557;
+},
+{
+.lastUpdate = 751986486.236;
+layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
+shapes = (
+{
+ref = a.ss01;
+},
+{
+pos = (49,0);
+ref = macroncomb;
+}
+);
+width = 563;
+},
+{
+.lastUpdate = 751986486.236;
+layerId = m004;
+shapes = (
+{
+ref = a.ss01;
+},
+{
+pos = (24,12);
+ref = macroncomb;
+}
+);
+width = 587;
+}
+);
+}

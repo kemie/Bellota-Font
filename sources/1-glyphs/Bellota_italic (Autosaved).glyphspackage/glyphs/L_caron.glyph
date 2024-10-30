@@ -1,0 +1,53 @@
+{
+glyphname = Lcaron;
+layers = (
+{
+.lastUpdate = 751986486.22;
+layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
+shapes = (
+{
+ref = L;
+},
+{
+pos = (356,-61);
+ref = caroncomb.alt;
+}
+);
+width = 528;
+},
+{
+.lastUpdate = 751986486.22;
+layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
+shapes = (
+{
+ref = L;
+},
+{
+pos = (329,-39);
+ref = caroncomb.alt;
+}
+);
+width = 524;
+},
+{
+.lastUpdate = 751986486.22;
+layerId = m004;
+shapes = (
+{
+ref = L;
+},
+{
+pos = (317,-64);
+ref = caroncomb.alt;
+}
+);
+width = 568;
+}
+);
+metricRight = "=+7";
+unicode = 317;
+userData = {
+position = 214;
+width = 64;
+};
+}

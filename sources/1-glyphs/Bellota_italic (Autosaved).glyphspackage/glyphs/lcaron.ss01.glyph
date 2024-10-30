@@ -1,0 +1,50 @@
+{
+glyphname = lcaron.ss01;
+layers = (
+{
+.lastUpdate = 751986486.244;
+layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
+metricRight = "=+50";
+shapes = (
+{
+ref = l.ss01;
+},
+{
+pos = (144,0);
+ref = caroncomb.alt;
+}
+);
+width = 233;
+},
+{
+.lastUpdate = 751986486.244;
+layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
+metricRight = "=+120";
+shapes = (
+{
+ref = l.ss01;
+},
+{
+pos = (185,0);
+ref = caroncomb.alt;
+}
+);
+width = 339;
+},
+{
+.lastUpdate = 751986486.244;
+layerId = m004;
+metricRight = "=+160";
+shapes = (
+{
+ref = l.ss01;
+},
+{
+pos = (224,-29);
+ref = caroncomb.alt;
+}
+);
+width = 437;
+}
+);
+}

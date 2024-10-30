@@ -1,0 +1,71 @@
+{
+glyphname = "Yeru-cy";
+layers = (
+{
+.lastUpdate = 751986486.259;
+anchors = (
+{
+name = top;
+pos = (62,684);
+}
+);
+layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
+shapes = (
+{
+ref = "Softsign-cy";
+},
+{
+pos = (550,0);
+ref = I;
+}
+);
+width = 756;
+},
+{
+.lastUpdate = 751986486.259;
+anchors = (
+{
+name = top;
+pos = (428,684);
+}
+);
+layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
+shapes = (
+{
+alignment = -1;
+pos = (6,0);
+ref = "Softsign-cy";
+},
+{
+alignment = -1;
+pos = (569,0);
+ref = I;
+}
+);
+width = 815;
+},
+{
+.lastUpdate = 751986486.259;
+anchors = (
+{
+name = top;
+pos = (422,684);
+}
+);
+layerId = m004;
+shapes = (
+{
+alignment = -1;
+ref = "Softsign-cy";
+},
+{
+alignment = -1;
+pos = (566,0);
+ref = I;
+}
+);
+width = 863;
+}
+);
+unicode = 1067;
+}

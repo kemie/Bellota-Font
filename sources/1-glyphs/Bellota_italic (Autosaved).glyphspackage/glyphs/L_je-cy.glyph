@@ -1,0 +1,53 @@
+{
+glyphname = "Lje-cy";
+layers = (
+{
+.lastUpdate = 751986486.259;
+layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
+shapes = (
+{
+ref = "El-cy";
+},
+{
+alignment = -1;
+pos = (534,2);
+ref = "Softsign-cy.ss01";
+}
+);
+width = 1089;
+},
+{
+.lastUpdate = 751986486.259;
+layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
+shapes = (
+{
+ref = "El-cy";
+},
+{
+alignment = -1;
+pos = (495,1);
+ref = "Softsign-cy.ss01";
+}
+);
+width = 1049;
+},
+{
+.lastUpdate = 751986486.259;
+layerId = m004;
+shapes = (
+{
+ref = "El-cy";
+},
+{
+alignment = -1;
+pos = (484,5);
+ref = "Softsign-cy.ss01";
+}
+);
+width = 1055;
+}
+);
+metricLeft = "El-cy";
+metricRight = "Softsign-cy";
+unicode = (1033,1113);
+}

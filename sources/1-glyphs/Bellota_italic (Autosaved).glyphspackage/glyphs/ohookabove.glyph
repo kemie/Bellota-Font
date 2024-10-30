@@ -1,0 +1,50 @@
+{
+glyphname = ohookabove;
+kernLeft = o;
+kernRight = o;
+layers = (
+{
+.lastUpdate = 751986486.247;
+layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (168,5);
+ref = hookabovecomb;
+}
+);
+width = 555;
+},
+{
+.lastUpdate = 751986486.248;
+layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (167,4);
+ref = hookabovecomb;
+}
+);
+width = 571;
+},
+{
+.lastUpdate = 751987240.357;
+layerId = m004;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (146,12);
+ref = hookabovecomb;
+}
+);
+width = 585;
+}
+);
+unicode = 7887;
+}

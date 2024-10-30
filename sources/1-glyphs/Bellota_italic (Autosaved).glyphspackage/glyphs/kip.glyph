@@ -1,0 +1,76 @@
+{
+glyphname = kip;
+layers = (
+{
+.lastUpdate = 751986486.264;
+layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
+shapes = (
+{
+ref = _smallK;
+},
+{
+pos = (-123,91);
+ref = strokelongcomb;
+scale = (1.1111,1);
+}
+);
+userData = {
+RMXScaler = {
+height = 93;
+width = 94;
+};
+};
+width = 558;
+},
+{
+.lastUpdate = 751986486.264;
+layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
+shapes = (
+{
+ref = _smallK;
+},
+{
+pos = (-74,77);
+ref = strokelongcomb;
+scale = (1.1111,1);
+}
+);
+userData = {
+RMXScaler = {
+height = 93;
+width = 94;
+};
+};
+width = 579;
+},
+{
+.lastUpdate = 751987243.411;
+layerId = m004;
+shapes = (
+{
+ref = _smallK;
+},
+{
+pos = (-60,77);
+ref = strokelongcomb;
+scale = (1.129,1);
+}
+);
+userData = {
+RMXScaler = {
+height = 93;
+width = 94;
+};
+};
+width = 630;
+}
+);
+metricLeft = H.ss01;
+metricRight = K;
+unicode = 8365;
+userData = {
+RMXScaler = {
+source = K.ss01;
+};
+};
+}

@@ -1,0 +1,212 @@
+{
+glyphname = liraTurkish;
+layers = (
+{
+layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
+shapes = (
+{
+closed = 1;
+nodes = (
+(169,0,ls,{
+"Letterink-NibData" = {
+AngleInDegrees = 90;
+};
+}),
+(232,0,o),
+(307,0,o),
+(375,21,cs),
+(429,38,o),
+(495,85,o),
+(527,185,c,{
+"Letterink-NibData" = {
+AngleInDegrees = 279.68879;
+};
+}),
+(490,191,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 190.43748;
+};
+}),
+(447,49,o),
+(322,36,o),
+(178,36,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 270;
+};
+}),
+(169,36,o),
+(158,36,o),
+(149,36,c),
+(223,640,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 270;
+};
+}),
+(185,640,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 180;
+};
+}),
+(107,0,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 90;
+};
+})
+);
+},
+{
+pos = (12,-10);
+ref = doublelines;
+scale = (0.6141,1);
+}
+);
+width = 549;
+},
+{
+layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
+shapes = (
+{
+closed = 1;
+nodes = (
+(195,0,ls,{
+"Letterink-NibData" = {
+AngleInDegrees = 90;
+};
+}),
+(258,0,o),
+(323,-2,o),
+(383,18,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 75.43424;
+};
+}),
+(481,51,o),
+(528,120,o),
+(549,200,c,{
+"Letterink-NibData" = {
+AngleInDegrees = 279.83356;
+};
+}),
+(476,213,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 189.46232;
+};
+}),
+(441,86,o),
+(305,76,o),
+(208,76,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 270;
+};
+}),
+(208,76,o,{
+"Letterink-NibData" = {
+AngleInDegrees = 270;
+};
+}),
+(197,76,o),
+(186,76,c),
+(255,640,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 270;
+};
+}),
+(173,640,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 180;
+};
+}),
+(95,0,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 90;
+};
+})
+);
+},
+{
+pos = (8,-10);
+ref = doublelines;
+scale = (0.6141,1);
+}
+);
+width = 565;
+},
+{
+.lastUpdate = 751987243.413;
+layerId = m004;
+shapes = (
+{
+closed = 1;
+nodes = (
+(178,0,ls,{
+"Letterink-NibData" = {
+AngleInDegrees = "90";
+};
+}),
+(240,0,o),
+(289,0,o),
+(350,13,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "75.43424";
+};
+}),
+(540,53,o),
+(566,177,o),
+(579,234,c,{
+"Letterink-NibData" = {
+AngleInDegrees = "279.83356";
+};
+}),
+(428,258,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "189.46232";
+};
+}),
+(411,171,o),
+(330,159,o),
+(259,159,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "270";
+};
+}),
+(259,159,o,{
+"Letterink-NibData" = {
+AngleInDegrees = "270";
+};
+}),
+(255,159,o,{
+"Letterink-NibData" = {
+AngleInDegrees = "270";
+};
+}),
+(248,159,c),
+(307,640,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "270";
+};
+}),
+(142,640,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "180";
+};
+}),
+(64,0,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "90";
+};
+})
+);
+},
+{
+pos = (3,-10);
+ref = doublelines;
+scale = (0.6141,1);
+}
+);
+width = 593;
+}
+);
+metricLeft = "=L*.5";
+metricRight = "=L*.8";
+unicode = 8378;
+}

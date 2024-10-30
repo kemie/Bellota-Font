@@ -1,0 +1,105 @@
+{
+glyphname = macronbelowcomb;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (186,0);
+}
+);
+layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
+shapes = (
+{
+closed = 1;
+nodes = (
+(309,-129,l),
+(313,-93,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 270;
+};
+}),
+(34,-93,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 180;
+};
+}),
+(30,-129,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 90;
+};
+})
+);
+}
+);
+width = 432;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (197,0);
+}
+);
+layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
+shapes = (
+{
+closed = 1;
+nodes = (
+(333,-171,l),
+(342,-97,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 270;
+};
+}),
+(29,-97,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 180;
+};
+}),
+(20,-171,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 90;
+};
+})
+);
+}
+);
+width = 457;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (223,0);
+}
+);
+layerId = m004;
+shapes = (
+{
+closed = 1;
+nodes = (
+(397,-189,l),
+(414,-54,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 270;
+};
+}),
+(23,-54,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 180;
+};
+}),
+(6,-189,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 90;
+};
+})
+);
+}
+);
+width = 511;
+}
+);
+unicode = 817;
+}

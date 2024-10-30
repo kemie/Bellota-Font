@@ -1,0 +1,54 @@
+{
+glyphname = Agrave;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+.lastUpdate = 751986486.209;
+layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (333,2);
+ref = gravecomb.case;
+}
+);
+width = 711;
+},
+{
+.lastUpdate = 751986486.209;
+layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (351,0);
+ref = gravecomb.case;
+}
+);
+width = 709;
+},
+{
+.lastUpdate = 751986486.209;
+layerId = m004;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (344,0);
+ref = gravecomb.case;
+}
+);
+width = 768;
+}
+);
+unicode = 192;
+userData = {
+position = 264;
+width = 231;
+};
+}

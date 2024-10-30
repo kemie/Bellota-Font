@@ -1,0 +1,49 @@
+{
+glyphname = Udblgrave.ss01;
+kernLeft = U;
+kernRight = U;
+layers = (
+{
+.lastUpdate = 751986486.227;
+layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
+shapes = (
+{
+ref = U.ss01;
+},
+{
+pos = (210,1);
+ref = dblgravecomb.case;
+}
+);
+width = 675;
+},
+{
+.lastUpdate = 751986486.227;
+layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
+shapes = (
+{
+ref = U.ss01;
+},
+{
+pos = (193,-9);
+ref = dblgravecomb.case;
+}
+);
+width = 704;
+},
+{
+.lastUpdate = 751986486.227;
+layerId = m004;
+shapes = (
+{
+ref = U.ss01;
+},
+{
+pos = (138,-9);
+ref = dblgravecomb.case;
+}
+);
+width = 699;
+}
+);
+}

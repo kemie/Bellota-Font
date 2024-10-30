@@ -1,0 +1,124 @@
+{
+glyphname = "Hardsign-cy";
+kernLeft = Swash;
+kernRight = Soft;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (335,684);
+}
+);
+layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
+shapes = (
+{
+closed = 1;
+nodes = (
+(277,648,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 358.5679;
+};
+}),
+(281,684,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 270;
+};
+}),
+(74,684,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 180;
+};
+}),
+(69,648,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 90;
+};
+})
+);
+},
+{
+pos = (102,0);
+ref = "Softsign-cy.ss01";
+}
+);
+width = 657;
+},
+{
+anchors = (
+{
+name = top;
+pos = (376,684);
+}
+);
+layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
+shapes = (
+{
+closed = 1;
+nodes = (
+(288,606,l),
+(298,684,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 270;
+};
+}),
+(71,684,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 180;
+};
+}),
+(61,606,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 90;
+};
+})
+);
+},
+{
+pos = (138,0);
+ref = "Softsign-cy.ss01";
+}
+);
+width = 692;
+},
+{
+anchors = (
+{
+name = top;
+pos = (357,684);
+}
+);
+layerId = m004;
+shapes = (
+{
+closed = 1;
+nodes = (
+(322,538,l),
+(340,685,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 270;
+};
+}),
+(69,685,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 180;
+};
+}),
+(51,538,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 90;
+};
+})
+);
+},
+{
+pos = (123,0);
+ref = "Softsign-cy.ss01";
+}
+);
+width = 694;
+}
+);
+metricRight = "Softsign-cy";
+unicode = 1066;
+}

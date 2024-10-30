@@ -1,0 +1,42 @@
+{
+export = 0;
+glyphname = softhyphen;
+kernLeft = dash;
+kernRight = dash;
+layers = (
+{
+.lastUpdate = 751986486.263;
+layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
+shapes = (
+{
+pos = (2,11);
+ref = hyphen;
+}
+);
+width = 494;
+},
+{
+.lastUpdate = 751986486.263;
+layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
+shapes = (
+{
+pos = (-1,-6);
+ref = hyphen;
+}
+);
+width = 479;
+},
+{
+.lastUpdate = 751986486.263;
+layerId = m004;
+shapes = (
+{
+pos = (2,11);
+ref = hyphen;
+}
+);
+width = 516;
+}
+);
+unicode = 173;
+}

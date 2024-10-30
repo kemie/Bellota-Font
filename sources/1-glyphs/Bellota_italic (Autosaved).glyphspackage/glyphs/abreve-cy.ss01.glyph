@@ -1,0 +1,49 @@
+{
+glyphname = "abreve-cy.ss01";
+kernLeft = a;
+kernRight = a2;
+layers = (
+{
+.lastUpdate = 751986486.262;
+layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
+shapes = (
+{
+ref = "a-cy.ss01";
+},
+{
+pos = (77,0);
+ref = "brevecomb-cy";
+}
+);
+width = 557;
+},
+{
+.lastUpdate = 751986486.262;
+layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
+shapes = (
+{
+ref = "a-cy.ss01";
+},
+{
+pos = (82,0);
+ref = "brevecomb-cy";
+}
+);
+width = 563;
+},
+{
+.lastUpdate = 751986486.262;
+layerId = m004;
+shapes = (
+{
+ref = "a-cy.ss01";
+},
+{
+pos = (68,12);
+ref = "brevecomb-cy";
+}
+);
+width = 587;
+}
+);
+}

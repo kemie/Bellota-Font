@@ -1,0 +1,50 @@
+{
+glyphname = ohornacute;
+kernLeft = o;
+kernRight = o;
+layers = (
+{
+.lastUpdate = 751986486.248;
+layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
+shapes = (
+{
+ref = ohorn;
+},
+{
+pos = (220,5);
+ref = acutecomb;
+}
+);
+width = 555;
+},
+{
+.lastUpdate = 751986486.248;
+layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
+shapes = (
+{
+ref = ohorn;
+},
+{
+pos = (168,4);
+ref = acutecomb;
+}
+);
+width = 571;
+},
+{
+.lastUpdate = 751986486.248;
+layerId = m004;
+shapes = (
+{
+ref = ohorn;
+},
+{
+pos = (152,12);
+ref = acutecomb;
+}
+);
+width = 585;
+}
+);
+unicode = 7899;
+}

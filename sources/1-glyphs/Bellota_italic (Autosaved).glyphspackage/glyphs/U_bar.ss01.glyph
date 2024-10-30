@@ -1,0 +1,55 @@
+{
+glyphname = Ubar.ss01;
+kernLeft = U;
+kernRight = U;
+layers = (
+{
+.lastUpdate = 751986486.233;
+layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
+shapes = (
+{
+ref = U.ss01;
+},
+{
+pos = (-108,111);
+ref = strokelongcomb;
+scale = (1.5,1);
+}
+);
+width = 675;
+},
+{
+.lastUpdate = 751986486.233;
+layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
+shapes = (
+{
+ref = U.ss01;
+},
+{
+pos = (-75,102);
+ref = strokelongcomb;
+scale = (1.5,1);
+}
+);
+width = 704;
+},
+{
+.lastUpdate = 751986486.233;
+layerId = m004;
+shapes = (
+{
+alignment = -1;
+pos = (16,0);
+ref = U.ss01;
+},
+{
+alignment = -1;
+pos = (-48,106);
+ref = strokelongcomb;
+scale = (1.35,1);
+}
+);
+width = 726;
+}
+);
+}

@@ -1,0 +1,55 @@
+{
+glyphname = Kcaron;
+kernLeft = E;
+kernRight = K;
+lastChange = "2024-10-30 08:29:43 +0000";
+layers = (
+{
+.lastUpdate = 751969783.307;
+layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
+shapes = (
+{
+ref = K;
+},
+{
+pos = (104,0);
+ref = caroncomb.case;
+}
+);
+width = 686;
+},
+{
+.lastUpdate = 751969783.307;
+layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
+shapes = (
+{
+ref = K;
+},
+{
+pos = (115,0);
+ref = caroncomb.case;
+}
+);
+width = 674;
+},
+{
+.lastUpdate = 751987242.145;
+layerId = m004;
+shapes = (
+{
+ref = K;
+},
+{
+pos = (112,0);
+ref = caroncomb.case;
+}
+);
+width = 758;
+}
+);
+unicode = 488;
+userData = {
+position = 542;
+width = 57;
+};
+}

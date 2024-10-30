@@ -1,0 +1,55 @@
+{
+glyphname = "te-cy.ss01";
+kernLeft = te;
+kernRight = te;
+layers = (
+{
+.lastUpdate = 751986486.261;
+anchors = (
+{
+name = bottomright;
+pos = (501,0);
+}
+);
+layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
+shapes = (
+{
+ref = m.ss01;
+}
+);
+width = 860;
+},
+{
+.lastUpdate = 751986486.261;
+anchors = (
+{
+name = bottomright;
+pos = (517,0);
+}
+);
+layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
+shapes = (
+{
+ref = m.ss01;
+}
+);
+width = 855;
+},
+{
+.lastUpdate = 751986486.261;
+anchors = (
+{
+name = bottomright;
+pos = (609,0);
+}
+);
+layerId = m004;
+shapes = (
+{
+ref = m.ss01;
+}
+);
+width = 909;
+}
+);
+}

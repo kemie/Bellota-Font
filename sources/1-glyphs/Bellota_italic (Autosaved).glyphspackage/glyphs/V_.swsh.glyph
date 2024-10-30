@@ -1,0 +1,234 @@
+{
+glyphname = V.swsh;
+kernLeft = V.swsh;
+kernRight = V;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (366,0);
+},
+{
+name = top;
+pos = (452,684);
+}
+);
+hints = (
+{
+name = _corner.caps_swash_diag;
+options = 1;
+origin = (0,6);
+type = Corner;
+}
+);
+layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
+shapes = (
+{
+closed = 1;
+nodes = (
+(405,-1,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 19.08205;
+};
+}),
+(717,685,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 199.25107;
+};
+}),
+(625,685,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 199.25107;
+};
+}),
+(398,163,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 340.65693;
+};
+}),
+(383,120,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 345.25644;
+};
+}),
+(378,161,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 340.65693;
+};
+}),
+(291,595,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 251.56505;
+};
+}),
+(211,575,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 160.36531;
+};
+}),
+(331,-1,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 90;
+};
+})
+);
+}
+);
+width = 679;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (372,0);
+},
+{
+name = top;
+pos = (455,684);
+}
+);
+hints = (
+{
+name = _corner.caps_swash_diag;
+options = 1;
+origin = (0,6);
+type = Corner;
+}
+);
+layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
+shapes = (
+{
+closed = 1;
+nodes = (
+(390,1,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 19.01014;
+};
+}),
+(704,685,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 270;
+};
+}),
+(660,685,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 198.69764;
+};
+}),
+(393,91,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 193.73627;
+};
+}),
+(377,45,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 345.96376;
+};
+}),
+(370,90,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 340.22964;
+};
+}),
+(259,605,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 254.98164;
+};
+}),
+(222,596,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 160.19068;
+};
+}),
+(351,1,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 90;
+};
+})
+);
+}
+);
+width = 673;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (444,0);
+},
+{
+name = top;
+pos = (526,684);
+}
+);
+hints = (
+{
+name = _corner.caps_swash_diag;
+options = 1;
+origin = (0,6);
+type = Corner;
+}
+);
+layerId = m004;
+shapes = (
+{
+closed = 1;
+nodes = (
+(515,-5,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "19.08205";
+};
+}),
+(832,684,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "270";
+};
+}),
+(647,684,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "199.25107";
+};
+}),
+(488,301,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "194.03624";
+};
+}),
+(477,231,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "345.25644";
+};
+}),
+(472,300,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "340.32286";
+};
+}),
+(417,556,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "247.54306";
+};
+}),
+(263,509,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "160.22488";
+};
+}),
+(381,-5,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "90";
+};
+})
+);
+}
+);
+width = 788;
+}
+);
+metricRight = V;
+userData = {
+position = 631;
+width = 59;
+};
+}

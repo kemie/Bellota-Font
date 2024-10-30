@@ -1,0 +1,63 @@
+{
+glyphname = hryvnia;
+layers = (
+{
+.lastUpdate = 751986486.264;
+layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
+metricLeft = "=+60";
+metricRight = "=+60";
+shapes = (
+{
+pos = (472,0);
+ref = _smallS;
+scale = (-1,1);
+slant = (7,0);
+},
+{
+pos = (-114,5);
+ref = doublelines;
+}
+);
+width = 593;
+},
+{
+.lastUpdate = 751986486.264;
+layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
+metricLeft = "=+60";
+metricRight = "=+40";
+shapes = (
+{
+pos = (489,0);
+ref = _smallS;
+scale = (-1,1);
+slant = (7,0);
+},
+{
+pos = (-124,-11);
+ref = doublelines;
+}
+);
+width = 590;
+},
+{
+.lastUpdate = 751986486.264;
+layerId = m004;
+shapes = (
+{
+pos = (550,0);
+ref = _smallS;
+scale = (-1,1);
+slant = (7,0);
+},
+{
+pos = (-75,-3);
+ref = doublelines;
+}
+);
+width = 691;
+}
+);
+metricLeft = "=+80";
+metricRight = "=+80";
+unicode = 8372;
+}

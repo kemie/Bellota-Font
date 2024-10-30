@@ -1,0 +1,40 @@
+{
+glyphname = "Schwa-cy";
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+.lastUpdate = 751986486.259;
+layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
+shapes = (
+{
+ref = Schwa;
+}
+);
+width = 635;
+},
+{
+.lastUpdate = 751986486.259;
+layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
+shapes = (
+{
+alignment = -1;
+pos = (-14,0);
+ref = Schwa;
+}
+);
+width = 622;
+},
+{
+.lastUpdate = 751986486.259;
+layerId = m004;
+shapes = (
+{
+ref = Schwa;
+}
+);
+width = 664;
+}
+);
+unicode = 1240;
+}

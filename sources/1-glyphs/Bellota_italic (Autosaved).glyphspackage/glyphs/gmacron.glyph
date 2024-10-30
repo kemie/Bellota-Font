@@ -1,0 +1,50 @@
+{
+glyphname = gmacron;
+kernLeft = o;
+kernRight = j;
+layers = (
+{
+.lastUpdate = 751986486.24;
+layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
+shapes = (
+{
+ref = g;
+},
+{
+pos = (40,2);
+ref = macroncomb;
+}
+);
+width = 538;
+},
+{
+.lastUpdate = 751986486.24;
+layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
+shapes = (
+{
+ref = g;
+},
+{
+pos = (87,4);
+ref = macroncomb;
+}
+);
+width = 556;
+},
+{
+.lastUpdate = 751986486.24;
+layerId = m004;
+shapes = (
+{
+ref = g;
+},
+{
+pos = (54,12);
+ref = macroncomb;
+}
+);
+width = 574;
+}
+);
+unicode = 7713;
+}

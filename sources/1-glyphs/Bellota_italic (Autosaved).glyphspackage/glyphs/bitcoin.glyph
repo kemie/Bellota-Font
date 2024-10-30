@@ -1,0 +1,150 @@
+{
+glyphname = bitcoin;
+layers = (
+{
+.lastUpdate = 751986486.263;
+anchors = (
+{
+name = bottom;
+pos = (-106,0);
+},
+{
+name = top;
+pos = (-106,579);
+}
+);
+layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
+shapes = (
+{
+ref = _smallB;
+},
+{
+pos = (246,156);
+ref = minute;
+scale = (0.9,0.9);
+},
+{
+pos = (75,156);
+ref = minute;
+scale = (0.9,0.9);
+},
+{
+angle = 180;
+pos = (271,475);
+ref = minute;
+scale = (0.9,0.9);
+},
+{
+angle = 180;
+pos = (442,475);
+ref = minute;
+scale = (0.9,0.9);
+}
+);
+userData = {
+RMXScaler = {
+height = 92;
+width = 96;
+};
+};
+width = 530;
+},
+{
+.lastUpdate = 751986486.263;
+anchors = (
+{
+name = bottom;
+pos = (167,0);
+},
+{
+name = top;
+pos = (167,579);
+}
+);
+layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
+shapes = (
+{
+ref = _smallB;
+},
+{
+pos = (253,99);
+ref = minute;
+scale = (0.9,0.9);
+},
+{
+pos = (82,99);
+ref = minute;
+scale = (0.9,0.9);
+},
+{
+angle = 180;
+pos = (305,515);
+ref = minute;
+scale = (0.9,0.9);
+},
+{
+angle = 180;
+pos = (476,515);
+ref = minute;
+scale = (0.9,0.9);
+}
+);
+userData = {
+RMXScaler = {
+height = 92;
+width = 96;
+};
+};
+width = 545;
+},
+{
+.lastUpdate = 751986486.263;
+anchors = (
+{
+name = bottom;
+pos = (247,0);
+},
+{
+name = top;
+pos = (247,579);
+}
+);
+layerId = m004;
+shapes = (
+{
+ref = _smallB;
+},
+{
+pos = (191,65);
+ref = minute;
+scale = (0.9,0.9);
+},
+{
+pos = (20,65);
+ref = minute;
+scale = (0.9,0.9);
+},
+{
+angle = 180;
+pos = (318,555);
+ref = minute;
+scale = (0.9,0.9);
+},
+{
+angle = 180;
+pos = (489,555);
+ref = minute;
+scale = (0.9,0.9);
+}
+);
+userData = {
+RMXScaler = {
+height = 92;
+width = 96;
+};
+};
+width = 560;
+}
+);
+unicode = 8383;
+}

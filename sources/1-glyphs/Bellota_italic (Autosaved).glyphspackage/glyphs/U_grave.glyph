@@ -1,0 +1,54 @@
+{
+glyphname = Ugrave;
+kernLeft = E;
+kernRight = U;
+layers = (
+{
+.lastUpdate = 751986486.228;
+layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (326,-5);
+ref = gravecomb.case;
+}
+);
+width = 744;
+},
+{
+.lastUpdate = 751986486.228;
+layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (343,1);
+ref = gravecomb.case;
+}
+);
+width = 745;
+},
+{
+.lastUpdate = 751986486.228;
+layerId = m004;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (327,-13);
+ref = gravecomb.case;
+}
+);
+width = 777;
+}
+);
+unicode = 217;
+userData = {
+position = 606;
+width = 61;
+};
+}

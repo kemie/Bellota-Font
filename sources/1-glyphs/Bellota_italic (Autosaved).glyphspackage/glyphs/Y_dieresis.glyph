@@ -1,0 +1,54 @@
+{
+glyphname = Ydieresis;
+kernLeft = Y;
+kernRight = Y;
+layers = (
+{
+.lastUpdate = 751986486.231;
+layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (111,-9);
+ref = dieresiscomb.case;
+}
+);
+width = 603;
+},
+{
+.lastUpdate = 751986486.231;
+layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (122,1);
+ref = dieresiscomb.case;
+}
+);
+width = 581;
+},
+{
+.lastUpdate = 751986486.231;
+layerId = m004;
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (89,10);
+ref = dieresiscomb.case;
+}
+);
+width = 652;
+}
+);
+unicode = 376;
+userData = {
+position = 368;
+width = 81;
+};
+}

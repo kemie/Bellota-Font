@@ -1,0 +1,62 @@
+{
+glyphname = twothirds;
+kernLeft = S.numr;
+kernRight = S.numr;
+layers = (
+{
+.lastUpdate = 751986486.265;
+layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
+shapes = (
+{
+ref = two.numr;
+},
+{
+pos = (360,0);
+ref = fraction;
+},
+{
+pos = (536,0);
+ref = three.dnom;
+}
+);
+width = 909;
+},
+{
+.lastUpdate = 751986486.265;
+layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
+shapes = (
+{
+ref = two.numr;
+},
+{
+pos = (379,0);
+ref = fraction;
+},
+{
+pos = (584,0);
+ref = three.dnom;
+}
+);
+width = 966;
+},
+{
+.lastUpdate = 751986486.265;
+layerId = m004;
+shapes = (
+{
+ref = two.numr;
+},
+{
+pos = (405,0);
+ref = fraction;
+},
+{
+pos = (601,0);
+ref = three.dnom;
+}
+);
+width = 997;
+}
+);
+unicode = 8532;
+}

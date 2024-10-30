@@ -1,0 +1,50 @@
+{
+glyphname = "Umacron-cy";
+kernLeft = X;
+kernRight = Ucy;
+layers = (
+{
+.lastUpdate = 751986486.259;
+layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
+shapes = (
+{
+ref = "U-cy";
+},
+{
+pos = (138,1);
+ref = macroncomb.case;
+}
+);
+width = 640;
+},
+{
+.lastUpdate = 751986486.259;
+layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
+shapes = (
+{
+ref = "U-cy";
+},
+{
+pos = (136,0);
+ref = macroncomb.case;
+}
+);
+width = 646;
+},
+{
+.lastUpdate = 751986486.259;
+layerId = m004;
+shapes = (
+{
+ref = "U-cy";
+},
+{
+pos = (132,-18);
+ref = macroncomb.case;
+}
+);
+width = 692;
+}
+);
+unicode = 1262;
+}

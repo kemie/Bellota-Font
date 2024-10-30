@@ -1,0 +1,57 @@
+{
+glyphname = idieresis;
+kernLeft = i;
+kernRight = m;
+layers = (
+{
+.lastUpdate = 751986486.242;
+layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-88,1);
+ref = dieresiscomb.narrow;
+}
+);
+width = 265;
+},
+{
+.lastUpdate = 751986486.242;
+layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-89,0);
+ref = dieresiscomb.narrow;
+}
+);
+width = 226;
+},
+{
+.lastUpdate = 751986486.242;
+layerId = m004;
+metricLeft = "=+40";
+metricRight = "=+20";
+shapes = (
+{
+pos = (40,0);
+ref = idotless;
+},
+{
+pos = (-71,0);
+ref = dieresiscomb.narrow;
+}
+);
+width = 387;
+}
+);
+unicode = 239;
+userData = {
+position = 138;
+width = 81;
+};
+}

@@ -1,0 +1,49 @@
+{
+glyphname = Etilde.ss01;
+kernLeft = L;
+kernRight = E;
+layers = (
+{
+.lastUpdate = 751986486.217;
+layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
+shapes = (
+{
+ref = E.ss01;
+},
+{
+pos = (81,0);
+ref = tildecomb.case;
+}
+);
+width = 559;
+},
+{
+.lastUpdate = 751986486.217;
+layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
+shapes = (
+{
+ref = E.ss01;
+},
+{
+pos = (82,1);
+ref = tildecomb.case;
+}
+);
+width = 571;
+},
+{
+.lastUpdate = 751986486.217;
+layerId = m004;
+shapes = (
+{
+ref = E.ss01;
+},
+{
+pos = (67,3);
+ref = tildecomb.case;
+}
+);
+width = 587;
+}
+);
+}

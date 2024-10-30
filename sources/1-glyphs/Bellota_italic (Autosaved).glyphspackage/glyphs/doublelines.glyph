@@ -1,0 +1,81 @@
+{
+export = 0;
+glyphname = doublelines;
+layers = (
+{
+.lastUpdate = 751983236.634;
+anchors = (
+{
+name = _center;
+pos = (305,330);
+}
+);
+layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
+shapes = (
+{
+pos = (-47,20);
+ref = strokeshortcomb;
+scale = (1.6776,1);
+slant = (-4.186,0);
+},
+{
+pos = (-32,145);
+ref = strokeshortcomb;
+scale = (1.6776,1);
+slant = (-4.186,0);
+}
+);
+width = 590;
+},
+{
+.lastUpdate = 751986413.615;
+anchors = (
+{
+name = _center;
+pos = (340,330);
+}
+);
+layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
+shapes = (
+{
+pos = (-37,20);
+ref = strokeshortcomb;
+scale = (1.6776,1);
+slant = (-4.186,0);
+},
+{
+pos = (-21,145);
+ref = strokeshortcomb;
+scale = (1.6776,1);
+slant = (-4.186,0);
+}
+);
+width = 660;
+},
+{
+.lastUpdate = 751987243.413;
+anchors = (
+{
+name = _center;
+pos = (373,340);
+}
+);
+layerId = m004;
+shapes = (
+{
+pos = (-31,24);
+ref = strokeshortcomb;
+scale = (1.6776,0.8906);
+slant = (-3.7295,0);
+},
+{
+pos = (-9,168);
+ref = strokeshortcomb;
+scale = (1.6776,0.895);
+slant = (-3.7478,0);
+}
+);
+width = 724;
+}
+);
+}

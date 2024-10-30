@@ -1,0 +1,49 @@
+{
+glyphname = "ushort-cy.ss01";
+kernLeft = v;
+kernRight = v;
+layers = (
+{
+.lastUpdate = 751986486.261;
+layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
+shapes = (
+{
+ref = "u-cy.ss01";
+},
+{
+pos = (65,0);
+ref = "brevecomb-cy";
+}
+);
+width = 484;
+},
+{
+.lastUpdate = 751986486.261;
+layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
+shapes = (
+{
+ref = "u-cy.ss01";
+},
+{
+pos = (60,0);
+ref = "brevecomb-cy";
+}
+);
+width = 513;
+},
+{
+.lastUpdate = 751986486.261;
+layerId = m004;
+shapes = (
+{
+ref = "u-cy.ss01";
+},
+{
+pos = (69,0);
+ref = "brevecomb-cy";
+}
+);
+width = 555;
+}
+);
+}

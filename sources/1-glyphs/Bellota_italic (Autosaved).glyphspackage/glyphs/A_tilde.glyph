@@ -1,0 +1,54 @@
+{
+glyphname = Atilde;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+.lastUpdate = 751986486.209;
+layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (166,2);
+ref = tildecomb.case;
+}
+);
+width = 711;
+},
+{
+.lastUpdate = 751986486.21;
+layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (170,0);
+ref = tildecomb.case;
+}
+);
+width = 709;
+},
+{
+.lastUpdate = 751986486.21;
+layerId = m004;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (190,0);
+ref = tildecomb.case;
+}
+);
+width = 768;
+}
+);
+unicode = 195;
+userData = {
+position = 858;
+width = 53;
+};
+}

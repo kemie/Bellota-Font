@@ -1,0 +1,53 @@
+{
+glyphname = "Endescender-cy";
+kernLeft = E;
+kernRight = cyrcor;
+layers = (
+{
+.lastUpdate = 751986486.259;
+layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
+shapes = (
+{
+ref = "En-cy";
+},
+{
+pos = (-249,1);
+ref = _desc_cy;
+}
+);
+width = 746;
+},
+{
+.lastUpdate = 751986486.259;
+layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
+metricRight = "=+35";
+shapes = (
+{
+ref = "En-cy";
+},
+{
+pos = (-232,-1);
+ref = _desc_cy;
+}
+);
+width = 773;
+},
+{
+.lastUpdate = 751986486.259;
+layerId = m004;
+metricRight = "=+100";
+shapes = (
+{
+ref = "En-cy";
+},
+{
+pos = (-207,0);
+ref = _desc_cy;
+}
+);
+width = 876;
+}
+);
+metricRight = "=+20";
+unicode = 1186;
+}

@@ -1,0 +1,54 @@
+{
+glyphname = ograve;
+kernLeft = o;
+kernRight = o;
+layers = (
+{
+.lastUpdate = 751986486.247;
+layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (102,4);
+ref = gravecomb;
+}
+);
+width = 571;
+},
+{
+.lastUpdate = 751986486.247;
+layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (113,5);
+ref = gravecomb;
+}
+);
+width = 555;
+},
+{
+.lastUpdate = 751986486.247;
+layerId = m004;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (82,12);
+ref = gravecomb;
+}
+);
+width = 585;
+}
+);
+unicode = 242;
+userData = {
+position = 481;
+width = 57;
+};
+}

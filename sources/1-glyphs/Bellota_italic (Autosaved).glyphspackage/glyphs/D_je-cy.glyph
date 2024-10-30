@@ -1,0 +1,181 @@
+{
+glyphname = "Dje-cy";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (273,0);
+},
+{
+name = center;
+pos = (271,352);
+},
+{
+name = top;
+pos = (271,684);
+}
+);
+hints = (
+{
+name = _corner.caps_left;
+options = 2;
+origin = (0,2);
+type = Corner;
+}
+);
+layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
+shapes = (
+{
+closed = 1;
+nodes = (
+(578,648,l),
+(582,684,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "270";
+};
+}),
+(194,684,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "270";
+};
+}),
+(194,648,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "90";
+};
+})
+);
+},
+{
+pos = (510,-1);
+ref = engtail;
+},
+{
+alignment = -1;
+pos = (139,0);
+ref = "Shha-cy.001";
+}
+);
+width = 777;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (306,0);
+},
+{
+name = center;
+pos = (304,345);
+},
+{
+name = top;
+pos = (306,684);
+}
+);
+hints = (
+{
+name = _corner.caps_left;
+options = 1;
+origin = (0,2);
+type = Corner;
+}
+);
+layerId = "0CAF3BED-C4AC-4024-B3E1-4C69D1EF7EC0";
+shapes = (
+{
+closed = 1;
+nodes = (
+(591,608,l),
+(601,684,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "270";
+};
+}),
+(197,684,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "270";
+};
+}),
+(188,608,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "90";
+};
+})
+);
+},
+{
+pos = (454,-1);
+ref = engtail;
+},
+{
+alignment = -1;
+pos = (112,0);
+ref = "Shha-cy.001";
+}
+);
+width = 758;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (337,0);
+},
+{
+name = center;
+pos = (337,347);
+},
+{
+name = top;
+pos = (337,684);
+}
+);
+hints = (
+{
+name = _corner.caps_left;
+options = 1;
+origin = (0,2);
+type = Corner;
+}
+);
+layerId = m004;
+shapes = (
+{
+closed = 1;
+nodes = (
+(616,536,l),
+(634,684,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "270";
+};
+}),
+(225,684,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "270";
+};
+}),
+(206,536,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "90";
+};
+})
+);
+},
+{
+pos = (472,-6);
+ref = engtail;
+},
+{
+alignment = -1;
+pos = (138,0);
+ref = "Shha-cy.001";
+}
+);
+width = 841;
+}
+);
+metricRight = "=|Shha-cy.001";
+unicode = 1026;
+}
