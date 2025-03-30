@@ -1,5 +1,5 @@
 {
-.appVersion = "3402";
+.appVersion = "3405";
 .formatVersion = 3;
 axes = (
 {
@@ -17,7 +17,7 @@ name = Uppercase;
 customParameters = (
 {
 name = openTypeNameVersion;
-value = "Version 5.002";
+value = "Version 5.003";
 },
 {
 name = openTypeOS2VendorID;
@@ -58,7 +58,7 @@ name = "Export DSIG Table";
 value = 0;
 }
 );
-date = "2025-03-24 07:25:11 +0000";
+date = "2025-03-30 12:50:45 +0000";
 familyName = Bellota;
 featurePrefixes = (
 {
@@ -167451,5 +167451,5 @@ value = 1.2;
 };
 };
 versionMajor = 5;
-versionMinor = 2;
+versionMinor = 3;
 }
