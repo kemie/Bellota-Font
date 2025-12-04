@@ -21,7 +21,8 @@ Bellota is based on the font "Snippet" by Gesine Todt (www.gesine-todt.de)
 
 To contribute to the project contact  Kemie Guaida at [hi@letradora.com](mailto://hi@letradora.com)
 
-
+![Bellota font cover](documentation/images/Bellota_cover.png)
+![Bellota Text font cover](documentation/images/BellotaText_cover.png)
 ![Bellota font cover](documentation/images/Bellota_waterfall.png)
 ![Bellota Text font cover](documentation/images/BellotaText_waterfall.png)
 ![Bellota font cover](documentation/images/Bellota_text.png)
@@ -39,7 +40,28 @@ If you remix or modify the font, I'd love to hear about it!.
 Because Bellota uses components that `fontmake` cannot currently build (as of Jan. 2020) such as corner components, we’re using a partially automated build process.
 To generate correct TTFs, export TTFs directly out of Glyphs.app (remove overlaps, autohint), then run the partial build script `build.sh` to change a few things regarding the hinting settings.
 
+![Bellota font cover](documentation/images/Bellota_styles.png)
+![Bellota Text font cover](documentation/images/BellotaText_styles.png)
+![Bellota font cover](documentation/images/Bellota_glyphs.png)
+![Bellota Text font cover](documentation/images/BellotaText_glyphs.png)
+![Bellota font cover](documentation/images/Bellota_basic_charset.png)
+![Bellota Text font cover](documentation/images/BellotaText_basic_charset.png)
+![Bellota font cover](documentation/images/Bellota_words_latin.png)
+![Bellota Text font cover](documentation/images/BellotaText_words_latin.png)
+![Bellota font cover](documentation/images/Bellota_words-cyr.png)
+![Bellota Text font cover](documentation/images/BellotaText_words-cyr.png)
+![Bellota font cover](documentation/images/Bellota_weights.png)
+![Bellota Text font cover](documentation/images/BellotaText_weights.png)
+![Bellota font cover](documentation/images/Bellota_mockup.png)
+![Bellota Text font cover](documentation/images/BellotaText_mockup.png)
+
 # Changelog	
+————————————————————————————————
+## V 5.04, Dec 2025
++ Better spacing
++ Changed masters medium-->regular
++ Fixed some outline errors
+
 ## v5.0, Sept 2024
 + Expanded weights: thin to black
 + Variable font support
