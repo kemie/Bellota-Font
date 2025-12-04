@@ -21,13 +21,6 @@ Bellota is based on the font "Snippet" by Gesine Todt (www.gesine-todt.de)
 
 To contribute to the project contact  Kemie Guaida at [hi@letradora.com](mailto://hi@letradora.com)
 
-![Bellota font cover](documentation/images/Bellota_cover.png)
-![Bellota Text font cover](documentation/images/BellotaText_cover.png)
-![Bellota font cover](documentation/images/Bellota_waterfall.png)
-![Bellota Text font cover](documentation/images/BellotaText_waterfall.png)
-![Bellota font cover](documentation/images/Bellota_text.png)
-![Bellota Text font cover](documentation/images/BellotaText_text.png)
-
 
 # License	  
 The **Bellota Family** is licensed under the [SIL Open Font License Version 1.1](http://scripts.sil.org/OFL). The Open Font License is a free software license, and as such permits the fonts to be used, modified, and distributed freely (so long as the resulting fonts remain under the Open Font License). 
@@ -40,6 +33,10 @@ If you remix or modify the font, I'd love to hear about it!.
 Because Bellota uses components that `fontmake` cannot currently build (as of Jan. 2020) such as corner components, we’re using a partially automated build process.
 To generate correct TTFs, export TTFs directly out of Glyphs.app (remove overlaps, autohint), then run the partial build script `build.sh` to change a few things regarding the hinting settings.
 
+![Bellota font cover](documentation/images/Bellota_waterfall.png)
+![Bellota Text font cover](documentation/images/BellotaText_waterfall.png)
+![Bellota font cover](documentation/images/Bellota_text.png)
+![Bellota Text font cover](documentation/images/BellotaText_text.png)
 ![Bellota font cover](documentation/images/Bellota_styles.png)
 ![Bellota Text font cover](documentation/images/BellotaText_styles.png)
 ![Bellota font cover](documentation/images/Bellota_glyphs.png)
