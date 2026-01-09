@@ -1,18 +1,6 @@
 {
-.appVersion = "3506";
+.appVersion = "3509";
 .formatVersion = 3;
-DisplayStrings = (
-"ДнадлпоЛя/ya-cy.ss01 eЯ/Ya-cy.ss01 eRons  .      ",
-"л",
-"ЖаЖоЖж
-жажо   ",
-"/el-cy.ss01",
-"Л/El-cy.ss01 л/el-cy.ss01",
-"/ya-cy.ss01",
-"ж",
-"Ж",
-"/Zhe-cy.ss01"
-);
 axes = (
 {
 name = Weight;
@@ -70,7 +58,7 @@ name = "Export DSIG Table";
 value = 0;
 }
 );
-date = "2025-12-03 19:44:26 +0000";
+date = "2026-01-09 11:38:23 +0000";
 familyName = Bellota;
 featurePrefixes = (
 {
@@ -95384,9 +95372,7 @@ nodes = (
 (318,524,o),
 (312,660,c),
 (301,650,l),
-(421,653,o),
-(540,653,o),
-(659,650,c),
+(659,650,l),
 (648,659,l),
 (643,475,o),
 (651,132,o),
@@ -95395,9 +95381,7 @@ nodes = (
 (690,137,o),
 (678,510,o),
 (687,684,c),
-(548,689,o),
-(412,689,o),
-(272,684,c),
+(272,684,l),
 (282,547,o),
 (265,373,o),
 (241,242,cs),
@@ -95429,9 +95413,7 @@ nodes = (
 (397,469,o),
 (397,593,c),
 (350,542,l),
-(437,544,o),
-(531,544,o),
-(619,542,c),
+(619,542,l),
 (572,589,l),
 (570,405,o),
 (577,118,o),
@@ -95440,9 +95422,7 @@ nodes = (
 (741,139,o),
 (731,538,o),
 (739,685,c),
-(572,694,o),
-(395,694,o),
-(230,685,c),
+(230,685,l),
 (240,539,o),
 (223,390,o),
 (201,265,cs),
@@ -95558,24 +95538,20 @@ nodes = (
 (285,148,o),
 (303,250,cs),
 (325,371,o),
-(338,512,o),
-(332,644,c),
-(312,622,l),
-(422,626,o),
-(529,626,o),
-(639,622,c),
-(619,641,l),
-(612,457,o),
+(338,509,o),
+(332,641,c),
+(312,619,l),
+(639,619,l),
+(619,638,l),
+(612,454,o),
 (622,127,o),
 (629,0,c),
 (702,0,l),
 (693,140,o),
-(683,525,o),
-(693,689,c),
-(548,694,o),
-(402,694,o),
-(258,689,c),
-(269,551,o),
+(683,522,o),
+(693,686,c),
+(258,686,l),
+(269,548,o),
 (256,393,o),
 (233,262,cs),
 (215,162,o),
@@ -95854,9 +95830,7 @@ nodes = (
 (259,524,o),
 (253,660,c),
 (242,650,l),
-(362,653,o),
-(481,653,o),
-(600,650,c),
+(600,650,l),
 (589,659,l),
 (584,475,o),
 (592,132,o),
@@ -95865,9 +95839,7 @@ nodes = (
 (631,137,o),
 (619,510,o),
 (628,684,c),
-(489,689,o),
-(353,689,o),
-(213,684,c),
+(213,684,l),
 (223,547,o),
 (206,373,o),
 (182,242,cs),
@@ -95899,9 +95871,7 @@ nodes = (
 (310,469,o),
 (310,593,c),
 (263,542,l),
-(350,544,o),
-(444,544,o),
-(532,542,c),
+(532,542,l),
 (485,589,l),
 (483,405,o),
 (490,118,o),
@@ -95910,9 +95880,7 @@ nodes = (
 (654,139,o),
 (644,538,o),
 (652,685,c),
-(485,694,o),
-(308,694,o),
-(143,685,c),
+(143,685,l),
 (153,539,o),
 (136,390,o),
 (114,265,cs),
@@ -96023,9 +95991,7 @@ nodes = (
 (271,512,o),
 (265,644,c),
 (245,622,l),
-(355,626,o),
-(462,626,o),
-(572,622,c),
+(572,622,l),
 (552,641,l),
 (545,457,o),
 (555,127,o),
@@ -96034,9 +96000,7 @@ nodes = (
 (626,140,o),
 (616,525,o),
 (626,689,c),
-(481,694,o),
-(335,694,o),
-(191,689,c),
+(191,689,l),
 (202,551,o),
 (189,393,o),
 (166,262,cs),
@@ -99815,12 +99779,71 @@ alignment = -1;
 ref = "El-cy";
 },
 {
-alignment = -1;
-pos = (539,0);
-ref = "Softsign-cy";
+closed = 1;
+nodes = (
+(664,2,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 96.20345;
+};
+}),
+(687,-4,ls,{
+"Letterink-NibData" = {
+AngleInDegrees = 96.17018;
+};
+}),
+(714,-11,o),
+(793,-10,o),
+(862,-10,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 90;
+};
+}),
+(990,-10,o),
+(1078,72,o),
+(1078,193,cs),
+(1078,316,o),
+(990,400,o),
+(862,400,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 270;
+};
+}),
+(676,400,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 180;
+};
+}),
+(676,364,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 90;
+};
+}),
+(854,364,ls,{
+"Letterink-NibData" = {
+AngleInDegrees = 90;
+};
+}),
+(969,364,o),
+(1038,298,o),
+(1038,193,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 180;
+};
+}),
+(1038,90,o),
+(969,25,o),
+(854,25,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 270;
+};
+}),
+(780,25,o),
+(779,25,o),
+(681,33,c)
+);
 }
 );
-width = 1095;
+width = 1115;
 },
 {
 layerId = m004;
@@ -99830,12 +99853,71 @@ alignment = -1;
 ref = "El-cy";
 },
 {
-alignment = -1;
-pos = (490,0);
-ref = "Softsign-cy";
+closed = 1;
+nodes = (
+(592,9,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 96.54629;
+};
+}),
+(667,-7,ls,{
+"Letterink-NibData" = {
+AngleInDegrees = 96.5198;
+};
+}),
+(714,-17,o),
+(769,-15,o),
+(807,-15,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 90;
+};
+}),
+(974,-15,o),
+(1080,73,o),
+(1080,214,cs),
+(1080,346,o),
+(976,430,o),
+(827,430,c,{
+"Letterink-NibData" = {
+AngleInDegrees = 270;
+};
+}),
+(628,430,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 180;
+};
+}),
+(628,292,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 90;
+};
+}),
+(827,292,ls,{
+"Letterink-NibData" = {
+AngleInDegrees = 90;
+};
+}),
+(881,292,o),
+(912,260,o),
+(912,211,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 180;
+};
+}),
+(912,162,o),
+(883,122,o),
+(827,122,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 270;
+};
+}),
+(767,122,o),
+(706,129,o),
+(677,140,c)
+);
 }
 );
-width = 1051;
+width = 1091;
 },
 {
 layerId = "BDC4F23E-8387-43BA-9F0D-D808B5DC489D";
@@ -99845,12 +99927,71 @@ alignment = -1;
 ref = "El-cy";
 },
 {
-alignment = -1;
-pos = (506,0);
-ref = "Softsign-cy";
+closed = 1;
+nodes = (
+(640,4,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 96.20345;
+};
+}),
+(693,-5,ls,{
+"Letterink-NibData" = {
+AngleInDegrees = 96.17018;
+};
+}),
+(718,-9,o),
+(779,-11,o),
+(831,-11,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 90;
+};
+}),
+(968,-11,o),
+(1078,55,o),
+(1078,197,cs),
+(1078,318,o),
+(982,409,o),
+(843,409,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 270;
+};
+}),
+(674,409,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 180;
+};
+}),
+(674,342,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 90;
+};
+}),
+(847,342,ls,{
+"Letterink-NibData" = {
+AngleInDegrees = 90;
+};
+}),
+(945,342,o),
+(1004,287,o),
+(1004,197,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 180;
+};
+}),
+(1004,109,o),
+(944,56,o),
+(837,56,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 270;
+};
+}),
+(764,56,o),
+(740,58,o),
+(680,66,c)
+);
 }
 );
-width = 1060;
+width = 1110;
 }
 );
 metricLeft = "El-cy";
@@ -99866,47 +100007,224 @@ layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
 shapes = (
 {
 alignment = -1;
-pos = (4,0);
+pos = (1,0);
 ref = "El-cy.ss01";
 },
 {
-alignment = -1;
-pos = (487,0);
-ref = "Softsign-cy";
+closed = 1;
+nodes = (
+(601,2,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "96.20345";
+};
+}),
+(624,-4,ls,{
+"Letterink-NibData" = {
+AngleInDegrees = "96.17018";
+};
+}),
+(651,-11,o),
+(730,-10,o),
+(799,-10,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "90";
+};
+}),
+(927,-10,o),
+(1015,72,o),
+(1015,193,cs),
+(1015,316,o),
+(927,400,o),
+(799,400,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "270";
+};
+}),
+(613,400,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "180";
+};
+}),
+(613,364,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "90";
+};
+}),
+(791,364,ls,{
+"Letterink-NibData" = {
+AngleInDegrees = "90";
+};
+}),
+(906,364,o),
+(975,298,o),
+(975,193,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "180";
+};
+}),
+(975,90,o),
+(906,25,o),
+(791,25,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "270";
+};
+}),
+(717,25,o),
+(716,25,o),
+(618,33,c)
+);
 }
 );
-width = 1043;
+width = 1052;
 },
 {
 layerId = m004;
 shapes = (
 {
 alignment = -1;
+pos = (7,0);
 ref = "El-cy.ss01";
 },
 {
-alignment = -1;
-pos = (416,0);
-ref = "Softsign-cy";
+closed = 1;
+nodes = (
+(509,9,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "96.54629";
+};
+}),
+(584,-7,ls,{
+"Letterink-NibData" = {
+AngleInDegrees = "96.5198";
+};
+}),
+(631,-17,o),
+(686,-15,o),
+(724,-15,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "90";
+};
+}),
+(891,-15,o),
+(997,73,o),
+(997,214,cs),
+(997,346,o),
+(893,430,o),
+(744,430,c,{
+"Letterink-NibData" = {
+AngleInDegrees = "270";
+};
+}),
+(545,430,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "180";
+};
+}),
+(545,292,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "90";
+};
+}),
+(744,292,ls,{
+"Letterink-NibData" = {
+AngleInDegrees = "90";
+};
+}),
+(798,292,o),
+(829,260,o),
+(829,211,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "180";
+};
+}),
+(829,162,o),
+(800,122,o),
+(744,122,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "270";
+};
+}),
+(684,122,o),
+(623,129,o),
+(594,140,c)
+);
 }
 );
-width = 977;
+width = 1008;
 },
 {
 layerId = "BDC4F23E-8387-43BA-9F0D-D808B5DC489D";
 shapes = (
 {
 alignment = -1;
-pos = (2,0);
 ref = "El-cy.ss01";
 },
 {
-alignment = -1;
-pos = (451,1);
-ref = "Softsign-cy";
+closed = 1;
+nodes = (
+(568,4,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "96.20345";
+};
+}),
+(621,-5,ls,{
+"Letterink-NibData" = {
+AngleInDegrees = "96.17018";
+};
+}),
+(646,-9,o),
+(707,-11,o),
+(759,-11,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "90";
+};
+}),
+(896,-11,o),
+(1006,55,o),
+(1006,197,cs),
+(1006,318,o),
+(910,409,o),
+(771,409,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "270";
+};
+}),
+(602,409,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "180";
+};
+}),
+(602,342,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "90";
+};
+}),
+(775,342,ls,{
+"Letterink-NibData" = {
+AngleInDegrees = "90";
+};
+}),
+(873,342,o),
+(932,287,o),
+(932,197,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "180";
+};
+}),
+(932,109,o),
+(872,56,o),
+(765,56,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "270";
+};
+}),
+(692,56,o),
+(668,58,o),
+(608,66,c)
+);
 }
 );
-width = 1005;
+width = 1038;
 }
 );
 metricLeft = "El-cy";
@@ -163702,7 +164020,6 @@ name = "Style Name as STAT entry";
 value = wght;
 }
 );
-exports = 0;
 name = Thin;
 weightClass = 100;
 },
@@ -163725,7 +164042,6 @@ name = "Style Name as STAT entry";
 value = wght;
 }
 );
-exports = 0;
 name = ExtraLight;
 weightClass = 200;
 },
@@ -163748,7 +164064,6 @@ name = "Style Name as STAT entry";
 value = wght;
 }
 );
-exports = 0;
 name = Light;
 weightClass = 300;
 },
@@ -163771,7 +164086,6 @@ name = "Style Name as STAT entry";
 value = wght;
 }
 );
-exports = 0;
 name = Regular;
 },
 {
@@ -163793,7 +164107,6 @@ name = "Style Name as STAT entry";
 value = wght;
 }
 );
-exports = 0;
 name = Medium;
 weightClass = 500;
 },
@@ -163816,7 +164129,6 @@ name = "Style Name as STAT entry";
 value = wght;
 }
 );
-exports = 0;
 name = SemiBold;
 weightClass = 600;
 },
@@ -163839,7 +164151,6 @@ name = "Style Name as STAT entry";
 value = wght;
 }
 );
-exports = 0;
 name = Bold;
 weightClass = 700;
 },
@@ -163862,7 +164173,6 @@ name = "Style Name as STAT entry";
 value = wght;
 }
 );
-exports = 0;
 name = ExtraBold;
 weightClass = 800;
 },
@@ -163885,7 +164195,6 @@ name = "Style Name as STAT entry";
 value = wght;
 }
 );
-exports = 0;
 name = Black;
 weightClass = 900;
 },
@@ -164051,6 +164360,7 @@ name = "Style Name as STAT entry";
 value = wght;
 }
 );
+exports = 0;
 name = Thin;
 properties = (
 {
@@ -164228,6 +164538,7 @@ name = "Style Name as STAT entry";
 value = wght;
 }
 );
+exports = 0;
 name = ExtraLight;
 properties = (
 {
@@ -164405,6 +164716,7 @@ name = "Style Name as STAT entry";
 value = wght;
 }
 );
+exports = 0;
 name = Light;
 properties = (
 {
@@ -164582,6 +164894,7 @@ name = "Style Name as STAT entry";
 value = wght;
 }
 );
+exports = 0;
 name = Regular;
 properties = (
 {
@@ -164758,6 +165071,7 @@ name = "Style Name as STAT entry";
 value = wght;
 }
 );
+exports = 0;
 name = Medium;
 properties = (
 {
@@ -164935,6 +165249,7 @@ name = "Style Name as STAT entry";
 value = wght;
 }
 );
+exports = 0;
 name = SemiBold;
 properties = (
 {
@@ -165112,6 +165427,7 @@ name = "Style Name as STAT entry";
 value = wght;
 }
 );
+exports = 0;
 isBold = 1;
 name = Bold;
 properties = (
@@ -165290,6 +165606,7 @@ name = "Style Name as STAT entry";
 value = wght;
 }
 );
+exports = 0;
 name = ExtraBold;
 properties = (
 {
@@ -165467,6 +165784,7 @@ name = "Style Name as STAT entry";
 value = wght;
 }
 );
+exports = 0;
 name = Black;
 properties = (
 {
@@ -170336,5 +170654,5 @@ value = 1.2;
 };
 };
 versionMajor = 5;
-versionMinor = 4;
+versionMinor = 5;
 }

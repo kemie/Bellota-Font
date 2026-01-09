@@ -54,6 +54,9 @@ To generate correct TTFs, export TTFs directly out of Glyphs.app (remove overlap
 
 # Changelog	
 ————————————————————————————————
+=V 5.05, Jan 2026 (Kemie Guaida)=
++  Improvements to cyrillic characters
+
 ## V 5.04, Dec 2025
 + Better spacing
 + Changed masters medium-->regular
