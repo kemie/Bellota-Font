@@ -2,7 +2,7 @@
 .appVersion = "3532";
 .formatVersion = 3;
 DisplayStrings = (
-"bḃḅḇd/d.ss01 ď/dcaron.ss01 ḑḓđ/dcroat.ss01 ḋ/ddotaccent.ss01 ḍ/ddotbelow.ss01 ḏ/dmacronbelow.ss01 ǳ/dz.ss01 ǆ/dzcaron.ss01 h/h.ss01 ħ/hbar.ss01 ḫ/hbrevebelow.ss01 ȟ/hcaron.ss01 ĥ/hcircumflex.ss01 ḧḣḥ/hdotbelow.ss01 k/k.ss01 ǩ/kcaron.ss01 ķ/kcommaaccent.ss01 ḳl/l.ss01/l.swsh ĺ/lacute.ss01 ľ/lcaron.ss01 ļ/lcommaaccent.ss01 ŀ/ldot.ss01 ḷ/ldotbelow.ss01 ǉ/lj.ss01 ḻ/lmacronbelow.ss01 ł/lslash.ss01 þ"
+"aą"
 );
 axes = (
 {
@@ -48876,7 +48876,7 @@ pos = (273,1);
 },
 {
 name = ogonek;
-pos = (572,18);
+pos = (568,17);
 },
 {
 name = top;
@@ -48927,7 +48927,7 @@ pos = (276,0);
 },
 {
 name = ogonek;
-pos = (617,20);
+pos = (597,20);
 },
 {
 name = top;
@@ -48978,7 +48978,7 @@ pos = (273,0);
 },
 {
 name = ogonek;
-pos = (581,22);
+pos = (579,22);
 },
 {
 name = top;
@@ -52219,7 +52219,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (406,32);
+pos = (402,31);
 ref = ogonekcomb;
 }
 );
@@ -52232,7 +52232,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (365,-65);
+pos = (345,-65);
 ref = ogonekcomb;
 }
 );
@@ -52245,7 +52245,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (376,0);
+pos = (374,0);
 ref = ogonekcomb;
 }
 );
@@ -141111,11 +141111,11 @@ layers = (
 layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
 shapes = (
 {
-pos = (-3,0);
+pos = (20,0);
 ref = plus;
 },
 {
-pos = (4,-271);
+pos = (-26,-271);
 ref = minus;
 }
 );
@@ -141125,11 +141125,11 @@ width = 474;
 layerId = m004;
 shapes = (
 {
-pos = (3,50);
+pos = (25,50);
 ref = plus;
 },
 {
-pos = (-9,-254);
+pos = (-24,-254);
 ref = minus;
 }
 );
@@ -141139,11 +141139,11 @@ width = 542;
 layerId = "BDC4F23E-8387-43BA-9F0D-D808B5DC489D";
 shapes = (
 {
-pos = (-2,0);
+pos = (20,0);
 ref = plus;
 },
 {
-pos = (2,-259);
+pos = (-25,-259);
 ref = minus;
 }
 );
