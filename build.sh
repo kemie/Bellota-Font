@@ -42,19 +42,40 @@ python3 sources/scripts/prepare_sources.py "${GLYPHS_SOURCES[@]}" -o sources/bui
 
 # --- 2. build ---------------------------------------------------------------
 echo "→ Building fonts"
+FAMILIES=(bellota bellotatext)
+for family in "${FAMILIES[@]}"; do rm -rf "fonts/$family"; done
 rm -rf fonts/variable fonts/ttf fonts/webfonts
 gftools builder sources/config.yaml
 
 # --- 3. post-build ----------------------------------------------------------
+# One folder per family: fonts/<family>/{variable,ttf,webfonts}
+echo "→ Sorting fonts by family"
+for kind in variable ttf webfonts; do
+  [[ -d "fonts/$kind" ]] || continue
+  for file in "fonts/$kind"/*; do
+    name=$(basename "$file")
+    case "$name" in
+      BellotaText-*|BellotaText\[*) family=bellotatext ;;
+      Bellota-*|Bellota\[*)         family=bellota ;;
+      *) echo "  unexpected file: $file" >&2; continue ;;
+    esac
+    mkdir -p "fonts/$family/$kind"
+    mv "$file" "fonts/$family/$kind/"
+  done
+  rmdir "fonts/$kind"
+done
+
 if [[ $QA == 1 ]]; then
   if ! command -v fontbakery >/dev/null; then
     echo "fontbakery not found: pip install 'fontbakery[googlefonts]'" >&2
     exit 1
   fi
-  echo "→ Running fontbakery"
   mkdir -p out/fontbakery
-  fontbakery check-googlefonts -l WARN --succinct \
-    --html out/fontbakery/bellota.html fonts/variable/Bellota*.ttf || true
+  for family in "${FAMILIES[@]}"; do
+    echo "→ Running fontbakery on $family"
+    fontbakery check-googlefonts -l WARN --succinct \
+      --html "out/fontbakery/$family.html" "fonts/$family/variable/"*.ttf || true
+  done
 fi
 
-echo "✓ Done: fonts/variable, fonts/ttf, fonts/webfonts"
+echo "✓ Done: fonts/bellota, fonts/bellotatext"
