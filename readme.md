@@ -1,4 +1,3 @@
-
 Bellota & Bellota Text font families
 ==============================
 ![Bellota font cover](documentation/images/Bellota_cover.png)
@@ -37,7 +36,7 @@ The fonts are built from the `.glyphs` sources with [gftools builder](https://gi
 ./build.sh --qa   # same, then runs fontbakery (needs fontbakery installed)
 ```
 
-Output: `fonts/variable/` (variable fonts), `fonts/ttf/` (statics, autohinted) and `fonts/webfonts/` (woff2).
+Output, one folder per family (`fonts/bellota/` and `fonts/bellotatext/`), each with `variable/` (variable fonts), `ttf/` (statics, autohinted) and `webfonts/` (woff2).
 
 Bellota Text is defined by the custom parameters of the instances in the Glyphs files (*Rename Glyphs*, *Decompose Glyphs*, *Remove Glyphs*, *Remove Features*), which glyphsLib ignores ([google/fonts#8239](https://github.com/google/fonts/issues/8239)). The build applies them itself:
 
@@ -67,6 +66,16 @@ The `.glyphs` files remain the only sources: edit the instance custom parameters
 
 # Changelog	
 ————————————————————————————————
+## Build update, Nov 2026 (Emma Marichal)
++ New build process with gftools builder (`build.sh`, `sources/config.yaml`), replacing the TTFs exported from Glyphs.app
++ Bellota Text is now built from the custom parameters of the Glyphs instances (Rename, Decompose and Remove Glyphs, Remove Features), which glyphsLib doesn't support
++ Fonts sorted by family: `fonts/bellota/` and `fonts/bellotatext/` (variable, static TTF, woff2)
++ Italic variable fonts now default to Italic (400) instead of Thin Italic
++ Bellota Text keeps ẞ (U+1E9E), which the Glyphs export dropped
++ Fixed advance widths of Đ, ǅ and ǆ in Bellota Text
++ Fixed the weight of the Bellota Text Thin Italic static and the naming of the ExtraLight Italic statics
++ Static file names now use ExtraLight, SemiBold and ExtraBold
+
 =V 5.05, Jan 2026 (Kemie Guaida)=
 +  Improvements to cyrillic characters
 
@@ -108,7 +117,3 @@ The `.glyphs` files remain the only sources: edit the instance custom parameters
 The font was made and is maintained by [Kemie Guaida](https://www.letradora.com). 
 
 If you have questions or suggestions, you can open an issue here at github, or ping me via instagram [@kemie](https://www.instagram.com/kemieg/)
-
-
-
-
