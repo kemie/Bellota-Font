@@ -1,0 +1,29 @@
+# gftools builder config for Bellota & Bellota Text.
+#
+# Don't run this file directly: the designspaces below are generated from the
+# .glyphs sources by scripts/prepare_sources.py. Use ../build.sh.
+
+sources:
+  - build/Bellota.designspace
+  - build/Bellota-Italic.designspace
+  - build/BellotaText.designspace
+  - build/BellotaText-Italic.designspace
+
+outputDir: ../fonts
+axisOrder:
+  - wght
+  - ital
+
+buildVariable: true
+buildStatic: true
+buildTTF: true
+buildOTF: false
+buildWebfont: true
+autohintTTF: true
+
+# "Remove Glyphs" / "Remove Features" from the Glyphs instances, applied to
+# every compiled font (VF + statics) before STAT, autohint and gftools fix.
+postCompile:
+  - operation: exec
+    exe: python3
+    args: scripts/postcompile.py --manifest build/postbuild.json $in $out

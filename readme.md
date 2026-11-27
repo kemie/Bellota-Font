@@ -1,4 +1,3 @@
-
 Bellota & Bellota Text font families
 ==============================
 ![Bellota font cover](documentation/images/Bellota_cover.png)
@@ -30,8 +29,21 @@ In other words, you are free to use it for any purpose, commercial included.
 If you remix or modify the font, I'd love to hear about it!.
 
 # Build
-Because Bellota uses components that `fontmake` cannot currently build (as of Jan. 2020) such as corner components, we’re using a partially automated build process.
-To generate correct TTFs, export TTFs directly out of Glyphs.app (remove overlaps, autohint), then run the partial build script `build.sh` to change a few things regarding the hinting settings.
+The fonts are built from the `.glyphs` sources with [gftools builder](https://github.com/googlefonts/gftools):
+
+```sh
+./build.sh        # creates a virtualenv from requirements.txt on first run
+./build.sh --qa   # same, then runs fontbakery (needs fontbakery installed)
+```
+
+Output, one folder per family (`fonts/bellota/` and `fonts/bellotatext/`), each with `variable/` (variable fonts), `ttf/` (statics, autohinted) and `webfonts/` (woff2).
+
+Bellota Text is defined by the custom parameters of the instances in the Glyphs files (*Rename Glyphs*, *Decompose Glyphs*, *Remove Glyphs*, *Remove Features*), which glyphsLib ignores ([google/fonts#8239](https://github.com/google/fonts/issues/8239)). The build applies them itself:
+
+1. `sources/scripts/prepare_sources.py` reads every *Variable Font Setting* of the `.glyphs` files and writes one designspace per family/style in `sources/build/`, with *Decompose Glyphs* and *Rename Glyphs* applied the way Glyphs.app does (composites are re-aligned, corner components and the stroked `.notdef` are expanded).
+2. `gftools builder sources/config.yaml` builds the fonts. Its `postCompile` step runs `sources/scripts/postcompile.py`, which applies *Remove Glyphs* and *Remove Features* to each compiled font.
+
+The `.glyphs` files remain the only sources: edit the instance custom parameters in Glyphs.app and run `./build.sh` again. Check the `WARNING` lines of the pre-build step, they point at problems in the sources.
 
 ![Bellota font cover](documentation/images/Bellota_waterfall.png)
 ![Bellota Text font cover](documentation/images/BellotaText_waterfall.png)
@@ -54,6 +66,16 @@ To generate correct TTFs, export TTFs directly out of Glyphs.app (remove overlap
 
 # Changelog	
 ————————————————————————————————
+## Build update, Nov 2026 (Emma Marichal)
++ New build process with gftools builder (`build.sh`, `sources/config.yaml`), replacing the TTFs exported from Glyphs.app
++ Bellota Text is now built from the custom parameters of the Glyphs instances (Rename, Decompose and Remove Glyphs, Remove Features), which glyphsLib doesn't support
++ Fonts sorted by family: `fonts/bellota/` and `fonts/bellotatext/` (variable, static TTF, woff2)
++ Italic variable fonts now default to Italic (400) instead of Thin Italic
++ Bellota Text keeps ẞ (U+1E9E), which the Glyphs export dropped
++ Fixed advance widths of Đ, ǅ and ǆ in Bellota Text
++ Fixed the weight of the Bellota Text Thin Italic static and the naming of the ExtraLight Italic statics
++ Static file names now use ExtraLight, SemiBold and ExtraBold
+
 =V 5.05, Jan 2026 (Kemie Guaida)=
 +  Improvements to cyrillic characters
 
@@ -95,7 +117,3 @@ To generate correct TTFs, export TTFs directly out of Glyphs.app (remove overlap
 The font was made and is maintained by [Kemie Guaida](https://www.letradora.com). 
 
 If you have questions or suggestions, you can open an issue here at github, or ping me via instagram [@kemie](https://www.instagram.com/kemieg/)
-
-
-
-

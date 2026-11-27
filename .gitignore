@@ -7,3 +7,10 @@ sources/proofs/bellota.indd
 sources/proofs/bellota_text.indd
 BellotaText.zip
 Bellota.zip
+
+# build
+venv/
+out/
+sources/build/
+sources/build.ninja
+sources/.ninja_log
